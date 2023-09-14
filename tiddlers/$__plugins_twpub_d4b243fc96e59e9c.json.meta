@@ -1,0 +1,14 @@
+conversion-errors: 3
+converter-version: 0.1.0
+count-chunks: 5042
+count-images: 149
+cover-image: $:/plugins/twpub/d4b243fc96e59e9c/images/cover.jpg
+description: SuperMemo 渐进学习大型指北
+epub-creator: 叶峻峣
+epub-title: SuperMemo 渐进学习大型指北
+list: readme errors cover text
+name: TWPUB
+plugin-type: plugin
+title: $:/plugins/twpub/d4b243fc96e59e9c
+type: application/json
+version: v0.0.1
