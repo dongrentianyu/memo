@@ -1,6 +1,6 @@
 # 为什么好老师不安排考试
 
-[为什么好老师不安排考试(##) - Alfie Kohn]\n(https://www.alfiekohn.org/blogs/no-tests/)
+原文：[为什么好老师不安排考试 - Alfie Kohn](https://www.alfiekohn.org/blogs/no-tests/)
 
 作者：Alfie Kohn
 
