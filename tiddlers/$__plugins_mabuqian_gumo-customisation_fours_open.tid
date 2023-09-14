@@ -1,0 +1,22 @@
+caption: {{$:/plugins/mabuqian/gumo-customisation/fours/open-icons-paw}} 显示打开条目
+created: 20230914040521338
+creator: 马不前
+description: 显示打开条目
+modified: 20230914040521338
+modifier: 马不前
+tags: $:/tags/ViewToolbar
+title: $:/plugins/mabuqian/gumo-customisation/fours/open
+
+\whitespace trim
+
+<$button
+message="tm-modal" 
+param="$:/plugins/mabuqian/gumo-customisation/fours/open-param"
+tooltip="显示打开条目"
+aria-label="显示打开条目"
+class=<<tv-config-toolbar-class>>
+>
+<$list filter="[<tv-config-toolbar-icons>match[yes]]">
+{{$:/plugins/mabuqian/gumo-customisation/fours/open-icons-paw}}</$list>
+<$list filter="[<tv-config-toolbar-text>match[yes]]"><span class="tc-btn-text">显示打开条目</span></$list>
+</$button>

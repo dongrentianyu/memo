@@ -1,0 +1,23 @@
+created: 20230914034755809
+creator: 马不前
+initial-opacity: 0.7
+link-action: tm-navigate
+modified: 20230914034755809
+modifier: 马不前
+show-all-links: none
+show-single-link: inline
+title: $:/plugins/wikilabs/edit-tabs/config
+transition: 0.3
+
+This tiddler is used to configure the "Edit-tabs" plugin behaviour. 
+
+There are 4 fields, which are used by [[$:/plugins/wikilabs/edit-tabs/styles]] enable and disable the internal links. 
+
+* show-all-links: {{!!show-all-links}}
+* show-single-link: {{!!show-single-link}}
+* initial-opacity: {{!!initial-opacity}}
+* transition time in seconds: {{!!transition}}
+
+The next field is used to define the behaviour of the link, if it's clicked.
+
+* link-action: {{!!link-action}}

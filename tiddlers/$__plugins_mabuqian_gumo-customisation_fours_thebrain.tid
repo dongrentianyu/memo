@@ -1,0 +1,23 @@
+caption: {{$:/plugins/mabuqian/gumo-customisation/fours/thebrain-icons}} 显示脑图
+created: 20230914040521337
+creator: 马不前
+description: 显示脑图
+modified: 20230914040521337
+modifier: 马不前
+tags: $:/tags/ViewToolbar
+title: $:/plugins/mabuqian/gumo-customisation/fours/thebrain
+
+\whitespace trim
+<$list filter="[<currentTiddler>!prefix[$:/]]"> 
+<$button
+message="tm-modal" 
+param="$:/plugins/mabuqian/gumo-customisation/fours/thebrain-param"
+tooltip="显示脑图"
+aria-label="显示脑图"
+class=<<tv-config-toolbar-class>>
+    >
+<$list filter="[<tv-config-toolbar-icons>match[yes]]">
+{{$:/plugins/mabuqian/gumo-customisation/fours/thebrain-icons}}</$list>
+<$list filter="[<tv-config-toolbar-text>match[yes]]"><span class="tc-btn-text">显示脑图</span></$list>
+</$button>
+</$list>

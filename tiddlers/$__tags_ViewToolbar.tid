@@ -1,0 +1,6 @@
+created: 20230914040521338
+creator: 马不前
+list: $:/core/ui/Buttons/more-tiddler-actions $:/core/ui/Buttons/info $:/core/ui/Buttons/new-here $:/core/ui/Buttons/edit $:/plugins/mabuqian/gumo-customisation/fours/recent $:/plugins/mabuqian/gumo-customisation/fours/open $:/core/ui/Buttons/close $:/plugins/oeyoews/copy-title/copybutton $:/plugins/kookma/utility/ui/Buttons/DraggableLink $:/plugins/kookma/favorites/ui/buttons/add-remove $:/plugins/Gk0Wk/page-toc/PageTOCButton $:/core/ui/Buttons/new-journal-here $:/core/ui/Buttons/clone $:/core/ui/Buttons/export-tiddler $:/core/ui/Buttons/delete $:/core/ui/Buttons/permalink $:/core/ui/Buttons/permaview $:/plugins/bimlas/locator/viewtemplate/open-in-sidebar $:/core/ui/Buttons/open-window $:/core/ui/Buttons/close-others $:/plugins/linonetwo/open-in-external-app/ViewToolbarButton $:/plugins/linonetwo/zx-script/ViewToolbarButton $:/plugins/tiddlywiki/qrcode/ViewToolbarButton $:/plugins/mabuqian/gumo-customisation/fours/thebrain $:/plugins/mabuqian/gumo-customisation/fours/search $:/core/ui/Buttons/fold-others $:/core/ui/Buttons/fold $:/core/ui/Buttons/fold-bar $:/plugins/mabuqian/gumo-customisation/add-prefix $:/plugins/mabuqian/gumo-customisation/copy-tags-button
+modified: 20230914040544785
+modifier: 马不前
+title: $:/tags/ViewToolbar
