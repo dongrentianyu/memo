@@ -1,7 +1,7 @@
 created: 20230914045324466
 creator: 马不前
 list-after: $:/core/ui/SideBar/Recent
-modified: 20230914060436683
+modified: 20230914061338929
 modifier: 马不前
 tags: Configuration $:/tags/AdvancedSearch $:/tags/SideBar
 title: 快速查找
@@ -24,7 +24,10 @@ sl-regexp={{{  [<ls-regexp>search-replace<ss>,<ls>]  }}}>
 
 <$list filter="[!is[system]regexp:text<sl-regexp>]">
 
-<$link>{{!!caption}}</$link>
+<$link>
+<$text text={{{ [<currentTiddler>get[text]splitregexp[\n]first[]removeprefix[#]] }}} /><br>
+{{!!caption}}
+</$link>
 
 </$list>
 
