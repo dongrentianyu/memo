@@ -1,16 +1,17 @@
 created: 20230914040122397
 creator: 马不前
-modified: 20230914071703465
+modified: 20230914080944208
 modifier: 马不前
 tags: 
 title: TableOfContents
 
-点击下面的文件夹查看对应文章，点击[[此条目|如何快速查询链接条目并学习如何渐进学习]]，学习如何查找内容。
+点击下面的文件夹查看对应文章，点击[[使用与说明]]，学习如何查找内容等。
 
 * 文章仓库地址：https://github.com/L-M-Sherlock/thoughts-memo-translation
 * 感谢[[叶峻峣|https://github.com/L-M-Sherlock]]大佬的翻译和许可
 * 同样感谢[[WhiteFall|https://github.com/Zacharia2]]的[[Obsidian Vault|https://tiddly-gittly.github.io/tidgi-obsidian-manager/]]插件
 * [[处理说明]]
+* ''记得强制刷新内存，不然无法显示更新内容''
 
 <div class="tc-tree-obv">
 <<tree prefix:"λ:/">>
