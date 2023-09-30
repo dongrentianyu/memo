@@ -6,7 +6,7 @@
 
 2021 年 9 月 12 日，一群学生提议举行罢学，以结束波兰的[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)，然后要结束全世界的。
 
-罢工将从 **2022 年 3 月 21日**开始，这一天是波兰传统的**逃学日**，也是拟议的世界**国际教育自由日**。
+罢工将从 **2022 年 3 月 21日** 开始，这一天是波兰传统的 **逃学日** ，也是拟议的世界 **国际教育自由日** 。
 
 唯一的前提是按照[教育解放宣言](https://supermemo.guru/wiki/Declaration_of_Educational_Emancipation)结束教育中的胁迫行为。这一目标将通过建立[教育圆桌会议](https://supermemo.guru/wiki/Educational_round_table)来实现。
 
@@ -20,7 +20,7 @@
 
 - [结束学校胁迫](https://www.facebook.com/groups/741918749980449) [Julian Kwasniak](https://www.facebook.com/julek.kwasniak)
 
-**2022 学生之春**（波兰语：**Wiosna Uczniow 2022**）这一名称的灵感来自于《人民的春天》（Wiosna Ludow）（1848）
+ **2022 学生之春** （波兰语： **Wiosna Uczniow 2022** ）这一名称的灵感来自于《人民的春天》（Wiosna Ludow）（1848）
 
 ## 前奏
 

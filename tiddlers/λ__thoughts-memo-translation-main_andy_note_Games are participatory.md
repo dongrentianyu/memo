@@ -8,7 +8,7 @@
 
 游戏设计者精心部署[认知脚手架](https://notes.andymatuschak.org/z8ZWYXFwXV38qiCgRx7zf2ySy9WCxWvcizNVr)，以确保玩家获得享受和掌握游戏所需的技能。
 
-[细粒度的任务进展作为认知脚手架](https://notes.andymatuschak.org/z2qBbdZidZNjbpdggRbmgeUeVf2H7aCevSYvE)：在 [时空幻境（Braid）](https://notes.andymatuschak.org/z2VMiTLJCUhbtxyWXwBxevCtdzJyoHpptHoH) 中，各层次被仔细排序和组织，以（无言地）逐步介绍概念。完成一个级别通常需要玩家证明他理解了一些东西，所以在游戏中取得进步**就等于**开始理解新事物。
+[细粒度的任务进展作为认知脚手架](https://notes.andymatuschak.org/z2qBbdZidZNjbpdggRbmgeUeVf2H7aCevSYvE)：在 [时空幻境（Braid）](https://notes.andymatuschak.org/z2VMiTLJCUhbtxyWXwBxevCtdzJyoHpptHoH) 中，各层次被仔细排序和组织，以（无言地）逐步介绍概念。完成一个级别通常需要玩家证明他理解了一些东西，所以在游戏中取得进步 **就等于** 开始理解新事物。
 
 [约束作为认知脚手架](https://notes.andymatuschak.org/z8DyCwRiC8HT89mMvtBjwcGVs5ucHPHcrScch)：在见证者（Witness）中，很快就清楚了，唯一的互动元素是那些看起来像连接到一条线的圆圈，而唯一可能的互动是画出一条线。
 

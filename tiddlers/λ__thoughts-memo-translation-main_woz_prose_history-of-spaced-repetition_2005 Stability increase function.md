@@ -48,11 +48,11 @@ Gorzelanczyk 曾经在克拉科夫参加过一个控制论会议，这个会议�
 
 存档警告：[为什么使用文字档案？](https://supermemo.guru/wiki/Why_use_literal_archives%3F)
 
-直到 2005 年，我们还无法制定一个通用的公式，将重复与[记忆稳定性增长](https://supermemo.guru/wiki/Stability_increase)联系起来。那时用来确定[重复间隔时间](https://supermemo.guru/wiki/Spaced_repetition)的算法，是基于对所谓最佳重复间隔的理解（定义为产生通常超过 90% 的已知回忆率的间隔），考虑了最佳重复间隔下，记忆稳定性的增强情况 —— 术语「最优间隔」用来描述学习中间隔时间的适用性。而这套间隔时间算法允许以矩阵形式，给出最优间隔所对应的准确稳定性增长函数。然而，对于可提取性水平较低（即当间隔不是**最优**的时候）时的稳定性增长，我们所知甚少。在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 收集的数据的帮助下，我们现在可以尝试填补这一空白。尽管 SuperMemo 的设计是为了在学习中应用最佳的间隔时间，但在现实生活中，用户经常因为各种原因（如假期、疾病等）被迫推迟重复学习。这样一来，对于几乎所有材料体，在[可提取性](https://supermemo.guru/wiki/Retrievability)较低时都会给人大量重复。此外，在 2002 年，SuperMemo 引入了中位重复间隔的概念，使得重复间隔可以缩短。尽管在任何数据体中，中位间隔只占很小的一部分，但样本量足够大的话，可提取性极高或极低的样本数量，应可以将之前的发现推广 —— 原理论中记忆稳定性的增量和可提取性之间的关系仅在「可提取性=0.9」时有结论，现在可以推广到完整的作用域上了。
+直到 2005 年，我们还无法制定一个通用的公式，将重复与[记忆稳定性增长](https://supermemo.guru/wiki/Stability_increase)联系起来。那时用来确定[重复间隔时间](https://supermemo.guru/wiki/Spaced_repetition)的算法，是基于对所谓最佳重复间隔的理解（定义为产生通常超过 90% 的已知回忆率的间隔），考虑了最佳重复间隔下，记忆稳定性的增强情况 —— 术语「最优间隔」用来描述学习中间隔时间的适用性。而这套间隔时间算法允许以矩阵形式，给出最优间隔所对应的准确稳定性增长函数。然而，对于可提取性水平较低（即当间隔不是 **最优** 的时候）时的稳定性增长，我们所知甚少。在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 收集的数据的帮助下，我们现在可以尝试填补这一空白。尽管 SuperMemo 的设计是为了在学习中应用最佳的间隔时间，但在现实生活中，用户经常因为各种原因（如假期、疾病等）被迫推迟重复学习。这样一来，对于几乎所有材料体，在[可提取性](https://supermemo.guru/wiki/Retrievability)较低时都会给人大量重复。此外，在 2002 年，SuperMemo 引入了中位重复间隔的概念，使得重复间隔可以缩短。尽管在任何数据体中，中位间隔只占很小的一部分，但样本量足够大的话，可提取性极高或极低的样本数量，应可以将之前的发现推广 —— 原理论中记忆稳定性的增量和可提取性之间的关系仅在「可提取性=0.9」时有结论，现在可以推广到完整的作用域上了。
 
-为了通过学习的方式最佳地建立记忆稳定性，我们需要知道**最优间隔的函数**，或者说，**稳定性增长函数**（*SInc*）。它们考虑三个参数：[记忆稳定性（S）](https://supermemo.guru/wiki/Stability), [记忆可提取性（R）](https://supermemo.guru/wiki/Retrievability)和[知识难度（D）](https://supermemo.guru/wiki/Difficulty)。在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的传统上，我们一直专注于 S 和 D 这两个维度，因为保持高水平的可提取性，是程序在做复习间隔优化时参照的主要优化准则。对 S 和 D 的关注取决于稳定性增长函数的实际应用。文本则聚焦于 S 和 R，不讨论 D ，因为我们现在试着分析「纯知识」，以消去维度 D 的影响。也就是说，讨论那些由非复合的记忆痕迹刻画的知识，它们易于学习。消除 D 维度使我们在理论上做划分更为容易，而且以后结论可以扩展到复合记忆痕迹，和看起来难以学习的知识。换句话说，当我们从实践到理论讨论时，我们的兴趣从 ( S, D ) 对转移到 ( S, R ) 对。出于这种逻辑，所有实验数据集都按难度进行了过滤。同时，我们会寻找最大的数据集，其中的项目由于排期的延迟（违反了最优的重复间隔），低 R 值的项目会有足够大的代表性
+为了通过学习的方式最佳地建立记忆稳定性，我们需要知道 **最优间隔的函数** ，或者说， **稳定性增长函数** （*SInc*）。它们考虑三个参数：[记忆稳定性（S）](https://supermemo.guru/wiki/Stability), [记忆可提取性（R）](https://supermemo.guru/wiki/Retrievability)和[知识难度（D）](https://supermemo.guru/wiki/Difficulty)。在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的传统上，我们一直专注于 S 和 D 这两个维度，因为保持高水平的可提取性，是程序在做复习间隔优化时参照的主要优化准则。对 S 和 D 的关注取决于稳定性增长函数的实际应用。文本则聚焦于 S 和 R，不讨论 D ，因为我们现在试着分析「纯知识」，以消去维度 D 的影响。也就是说，讨论那些由非复合的记忆痕迹刻画的知识，它们易于学习。消除 D 维度使我们在理论上做划分更为容易，而且以后结论可以扩展到复合记忆痕迹，和看起来难以学习的知识。换句话说，当我们从实践到理论讨论时，我们的兴趣从 ( S, D ) 对转移到 ( S, R ) 对。出于这种逻辑，所有实验数据集都按难度进行了过滤。同时，我们会寻找最大的数据集，其中的项目由于排期的延迟（违反了最优的重复间隔），低 R 值的项目会有足够大的代表性
 
-我们开发了一个两步算法，用来提出一个符号公式，来表示在**[难度](https://supermemo.guru/wiki/Difficulty低而统一的数据集)**（所谓表述良好、容易记忆的知识数据集）中，不同[可提取性](https://supermemo.guru/wiki/Retrievability)水平的稳定性增长。表述良好和统一的学习材料使我们很容易通过排练提炼出一个纯粹的长期记忆巩固过程。正如本文其他地方所讨论的那样，表述不清的知识会导致独立巩固过程的叠加，不适合于所提出的分析。
+我们开发了一个两步算法，用来提出一个符号公式，来表示在 **[难度](https://supermemo.guru/wiki/Difficulty低而统一的数据集)** （所谓表述良好、容易记忆的知识数据集）中，不同[可提取性](https://supermemo.guru/wiki/Retrievability)水平的稳定性增长。表述良好和统一的学习材料使我们很容易通过排练提炼出一个纯粹的长期记忆巩固过程。正如本文其他地方所讨论的那样，表述不清的知识会导致独立巩固过程的叠加，不适合于所提出的分析。
 
 ### 两步计算法
 
@@ -62,13 +62,13 @@ Gorzelanczyk 曾经在克拉科夫参加过一个控制论会议，这个会议�
 
 确定记忆稳定性增长 *SInc* 函数的两步程序：
 
-- **第 1 步**：使用 *SInc* 的矩阵表示和一个迭代程序来最小化真实学习过程（数据）中的成绩和 *SInc* 预测的成绩之间的[偏差](https://supermemo.guru/wiki/Deviation) *Dev*。*Dev* 被定义为 *R-Pass* 在给定知识的重复序列上的总和，其中 *R* 是可提取性，*Pass* 为 1 表示合格成绩，0 表示不合格成绩
+- **第 1 步** ：使用 *SInc* 的矩阵表示和一个迭代程序来最小化真实学习过程（数据）中的成绩和 *SInc* 预测的成绩之间的[偏差](https://supermemo.guru/wiki/Deviation) *Dev*。*Dev* 被定义为 *R-Pass* 在给定知识的重复序列上的总和，其中 *R* 是可提取性，*Pass* 为 1 表示合格成绩，0 表示不合格成绩
 
-- **第 2 步**：使用爬山算法（Hill Climbing ）解决最小二乘法问题，以计算出 *SInc* 的符号式可能选择，找出一种最能拟合步骤 1 中得出的 *SInc* 矩阵
+- **第 2 步** ：使用爬山算法（Hill Climbing ）解决最小二乘法问题，以计算出 *SInc* 的符号式可能选择，找出一种最能拟合步骤 1 中得出的 *SInc* 矩阵
 
 ### 计算稳定性增长
 
-[稳定性增长](https://supermemo.guru/wiki/Stability_increase)（*SInc[]*）的矩阵是在**第 1 步**计算的。在 2005 年， *SInc* 初值只要合理即可。今天，由于我们知道这个函数本质是近似的，我们可以加快这个过程，使之成为非迭代过程（见[SM-17 算法](https://supermemo.guru/wiki/Algorithm_SM-17)）。
+[稳定性增长](https://supermemo.guru/wiki/Stability_increase)（*SInc[]*）的矩阵是在 **第 1 步** 计算的。在 2005 年， *SInc* 初值只要合理即可。今天，由于我们知道这个函数本质是近似的，我们可以加快这个过程，使之成为非迭代过程（见[SM-17 算法](https://supermemo.guru/wiki/Algorithm_SM-17)）。
 
 存档警告：[为什么使用文字档案？](https://supermemo.guru/wiki/Why_use_literal_archives%3F)
 
@@ -152,7 +152,7 @@ repeat
 
 在第 2 步中，我们将使用这里得到的 *SInc[R,S]* 矩阵来获得 *SInc* 的符号公式。
 
-**第 2 步** - 找到 *SInc* 的一个符号公式
+ **第 2 步** - 找到 *SInc* 的一个符号公式
 
 现在我们可以使用任何梯度下降算法，为最佳拟合上面得出的矩阵 SInc 而求出 SInc 的符号候选公式，
 
@@ -168,7 +168,7 @@ repeat
 
 #### 稳定性增长与 R 的关系
 
-正如[间隔效应](https://supermemo.guru/wiki/Spacing_effect)所预测的那样，*[SInc](https://supermemo.guru/wiki/Stability_increase)* 对于较低水平的 *[R](https://supermemo.guru/wiki/Retrievability)* 来说更大。然而，请注意，2005 年使用的程序可能引入了一个假象：记忆痕迹随着时间的推移而存续，将线性地贡献于新的稳定性估计。但根据[遗忘](https://supermemo.guru/wiki/Forgetting)的随机性质，这是有问题的。这样一来，较长的记忆存续期可能是一个偶然的问题。在[算法 SM-17](https://supermemo.guru/wiki/Algorithm_SM-17) 中，更多的证据被用来估计稳定性，并且**存续间隔**与所有其他证据一起被权衡。
+正如[间隔效应](https://supermemo.guru/wiki/Spacing_effect)所预测的那样，*[SInc](https://supermemo.guru/wiki/Stability_increase)* 对于较低水平的 *[R](https://supermemo.guru/wiki/Retrievability)* 来说更大。然而，请注意，2005 年使用的程序可能引入了一个假象：记忆痕迹随着时间的推移而存续，将线性地贡献于新的稳定性估计。但根据[遗忘](https://supermemo.guru/wiki/Forgetting)的随机性质，这是有问题的。这样一来，较长的记忆存续期可能是一个偶然的问题。在[算法 SM-17](https://supermemo.guru/wiki/Algorithm_SM-17) 中，更多的证据被用来估计稳定性，并且 **存续间隔** 与所有其他证据一起被权衡。
 
 存档警告：[为什么使用文字档案？](https://supermemo.guru/wiki/Why_use_literal_archives%3F)
 
@@ -192,7 +192,7 @@ repeat
 
 尽管已经改进了这么多，数据集（尤其是 R 低的数据）也更大了，但对于简单的项目，[稳定性增长](https://supermemo.guru/wiki/Stability_increase)与[可提取性](https://supermemo.guru/wiki/Retrievability)的相关性仍然不变。
 
-一旦考虑[困难](https://supermemo.guru/wiki/Difficulty)的知识，这样美妙的关联就崩溃了。部分原因是减少了上面提到的**长时间存续**假象的问题。出于这个原因，新的 SuperMemos 并不依赖这个看似被证实的记忆公式。
+一旦考虑[困难](https://supermemo.guru/wiki/Difficulty)的知识，这样美妙的关联就崩溃了。部分原因是减少了上面提到的 **长时间存续** 假象的问题。出于这个原因，新的 SuperMemos 并不依赖这个看似被证实的记忆公式。
 
 [[img [Stability increase for easy knowledge at different retrievability levels|https://supermemo.guru/images/thumb/d/dc/Stability_increase_as_a_function_of_memory_retrievability_for_easy_knowledge.png/600px-Stability_increase_as_a_function_of_memory_retrievability_for_easy_knowledge.png]]](https://supermemo.guru/wiki/File:Stability_increase_as_a_function_of_memory_retrievability_for_easy_knowledge.png)
 
@@ -284,11 +284,11 @@ repeat
 
 ### 间隔重复中的记忆复杂性
 
-在[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中，记忆的[稳定性](https://supermemo.guru/wiki/Stability)取决于[复习](https://supermemo.guru/wiki/Review)的质量，而复习又取决于[记忆的复杂性](https://supermemo.guru/wiki/Memory_complexity)。早在 1984 年，我就在自己的学习中使用了这个原则，即后来被称为**[最小信息原则](https://supermemo.guru/wiki/Minimum_information_principle)**。为了有效地复习，知识关联需要简单（即使知识本身很复杂）。[项目](https://supermemo.guru/wiki/Item)可以建立一个复杂的知识结构，但受复习的个别记忆应该是[原子性的](https://supermemo.guru/wiki/Atomic_memory)。
+在[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中，记忆的[稳定性](https://supermemo.guru/wiki/Stability)取决于[复习](https://supermemo.guru/wiki/Review)的质量，而复习又取决于[记忆的复杂性](https://supermemo.guru/wiki/Memory_complexity)。早在 1984 年，我就在自己的学习中使用了这个原则，即后来被称为 **[最小信息原则](https://supermemo.guru/wiki/Minimum_information_principle)** 。为了有效地复习，知识关联需要简单（即使知识本身很复杂）。[项目](https://supermemo.guru/wiki/Item)可以建立一个复杂的知识结构，但受复习的个别记忆应该是[原子性的](https://supermemo.guru/wiki/Atomic_memory)。
 
 [[img [Memory complexity: simple and complex memories|https://supermemo.guru/images/thumb/f/f5/Memory_complexity.png/450px-Memory_complexity.png]]](https://supermemo.guru/wiki/File:Memory_complexity.png)
 
-> 图：**[记忆复杂性](https://supermemo.guru/wiki/Memory_complexity)**说明了[最小信息原则](https://supermemo.guru/wiki/Minimum_information_principle)的重要性。在记忆简单的问题和答案时，我们可以依靠简单的记忆连接，并在复习时统一刷新这种连接。复杂的记忆可能会以不完整的方式激活其概念，或以不同的顺序，取决于上下文。因此，在复习时很难产生[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)的统一增长。复杂的项目是很难记住的。一个简单项目的例子可能是一个词对，例如「苹果=pomo」（世界语）。而要认识一个苹果可能需要一个复杂的联系网。「苹果」和「pomo」之间的联系是不可简化的（即最大限度的简化）
+> 图： **[记忆复杂性](https://supermemo.guru/wiki/Memory_complexity)** 说明了[最小信息原则](https://supermemo.guru/wiki/Minimum_information_principle)的重要性。在记忆简单的问题和答案时，我们可以依靠简单的记忆连接，并在复习时统一刷新这种连接。复杂的记忆可能会以不完整的方式激活其概念，或以不同的顺序，取决于上下文。因此，在复习时很难产生[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)的统一增长。复杂的项目是很难记住的。一个简单项目的例子可能是一个词对，例如「苹果=pomo」（世界语）。而要认识一个苹果可能需要一个复杂的联系网。「苹果」和「pomo」之间的联系是不可简化的（即最大限度的简化）
 
 在复杂项目的稳定性公式中，[稳定性](https://supermemo.guru/wiki/Stability)就像电路中的电阻：许多并联的电阻使更多电流漏过
 
@@ -396,7 +396,7 @@ repeat
 
 [[img [Uncertain course of stabilization in complex memories|https://supermemo.guru/images/thumb/0/0d/Uncertain_course_of_the_stabilization_of_complex_memories.png/450px-Uncertain_course_of_the_stabilization_of_complex_memories.png]]](https://supermemo.guru/wiki/File:Uncertain_course_of_the_stabilization_of_complex_memories.png)
 
-> 图：**复杂记忆的稳定化的不确定过程**。图中显示了以单个[概念细胞](https://supermemo.guru/wiki/Stabilization)的单一树突输入模式为例的[稳定化](https://supermemo.guru/wiki/Stabilization)、[遗忘](https://supermemo.guru/wiki/Forgetting)、[泛化](https://supermemo.guru/wiki/Generalization)和[干扰](https://supermemo.guru/wiki/Interference)的假想过程。神经元、树突和树突丝以橙色显示。图片没有显示树突丝转化为树突棘的过程，树突棘的形态随着时间的推移会发生变化[稳定化](https://supermemo.guru/wiki/Stabilization)。方块代表参与识别输入模式的突触。每个方块显示了突触在[长期记忆的双组分模型](https://supermemo.guru/wiki/Two_component_model_of_long-term_memory)方面的状态。红色的强度代表[可提取性](https://supermemo.guru/wiki/Retrievability)。蓝色区域的大小代表[稳定性](https://supermemo.guru/wiki/Stability)。在记住一个复杂的记忆模式后，[概念细胞](https://supermemo.guru/wiki/Concept_cell)在收到来自红色方块的信号总和后能够识别该模式，这些信号代表高[可提取性](https://supermemo.guru/wiki/Retrievability)和极低[稳定性](https://supermemo.guru/wiki/Stability)的新记忆。每次细胞被重新激活，活跃的输入将经历[稳定化](https://supermemo.guru/wiki/Stabilization)，这表现在输入方块中蓝色区域的增加。每次当概念细胞活跃时，信号没有到达输入端，其稳定性就会下降（泛化）。每次源轴突活跃而目标神经元未能发射，稳定性也会下降（竞争性干扰）。由于输入到概念细胞的信号模式不均匀，一些突触将被稳定下来，而另一些则会丢失。当一个突触失去其稳定性和可提取性，以及相关的树突棘被收回时，[遗忘](https://supermemo.guru/wiki/Forgetting)就会发生。当同一个[概念细胞](https://supermemo.guru/wiki/Concept_cell)可以用一个更小但更稳定的输入模式重新激活时，[泛化](https://supermemo.guru/wiki/Generalization)就会发生。当一个新的输入模式有助于忘记一些识别旧输入模式所必需的冗余输入时，就会发生追溯性[干扰](https://supermemo.guru/wiki/Interference)。旧模式的[稳定化](https://supermemo.guru/wiki/Stabilization)导致树突丝的流动性降低，从而防止新模式接管[概念](https://supermemo.guru/wiki/Concept)（主动的[干扰](https://supermemo.guru/wiki/Interference)）。在这个过程的每一端，一个稳定的、泛化性强的输入模式是激活[概念细胞](https://supermemo.guru/wiki/Concept_cell)的充要条件。同一个细胞可以对不同的模式作出反应，只要它们是一致的、[稳定的](https://supermemo.guru/wiki/Stabilization)。在[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中，对[知识表征](https://supermemo.guru/wiki/Knowledge_representation)的选择不当将导致激活模式的可重复性差，突触的[稳定化](https://supermemo.guru/wiki/Stabilization)不均匀，以及[遗忘](https://supermemo.guru/wiki/Forgetting)。当输入模式无法激活足够多的突触，从而无法重新激活[概念细胞](https://supermemo.guru/wiki/Concept_cell)时，就会发生对[项目](https://supermemo.guru/wiki/Item)的遗忘。在[重复](https://supermemo.guru/wiki/Repetition)时，根据上下文和[思路](https://supermemo.guru/wiki/Conceptual_computation)，一个[项目](https://supermemo.guru/wiki/Item)可能被提取或遗忘。[复习](https://supermemo.guru/wiki/Repetition)的结果是不确定的
+> 图： **复杂记忆的稳定化的不确定过程** 。图中显示了以单个[概念细胞](https://supermemo.guru/wiki/Stabilization)的单一树突输入模式为例的[稳定化](https://supermemo.guru/wiki/Stabilization)、[遗忘](https://supermemo.guru/wiki/Forgetting)、[泛化](https://supermemo.guru/wiki/Generalization)和[干扰](https://supermemo.guru/wiki/Interference)的假想过程。神经元、树突和树突丝以橙色显示。图片没有显示树突丝转化为树突棘的过程，树突棘的形态随着时间的推移会发生变化[稳定化](https://supermemo.guru/wiki/Stabilization)。方块代表参与识别输入模式的突触。每个方块显示了突触在[长期记忆的双组分模型](https://supermemo.guru/wiki/Two_component_model_of_long-term_memory)方面的状态。红色的强度代表[可提取性](https://supermemo.guru/wiki/Retrievability)。蓝色区域的大小代表[稳定性](https://supermemo.guru/wiki/Stability)。在记住一个复杂的记忆模式后，[概念细胞](https://supermemo.guru/wiki/Concept_cell)在收到来自红色方块的信号总和后能够识别该模式，这些信号代表高[可提取性](https://supermemo.guru/wiki/Retrievability)和极低[稳定性](https://supermemo.guru/wiki/Stability)的新记忆。每次细胞被重新激活，活跃的输入将经历[稳定化](https://supermemo.guru/wiki/Stabilization)，这表现在输入方块中蓝色区域的增加。每次当概念细胞活跃时，信号没有到达输入端，其稳定性就会下降（泛化）。每次源轴突活跃而目标神经元未能发射，稳定性也会下降（竞争性干扰）。由于输入到概念细胞的信号模式不均匀，一些突触将被稳定下来，而另一些则会丢失。当一个突触失去其稳定性和可提取性，以及相关的树突棘被收回时，[遗忘](https://supermemo.guru/wiki/Forgetting)就会发生。当同一个[概念细胞](https://supermemo.guru/wiki/Concept_cell)可以用一个更小但更稳定的输入模式重新激活时，[泛化](https://supermemo.guru/wiki/Generalization)就会发生。当一个新的输入模式有助于忘记一些识别旧输入模式所必需的冗余输入时，就会发生追溯性[干扰](https://supermemo.guru/wiki/Interference)。旧模式的[稳定化](https://supermemo.guru/wiki/Stabilization)导致树突丝的流动性降低，从而防止新模式接管[概念](https://supermemo.guru/wiki/Concept)（主动的[干扰](https://supermemo.guru/wiki/Interference)）。在这个过程的每一端，一个稳定的、泛化性强的输入模式是激活[概念细胞](https://supermemo.guru/wiki/Concept_cell)的充要条件。同一个细胞可以对不同的模式作出反应，只要它们是一致的、[稳定的](https://supermemo.guru/wiki/Stabilization)。在[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中，对[知识表征](https://supermemo.guru/wiki/Knowledge_representation)的选择不当将导致激活模式的可重复性差，突触的[稳定化](https://supermemo.guru/wiki/Stabilization)不均匀，以及[遗忘](https://supermemo.guru/wiki/Forgetting)。当输入模式无法激活足够多的突触，从而无法重新激活[概念细胞](https://supermemo.guru/wiki/Concept_cell)时，就会发生对[项目](https://supermemo.guru/wiki/Item)的遗忘。在[重复](https://supermemo.guru/wiki/Repetition)时，根据上下文和[思路](https://supermemo.guru/wiki/Conceptual_computation)，一个[项目](https://supermemo.guru/wiki/Item)可能被提取或遗忘。[复习](https://supermemo.guru/wiki/Repetition)的结果是不确定的
 
 ### 复合记忆痕迹的子稳定性收敛情况
 
@@ -442,7 +442,7 @@ repeat
 
 > S[r]=Sa[r]\*Sb[r]/(Sa[r]+Sb[r])=
 
-> =Sa[r-1]\*Sb[r-1]**i*2/(Sa[r-1]\**i*+Sb[r-1]**i*)=
+> =Sa[r-1]\*Sb[r-1] **i*2/(Sa[r-1]\** i*+Sb[r-1]**i*)=
 
 > =*i*\*(Sa[r-1]\*Sb[r-1])/(Sa[r-1]+Sb[r-1)=*i*\*S[r-1])
 
@@ -452,4 +452,4 @@ repeat
 
 以上表明，在所提出的模型中，假设记忆子痕迹的再巩固程度相同，记忆稳定性的增长与知识的复杂性无关
 
-**复合稳定性增长与子痕迹的稳定性增长是一样的**
+ **复合稳定性增长与子痕迹的稳定性增长是一样的** 

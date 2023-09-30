@@ -32,7 +32,7 @@
 
 我们多半知道[孩子们不喜欢上学](https://supermemo.guru/wiki/Why_kids_hate_school%3F)。然而，这种厌恶的普遍性被严重低估了。见 Gallup 的研究：
 
-> 2012 年，**Gallup 学生调研**调查了 37 个州、1700 多所公立学校、近 50 万名从五年级到十二年级的学生。我们发现，参与调查的近八成小学生对学校感兴趣。到了初中，这个比例降至约六成。到了高中，只剩四成。我们的教育系统每年都将学生和国家的未来送上学校的悬崖。
+> 2012 年， **Gallup 学生调研** 调查了 37 个州、1700 多所公立学校、近 50 万名从五年级到十二年级的学生。我们发现，参与调查的近八成小学生对学校感兴趣。到了初中，这个比例降至约六成。到了高中，只剩四成。我们的教育系统每年都将学生和国家的未来送上学校的悬崖。
 
 在向近千名孩子询问关于他们对学校的感受时，我发现这项研究歪曲了事实。「感兴趣」的定义一定非常灵活。如果不包括社交活动和兴趣小组分的话，对学校教育的厌恶程度肯定远远超过 90%（我对这里的数字非常谨慎）。
 
@@ -122,7 +122,7 @@ Kohn 在《[停止说「干得好！」的五个理由](https://www.alfiekohn.or
 
 ## 最优推动奖励
 
-正如任何强有力的建模者一样，[Alfie Kohn](https://supermemo.guru/wiki/Alfie_Kohn) 总是有一群激烈的批评者，他们似乎只是从表面上理解他的推理。几年前，在 Oprah Winfrey 秀上，Kohn 与支持且颂扬奖励在「教育」中价值的幼儿园和老师进行了对峙。其中一位老师提到了一项付钱让孩子读书的计划。这个想法就像付钱让孩子吃巧克力一样糟糕，只是有一个**不**重要的区别：我们想要更多的书和更少的巧克力。老师注意到，一旦孩子们开始为了钱而读书，他们就会喜欢这个过程，因此，这个策略是有意义的，应该得到推广。在这种情况下，奖励似乎是有意义的。
+正如任何强有力的建模者一样，[Alfie Kohn](https://supermemo.guru/wiki/Alfie_Kohn) 总是有一群激烈的批评者，他们似乎只是从表面上理解他的推理。几年前，在 Oprah Winfrey 秀上，Kohn 与支持且颂扬奖励在「教育」中价值的幼儿园和老师进行了对峙。其中一位老师提到了一项付钱让孩子读书的计划。这个想法就像付钱让孩子吃巧克力一样糟糕，只是有一个 **不** 重要的区别：我们想要更多的书和更少的巧克力。老师注意到，一旦孩子们开始为了钱而读书，他们就会喜欢这个过程，因此，这个策略是有意义的，应该得到推广。在这种情况下，奖励似乎是有意义的。
 
 首先，[我从不相信父母和老师的一面之词](https://supermemo.guru/wiki/I_never_trust_parents_nor_teachers)。如果一位[老师](https://supermemo.guru/wiki/Teacher)告诉你，用金钱贿赂让一个孩子开始阅读，她很可能考虑的是一个非常特殊的孩子，进一步分析可能会发现，引起这种变化的不是贿赂，而是书籍本身，再加上孩子的个性。效果只是时间问题。奖励可能只是一个触发器。
 
@@ -180,7 +180,7 @@ Roza Strozik 为[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)铺
 
 ## 结论
 
-我们在研究上大量投入，以找出「改良」本性的聪明方法。这往往适得其反，并且从不吸取相同的教训：**保持本性**！
+我们在研究上大量投入，以找出「改良」本性的聪明方法。这往往适得其反，并且从不吸取相同的教训： **保持本性** ！
 
 表扬的正确公式是：
 
@@ -200,6 +200,6 @@ Roza Strozik 为[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)铺
 
 [[img [Learn drive vs. School drive|https://supermemo.guru/images/thumb/2/27/Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png/600px-Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png]]](https://supermemo.guru/wiki/File:Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png)
 
-> 图 ：学校就是这样摧毁了对学习的热爱。**[学习内驱力](https://supermemo.guru/wiki/Learn_drive)**是孩子愿意去追求的一系列激情和兴趣。**[学校外驱力](https://supermemo.guru/wiki/School_drive)**是学校系统设置的一套奖励和惩罚措施。**学习内驱力**帮助形成了简单的、助记的、[连贯的](https://supermemo.guru/wiki/Coherent)、[稳定的](https://supermemo.guru/wiki/Stable)和[适用的](https://supermemo.guru/wiki/Applicable)记忆，这是因为知识的质量决定了[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统中的奖励程度。由于学校通过[课程](https://supermemo.guru/wiki/Curriculum)（而不是通过[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的神经机制）将知识序列化，**学校外驱力**导致了学生形成复杂且容易受到[干扰](https://supermemo.guru/wiki/Interference)的短期记忆。在**学习内驱力**和**学校外驱力**通路之间的[竞争性抑制](https://supermemo.guru/wiki/War_of_the_networks)将导致神经连接的减弱。强大的**学校外驱力**会削弱[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，破坏学习的热情，并导致[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)。强大的**学习内驱力**会导致[反抗](https://supermemo.guru/wiki/Resistance)，保护内在的激情，但也可能会让你在学校闯祸。在**学习内驱力**的影响下，记忆新的知识是非常有意义的，而且没有任何惩罚（根据[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的定义）。这将使学习内驱力茁壮成长，带来学习上的成功（和在学校）。相反，由**学校外驱力**的压力导致的知识质量低下将产生较弱的奖励信号，并可能产生强烈的[不连贯性惩罚](https://supermemo.guru/wiki/Incoherence_penalty)。这种惩罚将反馈产生对[学校外驱力](https://supermemo.guru/wiki/School_drive)的[反抗](https://supermemo.guru/wiki/Resistance)，这反过来又需要学校系统的进一步强制纠正，这又会进一步降低知识的质量。这些反馈循环可能会导致学习内驱力和学校外驱力的竞争，并最终压制一方而助长另一方。蓬勃发展的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)会助长[反抗](https://supermemo.guru/wiki/Resistance)，从而增加对学校外驱力的防卫。同样，在学校增加的惩罚会助长[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)，削弱[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，导致对系统的服从。可悲的是，在大多数情况下，控制系统将定格在这两个极端的中间位置（见：[老汤问题](https://supermemo.guru/wiki/Old_soup_problem)）。大多数孩子[讨厌学校](https://supermemo.guru/wiki/Why_kids_hate_school%3F)，失去了对学习的热爱，仍然服从于奴役。他们恢复的最好机会是大学的自由，或者更好的是，成年后的自由。见：[在神经元水平上二元决策的竞争性反馈回路](https://supermemo.guru/wiki/Competitive_feedback_loops_in_binary_decision_making_at_neuronal_level)
+> 图 ：学校就是这样摧毁了对学习的热爱。 **[学习内驱力](https://supermemo.guru/wiki/Learn_drive)** 是孩子愿意去追求的一系列激情和兴趣。 **[学校外驱力](https://supermemo.guru/wiki/School_drive)** 是学校系统设置的一套奖励和惩罚措施。 **学习内驱力** 帮助形成了简单的、助记的、[连贯的](https://supermemo.guru/wiki/Coherent)、[稳定的](https://supermemo.guru/wiki/Stable)和[适用的](https://supermemo.guru/wiki/Applicable)记忆，这是因为知识的质量决定了[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统中的奖励程度。由于学校通过[课程](https://supermemo.guru/wiki/Curriculum)（而不是通过[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的神经机制）将知识序列化， **学校外驱力** 导致了学生形成复杂且容易受到[干扰](https://supermemo.guru/wiki/Interference)的短期记忆。在 **学习内驱力** 和 **学校外驱力** 通路之间的[竞争性抑制](https://supermemo.guru/wiki/War_of_the_networks)将导致神经连接的减弱。强大的 **学校外驱力** 会削弱[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，破坏学习的热情，并导致[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)。强大的 **学习内驱力** 会导致[反抗](https://supermemo.guru/wiki/Resistance)，保护内在的激情，但也可能会让你在学校闯祸。在 **学习内驱力** 的影响下，记忆新的知识是非常有意义的，而且没有任何惩罚（根据[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的定义）。这将使学习内驱力茁壮成长，带来学习上的成功（和在学校）。相反，由 **学校外驱力** 的压力导致的知识质量低下将产生较弱的奖励信号，并可能产生强烈的[不连贯性惩罚](https://supermemo.guru/wiki/Incoherence_penalty)。这种惩罚将反馈产生对[学校外驱力](https://supermemo.guru/wiki/School_drive)的[反抗](https://supermemo.guru/wiki/Resistance)，这反过来又需要学校系统的进一步强制纠正，这又会进一步降低知识的质量。这些反馈循环可能会导致学习内驱力和学校外驱力的竞争，并最终压制一方而助长另一方。蓬勃发展的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)会助长[反抗](https://supermemo.guru/wiki/Resistance)，从而增加对学校外驱力的防卫。同样，在学校增加的惩罚会助长[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)，削弱[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，导致对系统的服从。可悲的是，在大多数情况下，控制系统将定格在这两个极端的中间位置（见：[老汤问题](https://supermemo.guru/wiki/Old_soup_problem)）。大多数孩子[讨厌学校](https://supermemo.guru/wiki/Why_kids_hate_school%3F)，失去了对学习的热爱，仍然服从于奴役。他们恢复的最好机会是大学的自由，或者更好的是，成年后的自由。见：[在神经元水平上二元决策的竞争性反馈回路](https://supermemo.guru/wiki/Competitive_feedback_loops_in_binary_decision_making_at_neuronal_level)
 
 > 版权说明：你可以在知识共享许可下重新发布这张图片，并注明 [SuperMemo World](https://supermemo.guru/wiki/SuperMemo_World)，在[这里](https://supermemo.guru/wiki/File:Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png)可以查看最新的版本

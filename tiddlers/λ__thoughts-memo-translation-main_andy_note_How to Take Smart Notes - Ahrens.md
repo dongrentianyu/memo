@@ -84,7 +84,7 @@ Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writi
 
 \- 人们不重视笔记写作的另一个原因是，即使笔记写得不好，也不会立即得到任何负面的反馈。
 
-写笔记似乎会花大量时间，但那是与理想状态相比，而**不记笔记的阅读往往浪费全部时间**。[常青笔记有助于积累阅读成果](https://notes.andymatuschak.org/z6M8kex6kDF2FT6MWqAMDQddsqUr8sphLmyy1)
+写笔记似乎会花大量时间，但那是与理想状态相比，而 **不记笔记的阅读往往浪费全部时间** 。[常青笔记有助于积累阅读成果](https://notes.andymatuschak.org/z6M8kex6kDF2FT6MWqAMDQddsqUr8sphLmyy1)
 
 \- 虽然写下想法像是绕了远路，得花费额外时间； 但不记笔记才是真正的无效功，因为我们读到大多数东西都会被忘掉。
 

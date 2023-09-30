@@ -10,7 +10,7 @@
 
 Marcus 是一位堪称典范的教师，然而，他仍然质疑人类思维的一个典型特性：
 
-**[学习内驱力](https://supermemo.guru/wiki/Learn_drive)来自于新知识与现有模型的匹配**
+ **[学习内驱力](https://supermemo.guru/wiki/Learn_drive)来自于新知识与现有模型的匹配** 
 
 在学习时，能符合你模型的知识将提供奖励，而不能符合模型的知识通常会被忽视或引起不快。拿[拼图游戏比喻](https://supermemo.guru/wiki/Jigsaw_puzzle_metaphor)，思想/知识的当前状态可以比作拼图的当前状态。为了获得最优学习效果，该状态是决定因素。信念基于模型，而模型决定学习的轨迹。这就是为什么信念决定了最优学习策略。
 
@@ -28,4 +28,4 @@ Marcus 的思想与 [Fineman 的论文](https://supermemo.guru/wiki/Freedom_unde
 
 [Fineman 认为](https://supermemo.guru/wiki/Ban_on_homeschooling)在课堂上的客观陈述可以粉碎错误的知识并改变信念。然而，这种立场没有考虑到人类的思维是在现实模型上运作的，而这些模型决定了新知识在大脑中的位置。简而言之，向一个有坚定的神创论信念的孩子传授进化论是浪费时间，甚至会适得其反，更严重还有可能导致其对学校教育的仇恨、对老师的仇恨、对科学的仇恨。信念的转化率可以忽略不计，不值得付出灌输的代价。如果这个代价是禁止在家上学，那将会造成一场社会灾难，因为好的意图是无法和谬误相互兼容的。
 
-**[自我导向学习](https://supermemo.guru/wiki/Self-directed_learning)是未来，而认为「信念与学习毫不相干」的谬误正阻碍着未来到来。**
+ **[自我导向学习](https://supermemo.guru/wiki/Self-directed_learning)是未来，而认为「信念与学习毫不相干」的谬误正阻碍着未来到来。** 

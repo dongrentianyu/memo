@@ -12,7 +12,7 @@
 
 Kohn 的宣言半页纸不到，但阐明了教育中“高”标准的糟糕影响：
 
-> 一场瘟疫正以改良学校之名席卷教育。一群无知之徒，丝毫不了解儿童学习的过程，搬弄着「严要求」「可追责」「高标准」等词语，自上而下开始改革教育，笨拙沉重，极其强调考试，实则是糟蹋教育。教育者和家长要花上一段时间才能意识到，“标准”这套说辞把学校变成了大型备考中心，**抑制了智力求索**，**损害了[学习激情](https://supermemo.guru/wiki/Pleasure_of_learning)**（以及教学）
+> 一场瘟疫正以改良学校之名席卷教育。一群无知之徒，丝毫不了解儿童学习的过程，搬弄着「严要求」「可追责」「高标准」等词语，自上而下开始改革教育，笨拙沉重，极其强调考试，实则是糟蹋教育。教育者和家长要花上一段时间才能意识到，“标准”这套说辞把学校变成了大型备考中心， **抑制了智力求索** ， **损害了[学习激情](https://supermemo.guru/wiki/Pleasure_of_learning)** （以及教学）
 
 ## 参见：
 
@@ -26,7 +26,7 @@ Kohn 的宣言半页纸不到，但阐明了教育中“高”标准的糟糕影
 
 引用的摘录来自以下[参考资料](https://supermemo.guru/wiki/References)：
 
-标题：**Rescuing Our Schools from “Tougher Standards”**（停止高要求，救救学校）
+标题： **Rescuing Our Schools from “Tougher Standards”** （停止高要求，救救学校）
 
 作者：[Alfie Kohn](https://supermemo.guru/wiki/Alfie_Kohn)
 

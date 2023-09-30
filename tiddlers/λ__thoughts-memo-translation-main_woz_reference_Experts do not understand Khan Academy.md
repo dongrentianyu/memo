@@ -6,7 +6,7 @@
 
 ## 教师们活在「鱼缸」里
 
-[非学校教育者](https://supermemo.guru/wiki/Unschooling)非常喜爱[可汗学院](https://supermemo.guru/wiki/Khan_Academy)。与此同时，有很多老师对萨尔 · 可汗大批特批。这些批评主要源自老师的**[鱼缸视角](https://supermemo.guru/wiki/Fish_tank_perspective)**。有些所谓的好教师，可能在[学校系统](https://supermemo.guru/wiki/Prussian_education_system) 呆了几十年，也不了解[自由学习](https://supermemo.guru/wiki/Free_learning)的基本原则，因为学校教育那哈哈镜般的视角，把这些原则彻底掩埋了。
+[非学校教育者](https://supermemo.guru/wiki/Unschooling)非常喜爱[可汗学院](https://supermemo.guru/wiki/Khan_Academy)。与此同时，有很多老师对萨尔 · 可汗大批特批。这些批评主要源自老师的 **[鱼缸视角](https://supermemo.guru/wiki/Fish_tank_perspective)** 。有些所谓的好教师，可能在[学校系统](https://supermemo.guru/wiki/Prussian_education_system) 呆了几十年，也不了解[自由学习](https://supermemo.guru/wiki/Free_learning)的基本原则，因为学校教育那哈哈镜般的视角，把这些原则彻底掩埋了。
 
 这些鲜为人知的原则包括：
 
@@ -22,7 +22,7 @@
 
 - [知识达尔文主义](https://supermemo.guru/wiki/Knowledge_darwinism)，等等
 
-当然，如果不与[非学校教育者](https://supermemo.guru/wiki/Free_learning)或[民主学校](https://supermemo.guru/wiki/Democratic_school)直接比较，就很难从教育系统内部看到学校教育的许多其他方面。例如，学校对成瘾或心理健康的影响。不过，这些都与对[可汗学院](https://supermemo.guru/wiki/Khan_Academy)的批评没有直接关系。相反，有一个因素不可否认：**[萨尔·可汗](https://en.wikipedia.org/wiki/Sal_Khan)是教育界的摇滚明星**。些许嫉妒别人的成功是人之常情。若认为种种赞美言过其实，这种嫉妒会成倍增长。几十年来精益求精的数学老师自然会想，在手机上观看草率视频，是否真的可以取代有爱心的老师，面对苦苦挣扎的学生，而为他量身定制教学方法。如果一位敬业的老师能让学生获得薪资优渥的工作，那么他实际上可能会觉得萨尔正在损害学习过程。我们需要理解这样的老师。他想看见世界更美好，但他不认为萨尔的工作正朝着教育救赎而努力。
+当然，如果不与[非学校教育者](https://supermemo.guru/wiki/Free_learning)或[民主学校](https://supermemo.guru/wiki/Democratic_school)直接比较，就很难从教育系统内部看到学校教育的许多其他方面。例如，学校对成瘾或心理健康的影响。不过，这些都与对[可汗学院](https://supermemo.guru/wiki/Khan_Academy)的批评没有直接关系。相反，有一个因素不可否认： **[萨尔·可汗](https://en.wikipedia.org/wiki/Sal_Khan)是教育界的摇滚明星** 。些许嫉妒别人的成功是人之常情。若认为种种赞美言过其实，这种嫉妒会成倍增长。几十年来精益求精的数学老师自然会想，在手机上观看草率视频，是否真的可以取代有爱心的老师，面对苦苦挣扎的学生，而为他量身定制教学方法。如果一位敬业的老师能让学生获得薪资优渥的工作，那么他实际上可能会觉得萨尔正在损害学习过程。我们需要理解这样的老师。他想看见世界更美好，但他不认为萨尔的工作正朝着教育救赎而努力。
 
 我也有所涉足教育，但是，我对可汗的工作非常欣赏，丝毫不感到嫉妒。 在这篇文章中，我只对萨尔报以赞美之词。 另外，他的学院其实跟我的宝贝很搭：[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)（参见：[渐进视频](https://supermemo.guru/wiki/Incremental_video)）。
 
@@ -32,7 +32,7 @@
 
 > 老师们并不因为萨尔·可汗是全世界的老师而生气。他们担心他是备受吹捧的坏老师；这个给全世界学生上过 1.7 亿节课的人，曾公开吹嘘道自己不做准备，并觉得对数学概念的精确解释只是「吹毛求疵」。有经验的教育工作者们担心，如果在课堂上教学很糟糕，便是一场危机；但如果这些糟糕的教学出现在 YouTube 上，却成了一场「革命」。
 
-Karim Kai Ani 理解数学、[语义学习](https://supermemo.guru/wiki/Semantic_learning)和[学习熵](https://supermemo.guru/wiki/Learntropy)，然而，只需一个因素便能推翻一般老师的顾虑：**自由选择**。在[可汗学院](https://supermemo.guru/wiki/Khan_Academy)，这里没有[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling) 。如果视频不能产生足够的[学习熵](https://supermemo.guru/wiki/Learntropy)信号，孩子可以看看就划开。萨尔有许多竞争对手（例如，我从未见过比这个 3Blue1Brown 创作的[视频](https://www.youtube.com/watch?v=EW08rD-GFh0)更好的拉普拉斯算子解释，3Blue1Brown 也为可汗学院提供服务）。可供选择的不仅有视频，还有优秀的文本手册或大学水平的讲座。老师们总是忘记，他们不是[学习熵](https://supermemo.guru/wiki/Learntropy)的最佳评估者。最好的评估者不是某个外人，而是学生自己的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统，这一系统很大程度上是无意识的（即信号仅取决于前置知识和信息传递）（参见：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)）。Karim Kai Ani 可以在 *Mathalicious* 完成教学理论上无可挑剔的课程，但这种努力可能会立即被[学习内驱力](https://supermemo.guru/wiki/Learn_drive)奖励信号所抵消。孩子可能会直接说「我不喜欢它」，而这种评估是无可辩驳的。在教育中，孩子的大脑是唯一的真神。
+Karim Kai Ani 理解数学、[语义学习](https://supermemo.guru/wiki/Semantic_learning)和[学习熵](https://supermemo.guru/wiki/Learntropy)，然而，只需一个因素便能推翻一般老师的顾虑： **自由选择** 。在[可汗学院](https://supermemo.guru/wiki/Khan_Academy)，这里没有[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling) 。如果视频不能产生足够的[学习熵](https://supermemo.guru/wiki/Learntropy)信号，孩子可以看看就划开。萨尔有许多竞争对手（例如，我从未见过比这个 3Blue1Brown 创作的[视频](https://www.youtube.com/watch?v=EW08rD-GFh0)更好的拉普拉斯算子解释，3Blue1Brown 也为可汗学院提供服务）。可供选择的不仅有视频，还有优秀的文本手册或大学水平的讲座。老师们总是忘记，他们不是[学习熵](https://supermemo.guru/wiki/Learntropy)的最佳评估者。最好的评估者不是某个外人，而是学生自己的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统，这一系统很大程度上是无意识的（即信号仅取决于前置知识和信息传递）（参见：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)）。Karim Kai Ani 可以在 *Mathalicious* 完成教学理论上无可挑剔的课程，但这种努力可能会立即被[学习内驱力](https://supermemo.guru/wiki/Learn_drive)奖励信号所抵消。孩子可能会直接说「我不喜欢它」，而这种评估是无可辩驳的。在教育中，孩子的大脑是唯一的真神。
 
 数学教育专家 Christopher Danielson 和 Michael Paul Goldenberg 写道：
 
@@ -60,7 +60,7 @@ Karim Kai Ani 理解数学、[语义学习](https://supermemo.guru/wiki/Semantic
 
 大多数人只需要看一眼便能找出答案，即使他们从未受过训练。我在数学课上从不集中注意力，我把简单的数学工作交给大脑中的神经网络。完美的算法和完美的例子只能达到一个目的：失去对数学的兴趣。我希望「专家」们能发布他们自己的 6000 个视频，让吹毛求疵的人大批特批。鸡蛋里总是能挑出骨头。
 
-**0.7 大于 0.09** 的事实，对于稍微玩过[电子游戏](https://supermemo.guru/wiki/Videogames)的一年级学生来说，都是显而易见的。至于「大于」符号（>），需要孩子玩大量的电子游戏，才能获得这类知识。不可否认，这个标志在游戏里并不多见，但如果孩子们能利用玩游戏的记忆，那么就不必花很多时间去学习，也不必让人精心准备些孩子讨厌的课程，把这些知识塞进毫无背景知识的孩子里。
+ **0.7 大于 0.09** 的事实，对于稍微玩过[电子游戏](https://supermemo.guru/wiki/Videogames)的一年级学生来说，都是显而易见的。至于「大于」符号（>），需要孩子玩大量的电子游戏，才能获得这类知识。不可否认，这个标志在游戏里并不多见，但如果孩子们能利用玩游戏的记忆，那么就不必花很多时间去学习，也不必让人精心准备些孩子讨厌的课程，把这些知识塞进毫无背景知识的孩子里。
 
 ## 轨迹优化的渐进方法
 
@@ -86,7 +86,7 @@ Karim Kai Ani 理解数学、[语义学习](https://supermemo.guru/wiki/Semantic
 
 > ... 数学和科学教学卓越总统奖获奖者，或国家专业教学标准委员会获奖者里中选取
 
-我有一个相反的建议。**获奖教师应该发布自己的视频，与可汗学院竞争**。如果他们在 YouTube（像 3Blue1Brown 那样）上取得了任何进展，可汗学院肯定会来敲门。
+我有一个相反的建议。 **获奖教师应该发布自己的视频，与可汗学院竞争** 。如果他们在 YouTube（像 3Blue1Brown 那样）上取得了任何进展，可汗学院肯定会来敲门。
 
 ## 蒙着眼睛纸上谈兵
 
@@ -106,9 +106,9 @@ Valerie Strauss 谈到了她的博客（[来源](http://larryferlazzo.edublogs.o
 
 引用的摘录来自以下[参考资料](https://supermemo.guru/wiki/References)：
 
-标题 1：**[可汗学院：不存在的革命](https://www.washingtonpost.com/blogs/answer-sheet/post/khan-academy-the-hype-and-the-reality/2012/07/23/gJQAuw4J3W_blog.html)**
+标题 1： **[可汗学院：不存在的革命](https://www.washingtonpost.com/blogs/answer-sheet/post/khan-academy-the-hype-and-the-reality/2012/07/23/gJQAuw4J3W_blog.html)** 
 
-标题 2：**[可汗学院知道如何教学吗？](https://www.washingtonpost.com/blogs/answer-sheet/post/how-well-does-khan-academy-teach/2012/07/27/gJQA9bWEAX_blog.html)**
+标题 2： **[可汗学院知道如何教学吗？](https://www.washingtonpost.com/blogs/answer-sheet/post/how-well-does-khan-academy-teach/2012/07/27/gJQA9bWEAX_blog.html)** 
 
 日期：2012
 

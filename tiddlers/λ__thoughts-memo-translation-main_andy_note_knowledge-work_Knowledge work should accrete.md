@@ -30,7 +30,7 @@ Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writi
 
 2019/08/13 与安娜-加特的对话：
 
-> 在 Twitter 上，你无法**建立**任何东西。
+> 在 Twitter 上，你无法 **建立** 任何东西。
 
 Matuschak, A. (2019, December). Taking knowledge work seriously. Presented at the Stripe Convergence, San Francisco.
 

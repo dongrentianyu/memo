@@ -4,7 +4,7 @@
 
 [相比知识工作者，运动员和音乐家会更为严格精细地打磨基本技能](https://notes.andymatuschak.org/z4qhD8UwNAmJDdJUC36BUGp5PEUfgfzZXvkhB)。一个可能的原因是，运动员/音乐家会进行[刻意练习（由 Ericsson 提出）](https://notes.andymatuschak.org/z2duRd5eisRomSgxr88Semkgs15pgMRVVR5C)——即专注于打磨技能的活动。
 
-知识工作者的确会屡屡遇到**成长机会**，比如开始新工作，需要扩展已有技能。但知识工作者的日常活动主要是**完成工作**，而非补足短处。这就好比足球运动员从不举重和跑步，只靠比赛锻炼身体。[典型的工作和表现环境不符合刻意练习的要求](https://notes.andymatuschak.org/z3n21KMcMZtfT5wmLi1V5ovzZoyqhciQowRXm)。
+知识工作者的确会屡屡遇到 **成长机会** ，比如开始新工作，需要扩展已有技能。但知识工作者的日常活动主要是 **完成工作** ，而非补足短处。这就好比足球运动员从不举重和跑步，只靠比赛锻炼身体。[典型的工作和表现环境不符合刻意练习的要求](https://notes.andymatuschak.org/z3n21KMcMZtfT5wmLi1V5ovzZoyqhciQowRXm)。
 
 Ericsson 认为知识工作无法刻意练习，因为缺乏客观标准（所以反馈不足），知识工作的技能定义不清，这一领域也没有发现打磨技能的方法。我觉得这些说法还有待商榷，考虑到[常青笔记写作是知识工作的基本单位](https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be)，[间隔重复系统让记忆成为一种选择](https://notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)。但就目前来说，要改善沟通技巧，并没有像举重那样直接明了的练习。
 

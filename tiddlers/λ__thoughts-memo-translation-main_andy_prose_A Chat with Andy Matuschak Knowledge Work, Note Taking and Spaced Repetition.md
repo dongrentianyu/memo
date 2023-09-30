@@ -98,7 +98,7 @@ Peak: Secrets from the New Science of Expertise（Anders Ericsson 著）
 
 - 赞同一部分 Woz 与 Illich 等人对反教育主义的看法，但更偏向实用主义。（译注：Illich 是激进的英国教育改革家，创办了夏山学校）
 
-- 在可汗学院：**很难**取得进展，因为学生觉得配合实验不是他们的目标，所以每个项目的结果都有偏差 / 扭曲。（译注：原笔记不清楚，原视频转录为：17:27 and like most of the kids already decided that they didn't want to be there or like they were thinking about other things you know like this is not）
+- 在可汗学院： **很难** 取得进展，因为学生觉得配合实验不是他们的目标，所以每个项目的结果都有偏差 / 扭曲。（译注：原笔记不清楚，原视频转录为：17:27 and like most of the kids already decided that they didn't want to be there or like they were thinking about other things you know like this is not）
 
 - 他决定不再关注传统教育系统了
 

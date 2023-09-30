@@ -74,7 +74,7 @@
 
 ## 早期教育的危害
 
-课程中最有害的一个方面是**早期学术指导**的僵化思想。
+课程中最有害的一个方面是 **早期学术指导** 的僵化思想。
 
 它是由父母对高成就的贪婪所推动的。它是基于一个有害的谣言，即早期教育有利于大脑发育。事实恰恰相反。早期指导中所有形式的压力都会通过大脑结构的过早成熟和专门化而阻碍发展（见：[早熟悖论](https://supermemo.guru/wiki/Precocity_paradox)）。
 
@@ -120,9 +120,9 @@
 
 当我们看到种族主义或对女同性恋、男同性恋、双性恋和跨性别的不良容忍度时，我们可能认为增加一些关于容忍或多样性的课程会缓解这个问题。显然，一个宽容的人无法想象一个种族主义者坐在一个解释种族主义是不道德或犯罪的课堂上。这只会放大负面情绪，增加对学校、老师、不同意见的人，甚至是意见不同的人的厌恶。最后，在宽容的课堂上，一个种族主义者可能会变得更加种族主义。
 
-当经济或社会出现问题时，政客们不断咆哮**「这个科目应该是[学校的必修课](https://supermemo.guru/wiki/Compulsory_schooling)  」**？这似乎并不重要，使事情成为必修课往往会导致[反抗](https://supermemo.guru/wiki/Reactance)和[贬值](https://supermemo.guru/wiki/School_undermines_intelligence#Knowledge_devaluation)的主题。当气候变化在学校成为必修课时，它在现实生活中就不再有趣了。它得到了一个无聊的*"成人世界的无人机"*的地位。
+当经济或社会出现问题时，政客们不断咆哮 **「这个科目应该是[学校的必修课](https://supermemo.guru/wiki/Compulsory_schooling)  」** ？这似乎并不重要，使事情成为必修课往往会导致[反抗](https://supermemo.guru/wiki/Reactance)和[贬值](https://supermemo.guru/wiki/School_undermines_intelligence#Knowledge_devaluation)的主题。当气候变化在学校成为必修课时，它在现实生活中就不再有趣了。它得到了一个无聊的*"成人世界的无人机"*的地位。
 
-这也是指「性教育」、「互联网技术」或 「学习**如何学习**」。[死记硬背](https://supermemo.guru/wiki/Cramming)国家历史或文学是剥离一个人的爱国主义的最好方法之一（见：[我不再爱国](https://supermemo.guru/wiki/I_stopped_being_patriotic)）。如果学校开始推广[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)，这将是一个大的有毒炸弹的概念。一旦硝烟散尽，[水蛭](https://supermemo.guru/wiki/Leech)和[有毒记忆](https://supermemo.guru/wiki/Toxic_memories)将是这个概念的唯一残余。把[SuperMemo](https://supermemo.guru/wiki/SuperMemo)推给孩子们是确保他们永远不会欣赏[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的力量的最有效方法之一，更不用说[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)（见：[SuperMemo对孩子不起作用](https://supermemo.guru/wiki/SuperMemo_does_not_work_for_kids)）。
+这也是指「性教育」、「互联网技术」或 「学习 **如何学习** 」。[死记硬背](https://supermemo.guru/wiki/Cramming)国家历史或文学是剥离一个人的爱国主义的最好方法之一（见：[我不再爱国](https://supermemo.guru/wiki/I_stopped_being_patriotic)）。如果学校开始推广[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)，这将是一个大的有毒炸弹的概念。一旦硝烟散尽，[水蛭](https://supermemo.guru/wiki/Leech)和[有毒记忆](https://supermemo.guru/wiki/Toxic_memories)将是这个概念的唯一残余。把[SuperMemo](https://supermemo.guru/wiki/SuperMemo)推给孩子们是确保他们永远不会欣赏[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的力量的最有效方法之一，更不用说[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)（见：[SuperMemo对孩子不起作用](https://supermemo.guru/wiki/SuperMemo_does_not_work_for_kids)）。
 
 插入SuperMemo。[什么是 SuperMemo？](https://supermemo.guru/wiki/What_is_SuperMemo%3F)
 
@@ -154,7 +154,7 @@
 
 依赖课程的坏习惯始于「课程是必要的」这一谬误。当谬误与思想体系很好地结合在一起时，它们就形成了习惯。错误的信念会使人养成反射性的行为。
 
-对课程的依赖是一种自我延续的习惯。在课程中成长起来的孩子，长大后就会坚定地宣称：**「孩子们需要学习的指导 」**。结果，受到良好引导的成年人剥夺了他们自己的孩子发展自主性和智力所需的选择。
+对课程的依赖是一种自我延续的习惯。在课程中成长起来的孩子，长大后就会坚定地宣称： **「孩子们需要学习的指导 」** 。结果，受到良好引导的成年人剥夺了他们自己的孩子发展自主性和智力所需的选择。
 
 被指导的习惯被转移到新的一代，并导致了自主权的虚化
 
@@ -168,7 +168,7 @@
 
 科学永远充斥着对事实和模型的分歧。这种紧张关系推动了变化。
 
-就拿我宠爱有加的模因来说，我希望所有的孩子都能终生记住：**闹钟是大脑的破坏者！**在我长达 26 年的学校教育中，我不记得曾经学过关于睡眠生理学的任何东西。这是个可怕的消息。这就更糟糕了，因为我有一个生物学的校历！**。有一次我问一群学医的学生关于睡眠的作用。他们都一致声称「休息」！我没有受到有关[睡眠科学](https://supermemo.guru/wiki/Science_of_sleep)的教育，反而因为认真对待睡眠而经常受到惩罚。我上学迟到一直是我 「有行为问题的孩子」这个不可分割的标签的一部分。在我十几岁的时候，我曾试图向我的老师解释，一个**「休息好的人是社会中更好的成员  」**。我没有得到任何同情。今天，我们把孩子们早早地叫起来上学，简直是让他们生病。许多行为问题都是在清晨开始的，孩子们与父母争吵，反对强行叫醒他们。更糟糕的是，我们告诉孩子，早起有助于他们为成人生活做准备。实际上，我们破坏了[睡眠控制系统](https://supermemo.guru/wiki/Sleep_control_system)，可能会导致他们一生都在与睡眠障碍作斗争。见：[学校的早课时间](https://supermemo.guru/wiki/School_start_time)。
+就拿我宠爱有加的模因来说，我希望所有的孩子都能终生记住： **闹钟是大脑的破坏者！** 在我长达 26 年的学校教育中，我不记得曾经学过关于睡眠生理学的任何东西。这是个可怕的消息。这就更糟糕了，因为我有一个生物学的校历！ **。有一次我问一群学医的学生关于睡眠的作用。他们都一致声称「休息」！我没有受到有关[睡眠科学](https://supermemo.guru/wiki/Science_of_sleep)的教育，反而因为认真对待睡眠而经常受到惩罚。我上学迟到一直是我 「有行为问题的孩子」这个不可分割的标签的一部分。在我十几岁的时候，我曾试图向我的老师解释，一个** 「休息好的人是社会中更好的成员  」**。我没有得到任何同情。今天，我们把孩子们早早地叫起来上学，简直是让他们生病。许多行为问题都是在清晨开始的，孩子们与父母争吵，反对强行叫醒他们。更糟糕的是，我们告诉孩子，早起有助于他们为成人生活做准备。实际上，我们破坏了[睡眠控制系统](https://supermemo.guru/wiki/Sleep_control_system)，可能会导致他们一生都在与睡眠障碍作斗争。见：[学校的早课时间](https://supermemo.guru/wiki/School_start_time)。
 
 现在想象一个虚构的场景，我们开发一个新的课程，最终给予睡眠应有的评价。自然的青少年[反抗](https://supermemo.guru/wiki/Reactance)可能会导致新的[多相睡眠](https://supermemo.guru/wiki/Polyphasic_sleep)的流行，可能会像早起的学校一样有害。如果成年人告诉你，你需要许多小时的健康不间断的睡眠，这可能与你深夜的游戏计划相冲突。这是叛逆和称成人主张为愚蠢的第一步。
 
@@ -178,11 +178,11 @@
 
 ## 同理心问题
 
-成年人很难与年轻的大脑产生共鸣。早期学习倾向于[无语义内容](https://supermemo.guru/wiki/Asemantic_learning)，这并非巧合。字母表、星期、月份名称、乘法表等等。这些都是作为无语义的概念，被迅速过滤为最难的。这使它们具有首要性和原语性的光环。它们可能被贴上**基本工具集**的标签。实际上，年轻的大脑需要的是一个丰富的[语义框架](https://supermemo.guru/wiki/Semantic_framework)，以确立这些原始概念的需求和意义。只有这样，学习才可能成为有语义的，并产生预期的结果。绝大多数的成年人，包括优秀的教师，都不理解[语义学习](https://supermemo.guru/wiki/Semantic_learning)的必要性。这就是[普鲁士教育系统](https://supermemo.guru/wiki/Prussian_system)的条件反射的结果。
+成年人很难与年轻的大脑产生共鸣。早期学习倾向于[无语义内容](https://supermemo.guru/wiki/Asemantic_learning)，这并非巧合。字母表、星期、月份名称、乘法表等等。这些都是作为无语义的概念，被迅速过滤为最难的。这使它们具有首要性和原语性的光环。它们可能被贴上 **基本工具集** 的标签。实际上，年轻的大脑需要的是一个丰富的[语义框架](https://supermemo.guru/wiki/Semantic_framework)，以确立这些原始概念的需求和意义。只有这样，学习才可能成为有语义的，并产生预期的结果。绝大多数的成年人，包括优秀的教师，都不理解[语义学习](https://supermemo.guru/wiki/Semantic_learning)的必要性。这就是[普鲁士教育系统](https://supermemo.guru/wiki/Prussian_system)的条件反射的结果。
 
-成人很容易就能窥见孩子的大脑。想象一下，有一个孩子要学习一周的日子名称。这个孩子没有预定的活动，如周日的弥撒，或周六的足球。对这个孩子来说，周二和周四之间的差别，还不如Ganymede和Calisto之间的差别。学习日子的名称就像给真空贴标签。这完全是徒劳的，而且是无意义的。成人可能会认为**「这些是孩子在生活中需要的重要术语  」**。
+成人很容易就能窥见孩子的大脑。想象一下，有一个孩子要学习一周的日子名称。这个孩子没有预定的活动，如周日的弥撒，或周六的足球。对这个孩子来说，周二和周四之间的差别，还不如Ganymede和Calisto之间的差别。学习日子的名称就像给真空贴标签。这完全是徒劳的，而且是无意义的。成人可能会认为 **「这些是孩子在生活中需要的重要术语  」** 。
 
-为了弥补**[教育同理心](https://supermemo.guru/wiki/Educational_empathy)**的不足，成年人可以想象把一年分成 36 个 10 天的时期，每个时期都有一个特定的名称。*Primedec, Secdec, Winterdec, Febdec,* 等等。仅仅为了考试而学习这个序列如何？只有 36 个名字（只是为了弥补成人元认知的优越性）。所有成年人，无一例外，都拒绝这样的命题。这正是一个孩子的感受。一堆要学习的名字，没有内容，没有目的！这就是典型的[无语义学习](https://supermemo.guru/wiki/Asemantic_learning)。
+为了弥补 **[教育同理心](https://supermemo.guru/wiki/Educational_empathy)** 的不足，成年人可以想象把一年分成 36 个 10 天的时期，每个时期都有一个特定的名称。*Primedec, Secdec, Winterdec, Febdec,* 等等。仅仅为了考试而学习这个序列如何？只有 36 个名字（只是为了弥补成人元认知的优越性）。所有成年人，无一例外，都拒绝这样的命题。这正是一个孩子的感受。一堆要学习的名字，没有内容，没有目的！这就是典型的[无语义学习](https://supermemo.guru/wiki/Asemantic_learning)。
 
 无法与年轻的大脑产生共鸣是教育系统设计错误的主要源头
 
@@ -200,7 +200,7 @@
 
 ## 课程习惯
 
-[学校让人沾染上的 100+ 恶习](https://supermemo.guru/wiki/100_bad_habits_learned_at_school)。这些习惯是重叠的，并在协同作用下生存。**对课程的依赖**是这些坏习惯中的一个。它很容易与**美化学校教育**相混淆。关键的区别在于，美化学校使你对孩子说：「去学校。学校对你有好处」。而对课程的美化使你说「我们的课程需要这个科目 」或对孩子说「你必须学习它，它对你很重要」，好像孩子不知道她想在她的生活中做什么以及她的目标需要什么。对课程的美化与**模仿**、**依赖援助**、**依赖专家**和**依赖学位**的坏习惯相重叠。它导致了一种信念，即如果你不在学校遇到一个科目，你将永远无知。
+[学校让人沾染上的 100+ 恶习](https://supermemo.guru/wiki/100_bad_habits_learned_at_school)。这些习惯是重叠的，并在协同作用下生存。 **对课程的依赖** 是这些坏习惯中的一个。它很容易与 **美化学校教育** 相混淆。关键的区别在于，美化学校使你对孩子说：「去学校。学校对你有好处」。而对课程的美化使你说「我们的课程需要这个科目 」或对孩子说「你必须学习它，它对你很重要」，好像孩子不知道她想在她的生活中做什么以及她的目标需要什么。对课程的美化与 **模仿** 、 **依赖援助** 、 **依赖专家** 和 **依赖学位** 的坏习惯相重叠。它导致了一种信念，即如果你不在学校遇到一个科目，你将永远无知。
 
 ## 课程的起源
 
@@ -208,9 +208,9 @@
 
 然而，一条新的途径开始出现：印刷术的出现。[学校教育](https://supermemo.guru/wiki/Schooling)成为塑造社会集体思想的一个有吸引力的主张。这一过程通常为君主或神职人员服务。人们很自然地得出结论，学习阅读正成为一条越来越有效的通向智慧的途径。这种想法在二十世纪之前是合理的。随着广播的出现，然后是电视，现在是网络，阅读在早期发展中的作用逐渐减弱，然而，直到今天，一个普通的教育还生活在一个迷思中，即把 3-4 岁的孩子推向阅读是赋予一个早期教育的好处。这种说法已经被果断地推翻了。更糟糕的是，[电子游戏](https://supermemo.guru/wiki/Videogames)或 YouTube 被认为是抑制阅读的大忌（见：[游戏障碍](https://supermemo.guru/wiki/Gaming_disorder)）。事实恰恰相反：新媒体和新的学习工具是一种[学习宝藏](https://supermemo.guru/wiki/Letteracy)。
 
-当围绕[课程](https://supermemo.guru/wiki/Curriculum)的斗争继续进行时，当孩子们花越来越多的时间钻研[无语义学习](https://supermemo.guru/wiki/Asemantic_learning)时，新的全球电子互联世界的大量学习机会被错过。孩子们不去探索科学、自然界、工程或哲学，而是从**[无语义课程](https://supermemo.guru/wiki/Asemantic_curriculum)**中填塞项目。学生们不是在[电子游戏](https://supermemo.guru/wiki/Videogames)中自然地吸收外语，而是被迫[死记硬背](https://supermemo.guru/wiki/Cramming)词汇、拼写、语法、歌曲和诗歌。其结果是，他们学会了讨厌语言学习。
+当围绕[课程](https://supermemo.guru/wiki/Curriculum)的斗争继续进行时，当孩子们花越来越多的时间钻研[无语义学习](https://supermemo.guru/wiki/Asemantic_learning)时，新的全球电子互联世界的大量学习机会被错过。孩子们不去探索科学、自然界、工程或哲学，而是从 **[无语义课程](https://supermemo.guru/wiki/Asemantic_curriculum)** 中填塞项目。学生们不是在[电子游戏](https://supermemo.guru/wiki/Videogames)中自然地吸收外语，而是被迫[死记硬背](https://supermemo.guru/wiki/Cramming)词汇、拼写、语法、歌曲和诗歌。其结果是，他们学会了讨厌语言学习。
 
-矛盾的是，教师和专制的父母可能是最后注意到问题的人。他们似乎专注于孩子的**「错误的发展途径  」**，并采取严厉的措施，如胁迫、惩罚、贿赂、药物治疗、治疗，或禁止接触电子媒体（见：[网瘾少年](https://supermemo.guru/wiki/Homo_tabletis)）。随之而来的是一场拉锯战，让各方都蒙在鼓里：（1）想把孩子推向正确轨道的成年人，和（2）把成人世界视为压迫来源的孩子。因此，对成瘾、电子游戏或毒品的驱使，都与失去自由有类似的路线。这些斗争加剧了代际裂痕，并延续了一些迷思，如[青少年是懒惰的](https://supermemo.guru/wiki/Myth:_Students_are_lazy)，[青少年讨厌一切](https://supermemo.guru/wiki/Myth:_Teens_hate_everything)，等等。在基于[开放行为空间](https://supermemo.guru/wiki/Optimization_of_behavioral_spaces_in_development)的养育方式中，这种问题较少。这种开放的养育方式为孩子的需求提供了一个更好的反馈。这反过来又有助于优化发展的轨迹。
+矛盾的是，教师和专制的父母可能是最后注意到问题的人。他们似乎专注于孩子的 **「错误的发展途径  」** ，并采取严厉的措施，如胁迫、惩罚、贿赂、药物治疗、治疗，或禁止接触电子媒体（见：[网瘾少年](https://supermemo.guru/wiki/Homo_tabletis)）。随之而来的是一场拉锯战，让各方都蒙在鼓里：（1）想把孩子推向正确轨道的成年人，和（2）把成人世界视为压迫来源的孩子。因此，对成瘾、电子游戏或毒品的驱使，都与失去自由有类似的路线。这些斗争加剧了代际裂痕，并延续了一些迷思，如[青少年是懒惰的](https://supermemo.guru/wiki/Myth:_Students_are_lazy)，[青少年讨厌一切](https://supermemo.guru/wiki/Myth:_Teens_hate_everything)，等等。在基于[开放行为空间](https://supermemo.guru/wiki/Optimization_of_behavioral_spaces_in_development)的养育方式中，这种问题较少。这种开放的养育方式为孩子的需求提供了一个更好的反馈。这反过来又有助于优化发展的轨迹。
 
 正确的策略是让孩子们遵循他们健康的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，并选择能最大限度提高[学习效果](https://supermemo.guru/wiki/Learntropy)的学习资源。如今，当我们审视[非学校教育](https://supermemo.guru/wiki/Unschooling)时，旧的思维方式导致了一个可怕的结论：孩子们更喜欢从 YouTube 上学习，这延迟了他们的阅读进展。更糟糕的是，他们使用语音合成和语音识别来规避阅读的需要。这种高[学习熵](https://supermemo.guru/wiki/Learntropy)源和[无语义的学校教育](https://supermemo.guru/wiki/Asemantic_learning)之间的对比，正朝着学校仇恨迅速增加的方向盘旋。这将不可避免地导致[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)的结束（见：[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)）。锅盖是通过威胁和灌输来保持的（例如「不上学就会无家可归」）。
 

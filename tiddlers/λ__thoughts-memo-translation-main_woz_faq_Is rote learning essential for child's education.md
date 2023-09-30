@@ -12,13 +12,13 @@
 
 # 总结
 
-**孩子应该经常玩耍！** 等到他们足够成熟了，他们的记忆力会提高，解决问题也变得更容易。在儿童成长早期，过早让孩子记忆数学知识会制造[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)。参见：[放弃早期数学教学！](https://supermemo.guru/wiki/Abandon_early_math_instruction!)。Robinson 和 Abdazi 都是正确的（各有各的道理）。
+ **孩子应该经常玩耍！** 等到他们足够成熟了，他们的记忆力会提高，解决问题也变得更容易。在儿童成长早期，过早让孩子记忆数学知识会制造[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)。参见：[放弃早期数学教学！](https://supermemo.guru/wiki/Abandon_early_math_instruction!)。Robinson 和 Abdazi 都是正确的（各有各的道理）。
 
 # 答案
 
 「死记硬背」（rote learning）这个术语应该被废除，因为这个词混淆了太多对立的概念。这个词基本上是贬义的。如果将死记硬背理解为「不理解就学习」，那它显然是错的；但如果理解为「学习中使用重复」，那倒也不坏；如果理解为「学习中大量重复」，那么死记硬背又变得不可取。从这个角度来看，本文的标题很让人迷惑，甚至令人恼火。
 
-**过度学习**这个词同样会制造麻烦的混淆。虽然不断练习能提升[程序性学习](https://supermemo.guru/wiki/Procedural_memory)的表现，但是重复复习[陈述性知识](https://supermemo.guru/wiki/Declarative_memory)反倒会弱化记忆。这样的混淆甚至出现在学习和记忆方面的学术文献中，扰乱视听。
+ **过度学习** 这个词同样会制造麻烦的混淆。虽然不断练习能提升[程序性学习](https://supermemo.guru/wiki/Procedural_memory)的表现，但是重复复习[陈述性知识](https://supermemo.guru/wiki/Declarative_memory)反倒会弱化记忆。这样的混淆甚至出现在学习和记忆方面的学术文献中，扰乱视听。
 
 文中有些观点是正确的：
 
@@ -30,11 +30,11 @@
 
 有些观点是错误的：
 
-- **错误**：过度学习知识才能记住。我们仍然会[遗忘](https://supermemo.guru/wiki/Forgetting)已经用过几百次的 PIN 码，其罪魁祸首是[间隔效应](https://supermemo.guru/wiki/Spacing_effect)。通过优化复习时间或者增加上下文冗余 ，来实现最佳回忆概率（即用不同方式记忆同一件事）
+- **错误** ：过度学习知识才能记住。我们仍然会[遗忘](https://supermemo.guru/wiki/Forgetting)已经用过几百次的 PIN 码，其罪魁祸首是[间隔效应](https://supermemo.guru/wiki/Spacing_effect)。通过优化复习时间或者增加上下文冗余 ，来实现最佳回忆概率（即用不同方式记忆同一件事）
 
-- **错误**：「练得越多，忘得越少」，应该说「练得越[好](https://supermemo.guru/wiki/SuperMemo)，忘得越少」
+- **错误** ：「练得越多，忘得越少」，应该说「练得越[好](https://supermemo.guru/wiki/SuperMemo)，忘得越少」
 
-- **错误**：玩耍对提高数学技能不是必要的
+- **错误** ：玩耍对提高数学技能不是必要的
 
 我不清楚为何 [Ken Robinson](https://supermemo.guru/wiki/Ken_Robinson) 会受她批评。也许问题在于「死记硬背」一词的用法。Robinson 可能在批判不过脑子的学习，而 Abadzi 在考虑复习的必要性。标题写的是「玩耍不是必要的」，但 Abadzi 想表达的不是这个观点。也许在解决了术语差异之后，这两位专家会达成一致。
 

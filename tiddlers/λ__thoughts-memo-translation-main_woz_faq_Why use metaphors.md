@@ -6,7 +6,7 @@
 
 ## 比喻的价值
 
-**比喻并不能取代模型或者证明**，它只是选项之一。比喻能够帮助人们理解系统科学（systems science）、控制论（control theory）、最优化理论（optimization）等相关概念。
+ **比喻并不能取代模型或者证明** ，它只是选项之一。比喻能够帮助人们理解系统科学（systems science）、控制论（control theory）、最优化理论（optimization）等相关概念。
 
 例如，许多人相信任由其自由发挥的话，孩子们一定会在[电子游戏](https://supermemo.guru/wiki/Videogames) 或者其他小嗜好上浪费时间。但要知道[自主学习](https://supermemo.guru/wiki/Free_learning)实际上可以获取全方位的知识，全面性知识形成的过程可能需要 1~30 年，它来自于模因科学（memetic science）中的知识融合理论。这种现象的根源是一个演化过程，其中由[学习内驱力](https://supermemo.guru/wiki/Learn_drive)驱动产生的学习策略，确定了[知识树](https://supermemo.guru/wiki/Knowledge_tree)的生长方向。
 

@@ -30,7 +30,7 @@
 
 Matuschak, A., & Nielsen, M. (2019). How can we develop transformative tools for thought? Retrieved December 2, 2019, from https://numinous.productions/ttft
 
-> 具体来说：假设你想为 X 学科（比如 X=微分几何）建立工具。没有深入研习这门学科，是难以创造优质工具的。这就像没有沾过木头就像创作木工工具一样。**Mathematica** 这样的工具趁手好用的原因也在于此——Stephen Wolfram 这一主要设计者，对数学和物理这两门学科抱有由衷的研究兴趣，具备制作优质工具的先决条件。当然，也有些 Mathematica 部件不如人意：这些部件简直像玩具一样，估计 Wolfram 公司内部也没有怎么认真使用过。
+> 具体来说：假设你想为 X 学科（比如 X=微分几何）建立工具。没有深入研习这门学科，是难以创造优质工具的。这就像没有沾过木头就像创作木工工具一样。 **Mathematica** 这样的工具趁手好用的原因也在于此——Stephen Wolfram 这一主要设计者，对数学和物理这两门学科抱有由衷的研究兴趣，具备制作优质工具的先决条件。当然，也有些 Mathematica 部件不如人意：这些部件简直像玩具一样，估计 Wolfram 公司内部也没有怎么认真使用过。
 
 Brooks, F. P., Jr. (1994). The Computer Scientist as Toolsmith II [ACM Allen Newell Award Lecture](https://notes.andymatuschak.org/z3H98n8DGZmu8XArqHZVsckyWvbTe8wK4kAt2). SIGGRAPH.
 
@@ -38,7 +38,7 @@ Brooks, F. P., Jr. (1994). The Computer Scientist as Toolsmith II [ACM Allen New
 
 > 我们因而能对成败开诚布公，而不轻易愚弄自己。
 
-> 我们因而能直面**完整**问题，而不只是简单的，或数学理论完美解决的地方。例如，计算几何中，我们不能避开三重共线点或者四重共面点的情况，不能掩耳盗铃假装病态条件不存在。
+> 我们因而能直面 **完整** 问题，而不只是简单的，或数学理论完美解决的地方。例如，计算几何中，我们不能避开三重共线点或者四重共面点的情况，不能掩耳盗铃假装病态条件不存在。
 
 > 直面完整问题，迫使我们学习更多知识，甚至往往要进军至从未踏足过的疆域，发展计算机科学最前沿。
 

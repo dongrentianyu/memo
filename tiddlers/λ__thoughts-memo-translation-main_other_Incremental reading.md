@@ -1,6 +1,6 @@
 # 渐进阅读
 
-**渐进阅读**是一种软件辅助[学习](https://en.wikipedia.org/wiki/Learning)和在[阅读](https://en.wikipedia.org/wiki/Reading)中记住信息的方法，它涉及从电子版文章中制作[抽认卡](https://en.wikipedia.org/wiki/Flashcard)。“渐进阅读”意味着“分次阅读”。该方法的工作方式是保持一个很长的电子文章或书籍的阅读清单（通常是几十或几百篇），并在每个时段阅读几篇文章的部分内容，而不是一篇一篇的线性阅读。阅读列表中的文章优先次序由用户确定。在阅读过程中，文章的关键点将分解成抽认卡，然后在[间隔重复](https://en.wikipedia.org/wiki/Spaced_repetition)算法的帮助下，进行长期的学习和复习。
+ **渐进阅读** 是一种软件辅助[学习](https://en.wikipedia.org/wiki/Learning)和在[阅读](https://en.wikipedia.org/wiki/Reading)中记住信息的方法，它涉及从电子版文章中制作[抽认卡](https://en.wikipedia.org/wiki/Flashcard)。“渐进阅读”意味着“分次阅读”。该方法的工作方式是保持一个很长的电子文章或书籍的阅读清单（通常是几十或几百篇），并在每个时段阅读几篇文章的部分内容，而不是一篇一篇的线性阅读。阅读列表中的文章优先次序由用户确定。在阅读过程中，文章的关键点将分解成抽认卡，然后在[间隔重复](https://en.wikipedia.org/wiki/Spaced_repetition)算法的帮助下，进行长期的学习和复习。
 
 在渐进阅读的后期阶段使用抽认卡的依据，是[间隔效应](https://en.wikipedia.org/wiki/Spacing_effect)（每次学习在时间上间隔开，学习效果更好的现象）和[测试效应](https://en.wikipedia.org/wiki/Testing_effect)（有学习时间用于通过测试提取要记住的信息，长期记忆会增强）。它针对的是那些试图[终身学习](https://en.wikipedia.org/wiki/Lifelong_learning)，吸收大量信息的人，特别是当这些信息来源各不相同时。
 
@@ -30,11 +30,11 @@
 
 ## 参考文献
 
-1. **[^](https://en.wikipedia.org/wiki/Incremental_reading#cite_ref-1)**[“渐进阅读的历史”](http://super-memory.com/help/il.htm#History_of_incremental_learning)。2017年12月10日检索。SuperMemo 99 迈出了高效阅读电子文章的第一步，引入了阅读列表和原始的阅读工具：摘录和挖空。阅读列表是将阅读文章按优先级排列的列表。摘录可以将较长的文章分割成较短的片段。挖空可以通过句中挖空将短句子转换成问答形式。
+1. **[^](https://en.wikipedia.org/wiki/Incremental_reading#cite_ref-1)** [“渐进阅读的历史”](http://super-memory.com/help/il.htm#History_of_incremental_learning)。2017年12月10日检索。SuperMemo 99 迈出了高效阅读电子文章的第一步，引入了阅读列表和原始的阅读工具：摘录和挖空。阅读列表是将阅读文章按优先级排列的列表。摘录可以将较长的文章分割成较短的片段。挖空可以通过句中挖空将短句子转换成问答形式。
 
-2. **[^](https://en.wikipedia.org/wiki/Incremental_reading#cite_ref-2)**[“渐进阅读的历史”](http://super-memory.com/help/il.htm#History_of_incremental_learning)。2018 年 1 月 3 日检索。SuperMemo 2000 通过引入渐进阅读的概念，大大提高了阅读的效率。
+2. **[^](https://en.wikipedia.org/wiki/Incremental_reading#cite_ref-2)** [“渐进阅读的历史”](http://super-memory.com/help/il.htm#History_of_incremental_learning)。2018 年 1 月 3 日检索。SuperMemo 2000 通过引入渐进阅读的概念，大大提高了阅读的效率。
 
-3. **[^](https://en.wikipedia.org/wiki/Incremental_reading#cite_ref-3)**["渐进阅读的历史"](http://super-memory.com/help/il.htm#History_of_incremental_learning)。2018 年 1 月 3 日检索。
+3. **[^](https://en.wikipedia.org/wiki/Incremental_reading#cite_ref-3)** ["渐进阅读的历史"](http://super-memory.com/help/il.htm#History_of_incremental_learning)。2018 年 1 月 3 日检索。
 
 4. **[^](https://en.wikipedia.org/wiki/Incremental_reading#cite_ref-4)** ["Emacs Wiki: Recent changes to "Incremental Reading""](https://www.emacswiki.org/emacs?action=rc;all=1;from=1;showit=1;rcidonly=IncrementalReading)。2007 年 2 月 25 日。2017 年 12 月 31 日检索。
 
@@ -42,7 +42,7 @@
 
 6. **[^](https://en.wikipedia.org/wiki/Incremental_reading#cite_ref-6)** [Incremental Reading v4.9.13](https://ankiweb.net/shared/info/935264945).来自 AnkiWeb. October 13, 2018.2019 年 3 月 16 日检索。
 
-7. **[^](https://en.wikipedia.org/wiki/Incremental_reading#cite_ref-7)**[渐进学习的组成部分](http://super-memory.com/help/il.htm#Components_of_incremental_learning)。2018 年 1 月 3 日检索。
+7. **[^](https://en.wikipedia.org/wiki/Incremental_reading#cite_ref-7)** [渐进学习的组成部分](http://super-memory.com/help/il.htm#Components_of_incremental_learning)。2018 年 1 月 3 日检索。
 
 8. **[^](https://en.wikipedia.org/wiki/Incremental_reading#cite_ref-8)** Piotr Wozniak. [渐进阅读的优势：提高注意力](https://www.supermemo.com/help/read.htm#Attention)。2017年12月12日检索。
 

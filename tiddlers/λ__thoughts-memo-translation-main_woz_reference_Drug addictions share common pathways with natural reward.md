@@ -12,7 +12,7 @@
 
 *引用的摘录来自以下[参考资料](https://supermemo.guru/wiki/References)：*
 
-标题：**Natural and Drug Rewards Act on Common Neural Plasticity Mechanisms with ΔFosB as a Key Mediator**
+标题： **Natural and Drug Rewards Act on Common Neural Plasticity Mechanisms with ΔFosB as a Key Mediator** 
 
 日期：2013 年
 

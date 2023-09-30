@@ -4,7 +4,7 @@
 
 ## 定义
 
-**语义大脑**是一种理论假设，用于描述大脑健康发展的早期阶段，可以当作催生高[智力](https://supermemo.guru/wiki/Intelligence)的基础来使用。在掌握元认知技巧前，大脑的知识表达部分全然依靠[语义学习](https://supermemo.guru/wiki/Semantic_learning)，进而最大化学习效益。**语义大脑**的特点是丰富的[创造力](https://supermemo.guru/wiki/Creativity)，高效[解决问题](https://supermemo.guru/wiki/Problem_solving)的能力，以及相对较弱的[无语义记忆](https://supermemo.guru/wiki/Asemantic_learning)能力。高效的[语义学习](https://supermemo.guru/wiki/Semantic_learning)与元认知记忆技巧的结合，是促成高[智力](https://supermemo.guru/wiki/Intelligence)发展的关键。
+ **语义大脑** 是一种理论假设，用于描述大脑健康发展的早期阶段，可以当作催生高[智力](https://supermemo.guru/wiki/Intelligence)的基础来使用。在掌握元认知技巧前，大脑的知识表达部分全然依靠[语义学习](https://supermemo.guru/wiki/Semantic_learning)，进而最大化学习效益。 **语义大脑** 的特点是丰富的[创造力](https://supermemo.guru/wiki/Creativity)，高效[解决问题](https://supermemo.guru/wiki/Problem_solving)的能力，以及相对较弱的[无语义记忆](https://supermemo.guru/wiki/Asemantic_learning)能力。高效的[语义学习](https://supermemo.guru/wiki/Semantic_learning)与元认知记忆技巧的结合，是促成高[智力](https://supermemo.guru/wiki/Intelligence)发展的关键。
 
 ## 主动遗忘
 
@@ -20,13 +20,13 @@
 
 ## 自由和记忆
 
-我已经记不清有多少才华横溢的人会[将他们的天赋追溯童年的自由生活](https://supermemo.guru/wiki/Steve_Wozniak:_How_to_raise_a_genius)。**语义大脑理论**暗示，若要孩子智力发展良好，必须尽量减少各种形式的干预。只有在孩子同意的情况下，才允许进行指导。在不影响[语义学习](https://supermemo.guru/wiki/Semantic_learning)的情况下，唯一可以改变孩子成长轨迹的方法，就是改变他们的环境。举个例子，假如孩子执着地想要一台显微镜，那我们应该庆祝他的这份热情，并满足他，即使这个孩子以前总是丢弃他的玩具。反过来说，如果孩子之前从没表示过任何兴趣，也没提出过这样的请求，那么作为父亲的你就算给他送一台显微镜，恐怕也难以产生多大的影响。
+我已经记不清有多少才华横溢的人会[将他们的天赋追溯童年的自由生活](https://supermemo.guru/wiki/Steve_Wozniak:_How_to_raise_a_genius)。 **语义大脑理论** 暗示，若要孩子智力发展良好，必须尽量减少各种形式的干预。只有在孩子同意的情况下，才允许进行指导。在不影响[语义学习](https://supermemo.guru/wiki/Semantic_learning)的情况下，唯一可以改变孩子成长轨迹的方法，就是改变他们的环境。举个例子，假如孩子执着地想要一台显微镜，那我们应该庆祝他的这份热情，并满足他，即使这个孩子以前总是丢弃他的玩具。反过来说，如果孩子之前从没表示过任何兴趣，也没提出过这样的请求，那么作为父亲的你就算给他送一台显微镜，恐怕也难以产生多大的影响。
 
 我见过许多年少有为、智力超群的朋友，他们告诉我，在孩提时代，要记住诗词、乘法表、一周的日期，或者歌曲等东西，对他们来说真是难如登天。想起我自己小时候，记忆力倒是相当出色，总爱借机炫耀一番。但奇怪的是，我对上学初期六七年间在学校的记忆表现，却没有什么印象。我的记忆力似乎都被我对鱼类解剖、复杂化学公式这些热爱的事物给占用了。那些未来的天才们，在学校挣扎，却拥有强大的语义大脑能力，我们应该为他们喝彩，可惜的是，他们往往被冠以「笨」、「愚蠢」或「懒惰」的名头。语义大脑的问题，在学校可能因为[早熟悖论](https://supermemo.guru/wiki/Precocity_paradox)而变得更加复杂。我无法详尽地解释学校时期的爱因斯坦，他可能就是一个典型的，只有在成年之后才有所成就的语义大脑。另一方面，对爱因斯坦大脑的死后研究让我坚信，尽管伟大的头脑通常在伟大的学习和伟大的推理中诞生，[早熟悖论](https://supermemo.guru/wiki/Precocity_paradox)也可能对他产生了影响。爱因斯坦在[建模](https://supermemo.guru/wiki/Model)上非常出色，但在记忆上却相对薄弱。他的语义大脑似乎只是硬着头皮挺过了学校的那些年，然后开始踏上了他通往伟大的道路。
 
 ## 学校习惯
 
-每个孩子一诞生便自带**语义大脑**，而[学校教育](https://supermemo.guru/wiki/Schooling)和过度强调记忆训练却在潜移默化中滋生出无语义学习习惯。家长们可能误打误撞地逼迫孩子去背元素周期表，只因为看到诺贝尔化学奖得主滔滔不绝地列举元素名称。实际上，这样对小小的未来化学家们没有任何好处，反而可能让他们泄气，或者更糟糕的是养成无语义的学习习惯。
+每个孩子一诞生便自带 **语义大脑** ，而[学校教育](https://supermemo.guru/wiki/Schooling)和过度强调记忆训练却在潜移默化中滋生出无语义学习习惯。家长们可能误打误撞地逼迫孩子去背元素周期表，只因为看到诺贝尔化学奖得主滔滔不绝地列举元素名称。实际上，这样对小小的未来化学家们没有任何好处，反而可能让他们泄气，或者更糟糕的是养成无语义的学习习惯。
 
 随着年龄的增长，这些无语义习惯有可能带来的负面影响是，面对复杂的讲座、演讲、文章或视频等，会产生[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)，甚至是恐慌。相反，小孩子或者未曾接受过学校教育的孩子在面对复杂的知识或他人丰富的经验时，从不会产生恐慌。最坏的情况也不过是因为吸收的知识价值不足（即[学习熵](https://supermemo.guru/wiki/Learntropy)低）而感到无聊。
 
@@ -34,7 +34,7 @@
 
 ##  无语义学习
 
-早期学业指导往往是无语义的，而这与**语义大脑**存在冲突（见：[无语义课程](https://supermemo.guru/wiki/Asemantic_curriculum)）。在[自由学习](https://supermemo.guru/wiki/Free_learning)中，孩子的大脑能够借助[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，轻松区分无语义内容。[强迫](https://supermemo.guru/wiki/Coercion)学习的知识，**语义大脑**会主动将其剔除（通常仅需要几秒钟）。
+早期学业指导往往是无语义的，而这与 **语义大脑** 存在冲突（见：[无语义课程](https://supermemo.guru/wiki/Asemantic_curriculum)）。在[自由学习](https://supermemo.guru/wiki/Free_learning)中，孩子的大脑能够借助[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，轻松区分无语义内容。[强迫](https://supermemo.guru/wiki/Coercion)学习的知识， **语义大脑** 会主动将其剔除（通常仅需要几秒钟）。
 
 然而，在学校中，这种语义鉴别能力会迅速被消除。顺服校驯的孩子们会变得善于[死记硬背](https://supermemo.guru/wiki/Cramming)，但却丧失了[语义学习](https://supermemo.guru/wiki/Semantic_learning)的技能。如果一个孩子足够敏感，他可能很快成为一名好学生。对于他来说，背诵诗歌和歌曲是易如反掌的。然而，这并不能视为他具备[高智力](https://supermemo.guru/wiki/Intelligence)的明证。
 
@@ -46,21 +46,21 @@
 
 ## 例子
 
-很多事业有成的人士似乎都成功地将其**语义大脑**保留到了成年。元认知记忆技巧或许对提升效率、增强[智力](https://supermemo.guru/wiki/Intelligence)或者成功生活有所助益，然而，特别是在青少年时期，这些技巧的发展需要足够谨慎。过度强调记忆训练可能会妨碍语义大脑的流畅运行。形象来说，大脑可能会寻找记忆的快捷方式，从而让自己从推理的负担中解脱出来。如果用专家系统的术语来描述，这可以被视为事实和规则之间的高效平衡。在很多方面，**语义大脑**和所谓的「[愚蠢天才](https://en.wikipedia.org/wiki/Savant_syndrome)」症状刚好相反。
+很多事业有成的人士似乎都成功地将其 **语义大脑** 保留到了成年。元认知记忆技巧或许对提升效率、增强[智力](https://supermemo.guru/wiki/Intelligence)或者成功生活有所助益，然而，特别是在青少年时期，这些技巧的发展需要足够谨慎。过度强调记忆训练可能会妨碍语义大脑的流畅运行。形象来说，大脑可能会寻找记忆的快捷方式，从而让自己从推理的负担中解脱出来。如果用专家系统的术语来描述，这可以被视为事实和规则之间的高效平衡。在很多方面， **语义大脑** 和所谓的「[愚蠢天才](https://en.wikipedia.org/wiki/Savant_syndrome)」症状刚好相反。
 
 [John Taylor Gatto](https://supermemo.guru/wiki/John_Taylor_Gatto) 介绍了 Richard Branson 的案例。他特别强调了小 Richard 如何面对母亲给予的广泛自由所带来的种种挑战。如今的 Branson，已然成为商业领域的翘楚。然而，他似乎有着类似特朗普的个人习惯，对细枝末节的事情不太上心。他甚至对自己的粗心大意和派人做事的能力感到自豪（参见[视频](https://www.youtube.com/watch?v=HpvF5xCQ7s8)）。
 
-再来看阿尔伯特·爱因斯坦，他是另一位引人瞩目的人物。他对学校的厌恶正是他**语义大脑**的体现，同时，这也帮助他建立起卓越的[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)，让他能够像你我规划购物那样轻松地推理出物理世界的规律。
+再来看阿尔伯特·爱因斯坦，他是另一位引人瞩目的人物。他对学校的厌恶正是他 **语义大脑** 的体现，同时，这也帮助他建立起卓越的[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)，让他能够像你我规划购物那样轻松地推理出物理世界的规律。
 
-Maryanne Wolf 博士将**语义大脑**称为阅读障碍脑。也就是说，这种大脑还未达到阅读的准备状态。这个说法源自于一个观察，那就是对抽象知识记忆力弱有可能助长了「[教育性阅读障碍](https://supermemo.guru/wiki/Educational_dyslexia)」的发展。人类一直都是优秀的问题解决者。他们偶尔在阅读上会遇到困难，因为他们的**语义大脑**对阅读技巧的适应性较弱。每个人都需要找出如何调动大脑皮质特定区域的能力来解读文字。在[自由学习](https://supermemo.guru/wiki/Free_learning)的环境中，采用自然的全语言法，并结合自然拼读法，是一种简单、缓慢、渐进和有效的策略。
+Maryanne Wolf 博士将 **语义大脑** 称为阅读障碍脑。也就是说，这种大脑还未达到阅读的准备状态。这个说法源自于一个观察，那就是对抽象知识记忆力弱有可能助长了「[教育性阅读障碍](https://supermemo.guru/wiki/Educational_dyslexia)」的发展。人类一直都是优秀的问题解决者。他们偶尔在阅读上会遇到困难，因为他们的 **语义大脑** 对阅读技巧的适应性较弱。每个人都需要找出如何调动大脑皮质特定区域的能力来解读文字。在[自由学习](https://supermemo.guru/wiki/Free_learning)的环境中，采用自然的全语言法，并结合自然拼读法，是一种简单、缓慢、渐进和有效的策略。
 
 ## SuperMemo 中的语义大脑
 
-**语义大脑**看起来挑战了 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的规则。在理想的**语义大脑**中，知识基本就分成两堆：一堆是因为[关联性](https://supermemo.guru/wiki/Applicability)强所以好记的，另一堆是因为没有[连贯性](https://supermemo.guru/wiki/Coherent)所以怎么也记不住的。这种现象在 [SM-17 算法](https://supermemo.guru/wiki/Algorithm_SM-17)中表现得尤为明显，这个算法明显倾向于把知识硬生生地分成「易如反掌」和「难如登天」两种[条目](https://supermemo.guru/wiki/Item)（而老版本的算法在难度分布上就显得平均多了）。
+ **语义大脑** 看起来挑战了 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的规则。在理想的 **语义大脑** 中，知识基本就分成两堆：一堆是因为[关联性](https://supermemo.guru/wiki/Applicability)强所以好记的，另一堆是因为没有[连贯性](https://supermemo.guru/wiki/Coherent)所以怎么也记不住的。这种现象在 [SM-17 算法](https://supermemo.guru/wiki/Algorithm_SM-17)中表现得尤为明显，这个算法明显倾向于把知识硬生生地分成「易如反掌」和「难如登天」两种[条目](https://supermemo.guru/wiki/Item)（而老版本的算法在难度分布上就显得平均多了）。
 
-新算法还揭露了另一重要发现，这关乎那些被非常小的孩子（即在接受[学校教育](https://supermemo.guru/wiki/Schooling)前的孩子）使用的[集合](https://supermemo.guru/wiki/Collection)。在我写的一篇名为《[SuperMemo 对儿童不起作用](https://supermemo.guru/wiki/SuperMemo_does_not_work_for_children)》的文章中，我强调了**语义大脑**在记忆方面的表现并不出色，SuperMemo应当只被自愿并[自发学习](https://supermemo.guru/wiki/Self-learning)的人使用。许多体验过 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 强大功能的用户尝试让他们的孩子使用它，然而结果总是让人有些失望。在父母的指导下运行 SuperMemo，和上学的情况没什么两样，很少能达到对成年人那样的效果。一个重要的结论是，「平坦」的[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)似乎表明所有的学习都是在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 之外进行的。在这种情况下，SuperMemo 只充当了一个识别哪些[条目](https://supermemo.guru/wiki/Item)不易记住的算法工具，而并非一种学习工具。
+新算法还揭露了另一重要发现，这关乎那些被非常小的孩子（即在接受[学校教育](https://supermemo.guru/wiki/Schooling)前的孩子）使用的[集合](https://supermemo.guru/wiki/Collection)。在我写的一篇名为《[SuperMemo 对儿童不起作用](https://supermemo.guru/wiki/SuperMemo_does_not_work_for_children)》的文章中，我强调了 **语义大脑** 在记忆方面的表现并不出色，SuperMemo应当只被自愿并[自发学习](https://supermemo.guru/wiki/Self-learning)的人使用。许多体验过 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 强大功能的用户尝试让他们的孩子使用它，然而结果总是让人有些失望。在父母的指导下运行 SuperMemo，和上学的情况没什么两样，很少能达到对成年人那样的效果。一个重要的结论是，「平坦」的[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)似乎表明所有的学习都是在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 之外进行的。在这种情况下，SuperMemo 只充当了一个识别哪些[条目](https://supermemo.guru/wiki/Item)不易记住的算法工具，而并非一种学习工具。
 
-一个同样有趣的观察是，平坦的[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)可能就是[回忆率](https://supermemo.guru/wiki/Recall)与学习材料[难度](https://supermemo.guru/wiki/Difficulty)之间的直接反映。例如，在学习韩语（不太熟悉）的过程中，平均[回忆率](https://supermemo.guru/wiki/Recall)可能只能维持在相对平坦的 20% 左右。但是，同一个孩子在学习意大利语（相对熟悉）时，回忆率可能能达到 70%。如果我们把不同难度的学习内容混合在同一个[集合](https://supermemo.guru/wiki/Collection)中，就可能出现一条首次遗忘曲线，这条曲线给人的感觉是，随着时间间隔的增长，回忆率似乎有所提高。这种反向的曲线在成年人的学习过程中也有所观察到，他们在把不同难度的学习内容混合在一起后也会出现这种情况。然而，如果在一个包含了不同难度的混合[学习内容](https://supermemo.guru/wiki/Item)的集合中，每个内容都收到了为整个集合优化的[首次间隔](https://supermemo.guru/wiki/First_interval)，那么我们的**语义大脑**可能仍然会呈现出正常的遗忘曲线，这条曲线符合幂函数的规律。
+一个同样有趣的观察是，平坦的[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)可能就是[回忆率](https://supermemo.guru/wiki/Recall)与学习材料[难度](https://supermemo.guru/wiki/Difficulty)之间的直接反映。例如，在学习韩语（不太熟悉）的过程中，平均[回忆率](https://supermemo.guru/wiki/Recall)可能只能维持在相对平坦的 20% 左右。但是，同一个孩子在学习意大利语（相对熟悉）时，回忆率可能能达到 70%。如果我们把不同难度的学习内容混合在同一个[集合](https://supermemo.guru/wiki/Collection)中，就可能出现一条首次遗忘曲线，这条曲线给人的感觉是，随着时间间隔的增长，回忆率似乎有所提高。这种反向的曲线在成年人的学习过程中也有所观察到，他们在把不同难度的学习内容混合在一起后也会出现这种情况。然而，如果在一个包含了不同难度的混合[学习内容](https://supermemo.guru/wiki/Item)的集合中，每个内容都收到了为整个集合优化的[首次间隔](https://supermemo.guru/wiki/First_interval)，那么我们的 **语义大脑** 可能仍然会呈现出正常的遗忘曲线，这条曲线符合幂函数的规律。
 
 [[img [A forgetting curve from a preschooler's SuperMemo collection|https://supermemo.guru/images/thumb/5/56/Forgetting_curve_from_preschoolers_SuperMemo_collection.jpg/600px-Forgetting_curve_from_preschoolers_SuperMemo_collection.jpg]]](https://supermemo.guru/wiki/File:Forgetting_curve_from_preschoolers_SuperMemo_collection.jpg)
 

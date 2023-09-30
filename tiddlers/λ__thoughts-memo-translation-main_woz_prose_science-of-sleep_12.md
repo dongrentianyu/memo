@@ -22,7 +22,7 @@
 
 0 阶段的小睡是指在醒来后立即进行的小睡，即上图中的[昼夜节律相位](https://supermemo.guru/wiki/Circadian_phase) 0。在 0 阶段打盹是可能的，主要取决于之前的睡眠历史。正常夜间睡眠后的0阶段小睡可被视为夜间睡眠的补充，例如，如果夜间睡眠不够有效。在睡眠模型中，这种小睡与夜间睡眠相辅相成，在夜间睡眠被打断的情况下（如被噪音、膀胱爆裂、健康问题等），这是延长夜间睡眠的有效方法。一晚不睡后第 0 阶段小睡可以低效地替代夜间睡眠。这样的睡眠短暂，不能解乏，留下睡眠债务。它还会在[昼夜节律系统](https://supermemo.guru/wiki/Circadian)中引入不受欢迎的振荡，可能需要几天时间才能消失。夜班工人经常用这种睡眠为白天提供一些精神动力。0 阶段的睡眠仍然比不睡觉好得多。规则很简单：
 
-**如果在第 0 阶段你很困，可以随意打盹**。显然你的大脑需要更多的睡眠
+ **如果在第 0 阶段你很困，可以随意打盹** 。显然你的大脑需要更多的睡眠
 
 #### 12.2.2 第三阶段：创造力时间
 
@@ -36,7 +36,7 @@
 
 小睡的最佳时间。从图中可以看出，[第 7 阶段](https://supermemo.guru/wiki/Circadian_phase)是精神表现在中午处于低谷的时期（瞄准第 7 阶段，以确保迟到仍然会将午睡放在低谷内）。并不是说低谷期是由丰盛的午餐引起的（尽管膳食对睡眠控制有很大影响）。底点是[昼夜节律](https://supermemo.guru/wiki/Circadian_cycle)波的一种自然表现。这个[昼夜节律相位](https://supermemo.guru/wiki/Circadian_phase)的低谷时间与[主观黑夜](https://supermemo.guru/wiki/Subjective_night)的低谷时间大致间隔 12 小时交替出现，出现时的钟表时间大致相同。（例如，如果你的黑夜中间在凌晨 3 点，下午 3 点的小睡可能是最有效的）。这在「[如何午睡](http://www.boston.com/bostonglobe/ideas/naps/)」中有很好的解释。[午睡](https://supermemo.guru/wiki/Siesta)的好处已被许多研究证实。它在世界许多地区已经实行了很久。[它肯定会渗入企业界](https://www.bloomberg.com/news/articles/2010-08-26/napping-gets-a-nod-at-the-workplace)，因为人类的生产力越来越依赖于我们的[创造能力](https://supermemo.guru/wiki/How_to_solve_any_problem%3F)。
 
-**对于大脑、健康和生产力，自然醒过后 7 小时的打盹是最好的**
+ **对于大脑、健康和生产力，自然醒过后 7 小时的打盹是最好的** 
 
 #### 12.2.5 第 11 阶段：晚间
 
@@ -44,35 +44,35 @@
 
 #### 12.2.6 第 13 阶段：入睡前
 
-这是一个特别不适合午睡的时间。在这个时候启动小睡应该是相对容易的。然而，睡前小睡可能会产生以下不受欢迎的结果之一。**长睡-短夜**或**长夜-早醒**（取决于[睡眠控制系统]（https://supermemo.guru/wiki/Sleep_control_system）的当前状态）。睡眠前的小睡可能会导致触发夜间睡眠序列。然而，这个序列并不是不可打破的，可能会导致早醒，再加上难以重新启动睡眠（[失眠](https://supermemo.guru/wiki/Insomnia)）。如果[homeostatic](https://supermemo.guru/wiki/Homeostatic)睡眠过程产生大量的困倦，而[circadian](https://supermemo.guru/wiki/Circadian)睡眠过程还没有成熟的夜间睡眠，这种情况就特别可能。因此，这种睡眠前的小睡可以产生比正常夜间睡眠更少的总睡眠。这种**长睡-短夜**不会完全实现睡眠的生理功能。因此，你第二天的警觉水平可能会大幅下降。睡眠前小睡的不幸结果较少，如果你成功触发不间断的夜间睡眠序列。然而，在睡眠的[昼夜节律](https://supermemo.guru/wiki/Circadian)功能完成之前，你很可能会过早地耗尽[平衡状态](https://supermemo.guru/wiki/Homeostatic)的过程。你可能会比平时更早醒来。这就是**长夜早醒**的结果，考虑到过早的睡眠往往比普通的夜间睡眠时间长得多，所以产生的夜晚令人吃惊地不清爽。这种低睡眠效率的原因可能是[快速眼动睡眠](https://supermemo.guru/wiki/REM_sleep)的稀缺，而快速眼动睡眠具有强烈的[昼夜节律](https://supermemo.guru/wiki/Circadian)。此外，由于[昼夜节律的原因](https://supermemo.guru/wiki/Sleep_phase)，你的早晨很可能会异常困倦！
+这是一个特别不适合午睡的时间。在这个时候启动小睡应该是相对容易的。然而，睡前小睡可能会产生以下不受欢迎的结果之一。 **长睡-短夜** 或 **长夜-早醒** （取决于[睡眠控制系统]（https://supermemo.guru/wiki/Sleep_control_system）的当前状态）。睡眠前的小睡可能会导致触发夜间睡眠序列。然而，这个序列并不是不可打破的，可能会导致早醒，再加上难以重新启动睡眠（[失眠](https://supermemo.guru/wiki/Insomnia)）。如果[homeostatic](https://supermemo.guru/wiki/Homeostatic)睡眠过程产生大量的困倦，而[circadian](https://supermemo.guru/wiki/Circadian)睡眠过程还没有成熟的夜间睡眠，这种情况就特别可能。因此，这种睡眠前的小睡可以产生比正常夜间睡眠更少的总睡眠。这种 **长睡-短夜** 不会完全实现睡眠的生理功能。因此，你第二天的警觉水平可能会大幅下降。睡眠前小睡的不幸结果较少，如果你成功触发不间断的夜间睡眠序列。然而，在睡眠的[昼夜节律](https://supermemo.guru/wiki/Circadian)功能完成之前，你很可能会过早地耗尽[平衡状态](https://supermemo.guru/wiki/Homeostatic)的过程。你可能会比平时更早醒来。这就是 **长夜早醒** 的结果，考虑到过早的睡眠往往比普通的夜间睡眠时间长得多，所以产生的夜晚令人吃惊地不清爽。这种低睡眠效率的原因可能是[快速眼动睡眠](https://supermemo.guru/wiki/REM_sleep)的稀缺，而快速眼动睡眠具有强烈的[昼夜节律](https://supermemo.guru/wiki/Circadian)。此外，由于[昼夜节律的原因](https://supermemo.guru/wiki/Sleep_phase)，你的早晨很可能会异常困倦！
 
 #### 12.2.7 第 15 阶段：分段式睡眠
 
 第 15 阶段的午睡应被视为 「早睡」。如果在这个时候入睡，你可以期待以下任何一种情况（取决于[睡眠债务](https://supermemo.guru/wiki/Sleep_deprivation)的程度）：
 
-- 如果你没有携带睡眠债务：在床上有一些**非生产性时间**，因为你可能[无法入睡](https://supermemo.guru/wiki/Insomnia)。
+- 如果你没有携带睡眠债务：在床上有一些 **非生产性时间** ，因为你可能[无法入睡](https://supermemo.guru/wiki/Insomnia)。
 
-- 睡眠前的结果如第 13 阶段的睡眠：长时间的午睡加上短暂的夜晚，或长夜-早醒。这种结果很可能会让你**不振奋**。
+- 睡眠前的结果如第 13 阶段的睡眠：长时间的午睡加上短暂的夜晚，或长夜-早醒。这种结果很可能会让你 **不振奋** 。
 
-- **[分段式睡眠](https://supermemo.guru/wiki/Segmented_sleep)**：你会睡着，但会在夜里醒来 1-2 个小时，然后才重新睡着。这种幸运的结果会让你相当精神。
+- **[分段式睡眠](https://supermemo.guru/wiki/Segmented_sleep)** ：你会睡着，但会在夜里醒来 1-2 个小时，然后才重新睡着。这种幸运的结果会让你相当精神。
 
-- **长夜**：在少数情况下，特别是如果你睡眠不足，早睡会导致一个漂亮的长夜，使人精神振奋。
+- **长夜** ：在少数情况下，特别是如果你睡眠不足，早睡会导致一个漂亮的长夜，使人精神振奋。
 
 由于第 15 阶段睡眠的不稳定性，它应该只在睡眠匮乏的情况下使用，这为积极的结果提供了良好的机会。否则，早睡在最好的情况下可能是无益的，在最坏的情况下可能对睡眠质量不利。
 
 #### 12.2.8 第 18-24 阶段：夜间睡眠
 
-如果你试图在第 18-24 阶段打盹，你势必会引发正常的健康夜眠。只要你不抱着在 20-40 分钟内停止这一过程的邪恶意图去「打盹」，这就可以了。这里是[多相睡眠]（https://supermemo.guru/wiki/Polyphasic_sleep）的痛苦变得最难忍受的地方。正如Stampi博士几十年前注意到的，最令人气愤的不是保持清醒或入睡的问题。多相性生活](https://supermemo.guru/wiki/Science_of_polyphasic_sleep)中最痛苦的部分是当你的大脑想要触发夜间睡眠序列，而多相性的行家却顽固地不允许它（Stampi 1992[[|λ:/thoughts-memo-translation-main/20/]](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life#cite_note-stampi-1992-20)）！这和任何其他突然停止的全有或全无的生理过程（排尿、排便、高潮、吞咽、心跳、打喷嚏、咳嗽、分娩等）一样，是一种糟糕的中断。许多多相性博主指出：「**我注意到，当我的小睡时间变长时，我就会昏昏欲睡。所以我试图把它们保持在 20 分钟以内**」。咄咄怪事!如果你不启动夜间睡眠序列，你就不会遭受中断的痛苦。那为什么首先要打盹呢？延迟排便比中途停止排便更容易。我遇到的最不寻常的夜间午睡控制方法是...「**我在床上放了很多垃圾。这使我的午睡时间很短**」！
+如果你试图在第 18-24 阶段打盹，你势必会引发正常的健康夜眠。只要你不抱着在 20-40 分钟内停止这一过程的邪恶意图去「打盹」，这就可以了。这里是[多相睡眠]（https://supermemo.guru/wiki/Polyphasic_sleep）的痛苦变得最难忍受的地方。正如Stampi博士几十年前注意到的，最令人气愤的不是保持清醒或入睡的问题。多相性生活](https://supermemo.guru/wiki/Science_of_polyphasic_sleep)中最痛苦的部分是当你的大脑想要触发夜间睡眠序列，而多相性的行家却顽固地不允许它（Stampi 1992[[|λ:/thoughts-memo-translation-main/20/]](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life#cite_note-stampi-1992-20)）！这和任何其他突然停止的全有或全无的生理过程（排尿、排便、高潮、吞咽、心跳、打喷嚏、咳嗽、分娩等）一样，是一种糟糕的中断。许多多相性博主指出：「 **我注意到，当我的小睡时间变长时，我就会昏昏欲睡。所以我试图把它们保持在 20 分钟以内** 」。咄咄怪事!如果你不启动夜间睡眠序列，你就不会遭受中断的痛苦。那为什么首先要打盹呢？延迟排便比中途停止排便更容易。我遇到的最不寻常的夜间午睡控制方法是...「 **我在床上放了很多垃圾。这使我的午睡时间很短** 」！
 
 ## 12.3 午睡规则
 
 午睡应该在[阶段](https://supermemo.guru/wiki/Siesta) 7-8 的[午睡]时间进行。还要记住：
 
-- **[小睡阶段](https://supermemo.guru/wiki/Circadian_phase)是相对于最佳的自然觉醒时间而言的，而不是实际的觉醒时间！**例如，在过早的睡眠中，或在中断的睡眠中，有效的小睡可以在醒来后 10 小时内进行。如果你的睡眠不完全是自然的，你需要修正你的[昼夜节律周期](https://supermemo.guru/wiki/Circadian_cycle)，这可能是独立于你的实际睡眠时间在后台运行。不幸的是，绝大多数有[睡眠相位问题](https://supermemo.guru/wiki/DSPS)的人都不知道如何有效地测量和绘制他们的自然周期
+- **[小睡阶段](https://supermemo.guru/wiki/Circadian_phase)是相对于最佳的自然觉醒时间而言的，而不是实际的觉醒时间！** 例如，在过早的睡眠中，或在中断的睡眠中，有效的小睡可以在醒来后 10 小时内进行。如果你的睡眠不完全是自然的，你需要修正你的[昼夜节律周期](https://supermemo.guru/wiki/Circadian_cycle)，这可能是独立于你的实际睡眠时间在后台运行。不幸的是，绝大多数有[睡眠相位问题](https://supermemo.guru/wiki/DSPS)的人都不知道如何有效地测量和绘制他们的自然周期
 
-- **两个警觉谷在生物学上是不同的！**只有[夜间谷](https://supermemo.guru/wiki/Subjective_night)能产生典型的长时间周期性的[NREM](https://supermemo.guru/wiki/NREM)-[REM](https://supermemo.guru/wiki/REM)相互作用，[REM](https://supermemo.guru/wiki/REM)的比例逐渐增加。[主观夜间](https://supermemo.guru/wiki/Subjective_night)期的特点是增加释放[褪黑激素](https://supermemo.guru/wiki/Factors_that_affect_sleep#Melatonin)。在[双相睡眠](https://supermemo.guru/wiki/Biphasic_sleep)中，[午睡](https://supermemo.guru/wiki/Siesta)睡眠的长度比自然夜间睡眠短 4-20 倍。[相位反应](https://supermemo.guru/wiki/PRC)是由[夜间睡眠](https://supermemo.guru/wiki/Zeitgeber)之前或之后的[刺激物](https://supermemo.guru/wiki/Subjective_night)引起的。然而，同样的刺激可能会影响[午睡](https://supermemo.guru/wiki/Siesta)的时间，而这又可能间接影响[睡眠相位](https://supermemo.guru/wiki/Sleep_phase)。
+- **两个警觉谷在生物学上是不同的！** 只有[夜间谷](https://supermemo.guru/wiki/Subjective_night)能产生典型的长时间周期性的[NREM](https://supermemo.guru/wiki/NREM)-[REM](https://supermemo.guru/wiki/REM)相互作用，[REM](https://supermemo.guru/wiki/REM)的比例逐渐增加。[主观夜间](https://supermemo.guru/wiki/Subjective_night)期的特点是增加释放[褪黑激素](https://supermemo.guru/wiki/Factors_that_affect_sleep#Melatonin)。在[双相睡眠](https://supermemo.guru/wiki/Biphasic_sleep)中，[午睡](https://supermemo.guru/wiki/Siesta)睡眠的长度比自然夜间睡眠短 4-20 倍。[相位反应](https://supermemo.guru/wiki/PRC)是由[夜间睡眠](https://supermemo.guru/wiki/Zeitgeber)之前或之后的[刺激物](https://supermemo.guru/wiki/Subjective_night)引起的。然而，同样的刺激可能会影响[午睡](https://supermemo.guru/wiki/Siesta)的时间，而这又可能间接影响[睡眠相位](https://supermemo.guru/wiki/Sleep_phase)。
 
-- **小睡的时间将决定其结构。**一些研究人员认为，由于小睡的时间决定了 [NREM 睡眠](https://supermemo.guru/wiki/NREM_sleep)与 [REM 睡眠](https://supermemo.guru/wiki/REM_sleep)的比例，这也会影响小睡对某一特定类型的精神任务的效率。如果你想让特定任务的价值/时间最大化，这可能是真的。然而，对于睡眠优化，你应该总是去追求最大的总价值。这就是为什么最好的午睡是与你中午[昼夜节律](https://supermemo.guru/wiki/Circadian)的警觉性下降相一致的午睡。
+- **小睡的时间将决定其结构。** 一些研究人员认为，由于小睡的时间决定了 [NREM 睡眠](https://supermemo.guru/wiki/NREM_sleep)与 [REM 睡眠](https://supermemo.guru/wiki/REM_sleep)的比例，这也会影响小睡对某一特定类型的精神任务的效率。如果你想让特定任务的价值/时间最大化，这可能是真的。然而，对于睡眠优化，你应该总是去追求最大的总价值。这就是为什么最好的午睡是与你中午[昼夜节律](https://supermemo.guru/wiki/Circadian)的警觉性下降相一致的午睡。
 
 良好的午睡条件是很重要的。在半躺的位置，或在嘈杂的房间，或在明亮的灯光下小睡，也会有利于你的警觉性（条件是你确实设法睡着了，也许还能通过第一阶段 NREM）。然而，在一个有利于睡眠的环境中小睡，往往会持续更长的时间，而且更令人精神振奋。
 
@@ -88,6 +88,6 @@
 
 如果你想睡得好，工作效率高，请选择[双相睡眠](https://supermemo.guru/wiki/Biphasic_sleep)、单相睡眠或[自由运行睡眠](https://supermemo.guru/wiki/Free_running_sleep)，以最适合你的方式为准，也以你能负担得起的方式为准。
 
-**[自由运行的睡眠](https://supermemo.guru/wiki/Free_running_sleep)与日光周期同步，是最健康的睡眠形式，将导致最高的生产力**。
+ **[自由运行的睡眠](https://supermemo.guru/wiki/Free_running_sleep)与日光周期同步，是最健康的睡眠形式，将导致最高的生产力** 。
 
 一旦你自由运行，你会很快确定你是喜欢[双相](https://supermemo.guru/wiki/Biphasic_life)还是单相睡眠。在创造性的生活方式中，[双相睡眠](https://supermemo.guru/wiki/Biphasic_sleep)会带来更高的生产力。见：[自然创造周期](https://supermemo.guru/wiki/Natural_creativity_cycle)。

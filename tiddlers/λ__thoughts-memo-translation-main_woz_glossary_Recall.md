@@ -2,9 +2,9 @@
 
 原文：[Recall - supermemo.guru](https://supermemo.guru/wiki/Recall)
 
-**记忆召回**是将信息从记忆中提取出来的能力。当以百分比表示时，它也被称为**记忆保留率**。它是衡量一组记忆的[可提取性](https://supermemo.guru/wiki/Retrievability)（R）的指标之一。例如，假设我们在 10 个记过的条目中记住了 8 个，我们可以说召回/保留率是 80%（R=0.8）。在一组[可提取性](https://supermemo.guru/wiki/Retrievability)为 R 的记忆中，平均召回率 R 与[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)无关。
+ **记忆召回** 是将信息从记忆中提取出来的能力。当以百分比表示时，它也被称为 **记忆保留率** 。它是衡量一组记忆的[可提取性](https://supermemo.guru/wiki/Retrievability)（R）的指标之一。例如，假设我们在 10 个记过的条目中记住了 8 个，我们可以说召回/保留率是 80%（R=0.8）。在一组[可提取性](https://supermemo.guru/wiki/Retrievability)为 R 的记忆中，平均召回率 R 与[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)无关。
 
-[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)展示了平均**记忆召回**随着时间下降。*召回**在学习或[复习](https://supermemo.guru/wiki/Review)后的瞬间达到 100%。随着时间的推移，召回下降的速度取决于[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)。
+[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)展示了平均 **记忆召回** 随着时间下降。*召回**在学习或[复习](https://supermemo.guru/wiki/Review)后的瞬间达到 100%。随着时间的推移，召回下降的速度取决于[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)。
 
 本[术语表](https://supermemo.guru/wiki/Glossary)条目用于解释《[我永远不会送我的孩子去学校](https://supermemo.guru/wiki/Problem_of_Schooling)》（2017）作者：[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)
 

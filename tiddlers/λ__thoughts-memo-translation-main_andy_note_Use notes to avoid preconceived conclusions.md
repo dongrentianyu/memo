@@ -2,7 +2,7 @@
 
 原文：[Use notes to avoid preconceived conclusions (andymatuschak.org)](https://notes.andymatuschak.org/z6Mx6PrJjGCf2akGM9pvoZ5Nk3EozcZcc9zHx)
 
-在编辑手稿时，人们往往一开始脑中已经有了一个结论（或至少是一个角度），然后我们的写作或研究就着眼于支持这个想法。如果我们不够谨慎，那么这些先入为主的观念就会扭曲我们的思维。但是，如果我们一开始就从[应该是原子化的常青笔记](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)写起，我们就可以让结论和主题从我们的周密思考中自然**涌现**出来。
+在编辑手稿时，人们往往一开始脑中已经有了一个结论（或至少是一个角度），然后我们的写作或研究就着眼于支持这个想法。如果我们不够谨慎，那么这些先入为主的观念就会扭曲我们的思维。但是，如果我们一开始就从[应该是原子化的常青笔记](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)写起，我们就可以让结论和主题从我们的周密思考中自然 **涌现** 出来。
 
 ------
 

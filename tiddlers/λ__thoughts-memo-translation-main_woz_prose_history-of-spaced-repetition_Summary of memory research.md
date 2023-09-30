@@ -10,11 +10,11 @@
 
 - 术语不一致，结果陷入遗忘和重新发现实验结论的循环！
 
-上述内容与我对**[失败的因素](https://supermemo.guru/wiki/Why_spaced_repetition_research_kept_failing%3F#Formula_for_research_failure)**的排名一致。除非个人电脑和网络现身，否则人们很难摆脱这种恶性循环。
+上述内容与我对 **[失败的因素](https://supermemo.guru/wiki/Why_spaced_repetition_research_kept_failing%3F#Formula_for_research_failure)** 的排名一致。除非个人电脑和网络现身，否则人们很难摆脱这种恶性循环。
 
 ## 间隔重复直觉
 
-当我们问青少年一组关于他们的记忆是如何工作的问题时，很大一部分人在没有进行任何测量的情况下，就能很好地猜测出重复间隔。特别是，他们经常正确地猜测第一个最佳间隔可能是 1-7 天，并且连续的间隔会增加。此外，许多人可能会猜测第二个间隔可能是一个月，而且连续的间隔可能会增加一倍。换句话说，**间隔重复是一种常见的直觉**。
+当我们问青少年一组关于他们的记忆是如何工作的问题时，很大一部分人在没有进行任何测量的情况下，就能很好地猜测出重复间隔。特别是，他们经常正确地猜测第一个最佳间隔可能是 1-7 天，并且连续的间隔会增加。此外，许多人可能会猜测第二个间隔可能是一个月，而且连续的间隔可能会增加一倍。换句话说， **间隔重复是一种常见的直觉** 。
 
 ## 早期记忆研究
 
@@ -42,13 +42,13 @@ C. A. 梅斯于 1932 年出版的畅销书中，提出了一个简单的[间隔�
 
 ## 1972 年：莱特纳盒
 
-在 SuperMemo 之前，在间隔复习领域最大的实践和算法上的成功要归功于[塞巴斯蒂安·莱特纳](https://en.wikipedia.org/wiki/Sebastian_Leitner)。1972 年，他提出了**莱特纳盒子系统**。在莱特纳系统中，抽认卡被按优先级排序，并被转储到对应不同[稳定性](https://supermemo.guru/wiki/Stability)级别的盒子中。与之前提出的理论建议相比，莱特纳系统有一个巨大的优势：它是实用的。这是一个任何人都可以使用的系统，几乎不需要介绍。即使是写在纸上的 SuperMemo(1985) 相比之下也显得复杂。
+在 SuperMemo 之前，在间隔复习领域最大的实践和算法上的成功要归功于[塞巴斯蒂安·莱特纳](https://en.wikipedia.org/wiki/Sebastian_Leitner)。1972 年，他提出了 **莱特纳盒子系统** 。在莱特纳系统中，抽认卡被按优先级排序，并被转储到对应不同[稳定性](https://supermemo.guru/wiki/Stability)级别的盒子中。与之前提出的理论建议相比，莱特纳系统有一个巨大的优势：它是实用的。这是一个任何人都可以使用的系统，几乎不需要介绍。即使是写在纸上的 SuperMemo(1985) 相比之下也显得复杂。
 
 [[img [An alternative method of Leitner System where incorrect answers are only moved back by one box|https://supermemo.guru/images/4/4d/Leitner_system.png]]](https://supermemo.guru/wiki/File:Leitner_system.png)
 
 > 图：一个错误的[莱特纳系统](https://supermemo.guru/wiki/Leitner_system)变种，不正确的回答只往回移一个盒子（来源：Wikipedia）。这个变种在 Duolingo 中使用了一段时间
 
-**莱特纳盒子不是一个间隔重复工具**。它是一个排序工具。没有间隔的概念，更不用说[最优间隔](https://supermemo.guru/wiki/Optimum_interval)。盒子的名称来源于最初的实现，以物理闪卡盒的形式出现，与时间无关。当莱特纳盒子定期用于一个小型的抽卡片集合时，它会模拟[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的行为。如果间隔太短，就会导致[死记硬背](https://supermemo.guru/wiki/Cramming)。如果太长，就会导致次优结果。然而，在 SuperMemo，低优先级的材料也可能周期性推迟，并产生很长的间隔，这会降低预期的[稳定性增长](https://supermemo.guru/wiki/Stability_increase)，但对于记忆时间较长的卡片，[稳定性增长](https://supermemo.guru/wiki/Stability_increase)会变得较大。在 20 世纪 90 年代和新千年之初，莱特纳系统被用于许多成功的闪卡应用。随着他们不断修改和改进复习程序，这些应用程序实际上可能已经发展成为一个成熟的间隔重复系统。即使他们的应用由于 SuperMemo 的被证明容易实现且非常优秀的 [SM-2 算法](https://supermemo.guru/wiki/Algorithm_SM-2)的流行愈发减少。
+ **莱特纳盒子不是一个间隔重复工具** 。它是一个排序工具。没有间隔的概念，更不用说[最优间隔](https://supermemo.guru/wiki/Optimum_interval)。盒子的名称来源于最初的实现，以物理闪卡盒的形式出现，与时间无关。当莱特纳盒子定期用于一个小型的抽卡片集合时，它会模拟[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的行为。如果间隔太短，就会导致[死记硬背](https://supermemo.guru/wiki/Cramming)。如果太长，就会导致次优结果。然而，在 SuperMemo，低优先级的材料也可能周期性推迟，并产生很长的间隔，这会降低预期的[稳定性增长](https://supermemo.guru/wiki/Stability_increase)，但对于记忆时间较长的卡片，[稳定性增长](https://supermemo.guru/wiki/Stability_increase)会变得较大。在 20 世纪 90 年代和新千年之初，莱特纳系统被用于许多成功的闪卡应用。随着他们不断修改和改进复习程序，这些应用程序实际上可能已经发展成为一个成熟的间隔重复系统。即使他们的应用由于 SuperMemo 的被证明容易实现且非常优秀的 [SM-2 算法](https://supermemo.guru/wiki/Algorithm_SM-2)的流行愈发减少。
 
 莱特纳盒子系统较新的软件版本可能会将间隔附加到优先级盒上，例如第 5 个盒子需要 16 天，但是这种方法的缺陷无异于[死记硬背](https://supermemo.guru/wiki/Cramming)：（1）失败仍会导致间隔的回归，但这应导致重新学习；（2）第一个月重复 5 次，不能很好地与组织良好的知识相配，组织良好的知识可以在第一个月减少 60-80% 的学习成本。（3）需要更多的盒子。在 SuperMemo 中，我们看到[间隔时间](https://supermemo.guru/wiki/Interval)远远超过了人类的最长寿命。对应用程序的使用寿命需求增加了 200%。这是永久记忆间隔与 16 天之间的差异。 需要额外的 11 个盒子来覆盖 [EF](https://supermemo.guru/wiki/E-factor) 为 2 的使用寿命。
 

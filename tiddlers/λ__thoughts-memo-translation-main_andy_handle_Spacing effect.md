@@ -124,7 +124,7 @@ Kornell, N. (2009). Optimising learning using flashcards: Spacing is more effect
 
 - 大众传媒大多缺乏一个超过一天的自创时间维度
 
-    - 书籍往往需要几周或几个月的时间来阅读。但书籍几乎从来没有有**作者制定**的时间线，像电影或戏剧那样。作者一般不安排读者在哪天、哪周、哪月怎么读书，相比之下，电影制作人会精心编排每一分钟的内容。然而很多想法需要时间来沉淀：[间隔效应](https://notes.andymatuschak.org/z5oCe7JTrkYfmb6SHE4n5HxisE7PdwS6nmXEw)。不仅如此，只有在很多地方都遇到这些想法并加以琢磨，这些想法的真实含义才会变得清晰。
+    - 书籍往往需要几周或几个月的时间来阅读。但书籍几乎从来没有有 **作者制定** 的时间线，像电影或戏剧那样。作者一般不安排读者在哪天、哪周、哪月怎么读书，相比之下，电影制作人会精心编排每一分钟的内容。然而很多想法需要时间来沉淀：[间隔效应](https://notes.andymatuschak.org/z5oCe7JTrkYfmb6SHE4n5HxisE7PdwS6nmXEw)。不仅如此，只有在很多地方都遇到这些想法并加以琢磨，这些想法的真实含义才会变得清晰。
 
 - 概念性知识的「最优间隔」的安排节奏可能更慢
 
@@ -190,7 +190,7 @@ Kornell, N. (2009). Optimising learning using flashcards: Spacing is more effect
 
 - Marr 的水平分析
 
-    - 从**算法**角度分析便会发现，间隔学习计划是良好的学习流程，因为该计划基于[间隔效应](https://notes.andymatuschak.org/z5oCe7JTrkYfmb6SHE4n5HxisE7PdwS6nmXEw)和[提取练习](https://notes.andymatuschak.org/zFGWCfLsZMkwKPYG2F3k9mnpwWM9D6cEJXS)的计算理论
+    - 从 **算法** 角度分析便会发现，间隔学习计划是良好的学习流程，因为该计划基于[间隔效应](https://notes.andymatuschak.org/z5oCe7JTrkYfmb6SHE4n5HxisE7PdwS6nmXEw)和[提取练习](https://notes.andymatuschak.org/zFGWCfLsZMkwKPYG2F3k9mnpwWM9D6cEJXS)的计算理论
 
 - A Multiscale Context Model of Memory. In Y. Bengio, D. Schuurmans, J. Lafferty, C. K. I. Williams, & A. Culotta (Eds.), Advances in Neural Information Processing Systems 22 (pp. 1321-1329).
 

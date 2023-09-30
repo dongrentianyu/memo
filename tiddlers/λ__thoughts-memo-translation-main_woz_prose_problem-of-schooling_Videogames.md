@@ -4,7 +4,7 @@
 
 ## 电子游戏的好处
 
-很多人认为**电子游戏**浪费时间。对许多家长来说，电子游戏似乎是一种威胁（见：[数字痴呆症](https://supermemo.guru/wiki/Digital_Dementia)）。教师可能会说**电子游戏令人头脑麻木**。许多成年人积极反对将「屏幕」引入孩子的生活。他们担心孩子会成瘾（见：[网瘾少年](https://supermemo.guru/wiki/Homo_tabletis)）。然而，电子游戏蕴藏着丰富的教育机会。电子游戏充分利用[探索性学习](https://supermemo.guru/wiki/Exploratory_learning)，对于提升英语能力、团队合作能力、科学能力、工程能力、创造力等能力，都是最佳的工具。电子游戏可以对认知技能和知识产生奇妙的影响。它们为学习的游戏化提供了无限的机会。游戏可以让更多的孩子转向[快乐学习](https://supermemo.guru/wiki/Pleasure_of_learning)。一般的父母可能认为游戏是射击和暴力。然而，孩子们也可以把奇妙的 [PhET 模拟](https://supermemo.guru/wiki/PhET_simulations)视为游戏。模拟是将物理或化学变成「游戏」的一个好方法。模拟不会取代实际的实验，然而是免费和安全的！最重要的是，游戏带来的教育不需要[教师](https://supermemo.guru/wiki/Teacher)。孩子可以整天整天游玩游戏，快乐学习。当然，分配用于玩游戏学习的时间，需要与其他活动的时间比例适当，如[睡眠](https://supermemo.guru/wiki/Science_of_sleep)、运动、[社交](https://supermemo.guru/wiki/Optimal_socialization)、户外活动时间等。对于健康儿童来说，各种时间所占比例可以基于[自然创造周期](https://supermemo.guru/wiki/Natural_creativity_cycle)的驱动自我调节。
+很多人认为 **电子游戏** 浪费时间。对许多家长来说，电子游戏似乎是一种威胁（见：[数字痴呆症](https://supermemo.guru/wiki/Digital_Dementia)）。教师可能会说 **电子游戏令人头脑麻木** 。许多成年人积极反对将「屏幕」引入孩子的生活。他们担心孩子会成瘾（见：[网瘾少年](https://supermemo.guru/wiki/Homo_tabletis)）。然而，电子游戏蕴藏着丰富的教育机会。电子游戏充分利用[探索性学习](https://supermemo.guru/wiki/Exploratory_learning)，对于提升英语能力、团队合作能力、科学能力、工程能力、创造力等能力，都是最佳的工具。电子游戏可以对认知技能和知识产生奇妙的影响。它们为学习的游戏化提供了无限的机会。游戏可以让更多的孩子转向[快乐学习](https://supermemo.guru/wiki/Pleasure_of_learning)。一般的父母可能认为游戏是射击和暴力。然而，孩子们也可以把奇妙的 [PhET 模拟](https://supermemo.guru/wiki/PhET_simulations)视为游戏。模拟是将物理或化学变成「游戏」的一个好方法。模拟不会取代实际的实验，然而是免费和安全的！最重要的是，游戏带来的教育不需要[教师](https://supermemo.guru/wiki/Teacher)。孩子可以整天整天游玩游戏，快乐学习。当然，分配用于玩游戏学习的时间，需要与其他活动的时间比例适当，如[睡眠](https://supermemo.guru/wiki/Science_of_sleep)、运动、[社交](https://supermemo.guru/wiki/Optimal_socialization)、户外活动时间等。对于健康儿童来说，各种时间所占比例可以基于[自然创造周期](https://supermemo.guru/wiki/Natural_creativity_cycle)的驱动自我调节。
 
 ## 问题解决能力
 
@@ -12,7 +12,7 @@
 
 ## 金发姑娘原则
 
-反对电子游戏的人经常说「孩子们不愿意学习，因为点击一下就能得到东西，太容易了。现在的孩子喜欢简单的东西。他们被宠坏了 」。实际上，健康的大脑会寻找最佳的难度，使奖励最大化，这一点在**金发姑娘效应**中得到了解释：[解决问题的奖励](https://supermemo.guru/wiki/How_to_solve_any_problem%3F#Reward_in_problem_solving)。学习和解决问题的最佳估值使用相同的[神经估值子系统](https://supermemo.guru/wiki/Knowledge_valuation_network)。
+反对电子游戏的人经常说「孩子们不愿意学习，因为点击一下就能得到东西，太容易了。现在的孩子喜欢简单的东西。他们被宠坏了 」。实际上，健康的大脑会寻找最佳的难度，使奖励最大化，这一点在 **金发姑娘效应** 中得到了解释：[解决问题的奖励](https://supermemo.guru/wiki/How_to_solve_any_problem%3F#Reward_in_problem_solving)。学习和解决问题的最佳估值使用相同的[神经估值子系统](https://supermemo.guru/wiki/Knowledge_valuation_network)。
 
 [[img [Problem valuation optimum for problem difficulty|https://supermemo.guru/images/thumb/8/84/Problem_valuation.jpg/500px-Problem_valuation.jpg]]](https://supermemo.guru/wiki/File:Problem_valuation.jpg)
 
@@ -24,7 +24,7 @@
 
 ## 游戏障碍
 
-**[电子游戏成瘾](https://en.wikipedia.org/wiki/Video_game_addiction)**又名**游戏障碍**，现在是 IDC-11 中公认的精神疾病。它在 DSM-5 中被称为**互联网游戏障碍**。这一认定伴随着大量的批评，特别是来自[研究计算机在教育中的益处的研究人员](https://supermemo.guru/wiki/Scholars_warn_of_gaming_disorder_overdiagnosis)。
+ **[电子游戏成瘾](https://en.wikipedia.org/wiki/Video_game_addiction)** 又名 **游戏障碍** ，现在是 IDC-11 中公认的精神疾病。它在 DSM-5 中被称为 **互联网游戏障碍** 。这一认定伴随着大量的批评，特别是来自[研究计算机在教育中的益处的研究人员](https://supermemo.guru/wiki/Scholars_warn_of_gaming_disorder_overdiagnosis)。
 
 由于电子游戏的高回报性，它可能导致成瘾。一个常见的谣言将电脑游戏的影响与毒品的危险相提并论。据称，它们是对调节能力最强的人的一种威胁。实际上，像其他成瘾症一样，它们需要额外的成分来占据年轻人的大脑（例如，专制的父母，[学校教育](https://supermemo.guru/wiki/Schooling)的压力，社会排斥，等等）。
 

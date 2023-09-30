@@ -2,7 +2,7 @@
 
 原文：[Repetition - supermemo.guru](https://supermemo.guru/wiki/Repetition)
 
-[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中的**重复**或**回顾**代表从记忆中提取信息的行为。在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中，它通常遵循以下步骤：
+[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中的 **重复** 或 **回顾** 代表从记忆中提取信息的行为。在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中，它通常遵循以下步骤：
 
 1. 学习者被问及一个问题
 
@@ -10,7 +10,7 @@
 
 3. 学习者为回答的准确性[评分](https://supermemo.guru/wiki/Grade)
 
-术语**回顾**还可以指在[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)中对文本片段进行被动阅读的行为。
+术语 **回顾** 还可以指在[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)中对文本片段进行被动阅读的行为。
 
 参见：[SuperMemo 中的重复循环](http://help.supermemo.org/wiki/Learn)
 

@@ -2,9 +2,9 @@
 
 原文：[Retrievability - supermemo.guru](https://supermemo.guru/wiki/Retrievability)
 
-**记忆可提取性**是对应「记忆时钟」的长期记忆变量。其表示在给定时间[间隔](https://supermemo.guru/wiki/Interval)下的[回忆](https://supermemo.guru/wiki/Recall)概率。在大脑内部，可提取性可能通过再活化过程决定[记忆稳定性](https://supermemo.guru/wiki/Stability)的增长（参见：[间隔效应](https://supermemo.guru/wiki/Spacing_effect)）。从表面上看，「记忆时钟」将表现为回忆概率的下降。距离上次复习的时间越长，记忆成功提取的概率就越低，所以称之为记忆时钟。我们可以通过[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)来得到可提取性。
+ **记忆可提取性** 是对应「记忆时钟」的长期记忆变量。其表示在给定时间[间隔](https://supermemo.guru/wiki/Interval)下的[回忆](https://supermemo.guru/wiki/Recall)概率。在大脑内部，可提取性可能通过再活化过程决定[记忆稳定性](https://supermemo.guru/wiki/Stability)的增长（参见：[间隔效应](https://supermemo.guru/wiki/Spacing_effect)）。从表面上看，「记忆时钟」将表现为回忆概率的下降。距离上次复习的时间越长，记忆成功提取的概率就越低，所以称之为记忆时钟。我们可以通过[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)来得到可提取性。
 
-**[稳定性](https://supermemo.guru/wiki/Stability)（S）**和**可提取性（R）**是[长期记忆的双组分模型](https://supermemo.guru/wiki/Two_component_model_of_long-term_memory)的一部分。
+ **[稳定性](https://supermemo.guru/wiki/Stability)（S）** 和 **可提取性（R）** 是[长期记忆的双组分模型](https://supermemo.guru/wiki/Two_component_model_of_long-term_memory)的一部分。
 
 本[词汇表](https://supermemo.guru/wiki/Glossary)条目用于解释 [SuperMemo](https://supermemo.guru/wiki/SuperMemo_Guru)，一位自 [1987](https://supermemo.guru/wiki/History_of_spaced_repetition_(print)) 年以来的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)软件先驱。
 

@@ -12,7 +12,7 @@
 
 据康德所言：
 
-> 启蒙就是人类从自我造成的**不成熟**状态中解脱出来。**不成熟**是指缺少他人的教导就没有能力运用自己的理智。这种不成熟状态之所以是**自我造成的**，其原因不在于缺少理智，而在于没有他人的教导就缺乏运用自己理智的决心和勇气。*Sapere Aude!* [要勇于认知！](https://notes.andymatuschak.org/z4enRPbLXdD8X8hCfVjaRkcGkronvhcfrgSQw)
+> 启蒙就是人类从自我造成的 **不成熟** 状态中解脱出来。 **不成熟** 是指缺少他人的教导就没有能力运用自己的理智。这种不成熟状态之所以是 **自我造成的** ，其原因不在于缺少理智，而在于没有他人的教导就缺乏运用自己理智的决心和勇气。*Sapere Aude!* [要勇于认知！](https://notes.andymatuschak.org/z4enRPbLXdD8X8hCfVjaRkcGkronvhcfrgSQw)
 
 一个关键的解药：[围绕所读内容写笔记，以求深刻内化文本](https://notes.andymatuschak.org/zg3fYweZpbHeBTpcYke5mF4ZfrJutYcQEtFo)
 

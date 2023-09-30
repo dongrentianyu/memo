@@ -2,7 +2,7 @@
 
 原文：[Finiteness assumption in explorable media](https://wiki.issarice.com/wiki/Finiteness_assumption_in_explorable_media)
 
-**电子游戏里的对象都是离散且有限的**。可探索和交互式媒体（尤其是[可探索的解释](https://wiki.issarice.com/wiki/Explorable_explanation)）似乎经过有限性假设的烘焙，这使得处理数学中的「无限」或「任意」时都显得棘手。「无限」的一个典例是「设 $x$ 是 $X$ 的任意元素」，你在做数学证明时经常遇到，其中 X 是讨论的某类对象。游戏中「移动」时，没什么简单直接的办法，可以搞成这样。
+ **电子游戏里的对象都是离散且有限的** 。可探索和交互式媒体（尤其是[可探索的解释](https://wiki.issarice.com/wiki/Explorable_explanation)）似乎经过有限性假设的烘焙，这使得处理数学中的「无限」或「任意」时都显得棘手。「无限」的一个典例是「设 $x$ 是 $X$ 的任意元素」，你在做数学证明时经常遇到，其中 X 是讨论的某类对象。游戏中「移动」时，没什么简单直接的办法，可以搞成这样。
 
 例子：
 

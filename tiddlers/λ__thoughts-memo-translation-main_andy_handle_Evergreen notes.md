@@ -2,7 +2,7 @@
 
 原文：[Evergreen notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)
 
-写下**常青笔记**并加以组织，意在时过境迁，世事辗转之中，这些笔记仍能演化改良，发挥功用，最终聚沙成塔。如此考虑笔记实属不寻常：[大多数人记的笔记多是短效的](https://notes.andymatuschak.org/z2ZAGQBHuJ2u9WrtAQHAEHcCZTtqpsGkAsrD1). 写常青笔记，与其说是写笔记，不如说是高效发展洞察力：[「更好地记笔记」不是重点；「更好地思考」才是](https://notes.andymatuschak.org/z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc)。常青笔记写得好则会颇富价值：[常青笔记是知识工作的基本单位](https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be)。
+写下 **常青笔记** 并加以组织，意在时过境迁，世事辗转之中，这些笔记仍能演化改良，发挥功用，最终聚沙成塔。如此考虑笔记实属不寻常：[大多数人记的笔记多是短效的](https://notes.andymatuschak.org/z2ZAGQBHuJ2u9WrtAQHAEHcCZTtqpsGkAsrD1). 写常青笔记，与其说是写笔记，不如说是高效发展洞察力：[「更好地记笔记」不是重点；「更好地思考」才是](https://notes.andymatuschak.org/z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc)。常青笔记写得好则会颇富价值：[常青笔记是知识工作的基本单位](https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be)。
 
 写出经得住长久研磨改善的笔记，实属不易。下面这些原则可能有所帮助：
 

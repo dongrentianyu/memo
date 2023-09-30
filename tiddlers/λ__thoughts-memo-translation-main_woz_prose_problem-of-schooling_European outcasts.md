@@ -40,11 +40,11 @@ Björklund 自己的全部教育都是在军事学习机构完成的。他升至
 
 2014 年 10 月，年仅 31 岁的绿党人 Gustav Fridolin 担任教育部长一职。Fridolin 出生于 1983 年，英语很流利。他认为改革非常迫切。然而，当 Anna Ekström（生于 1959 年）接任后，他们的认知又回到了原样。（[来源](https://www.tellerreport.com/news/2019-08-15---minister-of-education-anna-ekström-says-no-to-more-homeschooling-.ryVcojr7NB.html)）：
 
-> 在瑞典，学校法是生效的，对瑞典儿童来说也有[课标](https://supermemo.guru/wiki/Curriculum)的存在。课表中的内容对儿童和学生的学习非常重要，以便他们**能够好好生活**。
+> 在瑞典，学校法是生效的，对瑞典儿童来说也有[课标](https://supermemo.guru/wiki/Curriculum)的存在。课表中的内容对儿童和学生的学习非常重要，以便他们 **能够好好生活** 。
 
 像她之前的许多人一样，Ekström 相信[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)（[来源](https://www.denandraresan.com/the-history-of-school-in-sweden-and-the-situation-today/)）权利，但其实这是一种矛盾：
 
-> 我们实行**[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)**的原因之一是，我们把孩子受教育的**权利**，排在父母为孩子做决定的权利**之前**
+> 我们实行 **[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)** 的原因之一是，我们把孩子受教育的 **权利** ，排在父母为孩子做决定的权利 **之前** 
 
 假设翻译是正确的，Anna Ekström 似乎是在[老调重弹](https://supermemo.guru/wiki/Phone_book)。对[高质量的学习](https://supermemo.guru/wiki/Free_learning)没有深入理解的空间。
 

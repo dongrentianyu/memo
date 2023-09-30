@@ -28,11 +28,11 @@ Spitzer 绝不是教育者。他浑身散发着无所不知的教师爷的气息
 
 ## 谬误：数码技术导致癌症
 
-Manfred Spitzer 确实指出，如果数字技术引起压力，它们在某种程度上也会影响癌症的发生。但是这个关联实属模糊和费解，在互联网的背景下提到癌症，我也有理由把自己对学校教育危害的痴迷添油加醋成**学校导致癌症**。（[来源](https://www.handelsblatt.com/english/digital-doomsayer-raging-against-the-machines/23507388.html?ticket=ST-12116324-B3yCuWM1nbAyEGJ7RSPi-ap3)）。 毕竟，众所周知的事实是新鲜空气比室内生活更有利健康，另外还有处于封闭空间中对罹患癌症的影响。 如果坐在教室里，你患癌症的风险高于在户外（无污染的空气中）玩耍。
+Manfred Spitzer 确实指出，如果数字技术引起压力，它们在某种程度上也会影响癌症的发生。但是这个关联实属模糊和费解，在互联网的背景下提到癌症，我也有理由把自己对学校教育危害的痴迷添油加醋成 **学校导致癌症** 。（[来源](https://www.handelsblatt.com/english/digital-doomsayer-raging-against-the-machines/23507388.html?ticket=ST-12116324-B3yCuWM1nbAyEGJ7RSPi-ap3)）。 毕竟，众所周知的事实是新鲜空气比室内生活更有利健康，另外还有处于封闭空间中对罹患癌症的影响。 如果坐在教室里，你患癌症的风险高于在户外（无污染的空气中）玩耍。
 
 ## 谬误：如果你 18 岁还头脑空空，你就没有未来
 
-[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 信仰学校教育。他认为人生前 18 年应该用于勤奋学习。 他声称，如果前 18 年度过得不够高效，那么余生就注定失败。这错在两个方面。**（1）孩子们始终在学习**，无论学校内外。 减少孩子学习的最有效方法是把她铐在黑暗的地牢里。强迫孩子们坐在长椅上听无趣的讲座也很糟糕。 **（2）成人终身保有学习能力**。 支持终身学习的最佳利器是[学习内驱力](https://supermemo.guru/wiki/Learn_drive)。 矛盾的是，大多数人由于在学校的[强制学习](https://supermemo.guru/wiki/Coercive_learning)而失去学习内驱力。
+[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 信仰学校教育。他认为人生前 18 年应该用于勤奋学习。 他声称，如果前 18 年度过得不够高效，那么余生就注定失败。这错在两个方面。 **（1）孩子们始终在学习** ，无论学校内外。 减少孩子学习的最有效方法是把她铐在黑暗的地牢里。强迫孩子们坐在长椅上听无趣的讲座也很糟糕。 **（2）成人终身保有学习能力** 。 支持终身学习的最佳利器是[学习内驱力](https://supermemo.guru/wiki/Learn_drive)。 矛盾的是，大多数人由于在学校的[强制学习](https://supermemo.guru/wiki/Coercive_learning)而失去学习内驱力。
 
 ## 谬误：在学校里最糟的事情是使用 Google 
 
@@ -68,7 +68,7 @@ Spitzer 声称，父母不应该购买 PS 游戏机作为礼物，因为这会�
 
 ## 谬误：数字技术导致不求甚解
 
-数字技术十分有利于深度阅读、创造性思维、[问题解决](https://supermemo.guru/wiki/Problem_solving)。不求甚解反映了低[学习熵](https://supermemo.guru/wiki/Learntropy)或分心（包括[创造力](https://supermemo.guru/wiki/Creativity)）。 不求甚解在学校里或读书时更为普遍。 数字技术提供了选择的自由，可以提高[学习熵](https://supermemo.guru/wiki/Learntropy)和**探根究底**。 见：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)
+数字技术十分有利于深度阅读、创造性思维、[问题解决](https://supermemo.guru/wiki/Problem_solving)。不求甚解反映了低[学习熵](https://supermemo.guru/wiki/Learntropy)或分心（包括[创造力](https://supermemo.guru/wiki/Creativity)）。 不求甚解在学校里或读书时更为普遍。 数字技术提供了选择的自由，可以提高[学习熵](https://supermemo.guru/wiki/Learntropy)和 **探根究底** 。 见：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)
 
 ## 谬误：计算机抑制学业成绩
 
@@ -80,7 +80,7 @@ Spitzer 声称，父母不应该购买 PS 游戏机作为礼物，因为这会�
 
 ## 误区：数码扫盲只需要 5 分钟
 
-[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 声称一个 18 岁的人可以在几分钟内具备数字素养：只需**点击和浏览**。 实际上，网络世界是一个前所未有的丰富景观。 网络世界的探索永无止境，可能会穷尽一生。和元认知技能一样，「媒体素养」也需要终生培养。 要掌握的工具和技巧似乎无穷无尽。善用知识、怀疑精神、网络社交智慧、网络礼仪、溯源知识、了解网络威胁、写博客、使用网上银行、电子支付、通信等，不胜枚举。 Spitzer 可能是对的：数字世界的小白[面对超链接洪流可能会不知所措](https://supermemo.guru/wiki/Neuromythology#Myth:_Hyperlinks_make_it_hard_to_focus_on_the_text)
+[Manfred Spitzer](https://supermemo.guru/wiki/Manfred_Spitzer) 声称一个 18 岁的人可以在几分钟内具备数字素养：只需 **点击和浏览** 。 实际上，网络世界是一个前所未有的丰富景观。 网络世界的探索永无止境，可能会穷尽一生。和元认知技能一样，「媒体素养」也需要终生培养。 要掌握的工具和技巧似乎无穷无尽。善用知识、怀疑精神、网络社交智慧、网络礼仪、溯源知识、了解网络威胁、写博客、使用网上银行、电子支付、通信等，不胜枚举。 Spitzer 可能是对的：数字世界的小白[面对超链接洪流可能会不知所措](https://supermemo.guru/wiki/Neuromythology#Myth:_Hyperlinks_make_it_hard_to_focus_on_the_text)
 
 ## 谬误：电子设备有害学习
 
@@ -88,11 +88,11 @@ Spitzer 声称，父母不应该购买 PS 游戏机作为礼物，因为这会�
 
 ## 谬误：电子设备使大脑额叶宕机
 
-Victoria Dunckley 博士声称，她神奇地治愈了许多患有神秘的**电子屏幕综合症**的孩子，方法很简单，就是偷走他们的平板或笔记本电脑。 她是精神科医生，所以「知道」孩子们玩电脑游戏时，脑额叶会宕机。 但凡她对电脑游戏有一丁点了解，她就会知道游戏为教育带来了广阔而未探索的领域。 未来不属于在线课程， 那只不过是学校的数字化版本。未来属于对现实生活情景的模拟，这在很大程度上就是电子游戏的本质。 参见：[Victoria Dunckley 虚构的电子屏幕综合症](https://supermemo.guru/wiki/Victoria_Dunckley's_mythical_Electronic_Screen_Syndrome)。 另见：[PhET 模拟](https://supermemo.guru/wiki/PhET_simulations)
+Victoria Dunckley 博士声称，她神奇地治愈了许多患有神秘的 **电子屏幕综合症** 的孩子，方法很简单，就是偷走他们的平板或笔记本电脑。 她是精神科医生，所以「知道」孩子们玩电脑游戏时，脑额叶会宕机。 但凡她对电脑游戏有一丁点了解，她就会知道游戏为教育带来了广阔而未探索的领域。 未来不属于在线课程， 那只不过是学校的数字化版本。未来属于对现实生活情景的模拟，这在很大程度上就是电子游戏的本质。 参见：[Victoria Dunckley 虚构的电子屏幕综合症](https://supermemo.guru/wiki/Victoria_Dunckley's_mythical_Electronic_Screen_Syndrome)。 另见：[PhET 模拟](https://supermemo.guru/wiki/PhET_simulations)
 
 ## 谬误：阅读有益于教育，而点击则不然
 
-点击阅读有价值的内容比阅读学校里随意提供的东西要好。 这个谬误的来源是 Spitzer 名为**\*让学校再次伟大\***的宏大教育计划。[2021 年 1 月 6 日](https://supermemo.guru/wiki/Trump)，我们可以看到这个故事并没有一个美好的结局。
+点击阅读有价值的内容比阅读学校里随意提供的东西要好。 这个谬误的来源是 Spitzer 名为 **\*让学校再次伟大\** *的宏大教育计划。[2021 年 1 月 6 日](https://supermemo.guru/wiki/Trump)，我们可以看到这个故事并没有一个美好的结局。
 
 ## 谬误：语言是没办法用电子设备学习的
 
@@ -226,7 +226,7 @@ Spitzer 博士宣称，说两种语言能使大脑的「寿命」延长 5 年，
 
 ## 谬误：不存在多元智力
 
-大脑是一个[概念网络](https://supermemo.guru/wiki/Concept_network)。每个[概念](https://supermemo.guru/wiki/Concept)都有助于提高[智力](https://supermemo.guru/wiki/Intelligence)。 如果我们积累了大量与音乐相关的概念，就会表现出良好的音乐智力。Howard Gardner 的多元智力理论受到了那些相信神秘的**因子 g** 以及那些认为 Gardner 的清单太短或不正确的人的批评。实际上，任何智力清单都是任意的，Gardner 的清单可以看作是一种实用的分类。我们可以开发出无数种智力，例如解魔方、心算、观察鸟类等所需的智力。我们需要的只是在特定领域进行长时间有意义的训练。智力可能因疾病或先入为主的偏见受到制约。聋哑人很少表现出良好的音乐智力。同样，以汉语为母语的人很难说一口没有口音的英语。这都取决于[概念化](https://supermemo.guru/wiki/Conceptualization)的轨迹。相比之下，很多人只相信一种类型的智力：「你在学校表现好，你就是聪明人」（即[智商](https://supermemo.guru/wiki/IQ)检测）。读者不属于这个群体。如果没有对所有反学校的异端感到不安，他是无法阅读到这里的。
+大脑是一个[概念网络](https://supermemo.guru/wiki/Concept_network)。每个[概念](https://supermemo.guru/wiki/Concept)都有助于提高[智力](https://supermemo.guru/wiki/Intelligence)。 如果我们积累了大量与音乐相关的概念，就会表现出良好的音乐智力。Howard Gardner 的多元智力理论受到了那些相信神秘的 **因子 g** 以及那些认为 Gardner 的清单太短或不正确的人的批评。实际上，任何智力清单都是任意的，Gardner 的清单可以看作是一种实用的分类。我们可以开发出无数种智力，例如解魔方、心算、观察鸟类等所需的智力。我们需要的只是在特定领域进行长时间有意义的训练。智力可能因疾病或先入为主的偏见受到制约。聋哑人很少表现出良好的音乐智力。同样，以汉语为母语的人很难说一口没有口音的英语。这都取决于[概念化](https://supermemo.guru/wiki/Conceptualization)的轨迹。相比之下，很多人只相信一种类型的智力：「你在学校表现好，你就是聪明人」（即[智商](https://supermemo.guru/wiki/IQ)检测）。读者不属于这个群体。如果没有对所有反学校的异端感到不安，他是无法阅读到这里的。
 
 ## 谬误：互联网是邪恶的
 

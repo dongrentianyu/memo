@@ -2,7 +2,7 @@
 
 原文：[Card sharing](https://wiki.issarice.com/wiki/Card_sharing)
 
-我试图用**卡片分享**一词，来概括卡片[复习](https://wiki.issarice.com/wiki/Spaced_repetition)者与撰写者不相同的情况。卡片分享可能出现在如下场合：分享 Anki 牌组、学习《量子国度》或 Orbit 之类助记媒介、或者与学习伙伴共同制作卡片。
+我试图用 **卡片分享** 一词，来概括卡片[复习](https://wiki.issarice.com/wiki/Spaced_repetition)者与撰写者不相同的情况。卡片分享可能出现在如下场合：分享 Anki 牌组、学习《量子国度》或 Orbit 之类助记媒介、或者与学习伙伴共同制作卡片。
 
 相关页面：
 

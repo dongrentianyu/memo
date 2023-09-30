@@ -4,7 +4,7 @@
 
 这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
-人生来便有表达自己想法的冲动，这背后的奖励机制便是**表达的乐趣** 。**表达的乐趣**应该与**[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)**和**[知道的乐趣](https://supermemo.guru/wiki/Pleasure_of_knowing)**区分开。
+人生来便有表达自己想法的冲动，这背后的奖励机制便是 **表达的乐趣** 。 **表达的乐趣** 应该与 **[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)** 和 **[知道的乐趣](https://supermemo.guru/wiki/Pleasure_of_knowing)** 区分开。
 
 学习和知道的乐趣会增强表达的乐趣。然而，表达的乐趣背后有一套独立的机制。人们会长时间自言自语，这便是这种乐趣最纯粹的体现，特别是孩子自言自语，此时他们并不想得到任何反馈。交流的反馈能增强学习的乐趣，进而增强表达的乐趣。
 

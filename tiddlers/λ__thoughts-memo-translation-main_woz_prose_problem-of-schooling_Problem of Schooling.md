@@ -6,7 +6,7 @@
 
 我一生都信奉[自由学习](https://supermemo.guru/wiki/Free_learning)（即[自我导向](https://supermemo.guru/wiki/Self-directed_learning)和[自定节奏](https://supermemo.guru/wiki/Self-paced_learning)的[自学](https://supermemo.guru/wiki/Self-learning)）。我喜欢使用 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 进行学习。我早已忘记了我的 22 年[学校](https://supermemo.guru/wiki/School)经历。过去，每当有人问我有关完美现代教育系统的处方，我都会说「我不知道。我喜欢[自由学习](https://supermemo.guru/wiki/Free_learning)」。然而，到了 2016 年，我到达了一个临界点。我认识几十个孩子和青少年。他们中的一些人是 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的用户，一些是我的朋友或家人的孩子，另一些我是从足球场上认识的。他们几乎普遍[讨厌学校](https://supermemo.guru/wiki/Why_do_kids_hate_school%3F)。他们越大，感觉越强烈。对我来说，学习是世界上最令人愉快的事情之一。为什么[学校](https://supermemo.guru/wiki/School)会如此折磨呢？到了 2016 年 8 月底，酷暑难耐。我喜欢阳光带来的乐观情绪。这与那些面色阴沉的孩子形成了鲜明对比，他们知道在几天后，他们又要回到学校去。
 
-于是我发誓——「**我永远不会送我的孩子去学校！**」。我知道我们太对不住孩子了。
+于是我发誓——「 **我永远不会送我的孩子去学校！** 」。我知道我们太对不住孩子了。
 
 学校教育是基于错误原则的错误设计（[沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)，2017）
 

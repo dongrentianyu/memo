@@ -10,7 +10,7 @@
 
 引用的摘录来自以下[参考资料](https://supermemo.guru/wiki/References)：
 
-标题：**大脑中的记忆系统**
+标题： **大脑中的记忆系统** 
 
 作者：Edmund T. Rolls
 

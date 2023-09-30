@@ -12,7 +12,7 @@ https://supermemo.guru/wiki/Value-encoding_neurons_in_the_orbitofrontal_cortex
 
 引用的摘录来自以下[参考资料](https://supermemo.guru/wiki/References)：
 
-标题：**Covert shift of attention modulates the value encoding in the orbitofrontal cortex**
+标题： **Covert shift of attention modulates the value encoding in the orbitofrontal cortex** 
 
 作者：Yang Xie, Chechang Nie, Tianming Yang
 

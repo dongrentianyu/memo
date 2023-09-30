@@ -2,7 +2,7 @@
 
 原文：[Most games aren’t enabling environments (andymatuschak.org)](https://notes.andymatuschak.org/z6DCZK1JtHU3waXWTk5UbNt3kXU4WRT9EwNND)
 
-[游戏能有效地培养玩家的技能](https://notes.andymatuschak.org/z2J6v5xtfJaeW5KFF6fNwkHxLWQonxuUA5ndg)，所以人们很容易把好游戏看作一种[赋能环境](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)，但它们很少「释放或显著扩展[玩家](https://notes.andymatuschak.org/z6DCZK1JtHU3waXWTk5UbNt3kXU4WRT9EwNND)的能力，去做他们认为有意义和重要的事情。」大多数游戏的主要目的是创造一种审美或情感体验。这种体验可能非常强大（这就是技能培养很有效的原因：[游戏中的技能发展服从于其他有内在意义的目的](https://notes.andymatuschak.org/zeb2g4gblphxgkzavqq7v7iuqe5b8jghnfkw)），但它通常不会扩展玩家的能力去**做**他们认为有意义和重要的事情。相关笔记：[教育游戏对于创造赋能环境是注定失败的方法](https://notes.andymatuschak.org/z7wPt3dxX5hp6LK3PLUBTJXxk7kAhMuh8UDck)。
+[游戏能有效地培养玩家的技能](https://notes.andymatuschak.org/z2J6v5xtfJaeW5KFF6fNwkHxLWQonxuUA5ndg)，所以人们很容易把好游戏看作一种[赋能环境](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)，但它们很少「释放或显著扩展[玩家](https://notes.andymatuschak.org/z6DCZK1JtHU3waXWTk5UbNt3kXU4WRT9EwNND)的能力，去做他们认为有意义和重要的事情。」大多数游戏的主要目的是创造一种审美或情感体验。这种体验可能非常强大（这就是技能培养很有效的原因：[游戏中的技能发展服从于其他有内在意义的目的](https://notes.andymatuschak.org/zeb2g4gblphxgkzavqq7v7iuqe5b8jghnfkw)），但它通常不会扩展玩家的能力去 **做** 他们认为有意义和重要的事情。相关笔记：[教育游戏对于创造赋能环境是注定失败的方法](https://notes.andymatuschak.org/z7wPt3dxX5hp6LK3PLUBTJXxk7kAhMuh8UDck)。
 
 ## 反例
 

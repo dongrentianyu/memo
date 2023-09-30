@@ -34,13 +34,13 @@
 
 即使我们将教育仅仅定义为学习阅读和数学，我们也没有正确合理地传授这方面的知识。当孩子真正想要阅读时，他们会轻松地学会阅读；同样，当他们想要学数学时，他们也能轻松地学会数学（你可以参考[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201002/children-teach-themselves-read)，[这里](http://www.psychologytoday.com/blog/freedom-learn/201003/when-less-is-more-the-case-teaching-less-math-in-schools)，还有[这里](https://www.psychologytoday.com/us/blog/freedom-learn/201004/kids-learn-math-easily-when-they-control-their-own-learning)了解更多）。
 
-问题的关键在于**想要**。当我们将阅读和数学分解成为麻木的、强迫的、流水线般的步骤时，孩子便会厌恶。没有人会为了阅读而阅读，或者为了做数学而做数学。阅读是为了获取信息或是享受故事，做数学是为了解决有趣的数学问题。这是人们在现实生活中的学习方式，也是孩子们在[民主学校](https://www.psychologytoday.com/us/blog/freedom-learn/200808/children-educate-themselves-iv-lessons-sudbury-valley)和[非学校教育](https://www.psychologytoday.com/us/blog/freedom-learn/201202/the-benefits-unschooling-report-i-large-survey)里的学习方式，他们自己决定自己的教育。
+问题的关键在于 **想要** 。当我们将阅读和数学分解成为麻木的、强迫的、流水线般的步骤时，孩子便会厌恶。没有人会为了阅读而阅读，或者为了做数学而做数学。阅读是为了获取信息或是享受故事，做数学是为了解决有趣的数学问题。这是人们在现实生活中的学习方式，也是孩子们在[民主学校](https://www.psychologytoday.com/us/blog/freedom-learn/200808/children-educate-themselves-iv-lessons-sudbury-valley)和[非学校教育](https://www.psychologytoday.com/us/blog/freedom-learn/201202/the-benefits-unschooling-report-i-large-survey)里的学习方式，他们自己决定自己的教育。
 
 但现在，让我们将思绪从阅读和数学抽离向更关键的事情。教育的目的到底应该是什么？或者，换句话说，我们对孩子发展的目标究竟是什么？
 
 如今我们大多数人并不希望孩子们成为权威人士的绝对附属品——在这条路上，我们能看到太多的灾祸降临于孩子身上。正确的教育目标难道是在综艺上涂脂抹粉——「嘿，你比五年级的孩子要聪明吗？」——五年级的孩子（或任何其他年级学生）应该知道这几乎与人生的成功无关。
 
-所以我们究竟想要什么呢？或者可以这么说：**你**想要什么？我想要什么？出于你我对于人生意义与孩童期冀的分歧，我们的答案很可能不一致。
+所以我们究竟想要什么呢？或者可以这么说： **你** 想要什么？我想要什么？出于你我对于人生意义与孩童期冀的分歧，我们的答案很可能不一致。
 
 我希望他们能够主宰人生，成为想要成为的人。我希望他们幸福，同时也能为他人追寻幸福。我希望他们坚韧不拔，勇于同人生那些无法回避的压力和失望作斗争。我希望他们对自己终身学习的能力满怀信心，在瞬息万变的时代里能够适应世界。我希望他们有人生抱负，满腔热血地向着未来奋进。我希望他们大脑清醒，理智严谨地做出每一个理想路上的决策。我希望他们树立积极人文意识和道德取向的价值观，把人当人，维护并践行人类均而与生俱有之权利。如果我现在有小孩，我想这便是我对他们的期冀。
 

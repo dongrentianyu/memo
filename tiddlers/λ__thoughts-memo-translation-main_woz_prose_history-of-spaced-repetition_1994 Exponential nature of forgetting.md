@@ -14,7 +14,7 @@
 
 我曾误以为存在最优的遗忘时间，然而这个错误其实有助于发明间隔重复。这种「最优时间」的直觉促成了 [1985 年的第一次实验](https://supermemo.guru/wiki/Birth_of_SuperMemo)。遗忘的最优时间将意味着遗忘曲线是 S 形的，有一个明确拐点，这个拐点决定了最优性。在复习之前，遗忘将是最小的；延迟复习，遗忘则会非常迅速。这就是为什么找到最优间隔显得如此关键。随后大量数据扑面而来，但我因确认偏见所致，仍然看不出我的错误。我的硕士论文中，关于 S 形遗忘，我写道：「这直接源于这样的观察：在最优间隔过去之前，记忆错误的数量是可以忽略不计的」。我一定是忘记了[我自己在 1984 年底制作的遗忘曲线图](https://supermemo.guru/wiki/Hermann_Ebbinghaus_(1885)_and_spaced_repetition_(1985))。
 
-今天，这个**S 形命题**可能看起来很荒谬，但我的[间歇学习模型](https://supermemo.guru/wiki/Search_for_a_universal_memory_formula)甚至也为这个概念提供了一些支持。对我在间歇学习模型工作中收集的数据进行指数拟合，产生的偏差特别高，而不同 [E-系数](https://supermemo.guru/wiki/E-Factor)的 S 形曲线叠加起来，与早期的线性趋势十分接近。在现有的数据中，间歇学习模型在回想范围内似乎可以进行完美地线性拟合。难怪，在整页整页的异质材料中，遗忘的指数性质仍然隐藏得很好。
+今天，这个 **S 形命题** 可能看起来很荒谬，但我的[间歇学习模型](https://supermemo.guru/wiki/Search_for_a_universal_memory_formula)甚至也为这个概念提供了一些支持。对我在间歇学习模型工作中收集的数据进行指数拟合，产生的偏差特别高，而不同 [E-系数](https://supermemo.guru/wiki/E-Factor)的 S 形曲线叠加起来，与早期的线性趋势十分接近。在现有的数据中，间歇学习模型在回想范围内似乎可以进行完美地线性拟合。难怪，在整页整页的异质材料中，遗忘的指数性质仍然隐藏得很好。
 
 ## 矛盾的模型
 
@@ -68,7 +68,7 @@
 
 个人轶事。[为什么使用轶事？](https://supermemo.guru/wiki/Why_use_anecdotes%3F)
 
-1994 年 5 月 6 日。**一整天都在疯狂地尝试更好地近似遗忘曲线。首先我尝试了 [R](https://supermemo.guru/wiki/Recall)=1-in/(Hn+in)，其中 i - 间隔时间，H - 记忆半衰期，n - 合作性系数。到了晚上，我慢慢地让它能工作起来了，但是......看来 r=exp(-a\*i) 的效果也差不了多少！即使是旧的线性近似也没有差很多（S 型 D=8.6%，指数 D=8.8%，而线性 D=10。8%）。也许，遗忘的曲线确实是指数型的？2 点 50 分睡觉**。
+1994 年 5 月 6 日。 **一整天都在疯狂地尝试更好地近似遗忘曲线。首先我尝试了 [R](https://supermemo.guru/wiki/Recall)=1-in/(Hn+in)，其中 i - 间隔时间，H - 记忆半衰期，n - 合作性系数。到了晚上，我慢慢地让它能工作起来了，但是......看来 r=exp(-a\*i) 的效果也差不了多少！即使是旧的线性近似也没有差很多（S 型 D=8.6%，指数 D=8.8%，而线性 D=10。8%）。也许，遗忘的曲线确实是指数型的？2 点 50 分睡觉** 。
 
 要把线性、幂、指数、齐夫型、希尔型等等函数分开并不容易。一些难以区别的情况下，指数、幂甚至是线性近似带来了相当好的结果。为了更清楚地看到遗忘的指数性质，[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)数据需要有较高的的[稳定性](https://supermemo.guru/wiki/Stability)，且按[复杂性](https://supermemo.guru/wiki/Complexity)排序好。即使这样的数据很少，观察得却更明白。
 
@@ -110,7 +110,7 @@
 
 - 混淆了[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)、再学习曲线、练习曲线、保留曲线、试验学习曲线、错误曲线以及学习曲线族中的其他曲线
 
-通过 [SuperMemo](https://supermemo.guru/wiki/SuperMemo)，我们可以克服所有这些障碍来研究记忆衰减的本质。作为一个流行的商业应用程序，SuperMemo从世界各地的学生收集了大量的数据，并能非常自由地访问这些数据。该程序的每个用户都可以得到的[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)图（**[工具](http://help.supermemo.org/wiki/Tools_menu)：[统计](http://help.supermemo.org/wiki/Tools_menu#Statistics)：[分析](http://help.supermemo.org/wiki/Analysis)：[遗忘曲线](http://help.supermemo.org/wiki/Analysis#Forgetting_Curves)**）是基于同质性较强的样本绘制的，因而是对记忆衰减的真正反映（相对于其他形式的学习曲线）。不过，对异质性的追求大大影响了样本的大小。值得注意的是，遗忘曲线对于不同记忆稳定性，和不同知识难度的材料是不同的。而[记忆稳定性](https://supermemo.guru/wiki/Stability)会影响衰减率，异质性学习材料使得遗忘曲线互相叠加，每条曲线衰减率不同。因此，即使在有几十万个单独信息参与学习过程的机构中，也只能过滤出相对较小的同质化数据样本。这些样本大小很少超过几千。即使如此，这些数据在质量上也远远胜过研究人员在受控条件下研究记忆特性的样本。然而，遗忘的随机性仍然使得我们很难对衰减函数的数学性质做出最终的判断（见下面两个例子）。在分析了几十万个样本后，我们非常接近于说明记忆是一种指数衰减。
+通过 [SuperMemo](https://supermemo.guru/wiki/SuperMemo)，我们可以克服所有这些障碍来研究记忆衰减的本质。作为一个流行的商业应用程序，SuperMemo从世界各地的学生收集了大量的数据，并能非常自由地访问这些数据。该程序的每个用户都可以得到的[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)图（ **[工具](http://help.supermemo.org/wiki/Tools_menu)：[统计](http://help.supermemo.org/wiki/Tools_menu#Statistics)：[分析](http://help.supermemo.org/wiki/Analysis)：[遗忘曲线](http://help.supermemo.org/wiki/Analysis#Forgetting_Curves)** ）是基于同质性较强的样本绘制的，因而是对记忆衰减的真正反映（相对于其他形式的学习曲线）。不过，对异质性的追求大大影响了样本的大小。值得注意的是，遗忘曲线对于不同记忆稳定性，和不同知识难度的材料是不同的。而[记忆稳定性](https://supermemo.guru/wiki/Stability)会影响衰减率，异质性学习材料使得遗忘曲线互相叠加，每条曲线衰减率不同。因此，即使在有几十万个单独信息参与学习过程的机构中，也只能过滤出相对较小的同质化数据样本。这些样本大小很少超过几千。即使如此，这些数据在质量上也远远胜过研究人员在受控条件下研究记忆特性的样本。然而，遗忘的随机性仍然使得我们很难对衰减函数的数学性质做出最终的判断（见下面两个例子）。在分析了几十万个样本后，我们非常接近于说明记忆是一种指数衰减。
 
 [[img [Exemplary forgetting curve sketched by SuperMemo|https://supermemo.guru/images/thumb/e/ea/Exemplary_forgetting_curve_1.jpg/800px-Exemplary_forgetting_curve_1.jpg]]](https://supermemo.guru/wiki/File:Exemplary_forgetting_curve_1.jpg)
 

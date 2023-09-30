@@ -52,7 +52,7 @@
 
 ```
 
-**强烈反对**拦截 HTTPS 链接的做法。
+ **强烈反对** 拦截 HTTPS 链接的做法。
 
 如果代理重写 HTTPS 链接，它必须告知用户这样做的安全影响，并且必须提供绕过它并直接与服务器通信的选项。
 
@@ -82,7 +82,7 @@
 
 这将是一项繁重的工作。这里的分销渠道问题很大。
 
-老实说，处理 PDF 的一个更好的方法可能是通过无数的「PDF 到网页」工具中的一种。获取学术 PDF；将其转换为网络出版物；**然后**对其增强（例如，通过[把任意网页转化成助记媒介](https://notes.andymatuschak.org/z2hABbXxq3dz9XQ6bWrqLyModyC5EC2MXxNA)）。
+老实说，处理 PDF 的一个更好的方法可能是通过无数的「PDF 到网页」工具中的一种。获取学术 PDF；将其转换为网络出版物； **然后** 对其增强（例如，通过[把任意网页转化成助记媒介](https://notes.andymatuschak.org/z2hABbXxq3dz9XQ6bWrqLyModyC5EC2MXxNA)）。
 
 ## AR 眼镜
 

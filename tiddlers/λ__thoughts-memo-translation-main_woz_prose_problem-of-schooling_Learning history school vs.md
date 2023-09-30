@@ -2,11 +2,11 @@
 
 原文：[Learning history: school vs. self-directed learning - supermemo.guru](https://supermemo.guru/wiki/Learning_history:_school_vs._self-directed_learning)
 
-这段文字选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
+本文选自《[我永远不会送我的孩子上学](https://supermemo.guru/wiki/Problem_of_Schooling)》，作者是[彼得·沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)（2017）
 
 # 学校是否缓解无知？
 
-我经常听到这种怀疑的问题：「[自我导向学习](https://supermemo.guru/wiki/Self-directed_learning)能使学生很好地覆盖知识领域，确保一个人在社会中的和谐健康地位，这种可能性有多大？」
+我经常听到这种充满怀疑的问题：「[自我导向学习](https://supermemo.guru/wiki/Self-directed_learning)能使学生很好地覆盖知识领域，并能够在社会中的和谐健康地生存吗？如果可以，这种可能性有多大？」
 
 这种担忧是可以理解的，也是普遍的。我们都需要知道，在离开公共厕所后需要洗手。我们需要知道环境污染和气候变化的危险性。我们需要了解法律和民主的基本规则。然而，我们也需要意识到，统一的思维会扼杀创造性的突破。
 
@@ -60,15 +60,15 @@
 
 根据我对欧洲战后历史的了解，我最荒谬的一个结论是——
 
-**我对伟大、幸福和繁荣的欧洲联盟的出现的预测**!
+ **我对伟大、幸福和繁荣的欧洲联盟的出现的预测** !
 
 不，不是今天那个饱受英国脱欧之苦的欧盟。这是社会主义国家的欧洲联盟，它的祖国是一体化的苏联。从大西洋向东延伸到堪察加半岛。我的历史 "知识"告诉我，这条道路是不可避免的。人们会希望团结起来，和谐地生活。从东方辐射出来的共产主义的良好力量将有助于这种统一。那是1980年的事。当时我18岁。我把这个判断错误归咎于两个主要的无知领域：（1）[对英语的无知]（https://supermemo.guru/wiki/Schools_are_useless_in_teaching_English！）和（2）对历史的无知。学校是否进行了纠正？没有! 我能否通过[自学](https://supermemo.guru/wiki/Self-directed_learning)来纠正这一差距？我不确定。我只能假设。这些是我对可能发生的事情的思考。
 
 我在高中时代的生活会分成两种不同的模式：
 
-- **学年**：总是很困，总是很累，从来没有精力去扩展我的知识，即使是在我最喜欢的生物化学学科。我的大脑似乎很容易处理体育或音乐方面的 "轻松"兴趣。由于早起和所有的精神能量被学校耗尽，运动或演奏乐器是那种很容易吸收我全部注意力的活动。
+- **学年** ：总是很困，总是很累，从来没有精力去扩展我的知识，即使是在我最喜欢的生物化学学科。我的大脑似乎很容易处理体育或音乐方面的 "轻松"兴趣。由于早起和所有的精神能量被学校耗尽，运动或演奏乐器是那种很容易吸收我全部注意力的活动。
 
-- **假期**：能够睡到上午10点，我渴望学习新事物，对新知识充满渴望。我将吞噬生物化学书籍。做笔记。我甚至有一个计划，在某个时候学习历史。这是在我上高中的第一个假期。这个计划从未实现过。然而，假期总是一个巨大的能量源泉。它总是重新点燃我对知识的自然饥渴。高中阶段有效地打消了我对历史的兴趣。我再也没有回到我第一个假期的最初计划中去。
+- **假期** ：能够睡到上午10点，我渴望学习新事物，对新知识充满渴望。我将吞噬生物化学书籍。做笔记。我甚至有一个计划，在某个时候学习历史。这是在我上高中的第一个假期。这个计划从未实现过。然而，假期总是一个巨大的能量源泉。它总是重新点燃我对知识的自然饥渴。高中阶段有效地打消了我对历史的兴趣。我再也没有回到我第一个假期的最初计划中去。
 
 如果我的生活都是在 "度假模式 "下运行，我会纠正我的无知吗？我不能确定。然而，整个学习和发展过程在 "假期模式"下会进行得更快。我敢打赌，我80%的生物化学知识是在暑假期间获得的。换句话说，这是一个很好的帕累托原则：80%的知识是在20%的时间里获得的。这只是几十年后的一个大胆猜测。这个数字很惊人吗？如果不是，请考虑一下，这将表明在自由条件下**16倍的学习速度（在四分之一的时间内增加四倍的量）。是的，1600%。这个数字一点都不令我吃惊。这都是关于精神能量和激情。学校很容易把它从我身上耗尽。只要不送我去学校，我的整个发展就能加快16倍吗？这个数字看起来很高，我不确定它是否适用于所有人。我看到很少有孩子把空闲时间花在学习上（除了一些没有具体教育目标的网上冲浪）。然而，很少有孩子能真正摆脱学校教育、专制父母、同龄人等的影响。我不能不考虑我的一些个性特征、家里的自由、或我哥哥早期的影响，他试图向我解释一些科学知识。
 
@@ -90,7 +90,7 @@
 
 [[img [Software toolworks grolier encyclopedia.jpg|https://supermemo.guru/images/6/63/Software_toolworks_grolier_encyclopedia.jpg]]](https://supermemo.guru/wiki/File:Software_toolworks_grolier_encyclopedia.jpg)
 
-> ***图：**这是[我](https://supermemo.guru/wiki/Piotr_Wozniak)第一个友好的、令人喜欢的、紧凑的历史知识来源。Software Toolworks, Grolier Encyclopedia on CD-ROM.在[自由学习](https://supermemo.guru/wiki/Free_learning)中，学生必须做出自己的选择。来自电子百科全书的简明知识对我的需求和我对历史的理解程度来说是刚刚好。如果没有那第一个不错的来源与[SuperMemo](https://supermemo.guru/wiki/SuperMemo)相结合的推动力，我的历史知识可能永远不会进步*。
+> ***图：** 这是[我](https://supermemo.guru/wiki/Piotr_Wozniak)第一个友好的、令人喜欢的、紧凑的历史知识来源。Software Toolworks, Grolier Encyclopedia on CD-ROM.在[自由学习](https://supermemo.guru/wiki/Free_learning)中，学生必须做出自己的选择。来自电子百科全书的简明知识对我的需求和我对历史的理解程度来说是刚刚好。如果没有那第一个不错的来源与[SuperMemo](https://supermemo.guru/wiki/SuperMemo)相结合的推动力，我的历史知识可能永远不会进步*。
 
 突然间，我可以很容易地获得知识，并且发现阅读伟大的哲学家或科学家的生活是非常有趣的。有了存储在SuperMemo中的有趣的片段，我现在可以对过去建立一个连贯的画面，而且随着每一次深入的洞察力和存储在SuperMemo中的每一个新的知识片段，这一切都显得越来越有趣了。很快，我开始对科学的一般历史感兴趣，然后是文明的历史。
 
@@ -126,7 +126,7 @@
 
 [[img [Piotr wozniak的历史知识(in items).jpg|https://supermemo.guru/images/3/30/Piotr_wozniak_knowledge_of_history_%28in_items%29.jpg]]](https://supermemo.guru/wiki/File:Piotr_wozniak_knowledge_of_history_(in_items).jpg)
 
-> ***图：**[我的](https://supermemo.guru/wiki/Piotr_Wozniak)以[超级备忘录](https://supermemo.guru/wiki/SuperMemo)[项目](https://supermemo.guru/wiki/Item)衡量的历史知识。12年的小学和中学教育几乎没有提供任何历史知识。在课堂上度过的无数个小时没有带来任何可观察的效果。这等于白白损失了800-1000个小时的生命。大学毕业后形成了残存的兴趣。[SuperMemo](https://supermemo.guru/wiki/SuperMemo)提供了一个记忆备份，养成了兴趣的正反馈循环。真正的突破来自于[增量阅读](https://supermemo.guru/wiki/Incremental_reading)，它使人们能够轻松愉快地阅读，并将最佳知识转移到记忆中*。
+> ***图：** [我的](https://supermemo.guru/wiki/Piotr_Wozniak)以[超级备忘录](https://supermemo.guru/wiki/SuperMemo)[项目](https://supermemo.guru/wiki/Item)衡量的历史知识。12年的小学和中学教育几乎没有提供任何历史知识。在课堂上度过的无数个小时没有带来任何可观察的效果。这等于白白损失了800-1000个小时的生命。大学毕业后形成了残存的兴趣。[SuperMemo](https://supermemo.guru/wiki/SuperMemo)提供了一个记忆备份，养成了兴趣的正反馈循环。真正的突破来自于[增量阅读](https://supermemo.guru/wiki/Incremental_reading)，它使人们能够轻松愉快地阅读，并将最佳知识转移到记忆中*。
 
 1.1968-1980年的K-12学年。我的历史知识可以忽略不计。尽管有大量的测试，但学校教育的贡献微乎其微。[遗忘](https://supermemo.guru/wiki/Forgetting_curve)会把这些知识蹂躏到低水平。在那个K-12时期结束时，我可能已经达到了相当于150-400个长间隔的项目。这可能相当于每年20-50个项目。
 
@@ -146,7 +146,7 @@
 
 综上所述，学校教育再次被证明毫无价值。SuperMemo会有帮助。然而，最终，只有[渐进阅读,](https://supermemo.guru/wiki/Incremental_reading)能确保在获得历史知识方面取得系统性的进展。
 
-在学习历史上，**学校被证明比[自由学习](https://supermemo.guru/wiki/Free_learning)的效率低16-50倍**。
+在学习历史上， **学校被证明比[自由学习](https://supermemo.guru/wiki/Free_learning)的效率低16-50倍** 。
 
 # 高中历史的失败
 
@@ -198,7 +198,7 @@
 
 个人轶事。[为什么使用轶事？](https://supermemo.guru/wiki/Why_use_anecdotes%3F)
 
-**教师不可能完成的工作：**。
+ **教师不可能完成的工作：** 。
 
 我可以把学校教育的无用性论证得淋漓尽致，但仍然让我的听众保持怀疑态度。我有一个来自我自己生活的有力提示，它应该成为所有教师的安慰。自20世纪80年代中期以来，我一直主张需要
 

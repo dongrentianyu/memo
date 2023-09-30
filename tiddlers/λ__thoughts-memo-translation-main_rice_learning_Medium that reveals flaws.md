@@ -2,7 +2,7 @@
 
 原文：[Medium that reveals flaws](https://wiki.issarice.com/wiki/Medium_that_reveals_flaws)
 
-**曝瑕媒介**指媒介能够揭示出使用该媒介的材料有何瑕疵。
+ **曝瑕媒介** 指媒介能够揭示出使用该媒介的材料有何瑕疵。
 
 正面案例：
 

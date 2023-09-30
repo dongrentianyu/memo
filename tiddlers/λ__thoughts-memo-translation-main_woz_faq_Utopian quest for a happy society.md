@@ -12,7 +12,7 @@
 
 [尊重神经控制](https://supermemo.guru/wiki/War_of_the_networks)不会阻止社会进步。恰恰相反，如果运用得当，遵循人类的本能需求可以提高人们的创造力、智慧、健康和社会满足感。
 
-首先我们应该区分**[慢性压力](https://supermemo.guru/wiki/Chronic_stress)**、**[急性压力](https://supermemo.guru/wiki/Acute_stress)**和**[良性压力](https://supermemo.guru/wiki/Eustress)**。我们应该努力保护个人免受慢性压力。同时，急性压力也有很大的价值。对于居家的程序员来说，马拉松或[冬泳](https://supermemo.guru/wiki/Winter_swimming)会让人受益颇多。最后这一条重点是，良性压力是一种快乐和激情的形式，它帮助许多人在创造性工作中腾飞。一个好的程序员在面对挑战、竞争，甚至是合理的截止日期时，可以大显神通。[压力的承担有一个最佳剂量](https://supermemo.guru/wiki/Stress_resilience#Optimum_stress_exposure)，特别是在青春期之前。
+首先我们应该区分 **[慢性压力](https://supermemo.guru/wiki/Chronic_stress)** 、 **[急性压力](https://supermemo.guru/wiki/Acute_stress)** 和 **[良性压力](https://supermemo.guru/wiki/Eustress)** 。我们应该努力保护个人免受慢性压力。同时，急性压力也有很大的价值。对于居家的程序员来说，马拉松或[冬泳](https://supermemo.guru/wiki/Winter_swimming)会让人受益颇多。最后这一条重点是，良性压力是一种快乐和激情的形式，它帮助许多人在创造性工作中腾飞。一个好的程序员在面对挑战、竞争，甚至是合理的截止日期时，可以大显神通。[压力的承担有一个最佳剂量](https://supermemo.guru/wiki/Stress_resilience#Optimum_stress_exposure)，特别是在青春期之前。
 
 我没做过羚羊，但我敢说，没有什么能比成功逃离捕食者的追捕更能让它感到身心舒畅。在拳击比赛胜利时，或马拉松赛越过终点线的那一刻，人们都会兴高采烈。我们不希望羚羊被人为地移到一个新公园，或者为了自身的保护而[关在笼子里](https://supermemo.guru/wiki/Would_you_have_a_heart_to_cage_a_puppy%3F)。它终会在我们面前变成一只失去生存欲望的肥胖动物。就像是一只深陷存在主义困境的沮丧羚羊。这对现代社会的很大一部分人来说是个问题。
 

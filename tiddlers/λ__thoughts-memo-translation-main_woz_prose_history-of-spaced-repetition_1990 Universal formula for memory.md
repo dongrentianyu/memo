@@ -20,7 +20,7 @@
 
 >
 
-> 1990 年 8 月 27 日：**我解决了**间歇学习，**表明这个问题是无法解决的**！单独一个参数无力描述与整页项目的记忆强度。这表明，**[E 因子](https://supermemo.guru/wiki/E-Factor)较低的项目没有[最优区间](https://supermemo.guru/wiki/Optimal_interval)**！
+> 1990 年 8 月 27 日： **我解决了** 间歇学习， **表明这个问题是无法解决的** ！单独一个参数无力描述与整页项目的记忆强度。这表明， **[E 因子](https://supermemo.guru/wiki/E-Factor)较低的项目没有[最优区间](https://supermemo.guru/wiki/Optimal_interval)** ！
 
 >
 
@@ -42,7 +42,7 @@
 
 > - 对于[遗忘指数](https://supermemo.guru/wiki/Forgetting_index)等于 10%，[保留率](https://supermemo.guru/wiki/Retention)为 94%（如 EVF [数据库](https://supermemo.guru/wiki/Database)）
 
-> - **[保留率](https://supermemo.guru/wiki/Retention)与[遗忘指数](https://supermemo.guru/wiki/Forgetting_index)**呈线性关系 [2018 年评论：在异质材料的小范围内]**（这无法从我 1 月份进行的模拟实验中计算出来）**
+> - **[保留率](https://supermemo.guru/wiki/Retention)与[遗忘指数](https://supermemo.guru/wiki/Forgetting_index)** 呈线性关系 [2018 年评论：在异质材料的小范围内] **（这无法从我 1 月份进行的模拟实验中计算出来）** 
 
 > - 该模型说，[遗忘指数](https://supermemo.guru/wiki/Forgetting_index)的理想值是 5-10%（工作量-保留率的权衡）
 
@@ -66,7 +66,7 @@
 
 >
 
-> **间歇学习模型**
+> **间歇学习模型** 
 
 >
 
@@ -122,7 +122,7 @@
 
 >
 
-> **11.1.间歇学习问题的提出**
+> **11.1.间歇学习问题的提出** 
 
 >
 
@@ -268,7 +268,7 @@
 
 >
 
-> **11.2. 间歇学习的解决方案**
+> **11.2. 间歇学习的解决方案** 
 
 >
 
@@ -424,7 +424,7 @@
 
 >
 
-> **11.4. 间歇学习模型的验证**
+> **11.4. 间歇学习模型的验证** 
 
 >
 
@@ -534,7 +534,7 @@
 
 >
 
-> 值得注意的是，**[最优系数](https://supermemo.guru/wiki/Optimal_factor)有逐步降低的趋势！**这一事实似乎证实了最近一系列观察，这些观察基于对[SM-5 算法](https://supermemo.guru/wiki/Algorithm_SM-5) 中使用的[最优系数矩阵](https://supermemo.guru/wiki/OF_matrix)的分析。
+> 值得注意的是， **[最优系数](https://supermemo.guru/wiki/Optimal_factor)有逐步降低的趋势！** 这一事实似乎证实了最近一系列观察，这些观察基于对[SM-5 算法](https://supermemo.guru/wiki/Algorithm_SM-5) 中使用的[最优系数矩阵](https://supermemo.guru/wiki/OF_matrix)的分析。
 
 >
 
@@ -696,7 +696,7 @@
 
 >
 
-> **临时总结**
+> **临时总结** 
 
 >
 

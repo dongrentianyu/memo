@@ -4,9 +4,9 @@
 
 [助记媒介](https://notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)帮助读者记住他们所读内容的具体细节，但许多读者本能地感到，他们的记忆可能过于僵化——仅限于鹦鹉学舌地记住熟悉问题的答案。他们有这样的直觉，即真正的理解比这更加灵活，应该可以应用于新的情况 (即[迁移学习](https://notes.andymatuschak.org/z2hEyCHQpB6UV8z4mYvto7FJud4zWVqZqfxJZ))。许多读者说他知道，如果他们能将理解应用起来，他们才真正理解某项知识，无论是实践应用还是社会上应用。
 
-为了**真正**让理解能运用起来，也就是创造一个类似[赋能环境着重于环境所赋能的事](https://notes.andymatuschak.org/z6tuZZKaNeLM7c9jPZwNVGURGTuXLy8jesv5i)中描述的环境——我们需要创造 [The Primer++](https://notes.andymatuschak.org/z2LSeViHDq9uQaPzrQvUgqsotZTKRgBZMm24x)。但我们已经知道[间隔重复记忆系统可用于促进应用、综合和创造](https://notes.andymatuschak.org/zE8PK4UUAAWK6LEcmr8jja8JdxpUxcf1FUCX)，所以我们可以沿着这个思路，在助记媒介中包含一些简单的问题，要求读者在**陌生**情景中**综合**运用所学。这样的问题有助于读者提高灵活性，增强对其知识的自信心。应用型问题能显著增进助记媒介对理解的积极作用。
+为了 **真正** 让理解能运用起来，也就是创造一个类似[赋能环境着重于环境所赋能的事](https://notes.andymatuschak.org/z6tuZZKaNeLM7c9jPZwNVGURGTuXLy8jesv5i)中描述的环境——我们需要创造 [The Primer++](https://notes.andymatuschak.org/z2LSeViHDq9uQaPzrQvUgqsotZTKRgBZMm24x)。但我们已经知道[间隔重复记忆系统可用于促进应用、综合和创造](https://notes.andymatuschak.org/zE8PK4UUAAWK6LEcmr8jja8JdxpUxcf1FUCX)，所以我们可以沿着这个思路，在助记媒介中包含一些简单的问题，要求读者在 **陌生** 情景中 **综合** 运用所学。这样的问题有助于读者提高灵活性，增强对其知识的自信心。应用型问题能显著增进助记媒介对理解的积极作用。
 
-例如，除了要求读者回忆量子 `X` 门的矩阵表示外，我们还可以要求读者**应用**这一知识，如计算 `X` 门应用于 `(|0>-|1>)/sqrt(2)` 时量子线路的输出。然后下一次，我们可能会问读者 `X(0.8|0> + 0.6|1>)是多少?`：[应用卡片在重复时应有所不同](https://notes.andymatuschak.org/z7hqxNNJkeS2eta2eVaUx7cGB27axq2bw3h2y)。
+例如，除了要求读者回忆量子 `X` 门的矩阵表示外，我们还可以要求读者 **应用** 这一知识，如计算 `X` 门应用于 `(|0>-|1>)/sqrt(2)` 时量子线路的输出。然后下一次，我们可能会问读者 `X(0.8|0> + 0.6|1>)是多少?`：[应用卡片在重复时应有所不同](https://notes.andymatuschak.org/z7hqxNNJkeS2eta2eVaUx7cGB27axq2bw3h2y)。
 
 这种问题之所以好，部分原因是它和你所记忆的知识非常接近。不需要制定解题策略，不必判断哪些步骤要执行，而要执行的步骤本身也较为容易；也不必将很多细节用全新的方式组合起来。
 

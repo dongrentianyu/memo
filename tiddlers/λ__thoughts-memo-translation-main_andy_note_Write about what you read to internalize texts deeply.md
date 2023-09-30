@@ -28,9 +28,9 @@
 
 我们的大方针是交替地循环：
 
-1. 把看起来有趣的段落和阅读时出现的想法**收集**起来：[如何在阅读时收集观察](https://notes.andymatuschak.org/z71FeBJGqZdyA78UNTwXCWcMGUVCWk1XsLvPS)
+1. 把看起来有趣的段落和阅读时出现的想法 **收集** 起来：[如何在阅读时收集观察](https://notes.andymatuschak.org/z71FeBJGqZdyA78UNTwXCWcMGUVCWk1XsLvPS)
 
-2. **加工**将这些段落和思想群，写出经久耐用的笔记：[如何将阅读标注加工成常青笔记](https://notes.andymatuschak.org/z2PJ51tCXuPFxnfFVUxxgwjvZ1geu4YnYm7hK)
+2. **加工** 将这些段落和思想群，写出经久耐用的笔记：[如何将阅读标注加工成常青笔记](https://notes.andymatuschak.org/z2PJ51tCXuPFxnfFVUxxgwjvZ1geu4YnYm7hK)
 
 ------
 
@@ -42,4 +42,4 @@ Luhmann, N. (1992). Communicating with Slip Boxes. In A. Kieserling (Ed.), & M. 
 
 Levy, N. (2013). Neuroethics and the Extended Mind. In J. Illes & B. J. Sahakian (Eds.), *Oxford Handbook of Neuroethics* (pp. 285–294). Oxford University Press.
 
-> 纸质笔记，或电脑屏幕上的笔记......并没有使当代物理学或其他种类的智力行为**容易**，而是使之**可能**。
+> 纸质笔记，或电脑屏幕上的笔记......并没有使当代物理学或其他种类的智力行为 **容易** ，而是使之 **可能** 。

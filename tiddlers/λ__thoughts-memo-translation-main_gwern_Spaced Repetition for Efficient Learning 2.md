@@ -1,10 +1,10 @@
 ## [文献综述](https://www.gwern.net/Spaced-repetition#literature-review)
 
-但是不要轻信我的话——**不随他人之言**！要用科学说话。当然，如果你真的相信我的话，你可能只想阅读间隔重复的使用方法和各种花式应用，所以我建议你[直接跳到这里](https://www.gwern.net/Spaced-repetition#using-it)。其他人，我们从头开始：
+但是不要轻信我的话—— **不随他人之言** ！要用科学说话。当然，如果你真的相信我的话，你可能只想阅读间隔重复的使用方法和各种花式应用，所以我建议你[直接跳到这里](https://www.gwern.net/Spaced-repetition#using-it)。其他人，我们从头开始：
 
 ### [背景：测试有效果！](https://www.gwern.net/Spaced-repetition#background-testing-works)
 
-> 「把课文阅读二十遍之后背诵，效果不如把课文阅读十遍，并且时不时尝试背诵，记不住了就翻阅一下。」——**[The New Organon](https://en.wikipedia.org/wiki/The_New_Organon)**，[Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon)
+> 「把课文阅读二十遍之后背诵，效果不如把课文阅读十遍，并且时不时尝试背诵，记不住了就翻阅一下。」—— **[The New Organon](https://en.wikipedia.org/wiki/The_New_Organon)** ，[Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon)
 
 [测试效应](https://en.wikipedia.org/wiki/Testing_effect)是广受承认的心理学现象，表明了单纯测试记忆的行为就会增强记忆（无论是否有反馈）。既然[间隔重复](https://en.wikipedia.org/wiki/Spaced_repetition)的本质就是在特定的日子进行测试，我们便能得出测试比普通复习或者学习有更好的效果，而且不仅适用于记忆随便一个日期。下列是一些有关论文：
 
@@ -52,7 +52,7 @@
 
 13. Yang et al 2021, [“Testing (Quizzing) Boosts Classroom Learning: A Systematic And Meta–Analytic Review”](https://www.gwern.net/docs/spaced-repetition/2021-yang.pdf)
 
-（可能有人会忍不住反对，称测试只能对**某些**[学习风格](https://en.wikipedia.org/wiki/Learning_styles)有效，也许只对语言型学习风格有效。这种判断尚未得到证实，主要是因为学习风格的实验研究质量不高，而且对于学习风格本身是否存在这一点，现存证据还众说纷纭[24](https://www.gwern.net/Spaced-repetition#sn24)）
+（可能有人会忍不住反对，称测试只能对 **某些** [学习风格](https://en.wikipedia.org/wiki/Learning_styles)有效，也许只对语言型学习风格有效。这种判断尚未得到证实，主要是因为学习风格的实验研究质量不高，而且对于学习风格本身是否存在这一点，现存证据还众说纷纭[24](https://www.gwern.net/Spaced-repetition#sn24)）
 
 #### [学科](https://www.gwern.net/Spaced-repetition#subjects)
 

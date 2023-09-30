@@ -34,7 +34,7 @@ Holt 与激进的英国改革者 A. S. Neill 观点一致，他们都认为教�
 
 *引用的摘录来自以下[参考资料](https://supermemo.guru/wiki/References)：*
 
-标题：**John Holt：从学校批判家，到家庭教育倡导者**
+标题： **John Holt：从学校批判家，到家庭教育倡导者** 
 
 链接： https://www.nheri.org/home-school-researcher-a-radical-ideology-for-home-education-the-journey-of-john-holt-from-school-critic-to-home-school/
 

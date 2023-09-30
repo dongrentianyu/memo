@@ -32,4 +32,4 @@ Rice Issa 已经发布了[一个简单实现](https://github.com/riceissa/spaced
 
 ## 参考文献
 
-Matuschak, A. (2019, December). **认真对待知识工作**. 在旧金山举行的 Stripe Convergence 上发表。
+Matuschak, A. (2019, December). **认真对待知识工作** . 在旧金山举行的 Stripe Convergence 上发表。

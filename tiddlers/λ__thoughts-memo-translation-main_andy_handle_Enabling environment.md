@@ -2,7 +2,7 @@
 
 原文：[Enabling environment (andymatuschak.org)](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe)
 
-**赋能环境**极大地扩展了其参与者的能力，使他们能够做他们认为有意义和重要的事情。
+ **赋能环境** 极大地扩展了其参与者的能力，使他们能够做他们认为有意义和重要的事情。
 
 表面上学校应追求这一目的，但[教育计划往往会自我颠覆](https://notes.andymatuschak.org/z6qfYv9SPx6M9FZPzVj7o4qVRD1iTGJpMfz6J)，很大程度上是因为[赋能环境的活动直接服务于本身有意义的目的](https://notes.andymatuschak.org/z7wh92mfgXNTLk8AhaaLxsViQuzqGY5cV56Vm)。一般来说，[赋能环境着重为成长和行动创造机会，而不是培养技能](https://notes.andymatuschak.org/z5th5bWm6VhB6PPbYB97gUKMdnaZe5atntRza)。
 

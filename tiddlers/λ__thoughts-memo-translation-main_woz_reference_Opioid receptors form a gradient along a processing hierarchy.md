@@ -10,7 +10,7 @@
 
 引用的摘录来自以下[参考资料](https://supermemo.guru/wiki/References)：
 
-标题：**Opiate receptor gradients in monkey cerebral cortex: correspondence with sensory processing hierarchies**
+标题： **Opiate receptor gradients in monkey cerebral cortex: correspondence with sensory processing hierarchies** 
 
 反向链接：[Biederman 模型](https://supermemo.guru/wiki/Biederman_model)
 

@@ -2,7 +2,7 @@
 
 原文：[Spaced repetition systems can be used to program attention](https://notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)
 
-[间隔重复记忆系统让记忆成为一种选择](https://notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)，但交由计算机处理时间安排的价值，更在于动态地安排和选择要复习的问题。从某种意义上说，[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的功效来自于它**编程注意力**的能力（[可编程的注意力](https://notes.andymatuschak.org/zJrfPCbY7GcpV9asEc8NTVzXTAV4TvRFMuY6)）。不如把它想成「大脑的{cron}」（注：cron 是类 Unix 操作系统下的定期任务管理系统。）
+[间隔重复记忆系统让记忆成为一种选择](https://notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)，但交由计算机处理时间安排的价值，更在于动态地安排和选择要复习的问题。从某种意义上说，[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的功效来自于它 **编程注意力** 的能力（[可编程的注意力](https://notes.andymatuschak.org/zJrfPCbY7GcpV9asEc8NTVzXTAV4TvRFMuY6)）。不如把它想成「大脑的{cron}」（注：cron 是类 Unix 操作系统下的定期任务管理系统。）
 
 每张卡片都手动决定何时复习，实在是太费力了。况且方方面面成本都很高。如果把安排复习这项工作大部分外包给机器，你就可以做粒度更大的决定——比如 10 分钟专注进行 SRS 复习——而分配好时间块后，一切就交由机器安排。
 
@@ -34,7 +34,7 @@
 
 ## 参考文献
 
-Matuschak, A. (2019, December). **认真对待知识工作**. 在旧金山举行的 Stripe Convergence 上发表。
+Matuschak, A. (2019, December). **认真对待知识工作** . 在旧金山举行的 Stripe Convergence 上发表。
 
 ## 相关文章
 

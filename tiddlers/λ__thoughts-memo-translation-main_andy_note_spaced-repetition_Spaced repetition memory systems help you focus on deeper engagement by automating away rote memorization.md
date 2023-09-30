@@ -6,7 +6,7 @@
 
 这是对[许多人认为记忆对深入的创造性工作不重要](https://notes.andymatuschak.org/zD5zaKmvTFAAL3PTJGWzkAQr6CtoBCdoXBpM)的很好的反驳。
 
-不过，值得指出的是，间隔重复并不**只**对学习中最死板的部分有用：只是这种方式最容易使用。事实上，[间隔重复记忆系统可以用来发展概念性理解](https://notes.andymatuschak.org/z6UZP7P4sRNgRKSvNj7tMV5uW6dDhwwbdZCy9)。
+不过，值得指出的是，间隔重复并不 **只** 对学习中最死板的部分有用：只是这种方式最容易使用。事实上，[间隔重复记忆系统可以用来发展概念性理解](https://notes.andymatuschak.org/z6UZP7P4sRNgRKSvNj7tMV5uW6dDhwwbdZCy9)。
 
 ------
 

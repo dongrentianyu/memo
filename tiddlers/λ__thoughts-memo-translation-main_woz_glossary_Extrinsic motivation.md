@@ -2,7 +2,7 @@
 
 原文：[Extrinsic motivation - supermemo.guru](https://supermemo.guru/wiki/Extrinsic_motivation)
 
-**外在动机**是来自外部的动机。在学习中，这种动机可能源于老师、父母，源于挫败、哄骗、甚至是惩罚。想要依靠外在动机来提高学习效率几乎是不可能的。外在动机的建立基于奖惩，与知识本身的价值毫不相干。 这种类型的动机（外在动机）违背了[学习的基本规律](https://supermemo.guru/wiki/Fundamental_law_of_learning)。如果学习本身不构成奖励，学习的知识会是[不连贯](https://supermemo.guru/wiki/Coherence)的，并且易于干涉，这种类型的知识不仅难以被大脑记住，还会加快对其他知识的遗忘。[**内在**动机](https://supermemo.guru/wiki/Intrinsic_motivation)才是高效学习的关键。
+ **外在动机** 是来自外部的动机。在学习中，这种动机可能源于老师、父母，源于挫败、哄骗、甚至是惩罚。想要依靠外在动机来提高学习效率几乎是不可能的。外在动机的建立基于奖惩，与知识本身的价值毫不相干。 这种类型的动机（外在动机）违背了[学习的基本规律](https://supermemo.guru/wiki/Fundamental_law_of_learning)。如果学习本身不构成奖励，学习的知识会是[不连贯](https://supermemo.guru/wiki/Coherence)的，并且易于干涉，这种类型的知识不仅难以被大脑记住，还会加快对其他知识的遗忘。[ **内在** 动机](https://supermemo.guru/wiki/Intrinsic_motivation)才是高效学习的关键。
 
 另见：
 
@@ -18,9 +18,9 @@
 
 >
 
-> - 基于[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的**自发学习**以红色表示
+> - 基于[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的 **自发学习** 以红色表示
 
-> - 建立在学校奖惩之上的**强迫学习**以蓝色表示
+> - 建立在学校奖惩之上的 **强迫学习** 以蓝色表示
 
 > - 外在动机的影响以橙色显示（奖励和惩罚为同一影响媒介）
 

@@ -2,7 +2,7 @@
 
 原文：[Recoding can increase chunk size (andymatuschak.org)](https://notes.andymatuschak.org/z7Xn37Ji3L6J33QHSVgaKyrpj5sm6spcZ7gH7)
 
-[人类的信道容量与组块比特容量正相关](https://notes.andymatuschak.org/z6ZFtY8UGPaF9uofckBB7HwK62pssJAUg8C91)。但我们不需要依赖对人脑刺激的「内在」组块大小。我们可以通过**重新编码**来增加刺激的有效组块大小——也就是说，精神上重组刺激的信息，得到组块描述更宏观的模式。这些块状模式也被称为[心理表征，取自 Ericsson 和 Pool](https://notes.andymatuschak.org/z8kfytRN7oJuKmzmtt6NW5UbFLjkk94nNMJSH).
+[人类的信道容量与组块比特容量正相关](https://notes.andymatuschak.org/z6ZFtY8UGPaF9uofckBB7HwK62pssJAUg8C91)。但我们不需要依赖对人脑刺激的「内在」组块大小。我们可以通过 **重新编码** 来增加刺激的有效组块大小——也就是说，精神上重组刺激的信息，得到组块描述更宏观的模式。这些块状模式也被称为[心理表征，取自 Ericsson 和 Pool](https://notes.andymatuschak.org/z8kfytRN7oJuKmzmtt6NW5UbFLjkk94nNMJSH).
 
 例如，为记忆一串二进制数字，可以将其三位一组转换成八进制来记忆（例如，010=2，101=5，诸如此类），这样记忆容量大约能增加两倍（Miller, 1956）。Chase 和 Ericsson(1982) 使用这类技术将一个学生的数字广度提高到 80 位，具体做法是将数字重新分层编码为 4 位十进制的组块。
 

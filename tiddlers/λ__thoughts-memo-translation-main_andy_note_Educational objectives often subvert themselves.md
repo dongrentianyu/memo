@@ -2,7 +2,7 @@
 
 原文：[Educational objectives often subvert themselves (andymatuschak.org)](https://notes.andymatuschak.org/z6qfYv9SPx6M9FZPzVj7o4qVRD1iTGJpMfz6J)
 
-[一些「教育」活动具有内在意义的目的](https://notes.andymatuschak.org/z3bjAHBa3Rx5DRwmVsmmeNUTceS9ErxLfSAiM)，但在大多数教育环境中，主要关注的是**使他人/自己学会一些东西**，而这种目的一般不具有内在意义（与[赋能环境的活动直接服务于内在意义的目的](https://notes.andymatuschak.org/z7wh92mfgXNTLk8AhaaLxsViQuzqGY5cV56Vm)相反）。
+[一些「教育」活动具有内在意义的目的](https://notes.andymatuschak.org/z3bjAHBa3Rx5DRwmVsmmeNUTceS9ErxLfSAiM)，但在大多数教育环境中，主要关注的是 **使他人/自己学会一些东西** ，而这种目的一般不具有内在意义（与[赋能环境的活动直接服务于内在意义的目的](https://notes.andymatuschak.org/z7wh92mfgXNTLk8AhaaLxsViQuzqGY5cV56Vm)相反）。
 
 对学习成果的执着，本质上是对某种「效果」的追求，这种效果是由一个深层因素驱动的：该材料本质的、有意义的目的。教师却试图把内因晾在一边，直接传授效果，学生便对教师产生依赖——其不仅是专业知识的来源，也是学习目的的来源。在这样的关系中，教师扮演的角色，便由他的上级地位来界定。这往往表现为（无意的）居高临下的态度。
 
@@ -10,7 +10,7 @@
 
 [深刻的理解需要强烈的个人联系（也是其结果）](https://notes.andymatuschak.org/z5gCpoFJJThDFHK1a7Vv3ssxF3kkjeRaTrJHK)。而在老师和学生之间，居高临下和外部依赖的关系中，不可能产生这样的联系。通常情况下，教师/材料作者本人与材料没有这样的联系，这使得居高临下的情况更加严重（见[作者的环境被作者的动机严重影响](https://notes.andymatuschak.org/z34mYTEEEQcrywWkoNnz1Fzr8NmwaDsVRNgTK)）。按 Per Bret 的说法：
 
-> 我难以想象，许多设计师会衷心地被从一数到十或加法所吸引。因此，关于这些主题的材料编写的意图，既不是直接赋能，也不是为了分享对概念的热爱，而是出于「我知道这个概念，而你不知道这个概念，我觉得你需要知道我所知道的」的立场。因此「老师」和「学生」之间出现了不平衡与不对称。而这种不对称往往表现为**居高临下**。
+> 我难以想象，许多设计师会衷心地被从一数到十或加法所吸引。因此，关于这些主题的材料编写的意图，既不是直接赋能，也不是为了分享对概念的热爱，而是出于「我知道这个概念，而你不知道这个概念，我觉得你需要知道我所知道的」的立场。因此「老师」和「学生」之间出现了不平衡与不对称。而这种不对称往往表现为 **居高临下** 。
 
 相关文章：
 

@@ -18,7 +18,7 @@
 
 某种「所有笔记」 视图，只是按照创建时间或最后修改时间顺序列出笔记。如果你进入 [https://roamresearch.com/#/app/YOUR\_GRAPH\_NAME/search](https://roamresearch.com/#/app/YOUR_GRAPH_NAME/search)，你会发现 [Roam](https://wiki.issarice.com/index.php?title=Roam&action=edit&redlink=1) 也有这个功能。
 
-我目前在 inbox.txt 中的「间隔收件箱」**只**有这个视图。但也应该有一个默认的「收件箱」视图。有点像 Gmail 有收件箱和「所有邮件」。
+我目前在 inbox.txt 中的「间隔收件箱」 **只** 有这个视图。但也应该有一个默认的「收件箱」视图。有点像 Gmail 有收件箱和「所有邮件」。
 
 ---
 

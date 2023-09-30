@@ -4,17 +4,17 @@
 
 重要的是[写你所读，以求内化](https://notes.andymatuschak.org/zg3fYweZpbHeBTpcYke5mF4ZfrJutYcQEtFo)。在阅读过程中，你已经标记了那些看起来相关的段落，并且你已经简单记下了你的想法（[如何在阅读时收集观察结果](https://notes.andymatuschak.org/z71FeBJGqZdyA78UNTwXCWcMGUVCWk1XsLvPS)）。现在，我们会把所有这些都处理成长久化的笔记。
 
-首先：到底应该写什么笔记？我们要写的[常青笔记应面向概念](https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF)，那么我们面向的关键概念是什么？你需要先退一步，看到整体上一个概念结构的图。要做到这点，你可以把草稿聚成「簇*」，并观察一簇一簇的草稿间萌生的概念结构。或者，你可以勾勒出一幅思维导图或可视化的大纲。你所观察到的结构**不必与阅读材料的结构相匹配**：只要对你自己有意义就可以（[自主思考](https://notes.andymatuschak.org/z4enRPbLXdD8X8hCfVjaRkcGkronvhcfrgSQw)）。（*译注：原文 cluster，指想法聚类而成的群集）
+首先：到底应该写什么笔记？我们要写的[常青笔记应面向概念](https://notes.andymatuschak.org/z6bci25mVUBNFdVWSrQNKr6u7AZ1jFzfTVbMF)，那么我们面向的关键概念是什么？你需要先退一步，看到整体上一个概念结构的图。要做到这点，你可以把草稿聚成「簇*」，并观察一簇一簇的草稿间萌生的概念结构。或者，你可以勾勒出一幅思维导图或可视化的大纲。你所观察到的结构 **不必与阅读材料的结构相匹配** ：只要对你自己有意义就可以（[自主思考](https://notes.andymatuschak.org/z4enRPbLXdD8X8hCfVjaRkcGkronvhcfrgSQw)）。（*译注：原文 cluster，指想法聚类而成的群集）
 
 一旦对这些概念图景有了些了解，你就可以开始你迭代性的笔记写作了。这里我总结了 Christian Tietze 的流程，也是我目前正在使用、适应的：
 
-1. **泛写笔记**
+1. **泛写笔记** 
 
  写一条宽泛的笔记 ，它概括草稿簇中的一个「大想法」。
 
    - 如果有多个「大概念」，那这样宽泛的笔记就多写几条，以保证[常青笔记应该是原子化的](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)。
 
-2. **精写笔记**：遍览草稿簇中的单独卡片，写下更细化的想法，捕捉簇中的原子观点。
+2. **精写笔记** ：遍览草稿簇中的单独卡片，写下更细化的想法，捕捉簇中的原子观点。
 
 3. 连接：
 
@@ -22,9 +22,9 @@
 
    - 见[常青笔记之间应该建立大量链接](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)和[在写作时创建推测性大纲](https://notes.andymatuschak.org/z2uXyfV67dnWLUKg1iDbsrHk3DGjtNWTxSTah)。
 
-4. **修改**：回到宽泛笔记中，在不混淆重点的前提下，根据你在写详细笔记时学到的东西和展开的细节来改进你的总结。删除不必要的详细说明；如有必要，基于这次更新过程中的收获，更新其他的宽泛笔记。
+4. **修改** ：回到宽泛笔记中，在不混淆重点的前提下，根据你在写详细笔记时学到的东西和展开的细节来改进你的总结。删除不必要的详细说明；如有必要，基于这次更新过程中的收获，更新其他的宽泛笔记。
 
-5. **重复上述过程**
+5. **重复上述过程** 
 
 ------
 

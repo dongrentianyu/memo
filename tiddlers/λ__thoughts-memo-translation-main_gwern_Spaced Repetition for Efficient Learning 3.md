@@ -1,6 +1,6 @@
 ### [间隔效应](https://www.gwern.net/Spaced-repetition#distributed)（分散练习）
 
-测试的时机至关重要。上文中，我们注意到学完知识之后测试是有些好处，但是同样数量的测试分散到不同时机进行，更能实现**间隔效应**或者**间隔重复**。有上百个研究涉及间隔效应：
+测试的时机至关重要。上文中，我们注意到学完知识之后测试是有些好处，但是同样数量的测试分散到不同时机进行，更能实现 **间隔效应** 或者 **间隔重复** 。有上百个研究涉及间隔效应：
 
 - [Cepeda et al 2006](https://www.gwern.net/docs/www/uweb.cas.usf.edu/f1052ecdd92f0ecc3f57bdd890a4a6558483ec45.pdf) 这篇综述对 184 篇文章共计 317 个实验做了总结；其他综述包括：
 
@@ -32,7 +32,7 @@
 
 - Balota et al 1989, [“Age-related differences in the impact of spacing, lag and retention interval”](https://www.gwern.net/docs/www/psychnet.wustl.edu/ad28721c2c4227dff59f1061c900d6ee8b7096da.pdf)⁠. *Psychology and Aging*, 4, 3-9
 
-**大量**研究文献都在探究“什么样”的间隔安排是最好的，以及如此安排所反映出的记忆性质：是间隔固定不动好，还是间隔逐渐变大好？这对于理解记忆以及建立记忆模型都非常重要，同时也有助于将间隔重复融入课堂（比如[Kelley & Whatson 2013年](https://www.frontiersin.org/Journal/10.3389/fnhum.2013.00589/full)研究使用的安排是10分钟学习/10分钟休息，将同样材料重复三次，其意图是促使材料进入长期记忆？）但是对于实践来说，这个研究方向不是很有趣：总的来说，很多研究众说纷纭，但给出的安排效率虽有差异，也不算显著。大多数现存材料都模仿 Supermemo,  使用了间隔变大的算法，所以没什么好担心的； Mnemosyne 的开发者 Peter Bienstman 说，尚不清楚更复杂的算法能否有助益[32](https://www.gwern.net/Spaced-repetition#sn32)⁠, Anki 开发者[担心](https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html)重新实现 Supermemo 的专有算法太难也太复杂，却看不到显著成效，同时 SM3+ 算法为了极尽优化可能造成更多错误。所以他们也有同感。
+ **大量** 研究文献都在探究“什么样”的间隔安排是最好的，以及如此安排所反映出的记忆性质：是间隔固定不动好，还是间隔逐渐变大好？这对于理解记忆以及建立记忆模型都非常重要，同时也有助于将间隔重复融入课堂（比如[Kelley & Whatson 2013年](https://www.frontiersin.org/Journal/10.3389/fnhum.2013.00589/full)研究使用的安排是10分钟学习/10分钟休息，将同样材料重复三次，其意图是促使材料进入长期记忆？）但是对于实践来说，这个研究方向不是很有趣：总的来说，很多研究众说纷纭，但给出的安排效率虽有差异，也不算显著。大多数现存材料都模仿 Supermemo,  使用了间隔变大的算法，所以没什么好担心的； Mnemosyne 的开发者 Peter Bienstman 说，尚不清楚更复杂的算法能否有助益[32](https://www.gwern.net/Spaced-repetition#sn32)⁠, Anki 开发者[担心](https://faqs.ankiweb.net/what-spaced-repetition-algorithm.html)重新实现 Supermemo 的专有算法太难也太复杂，却看不到显著成效，同时 SM3+ 算法为了极尽优化可能造成更多错误。所以他们也有同感。
 
 如果有人感兴趣，有 3 项研究发现固定间隔比递增间隔更好：
 
@@ -154,9 +154,9 @@
 
 ##### [运动技能](https://www.gwern.net/Spaced-repetition#motor-skills)
 
-应该指出的是，关于间隔重复多大程度上适用于运动技能，不少综述相互矛盾；Lee & Genovese 1988 认为有好处，而 Adams 1987 和更早的综述相反。区别可能在于，[Shea & Morgan 1979](http://www.eric.ed.gov/ERICWebPortal/search/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=EJ215260&ERICExtSearch_SearchType_0=no&accno=EJ215260) 显示了（随机/间隔安排计划有益于）简单的运动任务，而 [Wulf & Shea 2002](https://pdfs.semanticscholar.org/c747/336e77ce39f7f5cdbd937684a7f564e9e194.pdf)⁠ 显示**复杂**的任务，即受试者已经在他的极限下操作的任务，则没有受益。Stambaugh 2009 提到了一些不同的研究：
+应该指出的是，关于间隔重复多大程度上适用于运动技能，不少综述相互矛盾；Lee & Genovese 1988 认为有好处，而 Adams 1987 和更早的综述相反。区别可能在于，[Shea & Morgan 1979](http://www.eric.ed.gov/ERICWebPortal/search/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=EJ215260&ERICExtSearch_SearchType_0=no&accno=EJ215260) 显示了（随机/间隔安排计划有益于）简单的运动任务，而 [Wulf & Shea 2002](https://pdfs.semanticscholar.org/c747/336e77ce39f7f5cdbd937684a7f564e9e194.pdf)⁠ 显示 **复杂** 的任务，即受试者已经在他的极限下操作的任务，则没有受益。Stambaugh 2009 提到了一些不同的研究：
 
-> 情景干扰假说（Shea 和 Morgan 1979，Battig 1966 [[**技能的习得**](https://archive.org/details/acquisitionofski00conf)中的「促进和干扰」]）预测阻塞条件将在练习（习得）后立即展现出更好的表现，但随机条件在延迟保留率测试中表现更好。这一假设在实验室运动学习研究中基本一致（如 [Lee & Magill 1983](https://www.gwern.net/docs/spaced-repetition/1983-lee.pdf), [Brady 2004](https://www.gwern.net/docs/spaced-repetition/2004-brady.pdf)），但在运动技能的应用研究方面不太一致（结果好坏都有，如 [Landin & Hebert 1997](https://www.gwern.net/docs/spaced-repetition/1997-landin.pdf), Hall et al 1994, [Regal 2013](http://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1486&context=etds)）和精细运动技能（[Ollis et al 2005](https://www.gwern.net/docs/spaced-repetition/2005-ollis.pdf), [Ste-Marie et al 2004](https://www.gwern.net/docs/spaced-repetition/2004-stemarie.pdf)）。
+> 情景干扰假说（Shea 和 Morgan 1979，Battig 1966 [[ **技能的习得** ](https://archive.org/details/acquisitionofski00conf)中的「促进和干扰」]）预测阻塞条件将在练习（习得）后立即展现出更好的表现，但随机条件在延迟保留率测试中表现更好。这一假设在实验室运动学习研究中基本一致（如 [Lee & Magill 1983](https://www.gwern.net/docs/spaced-repetition/1983-lee.pdf), [Brady 2004](https://www.gwern.net/docs/spaced-repetition/2004-brady.pdf)），但在运动技能的应用研究方面不太一致（结果好坏都有，如 [Landin & Hebert 1997](https://www.gwern.net/docs/spaced-repetition/1997-landin.pdf), Hall et al 1994, [Regal 2013](http://digitalcommons.mtu.edu/cgi/viewcontent.cgi?article=1486&context=etds)）和精细运动技能（[Ollis et al 2005](https://www.gwern.net/docs/spaced-repetition/2005-ollis.pdf), [Ste-Marie et al 2004](https://www.gwern.net/docs/spaced-repetition/2004-stemarie.pdf)）。
 
 一些支持间隔重复的研究（摘自 Son & Simon 2012）：
 

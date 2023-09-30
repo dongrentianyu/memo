@@ -4,19 +4,19 @@
 
 ## 摘要
 
-好奇心像个开关，控制着高效的学习。通往高效学习之路，好奇心是最优解，也是唯一解。一旦我们把孩子送去学校，我们就有可能破坏这一开关。如果没有持续的数据供给，我们的智力将无法据此构建现实世界的模型，世界上的所有知识也就失去了价值。而好奇心开关恰恰是做到这一点的关键。**我们需要好奇心来滋养智力**！
+好奇心像个开关，控制着高效的学习。通往高效学习之路，好奇心是最优解，也是唯一解。一旦我们把孩子送去学校，我们就有可能破坏这一开关。如果没有持续的数据供给，我们的智力将无法据此构建现实世界的模型，世界上的所有知识也就失去了价值。而好奇心开关恰恰是做到这一点的关键。 **我们需要好奇心来滋养智力** ！
 
 ## 电路比喻
 
 为了描述[学习内驱力的最优性](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)，我们不妨假设一个[学习内驱力](https://supermemo.guru/wiki/Learn_drive)电路。它的输入包括（1）一个人当下的记忆状态（即[前置知识](https://supermemo.guru/wiki/Prior_knowledge)）和（2）待评估的新知识。它将输出在[前置知识](https://supermemo.guru/wiki/Prior_knowledge)背景下，给定新知识的估值。
 
-我们说好奇心是**最优解**，实际上是因为任何其他「电路」都无法对[前置知识](https://supermemo.guru/wiki/Prior_knowledge)进行完整考量，所以无法胜任这个评估任务。教师尽可以阐释某份知识在绝对意义上或普遍意义上的价值，但这缺乏记忆状态的参与，故而学生无法从自己的角度评估知识的真正价值，导致这一块知识的碎片将无法嵌入整体知识的[拼图](https://supermemo.guru/wiki/Jigsaw_puzzle)中。
+我们说好奇心是 **最优解** ，实际上是因为任何其他「电路」都无法对[前置知识](https://supermemo.guru/wiki/Prior_knowledge)进行完整考量，所以无法胜任这个评估任务。教师尽可以阐释某份知识在绝对意义上或普遍意义上的价值，但这缺乏记忆状态的参与，故而学生无法从自己的角度评估知识的真正价值，导致这一块知识的碎片将无法嵌入整体知识的[拼图](https://supermemo.guru/wiki/Jigsaw_puzzle)中。
 
-当我们获取**一连串数据**时，[学习熵](https://supermemo.guru/wiki/Learntropy)系统就会持续计算[学习内驱力](https://supermemo.guru/wiki/Learn_drive)输出的滑动平均值。在此基础上，我们将分别评估获取外界信息的不同信道，并根据个体[学习内驱力](https://supermemo.guru/wiki/Learn_drive)评估的最优性，选出一条最优的信道。而[推动区](https://supermemo.guru/wiki/Push_zone)概念却描述了在外界强迫下，人可能做出有益转换（包括从一条信道切换到另一条信道）的模型——然而，这一模型并没有否认评估、选择过程中的最优性；它之所以可能有益，是因为当我们只注重于抉择出的一条最优信道时，其他信道的信息往往就会被持续忽略。本来，我们的大脑通过探查的方式解决这一问题：即使信道 A 取得了比信道 B 更高的估值，但若在目前的认知背景下，个人对信道 B 保有着好奇心，那么信道 B 仍然随时可能被激活，尤其是在信道 A 的[学习熵](https://supermemo.guru/wiki/Learntropy)骤降的时候。大脑随机地采取这种探查行为，就像[问题解决](https://supermemo.guru/wiki/Problem_solving)过程中采取创造性中断一样，因为大脑的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)算法无法保持某一信道的[学习熵](https://supermemo.guru/wiki/Learntropy)稳定——这也正是我们构建[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)概念的基础。
+当我们获取 **一连串数据** 时，[学习熵](https://supermemo.guru/wiki/Learntropy)系统就会持续计算[学习内驱力](https://supermemo.guru/wiki/Learn_drive)输出的滑动平均值。在此基础上，我们将分别评估获取外界信息的不同信道，并根据个体[学习内驱力](https://supermemo.guru/wiki/Learn_drive)评估的最优性，选出一条最优的信道。而[推动区](https://supermemo.guru/wiki/Push_zone)概念却描述了在外界强迫下，人可能做出有益转换（包括从一条信道切换到另一条信道）的模型——然而，这一模型并没有否认评估、选择过程中的最优性；它之所以可能有益，是因为当我们只注重于抉择出的一条最优信道时，其他信道的信息往往就会被持续忽略。本来，我们的大脑通过探查的方式解决这一问题：即使信道 A 取得了比信道 B 更高的估值，但若在目前的认知背景下，个人对信道 B 保有着好奇心，那么信道 B 仍然随时可能被激活，尤其是在信道 A 的[学习熵](https://supermemo.guru/wiki/Learntropy)骤降的时候。大脑随机地采取这种探查行为，就像[问题解决](https://supermemo.guru/wiki/Problem_solving)过程中采取创造性中断一样，因为大脑的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)算法无法保持某一信道的[学习熵](https://supermemo.guru/wiki/Learntropy)稳定——这也正是我们构建[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)概念的基础。
 
 外界强迫者（比如教师或家长）无法作出信道上的最优选择。虽然，在完全偶然的情况下，他们确实可能提升大脑探查信道的频率，从而提升[学习熵](https://supermemo.guru/wiki/Learntropy)的输出。但即使如此，外界的强迫还是应该降低到零，因为这种强迫的有益与否完全不可预料。并且，即使这种信道的切换是有益的，外界强迫带来的其他负面效应也可能与其抵消（例如，一个逼迫孩子的家长如果没有引发有益的信道切换，他的权威就会受损，孩子的[反抗](https://supermemo.guru/wiki/Reactance)行为可能导致信道的估值被扭曲）。
 
-对于**人类族群**来说，那些可能困住[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的局部优化是没有必要的。人类认知探索的整个过程是随机的，并且可能覆盖了那些最有希望对人类族群有益的发现。对于诺贝尔奖级别的独一无二的重大发现，我们还是得依靠创造性工作上的好运。信息领域存在着很多搜索算法，但绝大多数都无法匹敌在学习内驱力引导下，用健康的头脑武装自己的人类族群。
+对于 **人类族群** 来说，那些可能困住[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的局部优化是没有必要的。人类认知探索的整个过程是随机的，并且可能覆盖了那些最有希望对人类族群有益的发现。对于诺贝尔奖级别的独一无二的重大发现，我们还是得依靠创造性工作上的好运。信息领域存在着很多搜索算法，但绝大多数都无法匹敌在学习内驱力引导下，用健康的头脑武装自己的人类族群。
 
 学习内驱力是最优的，因为它是唯一能够胜任[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)任务的系统。
 

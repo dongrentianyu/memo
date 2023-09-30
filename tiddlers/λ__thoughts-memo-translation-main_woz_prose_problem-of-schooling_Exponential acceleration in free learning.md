@@ -44,7 +44,7 @@
 
 相反，在[自由学习](https://supermemo.guru/wiki/Free_learning)中，创造大量不连贯的小晶体是很便宜的，这些晶体后来可以通过自发的快速结晶形成更大的结构。大量看似不相关的信息可以迅速结晶成一个[连贯的·网络](https://supermemo.guru/wiki/Concept_network)。这种结晶的爆炸性可以很容易地用连锁反应来解释，在这种反应中，相邻的知识结晶之间的连接促进了附近的进一步连接。
 
-可以用[极冷啤酒结晶技巧](https://www.youtube.com/watch?v=W0fURJg-K0A)对这一过程做一个简单的可视化。对于太冷的啤酒，只需大力摇晃一下，液体就会几乎瞬间结晶。这种学习中的爆炸性结晶正是给孩子们贴上了[玄妙的学习机器](https://supermemo.guru/wiki/How_baby_brain_does_not_work)的标签。鉴于[童年失忆症](https://supermemo.guru/wiki/Childhood_amnesia)，称孩子为「知识的海绵」是一个错误的说法。在记忆方面，他们的大脑无法与成年人的大脑竞争。孩子使用的唯一技巧是[自由学习](https://supermemo.guru/wiki/Free_learning)。这种自由学习导致了指数级的加速，令成人世界感到惊讶。可悲的是 ，在不了解基本过程的情况下，我们把最好的学习工具拿走了，并胁迫孩子们接受[学术指导](https://supermemo.guru/wiki/Academic_instruction)。这反过来将为他们赢得另一个标签：**懒惰！**（见：[谬误：学生天生懒惰](https://supermemo.guru/wiki/Myth:_students_are_lazy)）。
+可以用[极冷啤酒结晶技巧](https://www.youtube.com/watch?v=W0fURJg-K0A)对这一过程做一个简单的可视化。对于太冷的啤酒，只需大力摇晃一下，液体就会几乎瞬间结晶。这种学习中的爆炸性结晶正是给孩子们贴上了[玄妙的学习机器](https://supermemo.guru/wiki/How_baby_brain_does_not_work)的标签。鉴于[童年失忆症](https://supermemo.guru/wiki/Childhood_amnesia)，称孩子为「知识的海绵」是一个错误的说法。在记忆方面，他们的大脑无法与成年人的大脑竞争。孩子使用的唯一技巧是[自由学习](https://supermemo.guru/wiki/Free_learning)。这种自由学习导致了指数级的加速，令成人世界感到惊讶。可悲的是 ，在不了解基本过程的情况下，我们把最好的学习工具拿走了，并胁迫孩子们接受[学术指导](https://supermemo.guru/wiki/Academic_instruction)。这反过来将为他们赢得另一个标签： **懒惰！** （见：[谬误：学生天生懒惰](https://supermemo.guru/wiki/Myth:_students_are_lazy)）。
 
 孩子们不是神奇的学习者，他们惊人的学习成果源于自由。
 
@@ -52,7 +52,7 @@
 
 [拼图比喻](https://supermemo.guru/wiki/Jigsaw_puzzle_metaphor)也可以用来解释学习中的指数型突增。[学校教育](https://supermemo.guru/wiki/Schooling)可以被比作对教师提供的线性拼图碎片流的费力分析，其顺序由[课程](https://supermemo.guru/wiki/Curriculum)决定，井然有序。从理论上讲，这种流应该使我们有可能将碎片逐一对齐。然而，[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的确定与课程的确定之间的差距每年都在不断加大。当一年级学生合理地快乐地学习将新的字母添加到他们的知识体系中时，4-5 年后，由于理解力差，或完全缺乏兴趣，大多数孩子坐在课堂上无聊得要死。这种情况在学习外语时最明显，高中毕业生往往无法与 4 岁的母语儿童竞争（我就是[其中一个毕业生](https://supermemo.guru/wiki/Schools_are_useless_in_teaching_English)）。
 
-相比之下，[自由学习](https://supermemo.guru/wiki/Free_learning)更让人想起我们如何**有效地**解决拼图。我们观察整个碎片的组合，并对哪些碎片更有可能适合做出有根据的决定。我们挑选那些碎片，并尝试进行匹配。这就是[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的工作方式：智能知识匹配。不用说，这种自由的方法带来了更快的拼图增长，而增长的轨迹可能很难事先预测。在[自由学习](https://supermemo.guru/wiki/Free_learning)中，孩子会建立大量的拼图岛屿，而这些岛屿是指数级爆炸的关键。
+相比之下，[自由学习](https://supermemo.guru/wiki/Free_learning)更让人想起我们如何 **有效地** 解决拼图。我们观察整个碎片的组合，并对哪些碎片更有可能适合做出有根据的决定。我们挑选那些碎片，并尝试进行匹配。这就是[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的工作方式：智能知识匹配。不用说，这种自由的方法带来了更快的拼图增长，而增长的轨迹可能很难事先预测。在[自由学习](https://supermemo.guru/wiki/Free_learning)中，孩子会建立大量的拼图岛屿，而这些岛屿是指数级爆炸的关键。
 
 一旦大量的拼图碎片形成岛屿，指数级的进步就成为可能，因为一个碎片可以立即连接之前组装好的大面积部分。学生可以看到大的画面，使进一步的工作变得更加容易。这让人联想到发现[整个拼图的意义](https://georgios.blog/deep-knowledge-shallow-links/)时的顿悟。
 
@@ -106,6 +106,6 @@ SuperMemo 插入。[什么是 SuperMemo？](https://supermemo.guru/wiki/What_is_
 
 只能沿着旧的原则恶化学习的成本
 
-**垃圾进，垃圾出（GIGO）**。即使在[高级英语2018](https://supermemo.guru/wiki/Advanced_English_2018)
+ **垃圾进，垃圾出（GIGO）** 。即使在[高级英语2018](https://supermemo.guru/wiki/Advanced_English_2018)
 
  我向大家推荐，经过30年的顺序调整（完美排序），学生自己的扩展对于连贯的学习是必不可少的。

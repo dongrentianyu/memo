@@ -18,7 +18,7 @@
 
 由于躁动与[创造力](https://supermemo.guru/wiki/Creativity)相关，因此可能表示[工作记忆过载](https://supermemo.guru/wiki/Cognitive_overload)、认知失调、[无聊](https://supermemo.guru/wiki/Boredom)、不耐烦、兴奋、[压力](https://supermemo.guru/wiki/Stress)等等。在任何情况下，限制躁动都不会改善注意力，反而可能会让事情变得更糟。躁动是正常的，与 [ADHD](https://supermemo.guru/wiki/ADHD) 关系不大。ADHD 的孩子会躁动更多，但有创造力的儿童或具有[学成强欲](https://supermemo.guru/wiki/Rage_to_master)的孩子也会这样做（尤其是在偏离他们「强欲」方向的班级中）。
 
-在发挥创意时，有个简单的方法可以驾驭躁动，那就是运动（比如步行）。**边走边聊**是最好的[头脑风暴](https://supermemo.guru/wiki/Brainstorming)方式之一。[SuperMemo World](https://supermemo.guru/wiki/SuperMemo_World) 就是通过这种形式的头脑风暴而产生的。
+在发挥创意时，有个简单的方法可以驾驭躁动，那就是运动（比如步行）。 **边走边聊** 是最好的[头脑风暴](https://supermemo.guru/wiki/Brainstorming)方式之一。[SuperMemo World](https://supermemo.guru/wiki/SuperMemo_World) 就是通过这种形式的头脑风暴而产生的。
 
 ## 被抑制的躁动
 

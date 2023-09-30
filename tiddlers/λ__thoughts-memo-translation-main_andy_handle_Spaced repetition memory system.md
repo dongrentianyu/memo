@@ -124,7 +124,7 @@ Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December
 
 - [可使用间隔重复记忆系统对注意力进行规划](https://notes.andymatuschak.org/z2gqazXUkf9qyFjMQg4W3dw6yegnAJszvDywN)
 
-  - [间隔重复记忆系统让我们对记忆有了选择权](https://notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)，但自动规划记忆的价值，更在于它动态地安排和选择要复习的内容。从某种意义上说，[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的功效来自于它**规划注意力**的能力（[可规划的注意力](https://notes.andymatuschak.org/zJrfPCbY7GcpV9asEc8NTVzXTAV4TvRFMuY6)）。不如把它想成「大脑的{cron}」（注：cron 是类 Unix 操作系统下的定期任务管理系统。）
+  - [间隔重复记忆系统让我们对记忆有了选择权](https://notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)，但自动规划记忆的价值，更在于它动态地安排和选择要复习的内容。从某种意义上说，[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的功效来自于它 **规划注意力** 的能力（[可规划的注意力](https://notes.andymatuschak.org/zJrfPCbY7GcpV9asEc8NTVzXTAV4TvRFMuY6)）。不如把它想成「大脑的{cron}」（注：cron 是类 Unix 操作系统下的定期任务管理系统。）
 
 - [间隔效应](https://notes.andymatuschak.org/z5oCe7JTrkYfmb6SHE4n5HxisE7PdwS6nmXEw)
 
@@ -164,7 +164,7 @@ Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December
 
 - [可编程的注意力](https://notes.andymatuschak.org/zJrfPCbY7GcpV9asEc8NTVzXTAV4TvRFMuY6)
 
-  - [间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的复习环节不只是帮助你记住事情：它会反复地安排数百个微小的任务，用它们来协调你的注意力，这些任务太多，无法手工管理。像这样的系统就是**可编程的注意力**的一种。你一直在使用更简单的可编程注意力的形式：带有稍后处理和特别提醒功能的收件箱；提醒你事情的机器人；[Twitter 是一种可编程注意力](https://notes.andymatuschak.org/z5UF8YjTjoYiADeLv2SeBPgKXKosK17cKfUpw)。这些系统的核心属性是什么？它们的潜在范围是什么？
+  - [间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的复习环节不只是帮助你记住事情：它会反复地安排数百个微小的任务，用它们来协调你的注意力，这些任务太多，无法手工管理。像这样的系统就是 **可编程的注意力** 的一种。你一直在使用更简单的可编程注意力的形式：带有稍后处理和特别提醒功能的收件箱；提醒你事情的机器人；[Twitter 是一种可编程注意力](https://notes.andymatuschak.org/z5UF8YjTjoYiADeLv2SeBPgKXKosK17cKfUpw)。这些系统的核心属性是什么？它们的潜在范围是什么？
 
 - [间隔重复记忆系统可用于促进应用、综合和创造](https://notes.andymatuschak.org/zE8PK4UUAAWK6LEcmr8jja8JdxpUxcf1FUCX)
 
@@ -220,7 +220,7 @@ Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December
 
 - [间隔重复系统优化重点应是重复环节与重复内容之间的情绪联系](https://notes.andymatuschak.org/z64si3kA3bkCgz3Bsr5YNWsAAQUR2pmXab63T)
 
-  - 许多研究人员都在试图制造一个更高效的[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)，但我认为，优化的关键是**复习环节及其内容的情感联系**——反之，要坚决地减少引起叹气的元素。这些系统，如果任由它们的自然倾向发展，就会自然而然地腐化，产生尽职尽责的复习环节，而这些环节感觉与你关心的任何事情脱节。
+  - 许多研究人员都在试图制造一个更高效的[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)，但我认为，优化的关键是 **复习环节及其内容的情感联系** ——反之，要坚决地减少引起叹气的元素。这些系统，如果任由它们的自然倾向发展，就会自然而然地腐化，产生尽职尽责的复习环节，而这些环节感觉与你关心的任何事情脱节。
 
 - [Mochi](https://notes.andymatuschak.org/zxAXSEQidXeYW2XFBj9ftGxz1kTNtV4fXjhZ)
 
@@ -394,7 +394,7 @@ Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December
 
 - [间隔重复卡片设计是为未来的自己设计任务](https://notes.andymatuschak.org/z4TCpuykanZCZYtC5xCccfuiTMZQzdeRv5BuW)
 
-  - [写好间隔重复记忆卡片很难](https://notes.andymatuschak.org/z3ntJ7w9C3uapYp1m3gy2EK6PN788guzEoUNN)，但有一个心理模型很有用。当你为[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)做一张卡片时，你在**给未来的自己设置重复性的任务**。卡片设计就是任务设计。
+  - [写好间隔重复记忆卡片很难](https://notes.andymatuschak.org/z3ntJ7w9C3uapYp1m3gy2EK6PN788guzEoUNN)，但有一个心理模型很有用。当你为[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)做一张卡片时，你在 **给未来的自己设置重复性的任务** 。卡片设计就是任务设计。
 
 - [Duolingo](https://notes.andymatuschak.org/z4Pi11ZtBxEZDwVwzETHP5TtxtzFWZdCVKWMB)
 
@@ -402,7 +402,7 @@ Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December
 
 - [现有的间隔重复系统不鼓励常青笔记的创作](https://notes.andymatuschak.org/zZuqUv3XNEFsimMmHszLF87Pr5vTraLjL5Y)
 
-  - 尽管[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)中的笔记，与[常青笔记](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)一样都是原子化的（[常青笔记应该是原子化的](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)），但这些卡片在很多方面**过于**原子化（[传统间隔重复记忆卡片是原子化的](https://notes.andymatuschak.org/z4w269svvGhA2H5XFr6geaBbPTrxtJRpjt5TE)）。这种形式不鼓励渐进式的综合和提炼。
+  - 尽管[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)中的笔记，与[常青笔记](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)一样都是原子化的（[常青笔记应该是原子化的](https://notes.andymatuschak.org/z4Rrmh17vMBbauEGnFPTZSK3UmdsGExLRfZz1)），但这些卡片在很多方面 **过于** 原子化（[传统间隔重复记忆卡片是原子化的](https://notes.andymatuschak.org/z4w269svvGhA2H5XFr6geaBbPTrxtJRpjt5TE)）。这种形式不鼓励渐进式的综合和提炼。
 
 - [助记媒介的目标要比回忆率这个误导性的名称更有意义](https://notes.andymatuschak.org/zf7eeRUmfPxu7xHJ3QYQqhcXYrjWg1yhjTB)
 
@@ -410,7 +410,7 @@ Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December
 
 - [助记媒介依赖的卡片应是轻量级的](https://notes.andymatuschak.org/z7U6zXNGgTz1aEpRDUe6eMxotrhK4tmgprcxh)
 
-  - **小任务：**在[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)中, 那些设计出色的回忆卡片通常只考察一个事物，所以它们可以被很快地回答。[量子国度](https://notes.andymatuschak.org/z2fBHADWa93EZTuNzuww7V3Vi587ZyZ4FHTHm)的卡片其复习时间中位数是 6 秒（截至 2019/12）。
+  - **小任务：** 在[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)中, 那些设计出色的回忆卡片通常只考察一个事物，所以它们可以被很快地回答。[量子国度](https://notes.andymatuschak.org/z2fBHADWa93EZTuNzuww7V3Vi587ZyZ4FHTHm)的卡片其复习时间中位数是 6 秒（截至 2019/12）。
 
 - [自主评分的间隔重复记忆系统比机器评分的系统更有效率](https://notes.andymatuschak.org/z7MGZ4wX4fenUQzR9248QfWU8GFeZbTFGaJRM)
 
@@ -450,7 +450,7 @@ Branwen, G. (2009). Spaced Repetition for Efficient Learning. Retrieved December
 
 - [机器评分的间隔重复记忆系统可以执行更高级的知识建模](https://notes.andymatuschak.org/z4EpkhncuDT2R7NE6cUQg7fzTUf6E6scrVFEg)
 
-  - 如果 [Duolingo](https://notes.andymatuschak.org/z4Pi11ZtBxEZDwVwzETHP5TtxtzFWZdCVKWMB) 要求我将西班牙语短语翻译成英语，而我翻译错了一个单词，它会注意到我翻译错了**哪个**单词，并相应地调整相关任务的日程安排。自主评分[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)只能知道整个响应是错误的。（请注意，我认为 Duolingo 实际上并没有这样做！）
+  - 如果 [Duolingo](https://notes.andymatuschak.org/z4Pi11ZtBxEZDwVwzETHP5TtxtzFWZdCVKWMB) 要求我将西班牙语短语翻译成英语，而我翻译错了一个单词，它会注意到我翻译错了 **哪个** 单词，并相应地调整相关任务的日程安排。自主评分[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)只能知道整个响应是错误的。（请注意，我认为 Duolingo 实际上并没有这样做！）
 
 - [商业上成功的间隔重复记忆系统都是机器评分的](https://notes.andymatuschak.org/z56zqwNCkjnih3LVJ4Ta5RsXHCaPeJPsM3UCt)
 

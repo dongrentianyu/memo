@@ -6,7 +6,7 @@
 
 这样的观点中，笔记是为了[闭合开环](https://notes.andymatuschak.org/z8d4eJNaKrVDGTFpqRnQUPRkexB7K6XbcffAV)，而不是为了积累洞察。实在的思考发生在笔记之外；笔记只是参考系统，里面储存了可能有帮助的信息，或是一次性写就的杂乱想法（Khoe）。
 
-这些都不是[常青笔记](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)。大部分「面向存储」的笔记之后很难派上用场（[大多数人只写临时的笔记](https://notes.andymatuschak.org/z2ZAGQBHuJ2u9WrtAQHAEHcCZTtqpsGkAsrD1)）。更重要的是，这样的思考方式下，人们意识不到笔记写作可能是思考创意 **本身**（[常青笔记是知识工作的基本单位](https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be））。
+这些都不是[常青笔记](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)。大部分「面向存储」的笔记之后很难派上用场（[大多数人只写临时的笔记](https://notes.andymatuschak.org/z2ZAGQBHuJ2u9WrtAQHAEHcCZTtqpsGkAsrD1)）。更重要的是，这样的思考方式下，人们意识不到笔记写作可能是思考创意 **本身** （[常青笔记是知识工作的基本单位](https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be））。
 
 ------
 

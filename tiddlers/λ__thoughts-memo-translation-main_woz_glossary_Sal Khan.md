@@ -2,7 +2,7 @@
 
 原文：[Sal Khan - supermemo.guru](https://supermemo.guru/wiki/Sal_Khan)
 
-**萨尔 · 可汗**，生于 1976 年，教育革新家，创办了[可汗学院](https://supermemo.guru/wiki/Khan_Academy)。萨尔小时候没有成绩的压力，这对自我发展很有益。他在 14 岁意识到自己有些落后，并自发地开始努力学习。
+ **萨尔 · 可汗** ，生于 1976 年，教育革新家，创办了[可汗学院](https://supermemo.guru/wiki/Khan_Academy)。萨尔小时候没有成绩的压力，这对自我发展很有益。他在 14 岁意识到自己有些落后，并自发地开始努力学习。
 
 在 2006 年，他开设了 YouTube 账号，并开始为家人和观众上传数学视频。这是一个开端，他发布了大量深受儿童和成人欢迎的珍贵教育视频。至今，可汗仍然热衷于录制教学内容。
 
@@ -10,9 +10,9 @@
 
 可汗很快就在现实生活中重现了 [John Holt](https://supermemo.guru/wiki/John_Holt) 和 [John Taylor Gatto](https://supermemo.guru/wiki/John_Taylor_Gatto) 的推理。如果学生[自定进度](https://supermemo.guru/wiki/Self-paced)，那么我们不应该把他们按照能力分组。我们也不该把他们按照年龄分组。那么，为什么要安排特定的上学时间和放假时间（也就是[遗忘](https://supermemo.guru/wiki/Forgetting)的时间）？尽管萨尔·可汗没有这么说，这样的推理必然导向最终的结论：[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)。
 
-> **ISAACSON**：创立了可汗学院后，你又开办了实体学校，以便你能在实体空间和真人互动，从而见证学校的运作。
+> **ISAACSON** ：创立了可汗学院后，你又开办了实体学校，以便你能在实体空间和真人互动，从而见证学校的运作。
 
-> **可汗**：对，很多人觉得很讽刺的一点是，我五年前写了《翻转课堂的可汗学院》这本书。在这本书里我讨论的是，好了，既然我们有了各种工具，未来教育会变成什么样？既然学生能按照自己的安排和节奏学习课程，那么课堂时间还需要全部用来上课吗？如果课堂时间不用来上课，为什么我们要让所有人遵循固定安排呢？如果所有人不需要遵循固定安排，为什么你要用某种能力水平划分孩子呢？如果你不需要用能力划分，为什么还要按年龄划分孩子呢？说到这里了，那为什么你要区分学校学期和假期呢？（[来源](http://transcripts.cnn.com/TRANSCRIPTS/1904/18/ampr.01.html)）
+> **可汗** ：对，很多人觉得很讽刺的一点是，我五年前写了《翻转课堂的可汗学院》这本书。在这本书里我讨论的是，好了，既然我们有了各种工具，未来教育会变成什么样？既然学生能按照自己的安排和节奏学习课程，那么课堂时间还需要全部用来上课吗？如果课堂时间不用来上课，为什么我们要让所有人遵循固定安排呢？如果所有人不需要遵循固定安排，为什么你要用某种能力水平划分孩子呢？如果你不需要用能力划分，为什么还要按年龄划分孩子呢？说到这里了，那为什么你要区分学校学期和假期呢？（[来源](http://transcripts.cnn.com/TRANSCRIPTS/1904/18/ampr.01.html)）
 
 观察他的学生之后，可汗独立形成了他自己对[民主学校](https://supermemo.guru/wiki/Democratic_school)的构想，不过教师参与得更多。除非是经儿童民主要求，太多成年人的参与并不一定好（根据 [Peter Gray](https://supermemo.guru/wiki/Peter_Gray) 和 [Danny Grenberg](https://supermemo.guru/wiki/Danny_Greenberg) 的结论）。我也不认为把孩子圈在单单一栋建筑里是个好主意。所有活动应该根据孩子要求开展，要根据他们自己的节奏：象棋俱乐部、健身房、音乐俱乐部、足球俱乐部、艺术俱乐部，以及最重要的：亲近大自然的户外活动。这些活动相比「学校」更能满足孩子的各种需求。这对[最优社会化](https://supermemo.guru/wiki/Optimum_socialization)也是有益的。
 

@@ -2,7 +2,7 @@
 
 原文：[Educational games try to teach through enacted experiences (andymatuschak.org)](https://notes.andymatuschak.org/z5xCoFBNqoFjNHsWcsP4GbSPKqAG3dNzR6SXC)
 
-从概念上讲，[教育游戏](https://notes.andymatuschak.org/z5YBATDEy9pSqzTgNhH6MhGqgkG8mAF7QTLK5)设计者试图使用的核心机制是[情景体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)。他们试图设计游戏活动，使得在游戏环境中，参与能产生一种**理解**的体验。至少从本能上来说，这种迂回的教学设计方法的潜在动机是[情景体验可以创造出与作者目标的强烈个人联系](https://notes.andymatuschak.org/z6rE2jCvARneUxogtFCTMafzJvYEKWFgb51c2)。换句话说，他们希望「让孩子爱上学习！」
+从概念上讲，[教育游戏](https://notes.andymatuschak.org/z5YBATDEy9pSqzTgNhH6MhGqgkG8mAF7QTLK5)设计者试图使用的核心机制是[情景体验](https://notes.andymatuschak.org/z3KASfpz5AmNmqM2m517Jbs1EvXrLN7NkeYWH)。他们试图设计游戏活动，使得在游戏环境中，参与能产生一种 **理解** 的体验。至少从本能上来说，这种迂回的教学设计方法的潜在动机是[情景体验可以创造出与作者目标的强烈个人联系](https://notes.andymatuschak.org/z6rE2jCvARneUxogtFCTMafzJvYEKWFgb51c2)。换句话说，他们希望「让孩子爱上学习！」
 
 大多数游戏都采用了这种机制（[游戏能有效地培养玩家的技能](https://notes.andymatuschak.org/z2j6v5xtfjaew5kff6fnwkhxlwqonxuua5ndg)），但在教育游戏类型之外，[游戏中的技能发展服从于其他有内在意义的目的](https://notes.andymatuschak.org/zeb2g4gblphxgkzavqq7v7iuqe5b8jghnfkw)。
 

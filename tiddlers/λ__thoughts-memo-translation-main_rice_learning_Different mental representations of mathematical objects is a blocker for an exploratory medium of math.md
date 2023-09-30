@@ -2,7 +2,7 @@
 
 原文：[Different mental representations of mathematical objects is a blocker for an exploratory medium of math](https://wiki.issarice.com/wiki/Different_mental_representations_of_mathematical_objects_is_a_blocker_for_an_exploratory_medium_of_math)
 
-如果我们希望实现[面向数学的 Braid](https://wiki.issarice.com/wiki/Braid_for_math)，我们要处理一大挑战：对于同一个数学概念，其思考角度可能截然不同（也就是说，同一概念有多种完全不同的心理表征）。熟练运用这个概念的人，通常需要不断在这些不同的思考方式之间切换。像[游戏](https://wiki.issarice.com/index.php?title=Video_game&action=edit&redlink=1)中的谜题一样，只实现**一种**表征是不够的。
+如果我们希望实现[面向数学的 Braid](https://wiki.issarice.com/wiki/Braid_for_math)，我们要处理一大挑战：对于同一个数学概念，其思考角度可能截然不同（也就是说，同一概念有多种完全不同的心理表征）。熟练运用这个概念的人，通常需要不断在这些不同的思考方式之间切换。像[游戏](https://wiki.issarice.com/index.php?title=Video_game&action=edit&redlink=1)中的谜题一样，只实现 **一种** 表征是不够的。
 
 一些例子：
 

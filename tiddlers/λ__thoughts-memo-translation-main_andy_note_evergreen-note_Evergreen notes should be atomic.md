@@ -16,4 +16,4 @@
 
 [从阅读笔记中创建 Zettel 笔记 • Zettelkasten 方法](https://zettelkasten.de/posts/create-zettel-from-reading-notes/)
 
-> 我将这条原则的深层原则称为**原子性原则**：把同类事物放在同一个 **Zettel** 里，而 **Zettel** 之间做到关注点分离。例如，我可能在一个 **Zettel** 中列出很多假设当作综述。如对于[严格决定论](http://en.wikipedia.org/wiki/Hard_determinism) 的综述。有个与严格决定论相关的论证和相应结论则保存在另一个 **Zettel** 中。[严格决定论下的道德责任](http://en.wikipedia.org/wiki/Moral_responsibility#Hard_determinism)就是一个很好的例子。这样我便能复用这篇论证，却不需要接受另一个 **Zettel** 中的假设，因为论证本身是足够通用的。原子化笔记促进笔记复用，而 **Zettel** 网络中的链接也大大增加。
+> 我将这条原则的深层原则称为 **原子性原则** ：把同类事物放在同一个 **Zettel** 里，而 **Zettel** 之间做到关注点分离。例如，我可能在一个 **Zettel** 中列出很多假设当作综述。如对于[严格决定论](http://en.wikipedia.org/wiki/Hard_determinism) 的综述。有个与严格决定论相关的论证和相应结论则保存在另一个 **Zettel** 中。[严格决定论下的道德责任](http://en.wikipedia.org/wiki/Moral_responsibility#Hard_determinism)就是一个很好的例子。这样我便能复用这篇论证，却不需要接受另一个 **Zettel** 中的假设，因为论证本身是足够通用的。原子化笔记促进笔记复用，而 **Zettel** 网络中的链接也大大增加。

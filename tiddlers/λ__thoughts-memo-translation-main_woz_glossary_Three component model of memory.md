@@ -22,7 +22,7 @@
 
 长期记忆的三组分模型是在[记忆的双组分模型](https://supermemo.guru/wiki/Two_component_model_of_memory)的基础上扩展的。前两个记忆组分运作于突触层面上：[可提取性](https://supermemo.guru/wiki/Retrievability)和[稳定性](https://supermemo.guru/wiki/Stability)。[复杂性](https://supermemo.guru/wiki/Memory_complexity)是网络层面的组分，指的是形成记忆所涉及的突触模式的复杂性。
 
-还有许多与记忆存储有关的变量没有包含在**三组分模型**中。例如[睡眠倾向](https://supermemo.guru/wiki/Sleep_propensity)的[自稳态](https://supermemo.guru/wiki/Homeostatic)和[昼夜节律](https://supermemo.guru/wiki/Circadian)组分，这些成分在网络层面上影响记忆的编码和提取。
+还有许多与记忆存储有关的变量没有包含在 **三组分模型** 中。例如[睡眠倾向](https://supermemo.guru/wiki/Sleep_propensity)的[自稳态](https://supermemo.guru/wiki/Homeostatic)和[昼夜节律](https://supermemo.guru/wiki/Circadian)组分，这些成分在网络层面上影响记忆的编码和提取。
 
 在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的 [SM-17 算法](https://supermemo.guru/wiki/Algorithm_SM-17)的语境下，三组分模型亦可称为 [DSR 模型](http://supermemopedia.com/wiki/DSR_model)（即难度 D、稳定性 S 和可提取性 R）。
 
@@ -36,4 +36,4 @@
 
 记忆复杂性：简单记忆与复杂记忆
 
-> 图：**[记忆复杂性](https://supermemo.guru/wiki/Memory_complexity)**说明了[最小信息原则](https://supermemo.guru/wiki/Minimum_information_principle)的重要性。在记忆简单的问题和答案时，我们可以依靠简单的记忆连接，并在复习时统一刷新这种连接。对于复杂记忆，其概念激活得可能不完整，或是顺序因上下文而不一致。因此，在复习时很难让[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)均一增长。复杂的项目是很难记住的。简单项目的一个例子是词对，例如「苹果=pomo」（世界语）。虽然为了认识一个苹果可能需要建立复杂的联系网，但「苹果」和「pomo」之间的联系是不可简化的（即最大限度的简化）
+> 图： **[记忆复杂性](https://supermemo.guru/wiki/Memory_complexity)** 说明了[最小信息原则](https://supermemo.guru/wiki/Minimum_information_principle)的重要性。在记忆简单的问题和答案时，我们可以依靠简单的记忆连接，并在复习时统一刷新这种连接。对于复杂记忆，其概念激活得可能不完整，或是顺序因上下文而不一致。因此，在复习时很难让[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)均一增长。复杂的项目是很难记住的。简单项目的一个例子是词对，例如「苹果=pomo」（世界语）。虽然为了认识一个苹果可能需要建立复杂的联系网，但「苹果」和「pomo」之间的联系是不可简化的（即最大限度的简化）

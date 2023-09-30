@@ -4,7 +4,7 @@
 
 使用[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)的过程中，你会写笔记来记录你所学习、观察和思考的内容。不幸的是，[现有的间隔重复系统不鼓励常青笔记](https://notes.andymatuschak.org/zZuqUv3XNEFsimMmHszLF87Pr5vTraLjL5Y)。记忆系统对于记住所写内容并持续琢磨很有帮助，但对于基于想法进一步思考并无太大功效。[常青笔记](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C)系统有助于逐步完善想法，但对于记住这些笔记并持续琢磨没有太大用处（除了[常青笔记的维护近似于间隔重复](https://notes.andymatuschak.org/z6yfTwYekzvBkVjeH7WBUrSAJhyGTMYDAyYW7)的效果之外）。因此，你陷入了一个困局，要么在两个不同的系统中混乱地重复劳动，要么放弃其中某一个系统的好处。
 
-[助记媒介](https://notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)针对散文解决了这个问题。[间隔重复卡片通常是原子化的，而助记媒介为其赋予结构](https://notes.andymatuschak.org/z5YjgWTaYfhWLrEbysgmDfFRcZ1yxgLeBeZac)。我们可以如法炮制，在个人的笔记系统内部，就地为间隔重复卡片赋予结构。我们可以将其称为{**个人助记媒介**}。
+[助记媒介](https://notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)针对散文解决了这个问题。[间隔重复卡片通常是原子化的，而助记媒介为其赋予结构](https://notes.andymatuschak.org/z5YjgWTaYfhWLrEbysgmDfFRcZ1yxgLeBeZac)。我们可以如法炮制，在个人的笔记系统内部，就地为间隔重复卡片赋予结构。我们可以将其称为{ **个人助记媒介** }。
 
 例如，想象一下在个人笔记中{用大括号包裹一段内容}，即可创建{挖空}卡片。
 

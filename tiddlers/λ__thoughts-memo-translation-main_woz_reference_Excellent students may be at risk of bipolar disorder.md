@@ -14,9 +14,9 @@
 
 > 这些发现给有关「卓越的智慧能力和双相情绪障碍症存在相关性」提供了依据
 
-就像我在[成为优等生的危险](https://supermemo.guru/wiki/Dangers_of_being_a_Straight_A_student)一文中试图以轶事展示的那样，在学校表现出色的压力远比学校带给你的**智力提升**影响大，这通常会导致叛逆、成绩差，（反抗后）也会减轻学校严苛所施加的不好的影响。成绩差的学生还囊括大量因害怕表现不佳产生严重压力的人群。
+就像我在[成为优等生的危险](https://supermemo.guru/wiki/Dangers_of_being_a_Straight_A_student)一文中试图以轶事展示的那样，在学校表现出色的压力远比学校带给你的 **智力提升** 影响大，这通常会导致叛逆、成绩差，（反抗后）也会减轻学校严苛所施加的不好的影响。成绩差的学生还囊括大量因害怕表现不佳产生严重压力的人群。
 
-如果我亲自去写有关该珍贵材料的**结论**，那将是：
+如果我亲自去写有关该珍贵材料的 **结论** ，那将是：
 
 学校给孩子的心理健康带来隐患，尤其是那些“受压迫”去成功的人（译者按：可能是外界环境，也可能是自我强迫）
 
@@ -26,7 +26,7 @@
 
 引用的摘录来自以下[参考资料](https://supermemo.guru/wiki/References)：
 
-标题：**Excellent school performance at age 16 and risk of adult bipolar disorder: national cohort study**
+标题： **Excellent school performance at age 16 and risk of adult bipolar disorder: national cohort study** 
 
 作者：James H. MacCabe, Mats P. Lambe, Sven Cnattingius, Pak C. Sham, Anthony S. David, Abraham Reichenberg, Robin M. Murray and Christina M. Hultman
 

@@ -6,7 +6,7 @@
 
 1991 年 1 月 3 日，我开始为 [SuperMemo 6](https://supermemo.guru/wiki/SuperMemo_6) 实现新的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)算法。在这同一天，Murakowski 前往伦敦，在那里他将追求他的教育梦想，同时试图销售 [SuperMemo 2](https://supermemo.guru/wiki/SuperMemo_2)。他不会通过分销渠道或在商店里销售。他只是挨家挨户地解释程序的优点，好的话能拿到一些钱，不至于丧失信心。
 
-在此期间，我和 Biedalak 定时约着去慢跑 10 公里和冬泳，并在回家的路上一起[头脑风暴](https://supermemo.guru/wiki/Brainstorming)（我们称之为**走谈**）。我们主要谈到在美国的学习生涯和如何销售 [SuperMemo](https://supermemo.guru/wiki/SuperMemo)。在讨论中，开一家[我们自己的公司](https://supermemo.guru/wiki/SuperMemo_World)的想法屡屡冒出来，而且愈发频繁。
+在此期间，我和 Biedalak 定时约着去慢跑 10 公里和冬泳，并在回家的路上一起[头脑风暴](https://supermemo.guru/wiki/Brainstorming)（我们称之为 **走谈** ）。我们主要谈到在美国的学习生涯和如何销售 [SuperMemo](https://supermemo.guru/wiki/SuperMemo)。在讨论中，开一家[我们自己的公司](https://supermemo.guru/wiki/SuperMemo_World)的想法屡屡冒出来，而且愈发频繁。
 
 我开始研发新的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)算法，脑子里有一些想法将永远改变 SuperMemo.  SuperMemo 6 中使用的[SM-6 算法](https://supermemo.guru/wiki/History_of_spaced_repetition_(print)#Algorithm_SM-6) 是一大突破，这一算法将在之后的 25 年里继续推动软件发展。SM-6 算法将重新采用在 [1985](https://supermemo.guru/wiki/Birth_of_SuperMemo) 中引导[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)发现的简单实验程序，但现在能够自动运行这一实验，收集评分数据，选择最优复习时机：算法将绘制用户的[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)。这也意味着，用户将能够决定每一个项目可接受的[遗忘](https://supermemo.guru/wiki/Forgetting)概率（即保留率-工作量的最优权衡）。
 
@@ -20,7 +20,7 @@
 
 1991 年 5 月 2 日，我在 SuperMemo 6 中实现了设置目标[遗忘指数](https://supermemo.guru/wiki/Forgetting_index)的选项。1991 年 7 月 5 日，[SuperMemo World](https://supermemo.guru/wiki/SuperMemo_World) 诞生了。公司最初的投资之一是一台带有硬盘的个人电脑，我得以摆脱使用软盘时的缓慢速度。
 
-1991 年 11 月 23 日：SuperMemo 被宣布为**欧洲软件**竞赛的最终胜出者。这个好消息拯救了 [SuperMemo World](https://supermemo.guru/wiki/SuperMemo_World)，也是[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的良好开端。
+1991 年 11 月 23 日：SuperMemo 被宣布为 **欧洲软件** 竞赛的最终胜出者。这个好消息拯救了 [SuperMemo World](https://supermemo.guru/wiki/SuperMemo_World)，也是[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的良好开端。
 
 ## 商业化 SuperMemo 的缓慢启动
 
@@ -56,7 +56,7 @@ SM-6 算法有项新功能最为重要，那就是收集遗忘率的数据。有
 
 上述方法表明，只有经过大量重复，最优系数才能收敛到最优值，最糟糕的是，对于越往后发生的重复，修改—验证的周期（即从改变 OF 矩阵某项的值，到根据这个值得出下个间隔，由此安排下次重复，并验证改变的合理性所需的时间）就越长。
 
-**介绍遗忘指数的概念**
+ **介绍遗忘指数的概念** 
 
 SM-6 算法的新颖之处在于，对最优系数矩阵中给定项对应的[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)的斜率进行近似，并直接从近似的曲线中计算出新的最优系数的值。换句话说，由于建立了遗忘曲线和最优重复间隔之间的确定式关系，在 SM-6 算法中不需要修改—验证循环。一次重复之后，将当前数据加入遗忘曲线的数据集，得出新的近似曲线，即可据此修改最优系数。这种修改不仅使确定最优系数矩阵的最优值的过程大大加快，而且还为达到在学习过程中的期望知识[保留](https://supermemo.guru/wiki/Retention)提供了一种新手段（参见示范性的[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)）。
 
@@ -106,13 +106,13 @@ SM-6 算法的新颖之处在于，对最优系数矩阵中给定项对应的[�
 
     - OF(n,EF) - 第 n 次重复、难度 EF 对应的最优系数
 
-11. 最优系数矩阵是通过平滑**保留系数矩阵**（简称 RF 矩阵）得出的。保留系数矩阵的定义与[最优系数矩阵](https://supermemo.guru/wiki/OF_matrix)相同。
+11. 最优系数矩阵是通过平滑 **保留系数矩阵** （简称 RF 矩阵）得出的。保留系数矩阵的定义与[最优系数矩阵](https://supermemo.guru/wiki/OF_matrix)相同。
 
 12. 保留系数矩阵的元素被用于估计最优系数矩阵的元素值。每个最优系数对应于一个最优间隔，该间隔在重复时产生所需的保留率（由目标遗忘指数决定）。保留系数矩阵的每个元素都对应于 E-系数和重复次数的不同值
 
-13. 保留系数矩阵的元素，称为 **[R-系数](https://supermemo.guru/wiki/R-factor)**，是由[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)计算出来的，其形状是根据重复的历史绘制的
+13. 保留系数矩阵的元素，称为 **[R-系数](https://supermemo.guru/wiki/R-factor)** ，是由[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)计算出来的，其形状是根据重复的历史绘制的
 
-14. 遗忘曲线图上的时间推移是由 **[U-系数](https://supermemo.guru/wiki/U-Factor)**来衡量的，即当前间隔和前一间隔的比率，不过第一次重复的 U-系数与第一个间隔相等，单位为天（如[图](https://supermemo.guru/wiki/History_of_spaced_repetition_(print)#forgetting_curve_in_SM8)）。重复记录使得计算不同 U-系数下的保留率成为可能。保留率与时间推移（U-系数）的关系图代表了一条遗忘曲线。遗忘曲线与所需的保留水平的横截距决定了最优的 R-系数，在对保留系数矩阵进行平滑处理后，可以得到最优的 O-系数
+14. 遗忘曲线图上的时间推移是由 **[U-系数](https://supermemo.guru/wiki/U-Factor)** 来衡量的，即当前间隔和前一间隔的比率，不过第一次重复的 U-系数与第一个间隔相等，单位为天（如[图](https://supermemo.guru/wiki/History_of_spaced_repetition_(print)#forgetting_curve_in_SM8)）。重复记录使得计算不同 U-系数下的保留率成为可能。保留率与时间推移（U-系数）的关系图代表了一条遗忘曲线。遗忘曲线与所需的保留水平的横截距决定了最优的 R-系数，在对保留系数矩阵进行平滑处理后，可以得到最优的 O-系数
 
 15. 每个难度类别和重复次数都有自己的重复记录，用来绘制单独的遗忘曲线。换句话说，项目难度不同，重复次数不同，间隔都有所不同。
 
@@ -122,6 +122,6 @@ SM-6 算法的新颖之处在于，对最优系数矩阵中给定项对应的[�
 
 知道我们是如何认识的应该会有帮助。与 [Biedalak](https://supermemo.guru/wiki/Krzysztof_Biedalak) 一起，我是永远的朋友。我和他的兄弟在一个学校上学，我们相距 200 米，并且在[波兹南科技大学](https://en.wikipedia.org/wiki/Poznań_University_of_Technology)通过了同一年的计算机科学考试。我不能说我是如何说服 Biedalak 相信 SuperMemo 很不错的。我们只是太亲密了，他一直都在我的朋友圈里。这一部分很容易。[Tomek Kuehn](https://supermemo.guru/wiki/Tomasz_Kuehn) 是 SuperMemo 的第一批伟大信徒之一。他也是伟大的程序员，更是伟大的激励者。他一下子就理解了 SuperMemo 的想法。他自己写了两个版本的 SuperMemo：1988 年用于 Atari 800，1989 年用于 Atari ST。1989 年 1 月，他甚至利用一份计算机杂志（Komputer）上的广告卖出了 10 份 SuperMemo 2。我猜想，他没有收回投资的钱，否则他肯定会再次尝试这种伎俩。毕业后，库恩已经有了自己的生意：一家电脑店。这家商店也是最早向客户介绍 SuperMemo 的商店之一。他的伙伴和朋友是 [Marczello Georgiew](https://supermemo.guru/wiki/Marczello_Georgiew)，他也不需要太多的说服力。Georgiew 加入了这个团队。最后，在 1990 年布达佩斯的 GRE 考试中，我遇到了 [Janusz Murakowski](https://supermemo.guru/wiki/Janusz_Murakowski)。他有极佳的数学禀赋，也可能是有史以来最快皈依 SuperMemo 的人。在我们回波兰的火车上，我提到了 SuperMemo。他一下子就被吸引住了。几天后，他已经是 [SuperMemo 2](https://supermemo.guru/wiki/SuperMemo_2) 的热心用户（截至 1990 年 6 月 13 日）。在我们公司的说唱歌中，我们唱着「我们是卖 SuperMemo 的人」。要说服人们相信 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 能有效果是非常困难的，但团队里的人一直都很热情。
 
-到 1991 年 11 月，人们的热情开始消退。如果我们继续无功而返，我们将逐渐失去与他们的参与和热情成正比的团队。再过几个月，公司可能就要死了。SuperMemo 不会死。我肯定会寻找一个买家，或者以某种方式继续下去。我和这个产品联系得太紧密了。我自己使用它，我所有的知识都投入到我的数据库中。我可能会考虑回到在美国读博士的想法。就像1989年我能够在荷兰的大学里把工作和「下班后」的编程结合起来一样，我可能会继续下去，直到取得一些突破，比如说在网络上。也许这将是一个开放源码的产品？幸运的是，生物聚合物生物化学系的 Wojciech Makalowski 博士建议我们将 SuperMemo 提交给**欧洲软件**竞赛。由于奇迹般的好运气，我们获得了决赛资格，这立即被波兰媒体，特别是计算机期刊所关注。从那时起，SuperMemo 在波兰媒体中的地位越来越高，越来越吸引人。[Andrzej Horodenski](https://supermemo.guru/wiki/Andrzej_Horodenski) 是[第一个写关于 SuperMemo 的记者](http://www.super-memory.com/articles/horod.htm)(Computer World 1992)。[Pawel Wimmer 是第二个](https://supermemo.guru/wiki/Pawel_Wimmer:_Praising_SuperMemo._Ex_Occidente_lux)。Wimmer 直到今天仍然是忠实的，他实际上使用了 [SuperMemo 2](https://supermemo.guru/wiki/SuperMemo_2)，他可能是在 1989 年在 KOMPUTER 杂志上做广告时从 [Tomasz Kuehn](https://supermemo.guru/wiki/Tomasz_Kuehn) 那里得到的。
+到 1991 年 11 月，人们的热情开始消退。如果我们继续无功而返，我们将逐渐失去与他们的参与和热情成正比的团队。再过几个月，公司可能就要死了。SuperMemo 不会死。我肯定会寻找一个买家，或者以某种方式继续下去。我和这个产品联系得太紧密了。我自己使用它，我所有的知识都投入到我的数据库中。我可能会考虑回到在美国读博士的想法。就像1989年我能够在荷兰的大学里把工作和「下班后」的编程结合起来一样，我可能会继续下去，直到取得一些突破，比如说在网络上。也许这将是一个开放源码的产品？幸运的是，生物聚合物生物化学系的 Wojciech Makalowski 博士建议我们将 SuperMemo 提交给 **欧洲软件** 竞赛。由于奇迹般的好运气，我们获得了决赛资格，这立即被波兰媒体，特别是计算机期刊所关注。从那时起，SuperMemo 在波兰媒体中的地位越来越高，越来越吸引人。[Andrzej Horodenski](https://supermemo.guru/wiki/Andrzej_Horodenski) 是[第一个写关于 SuperMemo 的记者](http://www.super-memory.com/articles/horod.htm)(Computer World 1992)。[Pawel Wimmer 是第二个](https://supermemo.guru/wiki/Pawel_Wimmer:_Praising_SuperMemo._Ex_Occidente_lux)。Wimmer 直到今天仍然是忠实的，他实际上使用了 [SuperMemo 2](https://supermemo.guru/wiki/SuperMemo_2)，他可能是在 1989 年在 KOMPUTER 杂志上做广告时从 [Tomasz Kuehn](https://supermemo.guru/wiki/Tomasz_Kuehn) 那里得到的。
 
 [SuperMemo World](https://supermemo.guru/wiki/SuperMemo_World) 从一开始就是一个奇妙的组合。1991 年，我们在波兰没有风险资本注入资金，所以我们不得不卖起听着像「蛇油」的东西来自力更生。我们如履薄冰，但还是仰仗着激情，信念，以及鸿运当头活了下来。

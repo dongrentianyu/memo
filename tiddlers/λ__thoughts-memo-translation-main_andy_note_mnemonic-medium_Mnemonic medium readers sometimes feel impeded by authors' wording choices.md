@@ -2,9 +2,9 @@
 
 原文：[Mnemonic medium readers sometimes feel impeded by authors’ wording choices (andymatuschak.org)](https://notes.andymatuschak.org/zMFKJdtNGpucVUcitRVJiMxfyoNY4A4c2Bd)
 
-在[如何出好卡片](https://andymatuschak.org/prompts)的反馈中，一些读者表示，他们在回答一些卡片时感到困难，因为这些卡片是以我的措辞为框架。并不是说我的措辞不好或不对——只是这些读者觉得，如果**他们**自己来写问题，他们会选择不同的措辞，对他们个人来说会更有说服力。
+在[如何出好卡片](https://andymatuschak.org/prompts)的反馈中，一些读者表示，他们在回答一些卡片时感到困难，因为这些卡片是以我的措辞为框架。并不是说我的措辞不好或不对——只是这些读者觉得，如果 **他们** 自己来写问题，他们会选择不同的措辞，对他们个人来说会更有说服力。
 
-我们在关于《量子国度》的报告中没有收到这种反馈；我认为这是一个专门针对**非技术性**文本的问题。用词抱怨的出现，是因为没有固定的、预先规定的方式来指代某些概念，这使得我们无法遵循[专家回答启发式（由 Issa Rice 提出）](https://notes.andymatuschak.org/zEfpMY7F12gQ6NcbycHCNdpXqxb2mxdkJiX)。作者不得不自己想出一些术语，而读者觉得他们可能会使用不同的术语。这种情况在技术文本中也会发生，但不太常见：所指对象往往是可以精确说明的。
+我们在关于《量子国度》的报告中没有收到这种反馈；我认为这是一个专门针对 **非技术性** 文本的问题。用词抱怨的出现，是因为没有固定的、预先规定的方式来指代某些概念，这使得我们无法遵循[专家回答启发式（由 Issa Rice 提出）](https://notes.andymatuschak.org/zEfpMY7F12gQ6NcbycHCNdpXqxb2mxdkJiX)。作者不得不自己想出一些术语，而读者觉得他们可能会使用不同的术语。这种情况在技术文本中也会发生，但不太常见：所指对象往往是可以精确说明的。
 
 这种抱怨主要集中在挖空卡片上，它格外受制于用词问题：[在非技术性的助记文本中，挖空常常造成挫败感](https://notes.andymatuschak.org/z7vMfxWXDXhyJr3X69Yjwt6FjkSsKC9G3QqZU)
 
@@ -14,7 +14,7 @@
 
 mduncs：
 
-> 助记文章的格式和 Orbit 的一些复习引起了我的注意，那就是很难记住那些不是用**我的**声音写的卡片。措辞和用词的小差异让内容更显眼，但却让我难以铭记。
+> 助记文章的格式和 Orbit 的一些复习引起了我的注意，那就是很难记住那些不是用 **我的** 声音写的卡片。措辞和用词的小差异让内容更显眼，但却让我难以铭记。
 
 [Geoffrey Litt](https://twitter.com/geoffreylitt/status/1354068995629002753)
 

@@ -2,7 +2,7 @@
 
 原文：[Forgetting - supermemo.guru](https://supermemo.guru/wiki/Forgetting)
 
-**遗忘**是知识逐渐从记忆中消失的过程。遗忘的主要原因是[干扰](https://supermemo.guru/wiki/Interference)。对于简单神经网络中的[原子知识](https://supermemo.guru/wiki/Complexity)而言，干扰将导致[指数型遗忘](https://supermemo.guru/wiki/Forgetting_curve)。这已被 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 所收集到的数据所证实。
+ **遗忘** 是知识逐渐从记忆中消失的过程。遗忘的主要原因是[干扰](https://supermemo.guru/wiki/Interference)。对于简单神经网络中的[原子知识](https://supermemo.guru/wiki/Complexity)而言，干扰将导致[指数型遗忘](https://supermemo.guru/wiki/Forgetting_curve)。这已被 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 所收集到的数据所证实。
 
 欲了解更多，请参阅：
 

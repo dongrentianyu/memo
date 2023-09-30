@@ -2,7 +2,7 @@
 
 原文：[Spaced repetition prompt design is about designing tasks for your future self (andymatuschak.org)](https://notes.andymatuschak.org/z4TCpuykanZCZYtC5xCccfuiTMZQzdeRv5BuW)
 
-[写好间隔重复记忆卡片很难](https://notes.andymatuschak.org/z3ntJ7w9C3uapYp1m3gy2EK6PN788guzEoUNN)，但有一个心理模型很有用。当你为[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)做一张卡片时，你在**给未来的自己设置重复性的任务**。卡片设计就是任务设计。
+[写好间隔重复记忆卡片很难](https://notes.andymatuschak.org/z3ntJ7w9C3uapYp1m3gy2EK6PN788guzEoUNN)，但有一个心理模型很有用。当你为[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)做一张卡片时，你在 **给未来的自己设置重复性的任务** 。卡片设计就是任务设计。
 
 因此，如果你写卡片是为了帮助学习一个特定的想法，你必须设计一些任务，在你执行这些任务时加强你对这个想法的理解。如果你写卡片是为了支持创造性的工作，你必须设计任务，使你注意到可能性或联系，如此种种。
 

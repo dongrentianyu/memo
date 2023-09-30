@@ -2,7 +2,7 @@
 
 原文：[House building metaphor of learning - supermemo.guru](https://supermemo.guru/wiki/House_building_metaphor_of_learning)
 
-[萨尔·可汗](https://supermemo.guru/wiki/Sal_Khan)经常引用**学习的盖房子**比喻，并可能将其错误地解释为高效学习需要[课标](https://supermemo.guru/wiki/Curriculum)。
+[萨尔·可汗](https://supermemo.guru/wiki/Sal_Khan)经常引用 **学习的盖房子** 比喻，并可能将其错误地解释为高效学习需要[课标](https://supermemo.guru/wiki/Curriculum)。
 
 可汗说，在学习中，我们不应该从屋顶开始盖房子。这正是发生在那些在基础数学等知识方面出现严重缺口的孩子身上的情况。在没有良好的代数基础的情况下继续学习微积分，就像从屋顶开始盖一栋房子。
 
@@ -18,7 +18,7 @@
 
 另见：
 
-- [如何用课程把小孩塑造成机器人](https://cliweb.org/build-a-house-ed-analogy/)一文展现了**盖房子**比喻最糟糕的一面，这解释了为什么像[极权主义独裁者](https://supermemo.guru/wiki/north_korea)一样的成年人喜欢对儿童的大脑进行过分干涉，精巧到每一根神经。
+- [如何用课程把小孩塑造成机器人](https://cliweb.org/build-a-house-ed-analogy/)一文展现了 **盖房子** 比喻最糟糕的一面，这解释了为什么像[极权主义独裁者](https://supermemo.guru/wiki/north_korea)一样的成年人喜欢对儿童的大脑进行过分干涉，精巧到每一根神经。
 
 - [语言学习中的盖房子比喻](https://elsdehaen.com/2017/03/26/is-learning-a-language-like-building-a-house/)
 

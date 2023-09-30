@@ -4,27 +4,27 @@
 
 ## 定义
 
-**人类智力**是衡量人类解决问题的能力。
+ **人类智力** 是衡量人类解决问题的能力。
 
 ## 定义模糊不清
 
-在数百本书籍和文章中，有几十个关于**人类智力**的定义。然而，**问题解决**能力是最简单和最普遍的衡量标准，似乎包含了所有其他能力。
+在数百本书籍和文章中，有几十个关于 **人类智力** 的定义。然而， **问题解决** 能力是最简单和最普遍的衡量标准，似乎包含了所有其他能力。
 
 例如，考虑以下由专家共识的「更广泛」的定义：
 
 > 一种非常普遍的心理能力，包括推理、计划、[解决问题](https://supermemo.guru/wiki/How_to_solve_any_problem%3F)、[抽象](https://supermemo.guru/wiki/Abstract_knowledge)思考、理解复杂的想法、快速学习和从经验中学习的能力。它反映了一种理解我们周围环境的广泛能力。对事物的「理解」，或「弄清」该怎么做
 
-不难看出，**解决问题**需要推理、[抽象](https://supermemo.guru/wiki/Abstraction)、理解和学习。
+不难看出， **解决问题** 需要推理、[抽象](https://supermemo.guru/wiki/Abstraction)、理解和学习。
 
 ## Jeff Hawkins
 
-Jeff Hawkins 将智能定义为适应能力。他说机器可以在几乎所有特定领域的测试中击败人类，但它们并不像人类那样具有普遍性，这是正确的。我们才是智能的，因为我们有适应能力。他计划建立一个可以在计算机中模拟的新皮质模型。这样他就能完成智能。然而，我们都天生具有 Hawkins 所寻求的那种适应性。尽管有这种奇妙的适应性，我们并不会说婴儿很智能。**适应性是发展智能的潜力的基础**。人类的适应性显然比机器的适应性更普遍（在 2020 年）。Hawkins 的定义来自他对建立智能系统的兴趣。然而，这个定义对于我在[本网站](https://supermemo.guru/wiki/This_site)上对人类卓越性的考虑不是很有用。
+Jeff Hawkins 将智能定义为适应能力。他说机器可以在几乎所有特定领域的测试中击败人类，但它们并不像人类那样具有普遍性，这是正确的。我们才是智能的，因为我们有适应能力。他计划建立一个可以在计算机中模拟的新皮质模型。这样他就能完成智能。然而，我们都天生具有 Hawkins 所寻求的那种适应性。尽管有这种奇妙的适应性，我们并不会说婴儿很智能。 **适应性是发展智能的潜力的基础** 。人类的适应性显然比机器的适应性更普遍（在 2020 年）。Hawkins 的定义来自他对建立智能系统的兴趣。然而，这个定义对于我在[本网站](https://supermemo.guru/wiki/This_site)上对人类卓越性的考虑不是很有用。
 
 适应性的关键是大脑的[概念网络](https://supermemo.guru/wiki/Concept_network)的[概念化](https://supermemo.guru/wiki/Conceptualization)。我们都生来就有这种宝贵的品质。随着时间的推移，智能的出现是通过[概念计算](https://supermemo.guru/wiki/Conceptual_computation)来解决问题的能力。
 
 ## Alexander Wissner-Gross
 
-Alexander Wissner-Gross 对**智力**提出了一个更广泛的定义，它解释了所有智能行为背后的[驱动力](http://michaelscharf.blogspot.com/2014/02/a-new-equation-for-intelligence-f-t-s.html)。这也可能有助于证明，一个智能系统（或一个新生婴儿），只需要 3 个组成部分就能出现智能：（1）感官，（2）[概念网络](https://supermemo.guru/wiki/Concept_network)（如新皮质），和（3）[学习内驱力](https://supermemo.guru/wiki/Learn_drive)。
+Alexander Wissner-Gross 对 **智力** 提出了一个更广泛的定义，它解释了所有智能行为背后的[驱动力](http://michaelscharf.blogspot.com/2014/02/a-new-equation-for-intelligence-f-t-s.html)。这也可能有助于证明，一个智能系统（或一个新生婴儿），只需要 3 个组成部分就能出现智能：（1）感官，（2）[概念网络](https://supermemo.guru/wiki/Concept_network)（如新皮质），和（3）[学习内驱力](https://supermemo.guru/wiki/Learn_drive)。
 
 对于一个以目标为导向的智能系统，我们还需要（4）效应器来与环境互动。
 

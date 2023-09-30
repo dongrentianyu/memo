@@ -54,7 +54,7 @@
 
 - Tristan Needham 的《复分析可视化方法》一书，在解释复分析时使用了很多高质量的插图。我只读了一点点，但看起来很不错。
 
-我觉得在数学和其他领域，肯定还有很多例子。找出这些例子当然很有帮助，但目前而言，更重要的的任务是**制造**出这样的例子。有哪些主题是太过难以理解的？有什么证明是容易忘记的？也许有一些子领域，通过一些截然不同的视角审视，理解和记忆会更加「自然」？
+我觉得在数学和其他领域，肯定还有很多例子。找出这些例子当然很有帮助，但目前而言，更重要的的任务是 **制造** 出这样的例子。有哪些主题是太过难以理解的？有什么证明是容易忘记的？也许有一些子领域，通过一些截然不同的视角审视，理解和记忆会更加「自然」？
 
 有一个有趣的问题，这项任务是解释者应该做的，还是「这个领域的研究者」应该做的？也许是两者都应该做的？也许应该合作？也许解释和研究之间没有什么差别？我目前只想出了这些容易想到的问题。
 
@@ -112,10 +112,10 @@ Jessica Taylor 写过[《创作儿童插画书》](https://www.lesswrong.com/pos
 
 感谢 Adam Shimi 对本文草稿的有益讨论和评论。也感谢 Vipul Naik 阅读本文草稿并提醒我加了一段内容。
 
-1. **[^](https://www.lesswrong.com/posts/J3Edt2CLcXPHQYSXo/exposition-as-science-some-ideas-for-how-to-make-progress#fnref8f5xw1clnc4)**
+1. **[^](https://www.lesswrong.com/posts/J3Edt2CLcXPHQYSXo/exposition-as-science-some-ideas-for-how-to-make-progress#fnref8f5xw1clnc4)** 
 
 感谢 Adam Shimi，他点出了修辞技巧这一项。
 
-2. **[^](https://www.lesswrong.com/posts/J3Edt2CLcXPHQYSXo/exposition-as-science-some-ideas-for-how-to-make-progress#fnreftoh3qkyk89k)**
+2. **[^](https://www.lesswrong.com/posts/J3Edt2CLcXPHQYSXo/exposition-as-science-some-ideas-for-how-to-make-progress#fnreftoh3qkyk89k)** 
 
 我想出了「[数学直播视频](https://learning.subwiki.org/wiki/Live_math_video)」的主意，但并没有自己真去开直播。在那之后，Tim Gowers 得出了相同的想法（几乎可以肯定是独立想出的），并真的做了不少[视频](https://www.youtube.com/playlist?list=PLOft35kj95aajgXAFHKklygbpsESMQUid))。（译注：国内有皮套人讲数学呢）

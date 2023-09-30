@@ -6,7 +6,7 @@
 
 ## 拟议立法：强制成人教育！
 
-我的同事，一位[优等生](https://supermemo.guru/wiki/Dangers_of_being_a_Straight_A_student)，抛出一个想法：**强制成人教育**。
+我的同事，一位[优等生](https://supermemo.guru/wiki/Dangers_of_being_a_Straight_A_student)，抛出一个想法： **强制成人教育** 。
 
 拟议的强制成人教育法规将带来许多好处：
 
@@ -44,7 +44,7 @@
 
 孩子们反对学校监禁的最大盟友是他们自己的父母。在大多数民主国家，父母掌握着孩子们自由的关键。
 
-强有力的[在家上学](https://supermemo.guru/wiki/Homeschooling)、[民主学校](https://supermemo.guru/wiki/Democratic_school)和[非学校教育](https://supermemo.guru/wiki/Unschooling)运动是未来的最大希望，也是年轻一代的最大希望。然而，作为解放者的父母并不总是可靠的。许多只顾事业的成年人乐于把学校作为孩子的储藏间。24 小时日托的想法已经成为现实。在波兰，一些幼儿园接受照顾孩子们度过漫长的三天三夜。这正逐步**破坏养育子女这一概念**！一些高度发达的国家，如德国或瑞典，实行了[禁止在家上学](https://supermemo.guru/wiki/Ban_on_homeschooling)的法律，它们臆断强制课程是塑造社会模范成员的最佳方式。你知道希特勒在《我的奋斗》中颂扬了学校教育的力量吗？我不是**希特勒**的粉丝，但极权主义思想和利用学校塑造思想的意图之间存在着明显的关联。
+强有力的[在家上学](https://supermemo.guru/wiki/Homeschooling)、[民主学校](https://supermemo.guru/wiki/Democratic_school)和[非学校教育](https://supermemo.guru/wiki/Unschooling)运动是未来的最大希望，也是年轻一代的最大希望。然而，作为解放者的父母并不总是可靠的。许多只顾事业的成年人乐于把学校作为孩子的储藏间。24 小时日托的想法已经成为现实。在波兰，一些幼儿园接受照顾孩子们度过漫长的三天三夜。这正逐步 **破坏养育子女这一概念** ！一些高度发达的国家，如德国或瑞典，实行了[禁止在家上学](https://supermemo.guru/wiki/Ban_on_homeschooling)的法律，它们臆断强制课程是塑造社会模范成员的最佳方式。你知道希特勒在《我的奋斗》中颂扬了学校教育的力量吗？我不是 **希特勒** 的粉丝，但极权主义思想和利用学校塑造思想的意图之间存在着明显的关联。
 
 我问了一些孩子关于强制成人教育的问题。我很惊讶。他们支持这种教育！他们为什么要支持[他们自己讨厌](https://supermemo.guru/wiki/Why_kids_hate_school%3F)的学校？他们眼中的邪恶火花向我透露了他们的真实动机。他们确认，对成年人实行强制学校教育将是一种正义的表现。让大人们同样尝尝他们所热衷的、向年轻一代发放的毒药。
 
@@ -54,4 +54,4 @@
 
 ## 总结
 
-**强制教育是有害的，对孩子和成人都是如此。它违反了[学习的基本规律](https://supermemo.guru/wiki/Fundamental_law_of_learning)。强迫的教育标志着[不自由的民主](https://en.wikipedia.org/wiki/Illiberal_democracy)**。
+ **强制教育是有害的，对孩子和成人都是如此。它违反了[学习的基本规律](https://supermemo.guru/wiki/Fundamental_law_of_learning)。强迫的教育标志着[不自由的民主](https://en.wikipedia.org/wiki/Illiberal_democracy)** 。

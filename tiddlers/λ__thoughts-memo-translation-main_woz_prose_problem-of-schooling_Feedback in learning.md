@@ -16,9 +16,9 @@
 
 比喻。[为什么使用比喻？](https://supermemo.guru/wiki/Why_use_metaphors%3F)
 
-[概念网络](https://supermemo.guru/wiki/Concept_network)中的强化学习类似于调整老式模拟信号电视机。第一张图片可能比较朦胧，充满混乱的颗粒，缺乏色彩且难以解码。但是，矫正的反馈可能有助于**逐渐**调谐到正确的频率，并获得清晰明了的画面。
+[概念网络](https://supermemo.guru/wiki/Concept_network)中的强化学习类似于调整老式模拟信号电视机。第一张图片可能比较朦胧，充满混乱的颗粒，缺乏色彩且难以解码。但是，矫正的反馈可能有助于 **逐渐** 调谐到正确的频率，并获得清晰明了的画面。
 
-正确的反馈会带来渐进的学习。[学习内驱力](https://supermemo.guru/wiki/Learn_drive)控制下的反馈是**最优**且高效的（参见：[学习内驱力的最优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)）。相比之下，学校学习带来的强迫反馈可能会打乱整个学习过程，只能从头开始调整。学校对错误的零容忍对学习过程造成了很多[干扰](https://supermemo.guru/wiki/Interference)（[论老鼠比受过学校教育的人更优越](https://supermemo.guru/wiki/On_the_superiority_of_a_rat_over_a_schooled_human)）。
+正确的反馈会带来渐进的学习。[学习内驱力](https://supermemo.guru/wiki/Learn_drive)控制下的反馈是 **最优** 且高效的（参见：[学习内驱力的最优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)）。相比之下，学校学习带来的强迫反馈可能会打乱整个学习过程，只能从头开始调整。学校对错误的零容忍对学习过程造成了很多[干扰](https://supermemo.guru/wiki/Interference)（[论老鼠比受过学校教育的人更优越](https://supermemo.guru/wiki/On_the_superiority_of_a_rat_over_a_schooled_human)）。
 
 ### 学会说话
 

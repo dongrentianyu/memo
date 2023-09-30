@@ -10,7 +10,7 @@
 
 引用的摘录出自以下[参考资料](https://supermemo.guru/wiki/References)：
 
-标题：**快乐感知与大脑**
+标题： **快乐感知与大脑** 
 
 作者：Irving Biederman 和 Edward A. Vessel
 

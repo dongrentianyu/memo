@@ -24,7 +24,7 @@
 
 [字识（letteracy）](https://supermemo.guru/wiki/Letteracy)的谬误是如此盛行，以至于我一直在寻找合适的比喻来说明这个问题。我听到「不读书怎么能交电费？」。我说，[概念化](https://supermemo.guru/wiki/Conceptualization)有优先权。孩子需要了解能源、电力、账单、付款、法律、社会等，比起付款要早得多。此外，今天的孩子可能会通过使用她的语音合成应用程序轻松解决这个问题。
 
-为了解释[字识](https://supermemo.guru/wiki/Letteracy)的问题，我想出了**摩尔斯电码星球**的想法。下面是这个比喻：
+为了解释[字识](https://supermemo.guru/wiki/Letteracy)的问题，我想出了 **摩尔斯电码星球** 的想法。下面是这个比喻：
 
 比喻。[为什么使用比喻？](https://supermemo.guru/wiki/Why_use_metaphors%3F)
 

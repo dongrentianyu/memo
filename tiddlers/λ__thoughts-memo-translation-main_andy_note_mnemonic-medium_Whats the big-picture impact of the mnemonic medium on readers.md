@@ -2,7 +2,7 @@
 
 原文：[What’s the big-picture impact of the mnemonic medium on readers? (andymatuschak.org)](https://notes.andymatuschak.org/z5yKJEmSVZvRr6Q5kDdKeCEt9aqCjo2hQwNcm)
 
-如果说[助记媒介](https://notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)帮助读者记住他们所读的内容。**那又怎样？**
+如果说[助记媒介](https://notes.andymatuschak.org/z4rRX3qwSSJRsEkdXKwH2shamgHNeRthrMLiF)帮助读者记住他们所读的内容。 **那又怎样？** 
 
 相对于读者生活中重要的东西，为什么记住所读东西很重要？记住之后能获得什么？
 
@@ -48,15 +48,15 @@
 
 作为理解这个问题的第一步，我今天会给一批在至少 270 天内完成了至少 30 次复习环节的量子国度用户发邮件（[20210127155851](https://notes.andymatuschak.org/zmWdKtgnRVDaEEKVtiU4TNQUMRZWeDvxmnn)）。我无法充分地表达我实际能获得什么，所以我只是先开始“网络钓鱼”。
 
-106 个量子国度用户符合这些标准（见：[电子表格](https://docs.google.com/spreadsheets/d/1GYGwr2IQCS43-Ngto8o27mehkic1IK-sjd41By4l4oM/edit#gid=665655282)）。一个令人惊讶的数字——而且其中许多人实际上符合**双倍**的标准。但是，一旦我在这里建立了影响的「上界」，降低标准并了解那些没有坚持很长时间的人的情况，将会很有趣。这些人是真正的奉献者。
+106 个量子国度用户符合这些标准（见：[电子表格](https://docs.google.com/spreadsheets/d/1GYGwr2IQCS43-Ngto8o27mehkic1IK-sjd41By4l4oM/edit#gid=665655282)）。一个令人惊讶的数字——而且其中许多人实际上符合 **双倍** 的标准。但是，一旦我在这里建立了影响的「上界」，降低标准并了解那些没有坚持很长时间的人的情况，将会很有趣。这些人是真正的奉献者。
 
-> **主题**：量子国度：许多个月后......那又怎样？
+> **主题** ：量子国度：许多个月后......那又怎样？
 
 > 大家好！我是《量子国度》的作者之一。我给你写信是因为你坚持了相当长一段时间的复习环节。
 
 >
 
-> 如果你对我说：**那又怎样？**，我也很感激
+> 如果你对我说： **那又怎样？** ，我也很感激
 
 >
 

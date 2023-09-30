@@ -34,9 +34,9 @@
 
 2019 年底，我收到一封来自的Allen（化名）的非常有趣的电子邮件，Allen高中辍学了。他解释说，他花了相当长的时间才改掉了在学校里养成的坏习惯。我很高兴听到我在 [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) 的主张，与他自己的经验和观察相当契合。我已向他申请引用他邮件中的部分内容，并决定列出所有在学校教育的驯化中养成的坏习惯。我向那些刚刚进入「恢复」过程的朋友发送了邮件，请求他们提供反馈。那些从学校转到[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)的人通常获得了很多观察。这种对比是如此鲜明，以至于有些结论似乎几乎是普遍适用的。短短两个星期，我所列出的坏习惯便增加到 了42（读作：四十二个）。即使是对 [20 条规则](https://supermemo.guru/wiki/20_rules)的常规违反，也可能使名单上的坏习惯再扩大 10-15 条。
 
-很明显，我无法讨论所有习惯。应该写本书来讨论这些。这就是为什么我决定在 [guru](https://supermemo.guru/wiki/Guru) 建立这个页面，并渐进地添加有趣的观察和摘录。「40 个习惯」的标题很快变成了「50 个习惯」。我不确定最终会达到多少数量，哪些习惯是重叠的，哪些需要作为分开。老实说，其数量之大我有些迷茫。贬低知识和被压制的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)是否应该算作一个？2021 年 2 月 1 日，使用 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中的 **Split**，我统计了 104 个坏习惯，我还要描述大约 10-15 个习惯。因此，2021 年 2 月 16 日，我决定改变标题。我们现在有一套整齐的 **100 个习惯**。坏习惯的清单是惊人的，只要坚持一个法则，就可以在很大程度上避免，即：**[学习的基本法则](https://supermemo.guru/wiki/Fundamental_Law_of_Learning)**。
+很明显，我无法讨论所有习惯。应该写本书来讨论这些。这就是为什么我决定在 [guru](https://supermemo.guru/wiki/Guru) 建立这个页面，并渐进地添加有趣的观察和摘录。「40 个习惯」的标题很快变成了「50 个习惯」。我不确定最终会达到多少数量，哪些习惯是重叠的，哪些需要作为分开。老实说，其数量之大我有些迷茫。贬低知识和被压制的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)是否应该算作一个？2021 年 2 月 1 日，使用 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中的 **Split** ，我统计了 104 个坏习惯，我还要描述大约 10-15 个习惯。因此，2021 年 2 月 16 日，我决定改变标题。我们现在有一套整齐的 **100 个习惯** 。坏习惯的清单是惊人的，只要坚持一个法则，就可以在很大程度上避免，即： **[学习的基本法则](https://supermemo.guru/wiki/Fundamental_Law_of_Learning)** 。
 
-大多数学校的坏习惯都来源于无法**量化**[学习乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)的重要性
+大多数学校的坏习惯都来源于无法 **量化** [学习乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)的重要性
 
 ### 普遍的习惯
 
@@ -54,9 +54,9 @@
 
 - 友谊最好在现实生活中缔结，而不是在学校
 
-在几乎所有其他情况下，当人们谈到在学校获得的良好习惯时，他们真正的意思是**良好的技能**，而**不是习惯**。
+在几乎所有其他情况下，当人们谈到在学校获得的良好习惯时，他们真正的意思是 **良好的技能** ，而 **不是习惯** 。
 
-举个例子，我不同意有人说自律是一个好习惯。只有在利大于弊时，自律才有意义，而且这种计算必须有一个积分公式，着眼于长期影响。如果有人在早起时表现出自律，他可能在学校或工作中收获一些好处，但也可能伤害自己的健康、大脑和寿命。一套保护人们免受早起危害的程序可以被看作武装技能的工具集。这种技能可以在紧急情况下使用，例如，当需要对病人进行紧急的手术时，早起可能会有帮助。这种技能不能是一种习惯（例如，每天使用[闹钟](https://supermemo.guru/wiki/Alarm_clock)）。青少年应该在需要的时候从床上爬起来，把他们最好的脑力用于学习。早起的**技能**可以在大脑成熟、不易受伤的时候掌握。最重要的是，这项技能应该只由那些真正需要它的人掌握。我从来不用闹钟，我的早起技能不怎么样，尽管我知道如何使用时间疗法在早上 4 点无痛苦地起床。我的唯一条件是：我需要从今天开始，为下个月做好准备。
+举个例子，我不同意有人说自律是一个好习惯。只有在利大于弊时，自律才有意义，而且这种计算必须有一个积分公式，着眼于长期影响。如果有人在早起时表现出自律，他可能在学校或工作中收获一些好处，但也可能伤害自己的健康、大脑和寿命。一套保护人们免受早起危害的程序可以被看作武装技能的工具集。这种技能可以在紧急情况下使用，例如，当需要对病人进行紧急的手术时，早起可能会有帮助。这种技能不能是一种习惯（例如，每天使用[闹钟](https://supermemo.guru/wiki/Alarm_clock)）。青少年应该在需要的时候从床上爬起来，把他们最好的脑力用于学习。早起的 **技能** 可以在大脑成熟、不易受伤的时候掌握。最重要的是，这项技能应该只由那些真正需要它的人掌握。我从来不用闹钟，我的早起技能不怎么样，尽管我知道如何使用时间疗法在早上 4 点无痛苦地起床。我的唯一条件是：我需要从今天开始，为下个月做好准备。
 
 经过反复思考，我开玩笑地承认我在学校养成了一个好习惯：我一旦听到「讲座」这个词，我就会离它远远的。我仍然喜欢 YouTube 上的 TED 讲座。当我决定离开或暂停时，YouTube 从不会对我说三道四。它总是耐心地等待着。
 
@@ -70,15 +70,15 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 ## 解决问题
 
-人类的进步是基于[解决问题](https://supermemo.guru/wiki/Problem_solving)。有趣的是，我们解决了问题，但似乎对解决问题的机制理解不佳。学校教育在这方面的主要问题是，它把大脑建模成一个完美的推理机器和一个完美的人形计算机。它似乎对这一事实视而不见：我们的大脑是一个[概念网络](https://supermemo.guru/wiki/Concept_network)，其巨大的力量在于采取不完美的启发式捷径来实现目标。大脑是关于[认知偏见](https://supermemo.guru/wiki/Cognitive_bias)和[泛化](https://supermemo.guru/wiki/Generalization)的全部。它总是形成[坏的模型](https://supermemo.guru/wiki/Bad_model)，未能注意，为了更大的事业而不断[遗忘](https://supermemo.guru/wiki/Forgetting)。我们没有把大脑作为一个不完美的强大装置进行[建模](https://supermemo.guru/wiki/Model)，而是寻找无错误的完美。这种对大脑的完美主义看法是完美学校模式的基础。因此，**学校教育是数百万儿童痛苦的根源** 。
+人类的进步是基于[解决问题](https://supermemo.guru/wiki/Problem_solving)。有趣的是，我们解决了问题，但似乎对解决问题的机制理解不佳。学校教育在这方面的主要问题是，它把大脑建模成一个完美的推理机器和一个完美的人形计算机。它似乎对这一事实视而不见：我们的大脑是一个[概念网络](https://supermemo.guru/wiki/Concept_network)，其巨大的力量在于采取不完美的启发式捷径来实现目标。大脑是关于[认知偏见](https://supermemo.guru/wiki/Cognitive_bias)和[泛化](https://supermemo.guru/wiki/Generalization)的全部。它总是形成[坏的模型](https://supermemo.guru/wiki/Bad_model)，未能注意，为了更大的事业而不断[遗忘](https://supermemo.guru/wiki/Forgetting)。我们没有把大脑作为一个不完美的强大装置进行[建模](https://supermemo.guru/wiki/Model)，而是寻找无错误的完美。这种对大脑的完美主义看法是完美学校模式的基础。因此， **学校教育是数百万儿童痛苦的根源** 。
 
 为了预防解题的坏习惯，一个简单的方法是让孩子们自己的问题自己解决。
 
-学校教的是用**明确的工具**解决**假问题**。而生活会提供**真问题**，我们可能**找不到任何工具**来解决
+学校教的是用 **明确的工具** 解决 **假问题** 。而生活会提供 **真问题** ，我们可能 **找不到任何工具** 来解决
 
 ### 无法容忍启发式方法
 
-当一个五岁孩子在电脑游戏中顺利地解决一个个问题时，一个受过良好教育的成年人往往会担心上瘾、[数码痴呆症](https://supermemo.guru/wiki/Digital_dementia)，以及孩子处理问题时的马虎。成人会说「她只是在使用她的直觉。这种不精确的做法在建造桥梁时是不可接受的」。推理的习惯使大脑在不需要放慢速度的时候放慢速度。算法上的捷径可能引入可忽略不计的错误，但同时将时间复杂度降低一整个数量级。用启发式方法快速解决问题是人类智慧的关键武器之一。演绎推理这一**技能**在许多情况下都是有用的。大脑需要为问题选择合适的工具。当速度很重要的时候，或者当走捷径可以减少[认知负荷](https://supermemo.guru/wiki/Cognitive_load)并增加解决问题的机会的时候，马虎也是有益的。
+当一个五岁孩子在电脑游戏中顺利地解决一个个问题时，一个受过良好教育的成年人往往会担心上瘾、[数码痴呆症](https://supermemo.guru/wiki/Digital_dementia)，以及孩子处理问题时的马虎。成人会说「她只是在使用她的直觉。这种不精确的做法在建造桥梁时是不可接受的」。推理的习惯使大脑在不需要放慢速度的时候放慢速度。算法上的捷径可能引入可忽略不计的错误，但同时将时间复杂度降低一整个数量级。用启发式方法快速解决问题是人类智慧的关键武器之一。演绎推理这一 **技能** 在许多情况下都是有用的。大脑需要为问题选择合适的工具。当速度很重要的时候，或者当走捷径可以减少[认知负荷](https://supermemo.guru/wiki/Cognitive_load)并增加解决问题的机会的时候，马虎也是有益的。
 
 人类[智力](https://supermemo.guru/wiki/Intelligence)依赖于基于[概念计算](https://supermemo.guru/wiki/Conceptual_computation)的启发式算法。
 
@@ -122,11 +122,11 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 在解决问题的过程中，学校倾向于教授算法式的方法，要求学生熟练记忆一套规则。在真实的问题解决中，为了达到目标，能用的工具和技术都要用上。启发式方法、有风险的模型、创造性探索是高效[解决问题](https://supermemo.guru/wiki/Problem_solving)方法的基础。此外，好的问题解决者广泛掌握了其专业领域的事实知识和[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)。如今，问题解决软件工具集的一个重要组成部分是探索性搜索，可能从学生的头脑延伸到互联网。这些探索性的技能往往在制度上就遭到压制。平均水平的学生相比非学校教育者，在使用谷歌来回答问题、辅助问题解决上，其娴熟程度和意愿，难以望其项背。
 
-> 参加考试时，你必须完全依靠记忆。**禁止查阅书籍，否则将受到惩罚**。在现实生活中，当你不记得某些东西时，你只需查找它。搜索信息的能力是一项宝贵的技能。这很简单：解决问题的基础是知识，所以如果你不能解决问题，就去寻找更多的相关知识
+> 参加考试时，你必须完全依靠记忆。 **禁止查阅书籍，否则将受到惩罚** 。在现实生活中，当你不记得某些东西时，你只需查找它。搜索信息的能力是一项宝贵的技能。这很简单：解决问题的基础是知识，所以如果你不能解决问题，就去寻找更多的相关知识
 
 我们很容易认为，所有的孩子都能知道谷歌，并发现它很容易使用（见：[神经元的谬误](https://supermemo.guru/wiki/Neuromythology)）。然而，学校的训练可能不利于获得必要的技能：
 
-> 一个哭笑不得的低效率情况是，面对无法解决的问题，**不让自己接触**任何新信息，这样我就不会「作弊」
+> 一个哭笑不得的低效率情况是，面对无法解决的问题， **不让自己接触** 任何新信息，这样我就不会「作弊」
 
 问题的解决方案可以在问题搜索空间中找到。难题需要大量的探索。探索性搜索是基于一套只有在实际问题解决中才能得到磨练的元认知技能。
 
@@ -134,13 +134,13 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 ### 尝试被压制
 
-探索不限于习得[陈述性知识](https://supermemo.guru/wiki/Declarative_knowledge)的过程。探索是一种算法，在适应环境方面具有更广泛的意义。有一类探索是**[尝试](https://supermemo.guru/wiki/Sampling)**，即由[学习内驱力](https://supermemo.guru/wiki/Learn_drive)控制的试错的探索性选择。术语「尝试」最常被用于寻找自己的使命（见：[Ken Robinson: Finding your element](https://youtu.be/17fbxRQgMlU)）。未受教育的孩子在[自由学习](https://supermemo.guru/wiki/Free_learning)中，会专注于那些能使回报最大化的活动。它可能从成为油管博主的梦想开始。当这个梦想勉强成功时（例如，有了一些观众），孩子可能会期许更进一步——成为一名艺术家，在 YouTube 上展现自己的才华。接下来他甚至会梦想成为足球运动员或摇滚明星。无数青年才俊梦想进入青年足球俱乐部，但经过残酷的大浪淘沙，大部分无缘其中，淘汰的原因通常很简单，如受伤、不喜欢教练、团队合作差，或诸如发胖等琐碎的障碍。在这个尝试的过程中，多年来，一个孩子或青少年会在她感到最有回报的地方找到她的人生位置。这种奖励往往与社会因素严格交织在一起。即使是最纯粹的数学头脑也可能希望与他人分享他几十年的发现。[创造力](https://supermemo.guru/wiki/Creativity)很少是非社会性的。在这个意义上，[学习内驱力的优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)转化为优秀社会适应的坚实保证。为了使试错发生得最理想，**孩子必须是自由的**。寻找人生使命的过程需要多年，耗费大量的时间，而且主要是基于试错。因此有句话说，我们在自己的错误中学得最好。如果一个年轻人身体健康，没有偶然的严重逆境，在经历了几十次失败尝试后，他一定会在生活中找到满意的位置。过去富于失败的经验为我们提供了迈向成年的绝佳跳板。
+探索不限于习得[陈述性知识](https://supermemo.guru/wiki/Declarative_knowledge)的过程。探索是一种算法，在适应环境方面具有更广泛的意义。有一类探索是 **[尝试](https://supermemo.guru/wiki/Sampling)** ，即由[学习内驱力](https://supermemo.guru/wiki/Learn_drive)控制的试错的探索性选择。术语「尝试」最常被用于寻找自己的使命（见：[Ken Robinson: Finding your element](https://youtu.be/17fbxRQgMlU)）。未受教育的孩子在[自由学习](https://supermemo.guru/wiki/Free_learning)中，会专注于那些能使回报最大化的活动。它可能从成为油管博主的梦想开始。当这个梦想勉强成功时（例如，有了一些观众），孩子可能会期许更进一步——成为一名艺术家，在 YouTube 上展现自己的才华。接下来他甚至会梦想成为足球运动员或摇滚明星。无数青年才俊梦想进入青年足球俱乐部，但经过残酷的大浪淘沙，大部分无缘其中，淘汰的原因通常很简单，如受伤、不喜欢教练、团队合作差，或诸如发胖等琐碎的障碍。在这个尝试的过程中，多年来，一个孩子或青少年会在她感到最有回报的地方找到她的人生位置。这种奖励往往与社会因素严格交织在一起。即使是最纯粹的数学头脑也可能希望与他人分享他几十年的发现。[创造力](https://supermemo.guru/wiki/Creativity)很少是非社会性的。在这个意义上，[学习内驱力的优化](https://supermemo.guru/wiki/Optimality_of_the_learn_drive)转化为优秀社会适应的坚实保证。为了使试错发生得最理想， **孩子必须是自由的** 。寻找人生使命的过程需要多年，耗费大量的时间，而且主要是基于试错。因此有句话说，我们在自己的错误中学得最好。如果一个年轻人身体健康，没有偶然的严重逆境，在经历了几十次失败尝试后，他一定会在生活中找到满意的位置。过去富于失败的经验为我们提供了迈向成年的绝佳跳板。
 
 学校有的是办法来压制孩子的尝试——限制孩子的时间，窃取一天中最有创造力的时间，要么就是直接给出现成的解决方案，亦或者是越殂代疱，替孩子做选择。年轻大脑就此失去了一个个决策机会。成人世界充满了善意的建议。如果父母总是对的，那律师和医生将严重过剩。我们将很难找到水管工和处理垃圾的人。相比之下，我家里有个 4 岁孩子宣称他的梦想工作是当垃圾收集员。他后来当了垃圾车司机，也做个其他职业。我家里还有个近亲对她自己的孩子学校式的威胁：「如果你不学习，你长大后只能捡垃圾」。成年人对孩子生活妄加设想，并以此来压制孩子的尝试。
 
 当孩子们对自己的追求和爱好进行尝试时，他们往往会找到一份理想的工作，从此过上幸福的生活。在受教育的儿童中，被压制的尝试可能会限制尝试的启发法，并将这一过程推迟到成年后。当一个年轻人在 25 岁时开始尝试参加工作时，他可能已经带着沉重的偏见、焦虑和坏习惯的包袱，使这个过程变得困难。对一些人来说，成人尝试是纯粹的折磨，根植于学校的所有坏习惯。对于一个有创造力的人来说，成人的尝试可能是复杂的，原因与技能组合无关（见：[案例研究：天才或阿斯伯格症](https://supermemo.guru/wiki/Case_study:_Genius_or_Asperger)）。
 
-与追求、爱好和工作的尝试类似，社交尝试也同样受影响。我们尝试交朋友、伙伴或性伴侣。对于受教育的人来说，[家庭教育](https://supermemo.guru/wiki/Homeschooling)不可避免地会引起一个问题：「[社会化呢？](https://supermemo.guru/wiki/What_about_socialization%3F)」。那些问这个问题的人已经受到了被压制的尝试的影响。经过多年的[封闭系统中的社会化](https://supermemo.guru/wiki/Socialization_in_a_closed_system)，人们很容易生活在学校是认识朋友的最佳场所的幻觉中。毕竟，一个学生可能会有一个有限的朋友圈，其中夹杂着老同学。然而，造成这种错觉的最大因素是对社会尝试的压制。我相信有一个很好的生活策略。**爱所有的人**。把所有的陌生人当作潜在的朋友。每个人都有有趣的东西可以提供。有了这种方法，生活很快就会开始感到丰富，而且太短，无法认识所有有趣的人。这种态度被现代的父母教育和学校教育积极破坏。对于一个被送出户外玩耍的孩子来说，首先被灌输的观念就是对陌生人的恐惧。当我遇到 7-10 岁的孩子时，他们经常用高度怀疑的眼光看着我。这也难怪。一个在二月穿着短裤的赤脚大个子肯定有点奇怪。我们都不可避免地在一段时间后成为朋友，但为什么我们需要从恐惧和焦虑开始？你可以用微笑来谨慎对待。在一个封闭的系统中，经过多年的友爱相处，自然而然就会被破坏，无法达成休闲的友谊。许多 30-40 岁的人都很孤独和沮丧，原因只有一个：他们与其他人交流的能力被系统地抑制了。艰难的解决方案是通过采用递增的社会互动来逐渐淡化乃至消除多年学校教育的耳濡目染（见：[渐进生活](https://supermemo.guru/wiki/Incremental_life)的一些提示）。
+与追求、爱好和工作的尝试类似，社交尝试也同样受影响。我们尝试交朋友、伙伴或性伴侣。对于受教育的人来说，[家庭教育](https://supermemo.guru/wiki/Homeschooling)不可避免地会引起一个问题：「[社会化呢？](https://supermemo.guru/wiki/What_about_socialization%3F)」。那些问这个问题的人已经受到了被压制的尝试的影响。经过多年的[封闭系统中的社会化](https://supermemo.guru/wiki/Socialization_in_a_closed_system)，人们很容易生活在学校是认识朋友的最佳场所的幻觉中。毕竟，一个学生可能会有一个有限的朋友圈，其中夹杂着老同学。然而，造成这种错觉的最大因素是对社会尝试的压制。我相信有一个很好的生活策略。 **爱所有的人** 。把所有的陌生人当作潜在的朋友。每个人都有有趣的东西可以提供。有了这种方法，生活很快就会开始感到丰富，而且太短，无法认识所有有趣的人。这种态度被现代的父母教育和学校教育积极破坏。对于一个被送出户外玩耍的孩子来说，首先被灌输的观念就是对陌生人的恐惧。当我遇到 7-10 岁的孩子时，他们经常用高度怀疑的眼光看着我。这也难怪。一个在二月穿着短裤的赤脚大个子肯定有点奇怪。我们都不可避免地在一段时间后成为朋友，但为什么我们需要从恐惧和焦虑开始？你可以用微笑来谨慎对待。在一个封闭的系统中，经过多年的友爱相处，自然而然就会被破坏，无法达成休闲的友谊。许多 30-40 岁的人都很孤独和沮丧，原因只有一个：他们与其他人交流的能力被系统地抑制了。艰难的解决方案是通过采用递增的社会互动来逐渐淡化乃至消除多年学校教育的耳濡目染（见：[渐进生活](https://supermemo.guru/wiki/Incremental_life)的一些提示）。
 
 糟糕的社会尝试机制最终导致了[白痴统治社会](https://supermemo.guru/wiki/Idiocracy)的问题。这并不是说聪明人不善于繁殖。更多的是，受过大量教育的人看起来很聪明，但仍然不善于社交，而且很孤独。维持人口健康的最佳社会盟友是对更深的友谊、浪漫关系、性欲和对孩子的爱的自然追求。有了这些本能的完整存在，所有理性的住房、金钱、工作和职业的「阻碍」开始显得容易克服。在一个健康的家庭环境中，儿童和成人进入一个爱和生产性能量的正反馈循环。对事业崩溃的担心可能很快就显得毫无根据。这种美丽的自然进展被基于压抑的尝试技能的社会不适应性所破坏。此外，一个受教育的人可能想对整个过程进行微观管理，包括对配偶的选择，用基于另一个坏习惯的理性规划来代替自然本能：过度完美主义。
 
@@ -222,9 +222,9 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 当创造力和探索被压制，当对真理唯一论的信念被坚定地树立起来，模仿的技能就会成为一种习惯。模仿是创新的反面，而我们在从工业时代向信息时代过渡时需要创新。人类学家声称，人类对黑猩猩的优势在于模仿。我们的非洲亲戚太有个性，无法严丝合缝地模仿他人。黑猩猩无法发展出持久的文化或丰富的语言。他们只是不感兴趣罢了。
 
-模仿是一种重要的技能，可以帮助人们在人类知识的广阔领域中走有用的捷径。我们可以模仿他人，使用计算器或Excel，而不是背诵乘法表，或掌握滑尺。不过，模仿的技巧不能成为一种习惯。一旦我们开始习惯性地模仿，我们就开始随波逐流，形成不容忍[多样性](https://supermemo.guru/wiki/Diversity)的社会群体，并加强另一个坏习惯：对权威不加掩饰的服从。与其说模仿阻碍了创新，不如说**模仿本应帮助创新**。
+模仿是一种重要的技能，可以帮助人们在人类知识的广阔领域中走有用的捷径。我们可以模仿他人，使用计算器或Excel，而不是背诵乘法表，或掌握滑尺。不过，模仿的技巧不能成为一种习惯。一旦我们开始习惯性地模仿，我们就开始随波逐流，形成不容忍[多样性](https://supermemo.guru/wiki/Diversity)的社会群体，并加强另一个坏习惯：对权威不加掩饰的服从。与其说模仿阻碍了创新，不如说 **模仿本应帮助创新** 。
 
-[Nicholas Christakis](https://en.wikipedia.org/wiki/Nicholas_Christakis) 得到了很多伟大的想法。我喜欢他的一句话：「人类的道德弧线虽然很长，但是它是最终是通向平等的」（与我的[知识的好](https://supermemo.guru/wiki/Goodness_of_knowledge)一致）。然而，他对人类进步的断言高估了模仿的价值。Christakis 说（我的译文）：「许多动物都在学习。很少有动物通过模仿进行社会性学习。**我们进行教学！**我们今天可以教一个学生微积分，如果你能把他送到几个世纪以前，他将是最聪明的数学家」。更确切地说，应该强调我们更懂得如何**保存创新的记录**。这样，我们就很容易让后人走省时的捷径。最伟大的进化创新不是教学。是[学习内驱力](https://supermemo.guru/wiki/Learn_drive)机制让我们渴望新的知识，并好好利用那些过去的记录。我们在 5000 年前也有老师，这毫无进步。内驱力随着书籍的出现而爆发，然后是广播，现在是网络。这些发明为[自学](https://supermemo.guru/wiki/Self-learning)服务。当书籍稀缺时，书籍帮助了教学。现在，当书籍很容易获得时，它们取代了老师。
+[Nicholas Christakis](https://en.wikipedia.org/wiki/Nicholas_Christakis) 得到了很多伟大的想法。我喜欢他的一句话：「人类的道德弧线虽然很长，但是它是最终是通向平等的」（与我的[知识的好](https://supermemo.guru/wiki/Goodness_of_knowledge)一致）。然而，他对人类进步的断言高估了模仿的价值。Christakis 说（我的译文）：「许多动物都在学习。很少有动物通过模仿进行社会性学习。 **我们进行教学！** 我们今天可以教一个学生微积分，如果你能把他送到几个世纪以前，他将是最聪明的数学家」。更确切地说，应该强调我们更懂得如何 **保存创新的记录** 。这样，我们就很容易让后人走省时的捷径。最伟大的进化创新不是教学。是[学习内驱力](https://supermemo.guru/wiki/Learn_drive)机制让我们渴望新的知识，并好好利用那些过去的记录。我们在 5000 年前也有老师，这毫无进步。内驱力随着书籍的出现而爆发，然后是广播，现在是网络。这些发明为[自学](https://supermemo.guru/wiki/Self-learning)服务。当书籍稀缺时，书籍帮助了教学。现在，当书籍很容易获得时，它们取代了老师。
 
 顺便说一下，如果我们教一个学生微积分，他可以解决一些方程一段时间（直到[遗忘](https://supermemo.guru/wiki/Forgetting)把他们还给老师）。他不会成为最聪明的数学家。伟大的数学家是通过无尽的自由探索性调查而诞生的。牛顿不需要学习微积分。他发明了它。他更有资格获得最聪明的数学家的称号。
 
@@ -232,7 +232,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 ### 被钝化的怀疑主义
 
-随着教师和教科书中滔滔不绝那些所谓的组织严密、深思熟虑、似乎无懈可击的知识时，人们便掉以轻心，无法察觉可能出现的错误。所有国家的各级教科书都充斥着错误、过时的理论、错误的表述以及与现代世界不再相关的大量事实性知识。然而，它们都被当作「唯一的真理」来介绍。学生们很少被鼓励去质疑老师、权威，尤其是质疑教科书。这种被动的学习方式使头脑中的怀疑主义变得迟钝。与此相反，在[自由学习](https://supermemo.guru/wiki/Free_learning)中，人们的头脑不断受到虚假信息的轰炸。而人们在网络冲浪，头脑最应该武装的宝贵品质之一就是怀疑主义精神。现在，知识的世界唾手可得，它很廉价，但与之而来的是巨大的机会成本，你可能得到的都是好的，也可能都是坏的。虚假信息就像病毒一样，它往往会在一个健康的头脑中慢慢诱发免疫力。这种免疫力是基于广泛的[连贯的](https://supermemo.guru/wiki/Coherence)知识。为了发展这种怀疑的框架，健康的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)是不可或缺的。然而，[学习内驱力](https://supermemo.guru/wiki/Learn_drive)是在学校教育过程中最先丧失的思维品质之一。到 13-15 岁时，大多数孩子对学校提供的所有知识领域都表现出发育不全的兴趣。一个没有怀疑框架的头脑在处理网络上的大量知识时是无能为力的。这种**被钝化的怀疑主义**是 [John Holt](https://supermemo.guru/wiki/John_Holt) 高声疾呼：「学校是孩子们学习变傻的地方」的主要动机。
+随着教师和教科书中滔滔不绝那些所谓的组织严密、深思熟虑、似乎无懈可击的知识时，人们便掉以轻心，无法察觉可能出现的错误。所有国家的各级教科书都充斥着错误、过时的理论、错误的表述以及与现代世界不再相关的大量事实性知识。然而，它们都被当作「唯一的真理」来介绍。学生们很少被鼓励去质疑老师、权威，尤其是质疑教科书。这种被动的学习方式使头脑中的怀疑主义变得迟钝。与此相反，在[自由学习](https://supermemo.guru/wiki/Free_learning)中，人们的头脑不断受到虚假信息的轰炸。而人们在网络冲浪，头脑最应该武装的宝贵品质之一就是怀疑主义精神。现在，知识的世界唾手可得，它很廉价，但与之而来的是巨大的机会成本，你可能得到的都是好的，也可能都是坏的。虚假信息就像病毒一样，它往往会在一个健康的头脑中慢慢诱发免疫力。这种免疫力是基于广泛的[连贯的](https://supermemo.guru/wiki/Coherence)知识。为了发展这种怀疑的框架，健康的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)是不可或缺的。然而，[学习内驱力](https://supermemo.guru/wiki/Learn_drive)是在学校教育过程中最先丧失的思维品质之一。到 13-15 岁时，大多数孩子对学校提供的所有知识领域都表现出发育不全的兴趣。一个没有怀疑框架的头脑在处理网络上的大量知识时是无能为力的。这种 **被钝化的怀疑主义** 是 [John Holt](https://supermemo.guru/wiki/John_Holt) 高声疾呼：「学校是孩子们学习变傻的地方」的主要动机。
 
 接触过“全知全能”学校教育的学生处理[多样性](https://supermemo.guru/wiki/Diversity)知识的能力减弱了
 
@@ -278,13 +278,13 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 ### 死记硬背
 
-**[死记硬背](https://supermemo.guru/wiki/Cramming)**是一种大规模低质量的匆忙学习。
+ **[死记硬背](https://supermemo.guru/wiki/Cramming)** 是一种大规模低质量的匆忙学习。
 
-**[填鸭和速忘](https://supermemo.guru/wiki/Cram_and_dump)**（或 **狂欢和宿醉**）是一个贬义词，指学校采用的古老学习策略。(1）在考试前死记硬背（如果需要的话，在最后一晚），（2）尽快忘记所有无用的知识。
+ **[填鸭和速忘](https://supermemo.guru/wiki/Cram_and_dump)** （或 **狂欢和宿醉** ）是一个贬义词，指学校采用的古老学习策略。(1）在考试前死记硬背（如果需要的话，在最后一晚），（2）尽快忘记所有无用的知识。
 
-全世界的学生都有条件采用**填鸭和速忘式学习**，因为考试前需要的知识量过大。这种策略也是由[最低限度的理解](https://supermemo.guru/wiki/Kevin_Kruse:_School_serves_mindless_cramming)所学知识与他们自己的生活的相关性所驱动的。
+全世界的学生都有条件采用 **填鸭和速忘式学习** ，因为考试前需要的知识量过大。这种策略也是由[最低限度的理解](https://supermemo.guru/wiki/Kevin_Kruse:_School_serves_mindless_cramming)所学知识与他们自己的生活的相关性所驱动的。
 
-**死记硬背**可以帮助你通过考试，但它也是极其有害的。它可以真正地[伤害你的大脑](https://supermemo.guru/wiki/How_schools_can_contribute_to_Alzheimer's_disease)或你的健康。它可以影响你[对学习的热爱](https://supermemo.guru/wiki/Pleasure_of_learning)。它产生不稳定的记忆，经由[干扰](https://supermemo.guru/wiki/Interference)就会很快被遗忘。如果反复用于同一艰深的学习材料（如深奥的数学），**死记硬背**会导致[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)。
+ **死记硬背** 可以帮助你通过考试，但它也是极其有害的。它可以真正地[伤害你的大脑](https://supermemo.guru/wiki/How_schools_can_contribute_to_Alzheimer's_disease)或你的健康。它可以影响你[对学习的热爱](https://supermemo.guru/wiki/Pleasure_of_learning)。它产生不稳定的记忆，经由[干扰](https://supermemo.guru/wiki/Interference)就会很快被遗忘。如果反复用于同一艰深的学习材料（如深奥的数学）， **死记硬背** 会导致[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)。
 
 死记硬背很快成为了学校带来的坏习惯，而且会伴随一生。
 
@@ -292,7 +292,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 ### 对毒性记忆的容忍
 
-**[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)**是不良学习（如[填鸭式学习](https://supermemo.guru/wiki/Cramming)）的一种副作用。毒性记忆是**[无语义学习](https://supermemo.guru/wiki/Asemantic_learning)**的一种常态。一个好学生，例如精通[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)的学生会对质量不好的学习材料表现出高度的不容忍。当[条目](https://supermemo.guru/wiki/Item)成为[水蛭](https://supermemo.guru/wiki/Leech)时，大脑应该发出红色警报。经过多年的学校教育，成年人对质量不好的学习材料表现出难以置信的容忍度，并可能忽视[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)的出现。见：[讨厌 SuperMemo](https://supermemo.guru/wiki/Hating_SuperMemo)。这种容忍的机制是基于**[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)**，它是**[神经网络战争](https://supermemo.guru/wiki/War_of_the_networks)**的结果，即[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的神经控制系统的爆裂性冲突。
+ **[毒性记忆](https://supermemo.guru/wiki/Toxic_memory)** 是不良学习（如[填鸭式学习](https://supermemo.guru/wiki/Cramming)）的一种副作用。毒性记忆是 **[无语义学习](https://supermemo.guru/wiki/Asemantic_learning)** 的一种常态。一个好学生，例如精通[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)的学生会对质量不好的学习材料表现出高度的不容忍。当[条目](https://supermemo.guru/wiki/Item)成为[水蛭](https://supermemo.guru/wiki/Leech)时，大脑应该发出红色警报。经过多年的学校教育，成年人对质量不好的学习材料表现出难以置信的容忍度，并可能忽视[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)的出现。见：[讨厌 SuperMemo](https://supermemo.guru/wiki/Hating_SuperMemo)。这种容忍的机制是基于 **[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)** ，它是 **[神经网络战争](https://supermemo.guru/wiki/War_of_the_networks)** 的结果，即[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的神经控制系统的爆裂性冲突。
 
 [毒性记忆](https://supermemo.guru/wiki/Toxic_memories)与被[课程](https://supermemo.guru/wiki/Curriculum)视为重要的、被大脑视为[无语义](https://supermemo.guru/wiki/Asemantic_learning)的知识形成正反馈。在一个恶性循环中，「缺乏语义」与所谓的「重要」相结合，使学校成为青少年中最普遍讨厌的机构。
 
@@ -306,15 +306,15 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 当[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)在学习过程中不断积累，整个学习经历就会变得不愉快。这反过来又导致了对不愉快的普遍容忍。这种有害的想法是「如果它是痛苦的，它一定是好的」。
 
-> 例如，如果我在阅读微积分课本时，看到一个我无法解决的「代数问题」，我就会真的重读我的整本代数书。这非常无聊，因为我已经很了解它了。不过，**我还是坚持了下来，认为这种痛苦是进步的征兆**。
+> 例如，如果我在阅读微积分课本时，看到一个我无法解决的「代数问题」，我就会真的重读我的整本代数书。这非常无聊，因为我已经很了解它了。不过， **我还是坚持了下来，认为这种痛苦是进步的征兆** 。
 
-我的[幸福的简单公式](https://supermemo.guru/wiki/Simple_formula_for_happiness)说，痛苦是幸福生活的一个重要组成部分，然而，我说的是起源于**大脑之外**的痛苦（例如柔道受伤的痛苦）。我不知道任何起源于大脑本身的疼痛或不愉快的信号可以对教育有任何好处。某些形式的情绪痛苦或压力可能会加速一个领域的学习，然而，它总是以未来牺牲其他领域的学习选择为代价。[概念化](https://supermemo.guru/wiki/Conceptualization)通过压力就像火烧掉大脑中所有的生物，除了为当前活跃的学习过程服务的细胞、概念和连接。例如，转学到外国学校的孩子可能会经历大量的压力，这将加速发展在新环境中适应所需的所有技能。例如，通过沉浸式的语言学习可能会变成特别有效。然而，所有加速的概念化留给不相关的技能的神经物质较少，例如，掌握量子力学所需的未来[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)。
+我的[幸福的简单公式](https://supermemo.guru/wiki/Simple_formula_for_happiness)说，痛苦是幸福生活的一个重要组成部分，然而，我说的是起源于 **大脑之外** 的痛苦（例如柔道受伤的痛苦）。我不知道任何起源于大脑本身的疼痛或不愉快的信号可以对教育有任何好处。某些形式的情绪痛苦或压力可能会加速一个领域的学习，然而，它总是以未来牺牲其他领域的学习选择为代价。[概念化](https://supermemo.guru/wiki/Conceptualization)通过压力就像火烧掉大脑中所有的生物，除了为当前活跃的学习过程服务的细胞、概念和连接。例如，转学到外国学校的孩子可能会经历大量的压力，这将加速发展在新环境中适应所需的所有技能。例如，通过沉浸式的语言学习可能会变成特别有效。然而，所有加速的概念化留给不相关的技能的神经物质较少，例如，掌握量子力学所需的未来[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)。
 
-**学习中所有形式的不愉快**都是一种**负面影响**的症状，可能有不可逆转的长期后果
+ **学习中所有形式的不愉快** 都是一种 **负面影响** 的症状，可能有不可逆转的长期后果
 
 ### 讨厌学校和学习
 
-[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的抑制加速了[死记硬背](https://supermemo.guru/wiki/Cramming)过程中[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)的积累。不可避免地导致失去对学习的热爱，甚至形成对**学习的仇恨**。当我问 15 岁的孩子他们最喜欢的学习科目时，我经常听到「我没有喜欢的科目。我讨厌学习。」他们错了，他们仍然喜欢从 YouTube 上学习街头锻炼的技巧。然而，讨厌学习成为了一种条件反射。见：[为什么孩子们讨厌学校？](https://supermemo.guru/wiki/Why_kids_hate_school%3F)
+[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的抑制加速了[死记硬背](https://supermemo.guru/wiki/Cramming)过程中[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)的积累。不可避免地导致失去对学习的热爱，甚至形成对 **学习的仇恨** 。当我问 15 岁的孩子他们最喜欢的学习科目时，我经常听到「我没有喜欢的科目。我讨厌学习。」他们错了，他们仍然喜欢从 YouTube 上学习街头锻炼的技巧。然而，讨厌学习成为了一种条件反射。见：[为什么孩子们讨厌学校？](https://supermemo.guru/wiki/Why_kids_hate_school%3F)
 
 在这个终身学习对繁荣发展至关重要的世界里，学校拿走了最重要的武器：[对学习的热爱](https://supermemo.guru/wiki/Pleasure_of_learning)
 
@@ -330,7 +330,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 对自我折磨的痛苦的崇拜可能是有条件的，也可能是有意识的基于谬论的决定的结果。
 
-> 我想：「让我们学习在没有奖励和快感的情况下正常工作。这样我就会更努力地磨练。」这个想法是要学会压制所有的身体给你的提醒，如**停止这样做，你在浪费你的生命！**
+> 我想：「让我们学习在没有奖励和快感的情况下正常工作。这样我就会更努力地磨练。」这个想法是要学会压制所有的身体给你的提醒，如 **停止这样做，你在浪费你的生命！** 
 
 我们最终可能会有一个兢兢业业、努力工作的公民，为家庭牺牲自己的生活，心甘情愿地在工作之余留下来，对坏老板忍气吞声，支付饱含剥削的电费，在生活中艰难地度过，很少有笑容或笑声。如果这种不快乐的生活被美化，成为骄傲的理由，我们就带来了一种文化方案——拥有一个不快乐的社会！
 
@@ -338,19 +338,19 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 ### 徒劳的毅力
 
-如果学习很痛苦，那么请注意，这是错误策略的征兆。当艰苦奋斗被崇拜时，对教育失败的补救措施就是更加努力工作。这又导致了对勇气和[自律](https://supermemo.guru/wiki/Self-discipline)的崇拜。我称其为**愚蠢的固执**。见：[Teru Clavel 评中国学校的纪律](https://supermemo.guru/wiki/Do_not_listen_to_Teru_Clavel._Save_the_childhood)。
+如果学习很痛苦，那么请注意，这是错误策略的征兆。当艰苦奋斗被崇拜时，对教育失败的补救措施就是更加努力工作。这又导致了对勇气和[自律](https://supermemo.guru/wiki/Self-discipline)的崇拜。我称其为 **愚蠢的固执** 。见：[Teru Clavel 评中国学校的纪律](https://supermemo.guru/wiki/Do_not_listen_to_Teru_Clavel._Save_the_childhood)。
 
 当一个学生不断失败时，正确的做法是放宽心态，换个角度。如果没有必要的[语义框架](https://supermemo.guru/wiki/Semantic_framework)，学习会变得[无语义](https://supermemo.guru/wiki/Asemantic)，导致[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)。通过更加努力，学生只能让事情变得无法记忆，同时也更烦人。当[语义学习](https://supermemo.guru/wiki/Semantic_learning)无法实现时，我们可以依靠助记法来建立一个记忆的轮廓，以后在使用中进行改造。例如，助记法可以用来记忆汉字，通过频繁的重复使用，形成自己的语义或类语义框架，以后会变得自然轻松。
 
-**徒劳的毅力**只会增加学校的苦闷。阅读和重读同样深奥的段落，只是一种徒劳的痛苦。大脑对这种行为有天然的防御能力。它拒绝无益的努力。这些防御措施在学校教育过程中被系统地消除了。从长远来看，徒劳的毅力会导致[习得性无助](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#learned_helplessness)。
+ **徒劳的毅力** 只会增加学校的苦闷。阅读和重读同样深奥的段落，只是一种徒劳的痛苦。大脑对这种行为有天然的防御能力。它拒绝无益的努力。这些防御措施在学校教育过程中被系统地消除了。从长远来看，徒劳的毅力会导致[习得性无助](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#learned_helplessness)。
 
-学校教育的最大罪过之一是激励**从失败到更大的失败的过渡**。
+学校教育的最大罪过之一是激励 **从失败到更大的失败的过渡** 。
 
 ### 过度依赖大量复习
 
-学校告诉你**[温故而知新](https://www.latin-is-simple.com/en/vocabulary/phrase/1654/)**。不幸的是，这与[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)毫无关系。学校要求过度学习，以及大量的被动复习。在考试之前，你应该「尽可能多地重复」，考虑到[间隔效应](https://supermemo.guru/wiki/Spacing_effect)，这是个荒谬的建议。要使[重复](https://supermemo.guru/wiki/Repetition)有效，必须有良好的间隔，必须是[主动的](https://supermemo.guru/wiki/Active_recall)，而且应该侧重于[原子记忆](https://supermemo.guru/wiki/Atomic_memory)（如果有大量的时间，则是全面的语义复习）。我们在学校学习的重复，无非是[死记硬背](https://supermemo.guru/wiki/Cramming)。大规模的被动重复是浪费时间，是在学校养成的可怕的浪费时间的习惯。
+学校告诉你 **[温故而知新](https://www.latin-is-simple.com/en/vocabulary/phrase/1654/)** 。不幸的是，这与[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)毫无关系。学校要求过度学习，以及大量的被动复习。在考试之前，你应该「尽可能多地重复」，考虑到[间隔效应](https://supermemo.guru/wiki/Spacing_effect)，这是个荒谬的建议。要使[重复](https://supermemo.guru/wiki/Repetition)有效，必须有良好的间隔，必须是[主动的](https://supermemo.guru/wiki/Active_recall)，而且应该侧重于[原子记忆](https://supermemo.guru/wiki/Atomic_memory)（如果有大量的时间，则是全面的语义复习）。我们在学校学习的重复，无非是[死记硬背](https://supermemo.guru/wiki/Cramming)。大规模的被动重复是浪费时间，是在学校养成的可怕的浪费时间的习惯。
 
-学校将[复习](https://supermemo.guru/wiki/Repetition)的重点从**长期的知识**转向**考试的表现**。
+学校将[复习](https://supermemo.guru/wiki/Repetition)的重点从 **长期的知识** 转向 **考试的表现** 。
 
 ### 过度依赖考试
 
@@ -424,7 +424,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 随着[知识估值](https://supermemo.guru/wiki/Knowledge_valuation)的降低，确定优先次序的技能也在下降。新的[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)用户往往在确定[项目](https://supermemo.guru/wiki/Item)[优先级](https://supermemo.guru/wiki/Priority)的简单技能上挣扎。他们确实失去了从目标的角度思考知识的重要性的能力。他们了解[优先级队列](https://supermemo.guru/wiki/Priority_queue)的价值，但却很难运用它。据我估计，60-80% 的 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 用户甚至没有使用过优先级！在使用初期，当负载最小的时候，这是无可厚非，然而，对于一个长期的高级用户来说，优先级是高效学习的关键。下面的摘录触及了与学校教育有关的一些问题，而不仅仅是滥竽充数的学习。
 
-> 当在全班同学面前接受检查时，回答不出来是非常痛苦的。原因很多。老师可能会对你大喊大叫，你的同学可能会嘲笑你或认为你很愚蠢，或者你可能会得到一个不好的成绩并为此在家里受到惩罚。因此，为了防止这种情况的发生，我会努力学习一个科目的**所有内容**。我不能冒险跳过哪怕是微小的细节。这种方法甚至在离开学校后仍会持续。（毒性记忆让你）在跳过信息时，会有焦虑感。[学习内驱力](https://supermemo.guru/wiki/Learn_drive)引导我跳过它，旧的焦虑反射告诉我「学会它」。然而，又是一场[神经网络战争](https://supermemo.guru/wiki/War_of_the_networks)。即使在没有人惩罚我之后，这种现象仍然存在，这让我想起了[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)在压迫者不再存在之后也仍然存在的事实
+> 当在全班同学面前接受检查时，回答不出来是非常痛苦的。原因很多。老师可能会对你大喊大叫，你的同学可能会嘲笑你或认为你很愚蠢，或者你可能会得到一个不好的成绩并为此在家里受到惩罚。因此，为了防止这种情况的发生，我会努力学习一个科目的 **所有内容** 。我不能冒险跳过哪怕是微小的细节。这种方法甚至在离开学校后仍会持续。（毒性记忆让你）在跳过信息时，会有焦虑感。[学习内驱力](https://supermemo.guru/wiki/Learn_drive)引导我跳过它，旧的焦虑反射告诉我「学会它」。然而，又是一场[神经网络战争](https://supermemo.guru/wiki/War_of_the_networks)。即使在没有人惩罚我之后，这种现象仍然存在，这让我想起了[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)在压迫者不再存在之后也仍然存在的事实
 
 ### 泛化技巧受损
 
@@ -442,7 +442,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 ### 容忍不作为
 
-一首流行的歌曲说，学校会教你**等待**和**排队**。在过去的共产主义时代，有耐心的人往往会迅速致富。他们所需要的只是一些耐心，为食物或电视机排长队的夜晚。在现代，我们更应该有耐心，渴望行动。每一分钟的不作为都是一种机会的丧失。利用长时间的散步来进行创造性的头脑风暴是非常好的。或者利用淋浴来做白日梦。然而，在学校里，一个昏昏欲睡的孩子往往会在等待时，脑子里简直是一片空白。他可能在想一些小事，例如，谁偷了他的午餐。这种无用的耐心的习惯在某些情况下可能是有用的（例如在交通堵塞中等待），然而，它应该被创造性的思考（在驾驶中可能是危险的），或用播客来代替。我听到有些人说，无用的耐心对心理健康有好处。我听说它可以用冥想来填补。我相信更好的习惯是对不作为表现出不耐烦，并在有利于思考的条件下用创造性的思考取代它。交通堵塞、机场的等候室或超市的长队都不是这样的好地方。它们充满了分心和烦扰。在树林里慢跑可以为自由思考提供更好的空间。
+一首流行的歌曲说，学校会教你 **等待** 和 **排队** 。在过去的共产主义时代，有耐心的人往往会迅速致富。他们所需要的只是一些耐心，为食物或电视机排长队的夜晚。在现代，我们更应该有耐心，渴望行动。每一分钟的不作为都是一种机会的丧失。利用长时间的散步来进行创造性的头脑风暴是非常好的。或者利用淋浴来做白日梦。然而，在学校里，一个昏昏欲睡的孩子往往会在等待时，脑子里简直是一片空白。他可能在想一些小事，例如，谁偷了他的午餐。这种无用的耐心的习惯在某些情况下可能是有用的（例如在交通堵塞中等待），然而，它应该被创造性的思考（在驾驶中可能是危险的），或用播客来代替。我听到有些人说，无用的耐心对心理健康有好处。我听说它可以用冥想来填补。我相信更好的习惯是对不作为表现出不耐烦，并在有利于思考的条件下用创造性的思考取代它。交通堵塞、机场的等候室或超市的长队都不是这样的好地方。它们充满了分心和烦扰。在树林里慢跑可以为自由思考提供更好的空间。
 
 ### 线性阅读
 
@@ -460,13 +460,13 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 ### 对间隔重复的不适感
 
-我从许多 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的用户那里听到了这个消息。在他们使用[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的早期，他们只能用它来掌握外语词汇。他们不能用它来学习科学或历史，因为他们感觉到他们不能形成或保留对于整体的把握。他们经历了一种焦虑，即把连贯的知识分离成其子组成部分会导致[记忆连贯性](https://supermemo.guru/wiki/Memory_coherence)的丧失。很好地使用 SuperMemo 会带来相反的结果，即提高连贯性。最好的连贯性建设工具是[渐进阅读](https://supermemo.guru/wiki/Knowledge_darwinism)中的[知识进化论](https://supermemo.guru/wiki/Incremental_reading)。我清楚地记得我早期在波兹南经济大学的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)讲座。我确实对「大局如何？」这个问题感到困惑。在被问到这个问题之前，我甚至看不出问题所在。显然，我已经摆脱了**连贯性完美主义**的坏习惯。知识不需要写在一张纸上，在一个地方粘在一起。大脑自己就能完美地完成这项工作。在大学的最后 3 年里，我可以自由地探索。这也是我在[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)方面迈出的第一步。我在无拘无束的探索中塑造了自己的习惯。
+我从许多 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的用户那里听到了这个消息。在他们使用[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的早期，他们只能用它来掌握外语词汇。他们不能用它来学习科学或历史，因为他们感觉到他们不能形成或保留对于整体的把握。他们经历了一种焦虑，即把连贯的知识分离成其子组成部分会导致[记忆连贯性](https://supermemo.guru/wiki/Memory_coherence)的丧失。很好地使用 SuperMemo 会带来相反的结果，即提高连贯性。最好的连贯性建设工具是[渐进阅读](https://supermemo.guru/wiki/Knowledge_darwinism)中的[知识进化论](https://supermemo.guru/wiki/Incremental_reading)。我清楚地记得我早期在波兹南经济大学的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)讲座。我确实对「大局如何？」这个问题感到困惑。在被问到这个问题之前，我甚至看不出问题所在。显然，我已经摆脱了 **连贯性完美主义** 的坏习惯。知识不需要写在一张纸上，在一个地方粘在一起。大脑自己就能完美地完成这项工作。在大学的最后 3 年里，我可以自由地探索。这也是我在[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)方面迈出的第一步。我在无拘无束的探索中塑造了自己的习惯。
 
 ### 对渐进阅读的不适感
 
 我喜欢[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)的混沌。纠缠于我的[学习集](https://supermemo.guru/wiki/Collection)中的知识，通过[涌现](https://supermemo.guru/wiki/Emergence)，滋生出已知的[连贯的](https://supermemo.guru/wiki/Coherent)知识。渐进式多领域阅读对[创造力](https://supermemo.guru/wiki/Creativity)的影响是惊人的。
 
-然而，如果没有很好地理解[自由学习](https://supermemo.guru/wiki/Free_learning)过程，新用户往往被他们从学校继承的完美主义所抑制。混乱似乎是不可接受的。大局观没有出现。格式不规范，甚至糟糕的标点符号也会让人厌烦。颜色让人分心，窗口布局笨重，默认字体很糟糕，而且 SuperMemo 是基于 从 Internet Explorer 中提取的模块，这一点是不可原谅的。在所有这些分散注意力的细节的噪音中，一个完美主义的头脑无法运转。相比之下，一个充满激情的头脑会专注于核心价值：**知识的流动**。
+然而，如果没有很好地理解[自由学习](https://supermemo.guru/wiki/Free_learning)过程，新用户往往被他们从学校继承的完美主义所抑制。混乱似乎是不可接受的。大局观没有出现。格式不规范，甚至糟糕的标点符号也会让人厌烦。颜色让人分心，窗口布局笨重，默认字体很糟糕，而且 SuperMemo 是基于 从 Internet Explorer 中提取的模块，这一点是不可原谅的。在所有这些分散注意力的细节的噪音中，一个完美主义的头脑无法运转。相比之下，一个充满激情的头脑会专注于核心价值： **知识的流动** 。
 
 ### 坏习惯 20 条精选
 
@@ -482,7 +482,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 在长年的学校教育中，孩子们学会了抬头看路和询问解决方案。他们的自力更生能力逐渐减弱。需要一段时间来了解谷歌的力量。一个离开学校的成年人可能需要一些时间来从对帮助的依赖中「恢复」。随着每次谷歌搜索，他将逐渐意识到援助几乎是不必要的。如果有问题的答案，通常可以通过谷歌找到。偶尔，一些较难的问题需要进行一些修补或额外的研究。年轻人需要一段时间才能意识到，老师实际上可能是一个障碍。她几乎不会知道感兴趣的困难问题的答案，但她却会带着全知全能的光环站在路上。就像日食时的一个小月亮，老师会阻碍人们看到想太阳一般的知识力量。一个恢复良好的学生发电子邮件对我说「我读了一本书，叫做：学习如何运作。7 个基于研究的聪明的教学原则。这是成为自学者的一个很好的论据」。
 
-> 当专家导师对新手学生的学习需求视而不见时，这被称为**专家盲点**（Nickerson, 1999; Hinds, 1999; Nathan & Koedinger, 2000; Nathan & Petrosino, 2003）。为了了解专家盲点对学生的影响，可以考虑一下大厨是如何指导新手烹饪的「把蔬菜炒到熟透」，「把酱汁煮到浓稠」，或者「根据口味添加香料」。虽然这样的指示对厨师来说很清楚，但对学生来说，他们并不了解什么是「熟透」，什么是「浓稠」，或者什么香料可以创造出所需的味道。在这里，我们看到**专家无意识的能力**与**新手的无意识的无能**相遇。可能的结果是，学生错过了重要的信息，犯了不必要的错误，而且效率低下。他们也可能变得困惑和灰心丧气。虽然他们可能会自己蒙混过关，但他们不可能以最佳的效率或火力全开的方式学习。
+> 当专家导师对新手学生的学习需求视而不见时，这被称为 **专家盲点** （Nickerson, 1999; Hinds, 1999; Nathan & Koedinger, 2000; Nathan & Petrosino, 2003）。为了了解专家盲点对学生的影响，可以考虑一下大厨是如何指导新手烹饪的「把蔬菜炒到熟透」，「把酱汁煮到浓稠」，或者「根据口味添加香料」。虽然这样的指示对厨师来说很清楚，但对学生来说，他们并不了解什么是「熟透」，什么是「浓稠」，或者什么香料可以创造出所需的味道。在这里，我们看到 **专家无意识的能力** 与 **新手的无意识的无能** 相遇。可能的结果是，学生错过了重要的信息，犯了不必要的错误，而且效率低下。他们也可能变得困惑和灰心丧气。虽然他们可能会自己蒙混过关，但他们不可能以最佳的效率或火力全开的方式学习。
 
 ### 忽视激情
 
@@ -536,7 +536,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 有几十本书要读，有超负荷的[课程](https://supermemo.guru/wiki/Curriculum)，有用[死记硬背](https://supermemo.guru/wiki/Cram_and_dump)方法通过的考试，学生被老师全方位地灌输了有害的信念：
 
-> 我知道**我应该**把所有知识全部学会。我做不到仅仅是因为**我很懒**，或者因为我的**记忆力很差**
+> 我知道 **我应该** 把所有知识全部学会。我做不到仅仅是因为 **我很懒** ，或者因为我的 **记忆力很差** 
 
 我们可以立即看到，教育系统方面的真正罪责被病态地转移到了无辜的受折磨的学生身上。人类的记忆无法储存[课程](https://supermemo.guru/wiki/Curriculum)的知识。它甚至不能有效地存储课程的一小部分。请看：[人脑能容纳多少知识](https://supermemo.guru/wiki/How_much_knowledge_can_human_brain_hold)。
 
@@ -566,7 +566,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 有人不耐烦了：
 
-> 啊，这梗我熟。**「除非你在我眼前复现出太阳系的诞生，否则我不会相信天文学」**
+> 啊，这梗我熟。 **「除非你在我眼前复现出太阳系的诞生，否则我不会相信天文学」** 
 
 1985 年，我想出了一个[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的通用公式（见：[SuperMemo 的生日](https://supermemo.guru/wiki/Birthday_of_SuperMemo)）。我是被一种简单的需求所驱动，那就是在记忆中保存重要的东西。在所有丰富的科学方法工具箱中，我只使用了一个简单的测量方法。我没有计算误差，也没有计算统计意义。我的样本很少，我没有控制变量，我自己是唯一的实验对象，一旦我有了一个很好的近似结果， 我甚至不会等待实验结束。我的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的想法被嘲笑了。我妈妈令人印象深刻地坚持说「从来没有人通过在纸上画点来学习语言」。幸运的是，我是[自由学习](https://supermemo.guru/wiki/Free_learning)的快乐支持者，根本不在乎那些受过良好教育的人的意见。我得到了我需要的东西：一个加快我学习速度的绝妙方法。在随后的几年里，我被缠着要求做一个大范围的实验，用一个对照组来证实这个方法确实有效。一些研究人员尝试了这种方法，但令人惊讶的是，他们得到的结果相当不理想。再说一次，我一点也不在乎。谁会真的想做研究来证明汽车比自行车快，因为有时自行车会赢？无聊！只要它对我有奇效，我就会把它告诉任何愿意听的人。在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 有更广泛的受众前，我已经说服了相当多脑洞大的人去尝试它（这就是 [SuperMemo World](https://supermemo.guru/wiki/SuperMemo_World)诞生的过程）。今天，[数百万间隔重复的用户](https://supermemo.guru/wiki/Exponential_adoption_of_spaced_repetition)采取了类似的方法。他们不在文献中寻求证明。他们想做的只是[下载](https://supermemopedia.com/wiki/Download_SuperMemo)和学习（或者只是[点击学习](https://supermemo.guru/wiki/Supermemo.com)）。我很欣慰。
 
@@ -584,7 +584,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 > 学校导致了对信息来源的教条式评价：同行评议是完美的，博客是无用的
 
-如果研究者局限在同行审议的文献中寻找灵感，长此以往，他可能会与那个能改变世界的想法失之交臂。基于广泛知识和良好的世界抽象模型，没有什么比**自己**的怀疑精神更好的过滤劣质信息的方法了。
+如果研究者局限在同行审议的文献中寻找灵感，长此以往，他可能会与那个能改变世界的想法失之交臂。基于广泛知识和良好的世界抽象模型，没有什么比 **自己** 的怀疑精神更好的过滤劣质信息的方法了。
 
 [自由探索](https://supermemo.guru/wiki/Free_learning)为读者提供了在同行评议中看到一篇糟糕的论文所需的怀疑主义的盔甲，以及在博客中看到一篇精彩的文字
 
@@ -690,17 +690,17 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 ### 游戏化
 
-由于[死记硬背](https://supermemo.guru/wiki/Cramming)往往是过去考试最有效的方法，而学校也依赖[测试](https://supermemo.guru/wiki/Testing)，学校的坏习惯包括崇拜勤奋、徒劳的磨练和容忍不悦。这些习惯将学习变成一种相当不愉快的经历。这就是为什么**游戏化**这个词最近在教育界非常流行。如果学习是不愉快的，让我们通过添加游戏因素、有趣的图片、诱人的颜色、有趣的语音语调、休息时的笑话，或任何有趣的东西来使学习的痛苦变得有趣。这就导致了[老汤比喻](https://supermemo.guru/wiki/Old_soup_problem)。我们把无意义的快乐和学习的痛苦混在一起。这样就很容易使人忘记，好的学习总是愉悦的（见：[学习的基本法则](https://supermemo.guru/wiki/Fundamental_law_of_learning)）。
+由于[死记硬背](https://supermemo.guru/wiki/Cramming)往往是过去考试最有效的方法，而学校也依赖[测试](https://supermemo.guru/wiki/Testing)，学校的坏习惯包括崇拜勤奋、徒劳的磨练和容忍不悦。这些习惯将学习变成一种相当不愉快的经历。这就是为什么 **游戏化** 这个词最近在教育界非常流行。如果学习是不愉快的，让我们通过添加游戏因素、有趣的图片、诱人的颜色、有趣的语音语调、休息时的笑话，或任何有趣的东西来使学习的痛苦变得有趣。这就导致了[老汤比喻](https://supermemo.guru/wiki/Old_soup_problem)。我们把无意义的快乐和学习的痛苦混在一起。这样就很容易使人忘记，好的学习总是愉悦的（见：[学习的基本法则](https://supermemo.guru/wiki/Fundamental_law_of_learning)）。
 
-青少年在学习时会打开 YouTube，在耳机里放着音乐，开几十次小差来刷 Facebook 或 Instagram, 我对此并不感到惊讶。如果发消息能让人从[家庭作业](https://supermemo.guru/wiki/Homework)的苦难中解脱出来，那就更有趣了。如果学习是地狱，所有的休息都很有趣，即使本身没有什么价值。这就是严重的[拖延症](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#procrastination)习惯的诞生。难怪大人们认为孩子们很懒，并加重了管教的鞭子。**学校播下坏的种子，孩子们却因为坏的收获而受到鞭打**。
+青少年在学习时会打开 YouTube，在耳机里放着音乐，开几十次小差来刷 Facebook 或 Instagram, 我对此并不感到惊讶。如果发消息能让人从[家庭作业](https://supermemo.guru/wiki/Homework)的苦难中解脱出来，那就更有趣了。如果学习是地狱，所有的休息都很有趣，即使本身没有什么价值。这就是严重的[拖延症](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#procrastination)习惯的诞生。难怪大人们认为孩子们很懒，并加重了管教的鞭子。 **学校播下坏的种子，孩子们却因为坏的收获而受到鞭打** 。
 
-如果学校要求**糟糕的学习方式**，学生的大脑自然会贪求无意义的娱乐
+如果学校要求 **糟糕的学习方式** ，学生的大脑自然会贪求无意义的娱乐
 
 ### 维基百科（等互联网百科）使用不足
 
 维基百科是现有一般知识的最佳来源。就像大脑在发育过程中经历了[概念化](https://supermemo.guru/wiki/Conceptualization)的过程一样，维基百科也是如此。维基百科组织知识，提取关键概念和语义，将各种观点相互连接，甚至提供多语言等价物的网状结构。维基百科的概念化正在我们眼前展开，着实令人惊叹。
 
-同时，我们可以听到学校里的老师指导孩子。**「不要从维基百科上学东西。这个知识谁都能编辑，它的来源不权威，有错误。这很危险！」**。一些教师对维基百科的恐惧超过了对色情的恐惧，他们对网络的主要担忧中可以看见
+同时，我们可以听到学校里的老师指导孩子。 **「不要从维基百科上学东西。这个知识谁都能编辑，它的来源不权威，有错误。这很危险！」** 。一些教师对维基百科的恐惧超过了对色情的恐惧，他们对网络的主要担忧中可以看见
 
 ## 生活策略
 
@@ -720,7 +720,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 ### 无目标
 
-学校教育的最坏影响之一是 **无目标**。
+学校教育的最坏影响之一是 **无目标** 。
 
 由于自己的目标和学校强加的目标之间的不断冲突，大脑逐渐消除了所有与自己目标和激情的结晶相关的机制。所有的变化都是基于[神经网络战争](https://supermemo.guru/wiki/War_of_the_networks)，即解决大脑中信号之间冲突的机制。解决的范围可能从简单的取消学习到神经元死亡和消除白质中的主要神经元通路。换句话说，在恢复自由后，变化可以是容易逆转的，也可以是不可逆的。在后一种情况下，我们最终可能会陷入严重的无助感、失落感以及抑郁症、自杀、成瘾等重大风险当中。
 
@@ -732,7 +732,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 ### 服从权威
 
-**无目标**的直接影响是在学校获得的一个最残缺的习惯：无助地服从权威。我们都必须拥有一种在需要时服从的技能。然而，服从不能成为一种习惯。被迫坐着听枯燥的讲座的学生，永远被调教为服从和生存。这种习惯剥夺了他们的自主权、尊严、自力更生和主动性。这导致了[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)，并可能成为抑郁症和成瘾症流行的基础。
+ **无目标** 的直接影响是在学校获得的一个最残缺的习惯：无助地服从权威。我们都必须拥有一种在需要时服从的技能。然而，服从不能成为一种习惯。被迫坐着听枯燥的讲座的学生，永远被调教为服从和生存。这种习惯剥夺了他们的自主权、尊严、自力更生和主动性。这导致了[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)，并可能成为抑郁症和成瘾症流行的基础。
 
 丧失反抗不公正或不公平待遇的能力是在学校习得的最糟糕的习惯之一
 
@@ -742,7 +742,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 如果你的合同不是自愿的，你可能会经历不公正的感觉。由于你的学校合同不是自愿的，你几乎肯定会体验到[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)的不公正感。因此，所有的道德都会被歪曲。如果他们对你这样做，你也可以对他们这样做。老师、校长、政府，甚至自己的父母都可以成为「他们」。为了达到自己的目标，需要服从和欺骗的「他们」。这种态度会成为一种习惯。许多成年人认为对政府不诚实是可以的。从「他们」那里偷窃显然不会伤害任何人。学校让学生对那些对他们的生活拥有权力的人不诚实。在我的一封反馈邮件中简明扼要地总结了这些感受：
 
-> 我对学校的感情？一个字：**恨**
+> 我对学校的感情？一个字： **恨** 
 
 ### 对多样性的不容忍
 
@@ -756,13 +756,13 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 ### 对拖延的不宽容
 
-拖延是与不愿做的工作的情绪斗争，以及与有太多工作要做有关的焦虑。[理性拖延](https://supermemo.guru/wiki/Rational_procrastination)消除了拖延的问题。在[自由学习](https://supermemo.guru/wiki/Free_learning)中，我们很快就能学会区分生产性工作和由他人（包括文化）强加的无用工作。拖延症合理化的第一步是消除所有没有意义的工作。我们需要依靠[问题估值网络](https://supermemo.guru/wiki/Problem_valuation_network)。大脑必须是这个过程的主宰。第二步是确定优先次序。我们需要专注于最优先的工作（例如，按价值/成本估算）。列表中的其余部分可以暂缓处理（例如，在任务列表或渐进阅读过程中）。[理性拖延](https://supermemo.guru/wiki/Rational_procrastination)消除了现代人的一个重要压力来源：过量和低价值任务。学校教育抑制了对[问题估值网络](https://supermemo.guru/wiki/Problem_valuation_network)的依赖性。它抑制了对自我的依赖。因此，它导致了估值技能的过时。如果没有有效的能力来估计任务的价值，我们就会生活在由低生产力感引发的无休止的焦虑中。只要压力过大的人群不断拖延，就会呼唤**对拖延的容忍度**（比较[拖延的习惯](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Procrastination)）。
+拖延是与不愿做的工作的情绪斗争，以及与有太多工作要做有关的焦虑。[理性拖延](https://supermemo.guru/wiki/Rational_procrastination)消除了拖延的问题。在[自由学习](https://supermemo.guru/wiki/Free_learning)中，我们很快就能学会区分生产性工作和由他人（包括文化）强加的无用工作。拖延症合理化的第一步是消除所有没有意义的工作。我们需要依靠[问题估值网络](https://supermemo.guru/wiki/Problem_valuation_network)。大脑必须是这个过程的主宰。第二步是确定优先次序。我们需要专注于最优先的工作（例如，按价值/成本估算）。列表中的其余部分可以暂缓处理（例如，在任务列表或渐进阅读过程中）。[理性拖延](https://supermemo.guru/wiki/Rational_procrastination)消除了现代人的一个重要压力来源：过量和低价值任务。学校教育抑制了对[问题估值网络](https://supermemo.guru/wiki/Problem_valuation_network)的依赖性。它抑制了对自我的依赖。因此，它导致了估值技能的过时。如果没有有效的能力来估计任务的价值，我们就会生活在由低生产力感引发的无休止的焦虑中。只要压力过大的人群不断拖延，就会呼唤 **对拖延的容忍度** （比较[拖延的习惯](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Procrastination)）。
 
 学校是拖延症患者的制造工厂
 
 ### 服从于一致性
 
-**对多样性的不容忍**和**服从于一致性**互相作用，形成一个循环。对[多样性](https://supermemo.guru/wiki/Diversity)的不容忍增加了社会压力。社会越整齐划一，与大多数人步调一致的压力就越大。如果一个公司的所有员工都穿黑色的西装，那么穿着白衣服进来的人可能会被排斥在外。穿短裤打赤脚的人（比如我）可能会有被解雇的危险。一致性增加了保持一致的压力。
+ **对多样性的不容忍** 和 **服从于一致性** 互相作用，形成一个循环。对[多样性](https://supermemo.guru/wiki/Diversity)的不容忍增加了社会压力。社会越整齐划一，与大多数人步调一致的压力就越大。如果一个公司的所有员工都穿黑色的西装，那么穿着白衣服进来的人可能会被排斥在外。穿短裤打赤脚的人（比如我）可能会有被解雇的危险。一致性增加了保持一致的压力。
 
 多样化的[自由学习](https://supermemo.guru/wiki/Free_learning)对[智力](https://supermemo.guru/wiki/Intelligence)至关重要。出于类似的原因，多样化的社会更具有适应性，并表现出更好的集体[智力](https://supermemo.guru/wiki/Intelligence)。这种集体智慧在集体同质化的教育中经常受到破坏，在这种教育中，所有的孩子都需要遵守相同的[课程](https://supermemo.guru/wiki/Curriculum)，在都是同龄人的班级中学习，走成一列，并且经常穿相同的制服。
 
@@ -810,11 +810,11 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 ## 对乐观主义的批评
 
-学校坚持认为，对现实的模仿必须实实在在。在学校中，一切可能仅仅依赖于情绪或性情的事务是不可接受的。学校赞成专一的真理和唯一的[科学方法](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#fetishization_of_the_scientific_method)，它应该永远与情绪无关。学校会告诉你：**「乐观是不客观的！ 」**。
+学校坚持认为，对现实的模仿必须实实在在。在学校中，一切可能仅仅依赖于情绪或性情的事务是不可接受的。学校赞成专一的真理和唯一的[科学方法](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#fetishization_of_the_scientific_method)，它应该永远与情绪无关。学校会告诉你： **「乐观是不客观的！ 」** 。
 
 心情影响[估值](https://supermemo.guru/wiki/Valuation)，而估值决定行为。这就是为什么乐观主义常常被看作是对现实的错误描述。一个乐观主义者可能会高估自己成功的机会。这增加了动力。这反过来又可能增加生产力。这种反馈循环可能会导致自我实现的预言现象。当大脑倾向于预期失败时，同样的循环在抑郁的情绪中起作用。
 
-在[本文](https://supermemo.guru/wiki/Myth:_Optimists_are_less_realistic)中，我声称，**乐观的心态所引入的偏见更有可能在真理的一边犯错**。此外，就像学校诱发[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)一样，[自由学习](https://supermemo.guru/wiki/Free_learning)更有利于[习得性乐观](https://supermemo.guru/wiki/Learned_optimism)。换句话说，自由有利于心情，也有利于学习。从长远来看，快乐的心态有利于快速的[概念化](https://supermemo.guru/wiki/Conceptualization)，这有利于模型向真理靠拢。
+在[本文](https://supermemo.guru/wiki/Myth:_Optimists_are_less_realistic)中，我声称， **乐观的心态所引入的偏见更有可能在真理的一边犯错** 。此外，就像学校诱发[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)一样，[自由学习](https://supermemo.guru/wiki/Free_learning)更有利于[习得性乐观](https://supermemo.guru/wiki/Learned_optimism)。换句话说，自由有利于心情，也有利于学习。从长远来看，快乐的心态有利于快速的[概念化](https://supermemo.guru/wiki/Conceptualization)，这有利于模型向真理靠拢。
 
 成功被学校驯化的头脑是冷酷客观的，而自由的头脑则更有可能快乐地成功
 
@@ -832,11 +832,11 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 在高中毕业时，我的波兰语得到了一个不该得的pass。我通过了，因为我在感兴趣的领域崭露头角：生物学。我的一个最亲密的朋友说，这个成绩对其他必须努力学习的学生来说是不公平的。这就是在学校里被灌输的那种推理。对成绩和虚假奖励的迷恋使我的合格证对其他学生造成了一些臆想中的伤害。这让我在一场社会整体利益是次要的比赛中通过了终点线，但也留给我非公平的妨碍。这种零和博弈被习惯性地认为是至关重要的，甚至是光荣的。
 
-我们现在可以看到**零和博弈的习惯**弥漫在社会中。我们嫉妒邻居。我们八卦名人的崛起和衰落。我们把假的度假照片放在 Facebook 上，让我们的FB朋友嫉妒得脸都绿了。我们的目标是最时尚的汽车，让邻居们侧目。不断努力[跟上琼斯（译注：和邻居攀比炫耀）](https://en.wikipedia.org/wiki/Keeping_up_with_the_Joneses)使人失去了为社会做出创造性贡献的真正能力。我认为这种习惯是一种精神污染物。
+我们现在可以看到 **零和博弈的习惯** 弥漫在社会中。我们嫉妒邻居。我们八卦名人的崛起和衰落。我们把假的度假照片放在 Facebook 上，让我们的FB朋友嫉妒得脸都绿了。我们的目标是最时尚的汽车，让邻居们侧目。不断努力[跟上琼斯（译注：和邻居攀比炫耀）](https://en.wikipedia.org/wiki/Keeping_up_with_the_Joneses)使人失去了为社会做出创造性贡献的真正能力。我认为这种习惯是一种精神污染物。
 
 顺便说一下，我不同意 [Alfie Kohn](https://supermemo.guru/wiki/Alfie_Kohn) 的观点。我相信，所有的竞争都可以转化成双赢的活动（见：[竞争的理由](https://supermemo.guru/wiki/The_case_for_competition)）。然而，要使竞争对每个人都有效，我们需要以双赢的心态来对待它。大多数学生在学校失去了这种心态。那么，抑郁症、暴力和成瘾在西方社会的猖獗就不足为奇了。压力是由现实与梦想的背离造成的，而梦想实际来自无用的比较
 
-教师们玩的**比较游戏**在成年后变成了破坏性的**生活中的零和游戏**。
+教师们玩的 **比较游戏** 在成年后变成了破坏性的 **生活中的零和游戏** 。
 
 想了解这个问题的更多信息，请参见：[零和博弈](https://supermemo.guru/wiki/Zero-sum_gamesmanship)
 
@@ -884,7 +884,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 ### 将噪音与学习混淆
 
-我曾经奉行的原则是**「利用生命中的每一秒来学习 」**。这条看似崇高的原则是我从学校带出来的。学校一直在颂扬知识的重要性。我不知道我是从别人那里得到的，或者只是独立得出了这个结论。声称「知识就是力量」是普遍的，对于任何有一分钟停顿的大脑来说可能是不可避免的。然而，我把这个原则发挥到了极致。我不想浪费一秒钟。因此，对我来说，阅读任何东西，或听任何东西或任何人，似乎都是有意义的。我在睡觉前、醒来后和上厕所时都会这样做。我花了一些经验才明白我们能学到的东西的局限性（见：[人脑能容纳多少知识](https://supermemo.guru/wiki/How_much_knowledge_can_human_brain_hold)）。我花了一些时间来珍惜平静的日子，并处理已经学过的东西（见：[如何解决任何问题？](https://supermemo.guru/wiki/How_to_solve_any_problem%3F)）。花了更多的时间来理解[连贯性](https://supermemo.guru/wiki/Coherence)和[适用性](https://supermemo.guru/wiki/Applicability)的重要性。最后，同样重要的是，理解[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)，以及学习（和发展）中的[概念化](https://supermemo.guru/wiki/Conceptualization)过程，为最终的裁决投下了最后的光芒。大脑的力量在于几块金色的知识，它们在几十种情况下都可以使用和重复使用。为了把这些碎片变成强大的创造性武器，学习过程必须考虑到[概念化](https://supermemo.guru/wiki/Conceptualization)的性质。换句话说，不可能在书上写下这些锦囊，阅读，并靠死记硬背来适应。普遍的[适用性](https://supermemo.guru/wiki/Applicability)必须经过多年的[泛化](https://supermemo.guru/wiki/Generalization)和[创造性阐述](https://supermemo.guru/wiki/Creative_elaboration)的磨练。这些年必须充满[良好的睡眠](https://supermemo.guru/wiki/Good_sleep)，大量的[新的学习](https://supermemo.guru/wiki/Knowledge_and_creativity)，以及大量的[问题解决](https://supermemo.guru/wiki/Problem_solving)在保护模式下（即在没有人可以用推特、电子邮件、电话、门敲或门铃打乱大脑的时间）。
+我曾经奉行的原则是 **「利用生命中的每一秒来学习 」** 。这条看似崇高的原则是我从学校带出来的。学校一直在颂扬知识的重要性。我不知道我是从别人那里得到的，或者只是独立得出了这个结论。声称「知识就是力量」是普遍的，对于任何有一分钟停顿的大脑来说可能是不可避免的。然而，我把这个原则发挥到了极致。我不想浪费一秒钟。因此，对我来说，阅读任何东西，或听任何东西或任何人，似乎都是有意义的。我在睡觉前、醒来后和上厕所时都会这样做。我花了一些经验才明白我们能学到的东西的局限性（见：[人脑能容纳多少知识](https://supermemo.guru/wiki/How_much_knowledge_can_human_brain_hold)）。我花了一些时间来珍惜平静的日子，并处理已经学过的东西（见：[如何解决任何问题？](https://supermemo.guru/wiki/How_to_solve_any_problem%3F)）。花了更多的时间来理解[连贯性](https://supermemo.guru/wiki/Coherence)和[适用性](https://supermemo.guru/wiki/Applicability)的重要性。最后，同样重要的是，理解[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)，以及学习（和发展）中的[概念化](https://supermemo.guru/wiki/Conceptualization)过程，为最终的裁决投下了最后的光芒。大脑的力量在于几块金色的知识，它们在几十种情况下都可以使用和重复使用。为了把这些碎片变成强大的创造性武器，学习过程必须考虑到[概念化](https://supermemo.guru/wiki/Conceptualization)的性质。换句话说，不可能在书上写下这些锦囊，阅读，并靠死记硬背来适应。普遍的[适用性](https://supermemo.guru/wiki/Applicability)必须经过多年的[泛化](https://supermemo.guru/wiki/Generalization)和[创造性阐述](https://supermemo.guru/wiki/Creative_elaboration)的磨练。这些年必须充满[良好的睡眠](https://supermemo.guru/wiki/Good_sleep)，大量的[新的学习](https://supermemo.guru/wiki/Knowledge_and_creativity)，以及大量的[问题解决](https://supermemo.guru/wiki/Problem_solving)在保护模式下（即在没有人可以用推特、电子邮件、电话、门敲或门铃打乱大脑的时间）。
 
 知识的力量在于它的[适用性](https://supermemo.guru/wiki/Applicability)，而不在体量
 
@@ -892,7 +892,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 在[自由调配的睡眠](https://supermemo.guru/wiki/Free_running_sleep)中，早晨最有利于创造成就（见：[大脑工作的最佳时间](https://supermemo.guru/wiki/Optimum_timing_of_brainwork)）。上学的学生永远不会发现早晨的力量。在上学的日子里，早晨的出行高峰浪费了宝贵的最佳大脑窗口期。在周末，学生可能会补上[睡眠债](https://supermemo.guru/wiki/Sleep_debt)，这在一定程度上削弱了早上的力量。相比之下，一个[不上学的人](https://supermemo.guru/wiki/Unschooling)会带着一天的梦想醒来。自由的头脑会计划一些令人兴奋的事情，或者会思考一个要解决的问题。由于被时间的刚性需求所奴役：学校、朝九晚五的工作、需要照顾的小孩子等等，这种自由思想对很大一部分人来说是陌生的。
 
-习惯了早晨的忙碌使人无法发现脑力劳动中的**[早晨的力量](https://supermemo.guru/wiki/Natural_creativity_cycle)**
+习惯了早晨的忙碌使人无法发现脑力劳动中的 **[早晨的力量](https://supermemo.guru/wiki/Natural_creativity_cycle)** 
 
 ### 容忍通勤
 
@@ -926,7 +926,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 在追求自由的过程中，作弊的习惯可能会牵涉到到自己的家人和家庭，带来一连串负面的情绪副作用，可能会在未来几年内产生深深的创伤：
 
-> 失败意味着留级，明年再试。我母亲知道我也不会通过明年的考试，她看到我决心要放弃。由于当时我正在自学编程，我说服了她，说我没有学位也能找到工作。我的做法是：**谎称我有些辍学的程序员朋友**
+> 失败意味着留级，明年再试。我母亲知道我也不会通过明年的考试，她看到我决心要放弃。由于当时我正在自学编程，我说服了她，说我没有学位也能找到工作。我的做法是： **谎称我有些辍学的程序员朋友** 
 
 一个年轻人可能本能地知道，辍学是通向编程伟大的途径（见：[辍学](https://supermemo.guru/wiki/School_dropouts)）。然而，学校的迷思使其很难或不可能向他人传达这一信息。这可能会产生一个有毒的环境，可能会挫败最好的计划和最好的大脑。我在毕业时也陷入了类似的困境，然而，我很幸运，从来不需要对我妈妈撒谎。
 
@@ -956,7 +956,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 ## 习得性无助
 
-当大脑有规律地感受到努力的徒劳时，它的反应是不努力。这种无助感是可以学会的。学生可以真正地**学习不学习**。老师的声音变成了一种空洞的声波，不会引起学习，但可能会引起偶尔的假性同意的点头。患有[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)的人很少表现出主动性，在遇到困难时容易放弃，而且[问题评估技能](https://supermemo.guru/wiki/Problem_valuation_network)减弱。当一个人无法控制自己的环境时，就会出现[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)。这是由奖励剥夺引起的抑郁症的第一步。一个由充满活力的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)驱动的人将在所有环境中茁壮成长。她的主要奖励是生产力和持续的进步，源于大脑的自然适应能力。请看[这张图片](https://supermemo.guru/wiki/File:Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png)
+当大脑有规律地感受到努力的徒劳时，它的反应是不努力。这种无助感是可以学会的。学生可以真正地 **学习不学习** 。老师的声音变成了一种空洞的声波，不会引起学习，但可能会引起偶尔的假性同意的点头。患有[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)的人很少表现出主动性，在遇到困难时容易放弃，而且[问题评估技能](https://supermemo.guru/wiki/Problem_valuation_network)减弱。当一个人无法控制自己的环境时，就会出现[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)。这是由奖励剥夺引起的抑郁症的第一步。一个由充满活力的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)驱动的人将在所有环境中茁壮成长。她的主要奖励是生产力和持续的进步，源于大脑的自然适应能力。请看[这张图片](https://supermemo.guru/wiki/File:Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png)
 
 学习无助感与另一个学校的坏习惯[徒劳的毅力](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#futile_grit)似乎是对立的。无助的学生很容易放弃，而有毅力的学生尽管没有成功，却可能坚持不合理的长时间。无助和无用的毅力都来自于[问题估值网络](https://supermemo.guru/wiki/Problem_valuation_network)的不充分或错误的信号。该网络只能在自由解决问题中建立关于问题的准确知识。问题必须是自我选择的。它们不能从上面强加。
 
@@ -976,7 +976,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 ### 低自尊
 
-有一大批儿童由于 [ADHD](https://supermemo.guru/wiki/ADHD)、[阅读障碍](https://supermemo.guru/wiki/Dyslexia)、口吃等而被不公正地贴上了低人一等的标签。这些标签会给孩子们的生活打上烙印。当学校出现问题时，高智力的孩子可能会自我诊断，称自己为 ADHD、阅读障碍或**「[Asperger](https://en.wikipedia.org/wiki/Asperger_syndrome) 」**。影响语言中枢的感染可能导致一个超级聪明的人被归类为「智力障碍」。只要我们继续提倡新皮质的可塑性，可以帮助克服非常险恶的逆境，那么诊断和治疗就没有什么问题。
+有一大批儿童由于 [ADHD](https://supermemo.guru/wiki/ADHD)、[阅读障碍](https://supermemo.guru/wiki/Dyslexia)、口吃等而被不公正地贴上了低人一等的标签。这些标签会给孩子们的生活打上烙印。当学校出现问题时，高智力的孩子可能会自我诊断，称自己为 ADHD、阅读障碍或 **「[Asperger](https://en.wikipedia.org/wiki/Asperger_syndrome) 」** 。影响语言中枢的感染可能导致一个超级聪明的人被归类为「智力障碍」。只要我们继续提倡新皮质的可塑性，可以帮助克服非常险恶的逆境，那么诊断和治疗就没有什么问题。
 
 一个更系统和广泛的问题来自[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)。学校强迫你做许多你不愿意做的事情。当你拒绝或不情不愿地做时，学校会暗示你是懒惰或愚蠢。偶尔，这正是你会从老师那里听到的内容。不要对她有意见。她的反应是自然的。她想让你按规则工作，这样学校系统才能为你工作。她会用情感操纵来让你做事。当你的父母过于关心时，他们也会做完全相同的错误。如果你一直听到你是懒惰和愚蠢的，或者如果爱是有条件的，你的自尊心可能会骤然下降。
 
@@ -984,11 +984,11 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 最后，当不良的学习习惯形成后，学生可能会把失败归咎于自己，而不是归咎于策略上的错误，如[忍受不愉快](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#tolerance_of_displeasure)。
 
-> 有无穷无尽的学习方法可以涌现出来，但不愉快会引导你反对那些不好的方法。这是一种防御机制。但是，当你有条件忽略这种机制时，**你就不知道你现在的方法不起作用是因为它不好，还是因为你很笨**。如果相信不愉快只是你为了真正学习而必须经历的痛苦，你就会更缓慢地放弃错误的方法，而且硬撑更长时间。
+> 有无穷无尽的学习方法可以涌现出来，但不愉快会引导你反对那些不好的方法。这是一种防御机制。但是，当你有条件忽略这种机制时， **你就不知道你现在的方法不起作用是因为它不好，还是因为你很笨** 。如果相信不愉快只是你为了真正学习而必须经历的痛苦，你就会更缓慢地放弃错误的方法，而且硬撑更长时间。
 
 好消息是，[自由学习](https://supermemo.guru/wiki/Free_learning)可以恢复失去的自信心。特别是，管理得当的[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)有充分的证据证明其力量：
 
-> 我很早就开始了[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)。我从未告诉过你，但**我放弃了我的大学，因为[SuperMemo](https://supermemo.guru/wiki/SuperMemo)保证它会是奇妙的个人"[知识机器](https://supermemo.guru/wiki/Knowledge_Machine) "**。我从不后悔。SuperMemo给了我信心。我买了[高级英语](https://supermemo.guru/wiki/Advanced_English)。我到现在只背了大约5千条，然而[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)对我来说比背单词更有意思。现在，感谢（用户：Alexis.Inco），我可以使用他的插件[渐进的](https://supermemo.guru/wiki/Increading)阅读书籍。
+> 我很早就开始了[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)。我从未告诉过你，但 **我放弃了我的大学，因为[SuperMemo](https://supermemo.guru/wiki/SuperMemo)保证它会是奇妙的个人"[知识机器](https://supermemo.guru/wiki/Knowledge_Machine) "** 。我从不后悔。SuperMemo给了我信心。我买了[高级英语](https://supermemo.guru/wiki/Advanced_English)。我到现在只背了大约5千条，然而[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)对我来说比背单词更有意思。现在，感谢（用户：Alexis.Inco），我可以使用他的插件[渐进的](https://supermemo.guru/wiki/Increading)阅读书籍。
 
 根据其设计本质，学校是自尊的天然破坏者。通过[自由学习](https://supermemo.guru/wiki/Free_learning)恢复是可能的
 
@@ -1012,7 +1012,7 @@ SuperMemo 插入。[什么是SuperMemo？](https://supermemo.guru/wiki/What_is_S
 
 ### 害怕发声
 
-[害怕出丑](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Fear_of_looking_foolish)的结果是害怕发言，这也与[低自尊](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#low_self-esteem)有关。要是发言面临着忤逆主流观点的压力，其也被定性为[屈从于统一性](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#submission_to_uniformity)。害怕发言的显著表现之一是在学习外语时不敢说话。在学校花了大量时间学习外语的人，大都立即被人辨认出来那带有学校习气的外语。在学校习得的口语往往带有一种忐忑不安，对词语的选择谨小慎微，对语法选择犹豫不决，而且当他们不必说话时，则马上如释重负。这是典型的黑板恐惧症，学生在全班同学面前进行语言测试时，就会有这种表现。这种恐惧也与[过度的警觉性](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#excessive_conscientiousness)有关。**只有在学校，小的语言错误会导致大的惩罚**。在生活中，我们很少注意到在引人入胜的对话中说话一方的错误（除非我们是空中交通管制员什么的）。只有当谈话本身没有趣时，我们才会注意到错误。通常情况下，我们会终止无聊的对话。然而，忍受无聊的谈话也是在学校养成的习惯（见：[对无意义的容忍](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#tolerance_of_pointlessness)）。在网络上的评论区，你可以一眼认出一个受过良好教育的人。成功被学校驯化的人不会在辩论中提供论据，而是利用对手文字中的拼写或语法错误进行人身攻击。一个典型的运用纯熟的短语可能是「你需要回到 X 年级」。X 越低，冒犯就越大，所谓的攻击者的自我满足感也就越强。
+[害怕出丑](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#Fear_of_looking_foolish)的结果是害怕发言，这也与[低自尊](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#low_self-esteem)有关。要是发言面临着忤逆主流观点的压力，其也被定性为[屈从于统一性](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#submission_to_uniformity)。害怕发言的显著表现之一是在学习外语时不敢说话。在学校花了大量时间学习外语的人，大都立即被人辨认出来那带有学校习气的外语。在学校习得的口语往往带有一种忐忑不安，对词语的选择谨小慎微，对语法选择犹豫不决，而且当他们不必说话时，则马上如释重负。这是典型的黑板恐惧症，学生在全班同学面前进行语言测试时，就会有这种表现。这种恐惧也与[过度的警觉性](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#excessive_conscientiousness)有关。 **只有在学校，小的语言错误会导致大的惩罚** 。在生活中，我们很少注意到在引人入胜的对话中说话一方的错误（除非我们是空中交通管制员什么的）。只有当谈话本身没有趣时，我们才会注意到错误。通常情况下，我们会终止无聊的对话。然而，忍受无聊的谈话也是在学校养成的习惯（见：[对无意义的容忍](https://supermemo.guru/wiki/100_bad_habits_learned_at_school#tolerance_of_pointlessness)）。在网络上的评论区，你可以一眼认出一个受过良好教育的人。成功被学校驯化的人不会在辩论中提供论据，而是利用对手文字中的拼写或语法错误进行人身攻击。一个典型的运用纯熟的短语可能是「你需要回到 X 年级」。X 越低，冒犯就越大，所谓的攻击者的自我满足感也就越强。
 
 对讲外语的恐惧通常来自在学校形成的[毒性记忆](https://supermemo.guru/wiki/Toxic_memories)。
 
@@ -1048,7 +1048,7 @@ Facebook 和 Instagram 成为对我们是谁以及世界如何看待我们的终
 
 > 我记得在学校里解了好几页的一元二次方程。你会惊讶地发现，「仅仅」25 年后，我就发现这些计算可以用在哪里了
 
-随着学校无情地沿着[课程](https://supermemo.guru/wiki/Curriculum)的教条提高标准，大量的学生落伍了。解决问题可能会靠[死记硬背](https://supermemo.guru/wiki/Cramming)，考试作弊，或者只是凭借一个好老师的善意在课堂上生存。当真正的问题解决方式消失后，面对越来越多难度更大的问题可能会导致焦虑（**数学焦虑**是臭名昭著的）。这反过来又可能转变为对挑战的恐惧。
+随着学校无情地沿着[课程](https://supermemo.guru/wiki/Curriculum)的教条提高标准，大量的学生落伍了。解决问题可能会靠[死记硬背](https://supermemo.guru/wiki/Cramming)，考试作弊，或者只是凭借一个好老师的善意在课堂上生存。当真正的问题解决方式消失后，面对越来越多难度更大的问题可能会导致焦虑（ **数学焦虑** 是臭名昭著的）。这反过来又可能转变为对挑战的恐惧。
 
 所有教育工作者都梦想着学校能培养出伟大的问题解决者。他们确实培养出了一些人，而真正的功劳通常归功于这些人的大脑。有些孩子就是喜欢数学，或物理，或工程，不管有没有学校，他们都会茁壮成长。然而，学校似乎培养出更多的是害怕解决问题的学生，他们一看到数学公式就发抖，宁愿去挖沟也不愿意去上那堂可怕的物理课。
 
@@ -1064,7 +1064,7 @@ Facebook 和 Instagram 成为对我们是谁以及世界如何看待我们的终
 
 害怕出丑，学习量，学习速度，社会压力和其他因素促成了[知识的无语义处理](https://supermemo.guru/wiki/Asemantic_learning)。大脑变成了记录-重放设备（像录音机），而不是一个智能处理器。我与 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的一个年轻用户谈过。他头脑灵活敏捷，创意十足，以至于常常分心（就像我一样）。然而，他是波兰人，我对他说英语，他立刻就变得很紧张。他详细地解释了问题所在，我们可以很容易地溯源到学校。我认识几十个人，他们对英语很熟悉，但在我面前却说不出一句话来。他们有口语焦虑，而且注意力难以集中。他们根据语法规则、去屈折化、意愿类情态想象眼前的准确拼写，对个别句子进行拆解。他们被抛到了那段站在老师面前、不得不面对全班同学目光的日子。那时候，每一步都感觉像是在蹒跚学步的日子。那时候，听众听得认真，但却不屑一顾或嘲笑（在现实中或学生自己的想象中）。
 
-> 有时，当人们用英语和我说话时，我**只听句法**。我不懂语义。这都怪学校。我记得，当老师把我叫到黑板前时，学校给了我压力，使我感到焦虑。换句话说，这听起来像是我超级愚蠢
+> 有时，当人们用英语和我说话时，我 **只听句法** 。我不懂语义。这都怪学校。我记得，当老师把我叫到黑板前时，学校给了我压力，使我感到焦虑。换句话说，这听起来像是我超级愚蠢
 
 ### 想象出来的懒散
 
@@ -1076,9 +1076,9 @@ Facebook 和 Instagram 成为对我们是谁以及世界如何看待我们的终
 
 ### 特定领域焦虑
 
-**数学焦虑**是与学校有关的最著名的条件反射性恐惧之一。恐惧条件反射可能会导致夸张的反应，并对抑郁症有助长作用。它不完全是一种习惯，但它可以成为发展相关习惯的基础。在学校形成的数学焦虑可能会转变成对与使用 Excel 有关的工作的恐惧。这反过来又会导致在工作中养成不良的习惯。负面行为后果的链条可能是无止境的。在与七旬老人交谈时，你仍然可以听到学校不良影响的“余音绕梁”。
+ **数学焦虑** 是与学校有关的最著名的条件反射性恐惧之一。恐惧条件反射可能会导致夸张的反应，并对抑郁症有助长作用。它不完全是一种习惯，但它可以成为发展相关习惯的基础。在学校形成的数学焦虑可能会转变成对与使用 Excel 有关的工作的恐惧。这反过来又会导致在工作中养成不良的习惯。负面行为后果的链条可能是无止境的。在与七旬老人交谈时，你仍然可以听到学校不良影响的“余音绕梁”。
 
-**数学焦虑**的转移可能超出与数学相关的领域。这是一个 15 岁的书虫的一句话，他对文学有着广泛的爱好，而他的数学老师却很专制。
+ **数学焦虑** 的转移可能超出与数学相关的领域。这是一个 15 岁的书虫的一句话，他对文学有着广泛的爱好，而他的数学老师却很专制。
 
 > 我的学校真的很糟糕。有一天，我正在[高高兴兴地](https://supermemo.guru/wiki/Pleasure_of_learning)读一本书，我看到里面有一个数学方程式，我的心率就加快了。这样的事常有。当我想起学校时，我的呼吸变得更浅。我想知道它将持续多长时间
 
@@ -1132,9 +1132,9 @@ Facebook 和 Instagram 成为对我们是谁以及世界如何看待我们的终
 
 ## 教师的习惯
 
-教师也是学校系统中的一个调节对象。人工环境导致了不寻常的行为。这些行为在一定程度上是对基于[鱼缸视角](https://supermemo.guru/wiki/Fish_tank_perspective)的儿童大脑错误模型的反应。几乎所有与我交谈的老师都是可爱的人。如果他们表现出坏习惯或坏行为，我们总是应该责备系统，而不是人。所有的大脑都对调节作出反应。这就是对**封闭式系统学校教育**的适应。
+教师也是学校系统中的一个调节对象。人工环境导致了不寻常的行为。这些行为在一定程度上是对基于[鱼缸视角](https://supermemo.guru/wiki/Fish_tank_perspective)的儿童大脑错误模型的反应。几乎所有与我交谈的老师都是可爱的人。如果他们表现出坏习惯或坏行为，我们总是应该责备系统，而不是人。所有的大脑都对调节作出反应。这就是对 **封闭式系统学校教育** 的适应。
 
-几年前，在我讨论学校教育问题时，我与一位退休的高中波兰语教师交谈。在我们的交流中，我注意到她的行为相当不寻常。当这位女士试图争辩说**「波兰人是世界上最聪明的人 」**时，我礼貌地用一句温和的**「我不确定 」**来质疑她的说法。这种犹豫不决的反对意见是我探听别人意见的典型方式。正如 Larry King 常说的那样：「我总是在听的时候比说的时候学到更多」。这有利于我以一种自谦和自嘲的方式来进行讨论，特别是在寻求收集信息的过程中。最终，我更关心这位老师要告诉我什么，而不是希望我改变几十年的习惯，或信念。当我礼貌地质疑老师说法的正确性时，她抓住我的手臂，摇晃起来，试图打断我的话。我毫不怀疑，这个不寻常的举动来自于她多年来在课堂上宣扬自己权威的习惯。我在其他场合也看到一些老师的类似行为。这就很好理解了。当打击 20-25 个独立的声音，并试图把它们都引向一个单一的行为模式时，所有可行的权威手段都会下意识地在她的日常习惯中留下烙印。
+几年前，在我讨论学校教育问题时，我与一位退休的高中波兰语教师交谈。在我们的交流中，我注意到她的行为相当不寻常。当这位女士试图争辩说 **「波兰人是世界上最聪明的人 」** 时，我礼貌地用一句温和的 **「我不确定 」** 来质疑她的说法。这种犹豫不决的反对意见是我探听别人意见的典型方式。正如 Larry King 常说的那样：「我总是在听的时候比说的时候学到更多」。这有利于我以一种自谦和自嘲的方式来进行讨论，特别是在寻求收集信息的过程中。最终，我更关心这位老师要告诉我什么，而不是希望我改变几十年的习惯，或信念。当我礼貌地质疑老师说法的正确性时，她抓住我的手臂，摇晃起来，试图打断我的话。我毫不怀疑，这个不寻常的举动来自于她多年来在课堂上宣扬自己权威的习惯。我在其他场合也看到一些老师的类似行为。这就很好理解了。当打击 20-25 个独立的声音，并试图把它们都引向一个单一的行为模式时，所有可行的权威手段都会下意识地在她的日常习惯中留下烙印。
 
 我总是试图与我能找到的任何老师交谈。在每次会面或偶遇时，我都会介绍自己和我的想法的概要，然后在为我对学校教育的批评辩护时提出最小的反对意见。我总是对「教师的做事方式 」感兴趣。反应往往是相当强烈的，甚至是暴力的。他们好像很大程度上是专制的。在许多情况下，我就像一个没有做作业的坏学生一样被轰击。我喜欢激烈的讨论，然而，在那些情况下，我试图表现得顺从。也许这就是老师本能地捕捉到的「弱点 」？和老师谈起学校系统的缺点，往往会变成说教和对多年来课堂教学的全面辩护？这是完全可以理解的。
 

@@ -16,7 +16,7 @@
 
 [[img [Problem valuation optimum for problem difficulty|https://supermemo.guru/images/thumb/8/84/Problem_valuation.jpg/300px-Problem_valuation.jpg]]](https://supermemo.guru/wiki/File:Problem_valuation.jpg)
 
-> 图：**问题评价中的金发姑娘效应**：较难的问题奖励较多，但被解决的可能性较小。这决定了我们要寻找最优难度。期望奖励会根据执行成本来评估。精通问题解决的人，善于找到能使奖励最大化的问题。孩子们很快就会对简单的游戏感到厌烦。他们也会放弃那些超出他们水平的游戏，并自然而然地选择那些奖励最大的游戏，而这种奖励正处于[中等的难度范围](https://en.wikipedia.org/wiki/Goldilocks_principle)。这样的机制也同样适用于儿童、成人或各种需要解决问题的动物
+> 图： **问题评价中的金发姑娘效应** ：较难的问题奖励较多，但被解决的可能性较小。这决定了我们要寻找最优难度。期望奖励会根据执行成本来评估。精通问题解决的人，善于找到能使奖励最大化的问题。孩子们很快就会对简单的游戏感到厌烦。他们也会放弃那些超出他们水平的游戏，并自然而然地选择那些奖励最大的游戏，而这种奖励正处于[中等的难度范围](https://en.wikipedia.org/wiki/Goldilocks_principle)。这样的机制也同样适用于儿童、成人或各种需要解决问题的动物
 
 ## 探索中的压力
 
@@ -40,9 +40,9 @@
 
 ## 慢性压力
 
-许多老师或家长会声称，**压力能让你为成人生活做好准备**。如果不加限定，可能会有人因为这套说辞而去吓唬摇篮里的新生儿，或者让幼儿看恐怖电影。区分压力好坏的办法很简单：自主承担的[良性压力](https://supermemo.guru/wiki/Eustress)是有益的，[慢性压力](https://supermemo.guru/wiki/Chronic_stress)则是致命的。
+许多老师或家长会声称， **压力能让你为成人生活做好准备** 。如果不加限定，可能会有人因为这套说辞而去吓唬摇篮里的新生儿，或者让幼儿看恐怖电影。区分压力好坏的办法很简单：自主承担的[良性压力](https://supermemo.guru/wiki/Eustress)是有益的，[慢性压力](https://supermemo.guru/wiki/Chronic_stress)则是致命的。
 
-当学校让孩子面对过于陡峭的障碍，或者施加迫在眉睫的威胁，例如[一场临近的生死攸关的大考](https://gingerjumble.wordpress.com/2021/01/07/the-demon-on-my-shoulder-is-dead/)，本应有助于学习的压力，可能变成[慢性压力](https://supermemo.guru/wiki/Chronic_stress)，这将系统性地**破坏大脑**。这种破坏来自于大脑中压力荷尔蒙水平的升高，也来自于慢性压力扰乱睡眠，导致[失眠](https://supermemo.guru/wiki/Insomnia)，或[延迟睡眠期综合征](https://supermemo.guru/wiki/DSPS)。
+当学校让孩子面对过于陡峭的障碍，或者施加迫在眉睫的威胁，例如[一场临近的生死攸关的大考](https://gingerjumble.wordpress.com/2021/01/07/the-demon-on-my-shoulder-is-dead/)，本应有助于学习的压力，可能变成[慢性压力](https://supermemo.guru/wiki/Chronic_stress)，这将系统性地 **破坏大脑** 。这种破坏来自于大脑中压力荷尔蒙水平的升高，也来自于慢性压力扰乱睡眠，导致[失眠](https://supermemo.guru/wiki/Insomnia)，或[延迟睡眠期综合征](https://supermemo.guru/wiki/DSPS)。
 
 在成人生活中发生着完全相同的过程，特别是那些在学校里抗压韧性被破坏的成年人。一旦成人进入企业，或在限制个人自由的政治体系中生活，他们可能永远无法完全学会如何利用每天的挑战来建立[抗压韧性](https://supermemo.guru/wiki/Stress_resilience)，并充分利用[良性压力](https://supermemo.guru/wiki/Eustress)，过上幸福和富有成效的生活。
 

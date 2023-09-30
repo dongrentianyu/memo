@@ -4,7 +4,7 @@
 
 [大众传媒大多缺乏超过一天的创制时间维度](https://notes.andymatuschak.org/z7JZswHPm99BbpTnb7NcP9Rnp8Bs6jsM3zjdv)。这个维度对于创作很是强大，值得探索，例如[指导冥想的应用程序是自然地随时间分散开来](https://notes.andymatuschak.org/zNmmWtrg5j47Z1CCCSVn7GQhbMf4d3oYj6G)。
 
-我们可以把具有创制时间维度的文本称为**穿越时间的文本**。
+我们可以把具有创制时间维度的文本称为 **穿越时间的文本** 。
 
 - [助记媒介使读者持续接触材料](https://notes.andymatuschak.org/z7tjqSxGsJ53tXsGkRpchsECWcMsW3sFUw86U)
 

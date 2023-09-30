@@ -26,7 +26,7 @@
 
 - [Karpicke, J. D., & Blunt, J. R. (2011). Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping. Science, 331(6018), 772–775.](https://notes.andymatuschak.org/z78CeJK6CpQWhzruLZZ8cVxeQ2WaHgzHNmHsq)
 
-  - 实验比较了概念图（调用[精细编码](https://notes.andymatuschak.org/z3ZTBNhJddpewTBgbKAFy2cnSMBiJRpMZWsfB)）与提取练习（调用[测试效应](https://notes.andymatuschak.org/z45mhbpabsigFceeSiRyDXZdvcRqvE2A1xMsn)）对记忆的影响。与 Karpicke 和 Smith（2012）一样，本文也对提取练习的效果是否可能**取决于**精细编码，或者是否有其他过程发生感兴趣。
+  - 实验比较了概念图（调用[精细编码](https://notes.andymatuschak.org/z3ZTBNhJddpewTBgbKAFy2cnSMBiJRpMZWsfB)）与提取练习（调用[测试效应](https://notes.andymatuschak.org/z45mhbpabsigFceeSiRyDXZdvcRqvE2A1xMsn)）对记忆的影响。与 Karpicke 和 Smith（2012）一样，本文也对提取练习的效果是否可能 **取决于** 精细编码，或者是否有其他过程发生感兴趣。
 
 - [间隔重复记忆卡片应关联和联系概念](https://notes.andymatuschak.org/z49EwwPL1CzKHTyLHXwJJH7hsciCg772Vm5WJ)
 

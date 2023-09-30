@@ -4,7 +4,7 @@
 
 [SM-2 算法](https://supermemo.guru/wiki/Algorithm_SM-2) 在 [1987 年 12 月 13 日](https://supermemo.guru/wiki/SuperMemo_1.0_for_DOS_(1987))首次被用于学习中，并在一些应用中稍作调整后存续至今。[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 在 [1989 年](https://supermemo.guru/wiki/First_adaptable_spaced_repetition_algorithm:_Algorithm_SM-4)放弃了这个算法，然而，算法 SM-2 不断地在新的应用中出现，其频率至高，几乎每个月都有新的变体。我很久以前就数不清了。有些 SM-2 算法变体与 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的原则相矛盾，却仍然自称来自 SuperMemo。违背 SuperMemo 原则的最常见做法包括以分钟为单位的间隔，或在[评分](https://supermemo.guru/wiki/Grade)为失败时将间隔减半（[莱特纳](https://supermemo.guru/wiki/Leitner_system)风格）。因为这些变体，冒出了不少 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的假新闻。请注意，假新闻是撰写[本文](https://supermemo.guru/wiki/History_of_spaced_repetition)的最大动力之一。
 
-当 [Duolingo](https://supermemo.guru/wiki/Duolingo) 在他们的论文中说到参考 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的**手选**参数时，这一定是依靠一些过期文本的结果，也许是二手文本，也许是参考 [SM-2 算法](https://supermemo.guru/wiki/Algorithm_SM-2) 而写的文本。毕竟，截至 1989 年，SuperMemo 的适应性相当强，而 [SM-17 算法](https://supermemo.guru/wiki/Algorithm_SM-17) 是[现存的最具适应性的算法](https://supermemo.guru/wiki/Universal_metric_for_cross-comparison_of_spaced_repetition_algorithms)。
+当 [Duolingo](https://supermemo.guru/wiki/Duolingo) 在他们的论文中说到参考 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的 **手选** 参数时，这一定是依靠一些过期文本的结果，也许是二手文本，也许是参考 [SM-2 算法](https://supermemo.guru/wiki/Algorithm_SM-2) 而写的文本。毕竟，截至 1989 年，SuperMemo 的适应性相当强，而 [SM-17 算法](https://supermemo.guru/wiki/Algorithm_SM-17) 是[现存的最具适应性的算法](https://supermemo.guru/wiki/Universal_metric_for_cross-comparison_of_spaced_repetition_algorithms)。
 
 误导的部分责任在我身上，因为我不再关心[同行评议](https://supermemo.guru/wiki/Peer_review)，没下足功夫辟谣，而任由信息在网络上野蛮生长。
 
@@ -34,7 +34,7 @@ Quizlet 采取的新方法是建立在强大的基础上的，这样便能制造
 
 1991 年中期，我的一个同学试图让我振作起来。他预言我们会成功，我们总能卖出 10-20 份 [SuperMemo](https://supermemo.guru/wiki/SuperMemo)。我当时更乐观。1993 年，我预测 1996 年时 SuperMemo 能有 100 万用户。1994 年，波兰的 Enter 提到了[Marczello Georgiew](https://supermemo.guru/wiki/Marczello_Georgiew) 也抱有这样的乐观态度：
 
-> 在 [SuperMemo World](https://supermemo.guru/wiki/SuperMemo_World) 收到的关于用户吸引点的调查问卷中，[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 用户认为它的有效性具有压倒性的吸引力。对一个软件来说，提供学习结果才是真正算数的点儿。那用户不喜欢哪点？用户会对这点或那点不满意，最常提的是 SuperMemo 总是先以英语发布，即使在波兰。但特别令人讨厌的地方则没有。当然，没有人质疑这样一个事实：有了 SuperMemo，人们可以更快地学习，而且永远不会担心[遗忘](https://supermemo.guru/wiki/Forgetting)。怀着这样一份美好的图景，人们可能会问为什么 SuperMemo 还没有在全世界卖出数百万份。[Marczello Georgiew](https://supermemo.guru/wiki/Marczello_Georgiew)，SuperMemo World 的市场总监建议可以回想一下 Graham Bell 在试图推出他「可以通过电线说话」的有趣机器时遇到的问题，或者行业未来学家对推广轰隆隆会造成空气污染的「机器马」的悲观预测。然后他自信地补充：**[沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)花了 10 年时间将一种必要性变成发明的实现，给我们一半的时间，我们将把他的发明变成全球的必需品。**
+> 在 [SuperMemo World](https://supermemo.guru/wiki/SuperMemo_World) 收到的关于用户吸引点的调查问卷中，[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 用户认为它的有效性具有压倒性的吸引力。对一个软件来说，提供学习结果才是真正算数的点儿。那用户不喜欢哪点？用户会对这点或那点不满意，最常提的是 SuperMemo 总是先以英语发布，即使在波兰。但特别令人讨厌的地方则没有。当然，没有人质疑这样一个事实：有了 SuperMemo，人们可以更快地学习，而且永远不会担心[遗忘](https://supermemo.guru/wiki/Forgetting)。怀着这样一份美好的图景，人们可能会问为什么 SuperMemo 还没有在全世界卖出数百万份。[Marczello Georgiew](https://supermemo.guru/wiki/Marczello_Georgiew)，SuperMemo World 的市场总监建议可以回想一下 Graham Bell 在试图推出他「可以通过电线说话」的有趣机器时遇到的问题，或者行业未来学家对推广轰隆隆会造成空气污染的「机器马」的悲观预测。然后他自信地补充： **[沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)花了 10 年时间将一种必要性变成发明的实现，给我们一半的时间，我们将把他的发明变成全球的必需品。** 
 
 在我对“何时到达 100 万用户”的预测中，我猜早了 3 年，而且必须对短时用户和活跃用户进行区分。[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的活跃用户的比例随着广泛的采用而不断下降。2007 年，我们估计 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的覆盖面为 500 万，其中大部分是[免费版 SM ](https://supermemo.guru/wiki/SuperMemo_freeware)和分割版 SM 用户。在这 500 万中，只有 0.4-4.0% 是活跃用户。这可能只有 20,000 名学生。
 
@@ -42,7 +42,7 @@ Quizlet 采取的新方法是建立在强大的基础上的，这样便能制造
 
 然后让我们仔细看看[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)今天的影响力。我在下面的估计遭到了大量的怀疑。我同意它们是基于大量的猜测。然而，一旦你处于一个指数增长的曲线上，即使是大的估计误差也没有什么区别。你可以高估 200%，但仍能在短时间内迅速赶上。
 
-这就是为什么我毫不犹豫地说，间隔重复的普及范围会指数级增长到“大B”（译注：**B**illion，十亿），也就是 10 亿用户。亚马逊的 Kindle 在其词汇生成器的闪卡选项中加入了间隔重复。即使是使用 Kindle 的 SuperMemo 用户也可能对这个事实一无所知。如果我们能成功地说服风险投资，让他们相信这个想法是有意义的，那么早在 1996 年，“带抽认卡的书”就是将 SuperMemo 带进纳斯达克的入场券。
+这就是为什么我毫不犹豫地说，间隔重复的普及范围会指数级增长到“大B”（译注： **B** illion，十亿），也就是 10 亿用户。亚马逊的 Kindle 在其词汇生成器的闪卡选项中加入了间隔重复。即使是使用 Kindle 的 SuperMemo 用户也可能对这个事实一无所知。如果我们能成功地说服风险投资，让他们相信这个想法是有意义的，那么早在 1996 年，“带抽认卡的书”就是将 SuperMemo 带进纳斯达克的入场券。
 
 然而，要达到 10 亿用户，我们需要在其他的突破。我想到的第一个明显的候选者是 Facebook，Facebook 可能在嘈杂的社交互动中插入间隔重复，使自由学习变得无感，即用户会不自觉地学习。
 

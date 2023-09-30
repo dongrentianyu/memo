@@ -20,7 +20,7 @@
 
 > 你若想当个蠢驴笨蛋
 
-> 那就**一口气**做完，
+> 那就 **一口气** 做完，
 
 > 你能记住的少得可怜。」
 
@@ -30,7 +30,7 @@
 
 我目前最喜欢的神经辅助工具，是利用[间隔效应](https://en.wikipedia.org/wiki/Spacing_effect)⁠的软件。间隔效应在认知心理学中有数百年历史，这些软件借此在学习或记忆方面能比传统学习方法取得更好的效果；唉，但这种效应还不为人知[4](https://www.gwern.net/Spaced-repetition#sn4)⁠。
 
-间隔效应实质上是说，如果你有一个问题「你学到的这个随机序列中的第五个字母是什么？」，而你只能学习它 5 次，那么如果你把 5 次机会分散到很长的一段时间——天、周、月，那么你对答案「e」的记忆将会最强。而集中在一两天内草草学习 5 次则是最不明智选择。你可以把「[遗忘曲线](https://en.wikipedia.org/wiki/Forgetting_curve)」想象成一张放射性[半衰期](https://en.wikipedia.org/wiki/Half-life)的图表：比方说，每次复习都会使你的记忆力提高 50%，但复习在早期并没有起到多大作用，因为记忆并没有衰退太多！（**为什么**生物学水平上间隔效应有效？在[动物模型](https://www.gwern.net/docs/www/downloads.hindawi.com/28f6fb747bb3f6c33a5eb1ea8b01e3ecb63d7122.pdf)中，集中学习和间隔学习存在明显的神经化学差异。间隔学习（间隔大于一小时）能助长神经元连接强度的[长期增益效应](https://en.wikipedia.org/wiki/Long-term_potentiation)，而集中学习没有此效果[5](https://www.gwern.net/Spaced-repetition#sn5)。但是这种差异的原因还是悬而未决的问题；请参阅[记忆痕迹](https://en.wikipedia.org/wiki/Engram_(neuropsychology))或者[睡眠学习](https://www.gwern.net/Spaced-repetition#when-to-review)的概念。）遗忘曲线的图形表示：
+间隔效应实质上是说，如果你有一个问题「你学到的这个随机序列中的第五个字母是什么？」，而你只能学习它 5 次，那么如果你把 5 次机会分散到很长的一段时间——天、周、月，那么你对答案「e」的记忆将会最强。而集中在一两天内草草学习 5 次则是最不明智选择。你可以把「[遗忘曲线](https://en.wikipedia.org/wiki/Forgetting_curve)」想象成一张放射性[半衰期](https://en.wikipedia.org/wiki/Half-life)的图表：比方说，每次复习都会使你的记忆力提高 50%，但复习在早期并没有起到多大作用，因为记忆并没有衰退太多！（ **为什么** 生物学水平上间隔效应有效？在[动物模型](https://www.gwern.net/docs/www/downloads.hindawi.com/28f6fb747bb3f6c33a5eb1ea8b01e3ecb63d7122.pdf)中，集中学习和间隔学习存在明显的神经化学差异。间隔学习（间隔大于一小时）能助长神经元连接强度的[长期增益效应](https://en.wikipedia.org/wiki/Long-term_potentiation)，而集中学习没有此效果[5](https://www.gwern.net/Spaced-repetition#sn5)。但是这种差异的原因还是悬而未决的问题；请参阅[记忆痕迹](https://en.wikipedia.org/wiki/Engram_(neuropsychology))或者[睡眠学习](https://www.gwern.net/Spaced-repetition#when-to-review)的概念。）遗忘曲线的图形表示：
 
 [img [Stahl et al 2010; CNS Spectrums|https://www.gwern.net/images/spacedrepetition/forgetting-curve-stahl.jpg]]Stahl et al 2010; *CNS Spectrums*
 
@@ -50,9 +50,9 @@
 
 [img [Scumbag Brain 表情包：考试前一晚死记硬背的时候什么都知道/一个月后什么都忘了|https://www.gwern.net/images/spacedrepetition/scumbag-brain.png]]Scumbag Brain 表情包：考试前一晚死记硬背的时候什么都知道/一个月后什么都忘了
 
-因为死记硬背在某种程度上确实有它的功用。但有得必有失：你用现在的强记忆换取以后的弱记忆。(非常弱[12](https://www.gwern.net/Spaced-repetition#sn12)⁠。)考试通常全是新材料，虽偶尔会有旧问题，所以死记硬背是有回报的！这就是它的可恶之处——总的来说，虽然死记硬背的记忆寿命和质量都不如间隔重复的功效，但死记硬背能**立即**收效[13](https://www.gwern.net/Spaced-repetition#sn13)。因此，死记硬背虽说有些短视，但也算是理性的对策。甚至 SRS 软件也承认其功用，并提供一定程度的支持[14](https://www.gwern.net/Spaced-repetition#sn14)⁠。(但正如人们可能预期的，如果进行连续而渐进的测试，那么所学知识寿命也更长[15](https://www.gwern.net/Spaced-repetition#sn15)⁠；我不知道这是否因为这种测试是一种变相的、偶然间形成的间隔重复系统，还是学生或受试者只是为了应对小风险的考试而学习表现不同。)除了这种短期集中的优势之外，人们还常[忽略](https://www.gwern.net/docs/spaced-repetition/2011-mccabe.pdf)间隔重复的优势，以及有着认为短期记忆的成效会持续存在的主观“错觉”[16](https://www.gwern.net/Spaced-repetition#sn16)[17](https://www.gwern.net/Spaced-repetition#sn17)(参见：[Son & Simon 2012](https://www.gwern.net/docs/spaced-repetition/2012-son.pdf)[18](https://www.gwern.net/Spaced-repetition#sn18)⁠, [Mulligan & Peterson 2014](https://www.gwern.net/docs/spaced-repetition/2014-mulligan.pdf)⁠, [Bjork et al 2013](https://www.gwern.net/docs/spaced-repetition/2013-bjork.pdf)⁠, [Deslauriers et al 2019](https://www.pnas.org/content/early/2019/09/03/1821936116)); from [Kornell 2009](https://www.gwern.net/docs/www/sites.williams.edu/0b05297b47a1cfa08a95b83f49e8d254b1eefc84.pdf) 的对 GRE 词汇的研究(重点添加)：
+因为死记硬背在某种程度上确实有它的功用。但有得必有失：你用现在的强记忆换取以后的弱记忆。(非常弱[12](https://www.gwern.net/Spaced-repetition#sn12)⁠。)考试通常全是新材料，虽偶尔会有旧问题，所以死记硬背是有回报的！这就是它的可恶之处——总的来说，虽然死记硬背的记忆寿命和质量都不如间隔重复的功效，但死记硬背能 **立即** 收效[13](https://www.gwern.net/Spaced-repetition#sn13)。因此，死记硬背虽说有些短视，但也算是理性的对策。甚至 SRS 软件也承认其功用，并提供一定程度的支持[14](https://www.gwern.net/Spaced-repetition#sn14)⁠。(但正如人们可能预期的，如果进行连续而渐进的测试，那么所学知识寿命也更长[15](https://www.gwern.net/Spaced-repetition#sn15)⁠；我不知道这是否因为这种测试是一种变相的、偶然间形成的间隔重复系统，还是学生或受试者只是为了应对小风险的考试而学习表现不同。)除了这种短期集中的优势之外，人们还常[忽略](https://www.gwern.net/docs/spaced-repetition/2011-mccabe.pdf)间隔重复的优势，以及有着认为短期记忆的成效会持续存在的主观“错觉”[16](https://www.gwern.net/Spaced-repetition#sn16)[17](https://www.gwern.net/Spaced-repetition#sn17)(参见：[Son & Simon 2012](https://www.gwern.net/docs/spaced-repetition/2012-son.pdf)[18](https://www.gwern.net/Spaced-repetition#sn18)⁠, [Mulligan & Peterson 2014](https://www.gwern.net/docs/spaced-repetition/2014-mulligan.pdf)⁠, [Bjork et al 2013](https://www.gwern.net/docs/spaced-repetition/2013-bjork.pdf)⁠, [Deslauriers et al 2019](https://www.pnas.org/content/early/2019/09/03/1821936116)); from [Kornell 2009](https://www.gwern.net/docs/www/sites.williams.edu/0b05297b47a1cfa08a95b83f49e8d254b1eefc84.pdf) 的对 GRE 词汇的研究(重点添加)：
 
-> 在整个实验中，对于 90% 的参与者来说，**间隔**比集中更有效，然而在第一次学习之后，72% 的参与者认为**集中**比间隔更有效……当他们确实考虑间隔时，他们经常有这样的错觉：「集中学习比间隔学习更有效」，即使事实是相反的 ([Dunlosky & Nelson, 1994](https://www.gwern.net/docs/spaced-repetition/1994-dunlosky.pdf)⁠; Kornell & Bjork, 2008a; [Simon & Bjork 2001](https://www.gwern.net/docs/spaced-repetition/2001-simon.pdf)⁠; [Zechmeister & Shaughnessy, 1980](http://www.willatworklearning.com/2005/11/research_review.html))。
+> 在整个实验中，对于 90% 的参与者来说， **间隔** 比集中更有效，然而在第一次学习之后，72% 的参与者认为 **集中** 比间隔更有效……当他们确实考虑间隔时，他们经常有这样的错觉：「集中学习比间隔学习更有效」，即使事实是相反的 ([Dunlosky & Nelson, 1994](https://www.gwern.net/docs/spaced-repetition/1994-dunlosky.pdf)⁠; Kornell & Bjork, 2008a; [Simon & Bjork 2001](https://www.gwern.net/docs/spaced-repetition/2001-simon.pdf)⁠; [Zechmeister & Shaughnessy, 1980](http://www.willatworklearning.com/2005/11/research_review.html))。
 
 正如人们所预期的那样，如果测试效应和间隔效应真实存在，那么那些本就自我测试并在考试前用功学习的学生往往会有较高的 GPA。[19](https://www.gwern.net/Spaced-repetition#sn19) 如果我们将问题解释为测试，那么一对一辅导[显著优于](https://en.wikipedia.org/wiki/Bloom‘s_2_Sigma_Problem)常规教学，这不会令我们惊讶，而且受辅导学生回答的问题数量高要出几个数量级[20](https://www.gwern.net/Spaced-repetition#sn20)⁠。
 

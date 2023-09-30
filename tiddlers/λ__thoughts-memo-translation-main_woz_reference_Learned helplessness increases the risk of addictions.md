@@ -12,7 +12,7 @@
 
 引用的摘录来自以下[参考资料](https://supermemo.guru/wiki/References)：
 
-标题：**Why Boredom Is Anything but Boring**
+标题： **Why Boredom Is Anything but Boring** 
 
 作者：Maggie Koerth-Baker, 《Nature》期刊
 

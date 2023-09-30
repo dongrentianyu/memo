@@ -2,7 +2,7 @@
 
 原文：[Reward deprivation - supermemo.guru](https://supermemo.guru/wiki/Reward_deprivation)
 
-**奖励剥夺**，**奖励缺乏**或**奖励不足**是指缺失重要奖励来源时大脑的一种状态。**奖励剥夺**会导致大脑开始寻求补偿性奖励的新来源。例如，一个遭受[母婴分离](https://supermemo.guru/wiki/Maternal_separation)的孩子可能会为了取悦他的监护人而表现出学习进步，以寻求获得表扬或温暖等奖励。一个遭受[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)限制自由的孩子可能更容易成瘾，例如[沉迷电子游戏](https://supermemo.guru/wiki/Videogame_addiction)或药物成瘾。类似地，在[压力](https://supermemo.guru/wiki/Stress)或[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)下工作的成年人则更有可能通过食物来弥补奖励缺乏，这可能会导致[肥胖](https://supermemo.guru/wiki/Optimum_diet)。
+ **奖励剥夺** ， **奖励缺乏** 或 **奖励不足** 是指缺失重要奖励来源时大脑的一种状态。 **奖励剥夺** 会导致大脑开始寻求补偿性奖励的新来源。例如，一个遭受[母婴分离](https://supermemo.guru/wiki/Maternal_separation)的孩子可能会为了取悦他的监护人而表现出学习进步，以寻求获得表扬或温暖等奖励。一个遭受[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)限制自由的孩子可能更容易成瘾，例如[沉迷电子游戏](https://supermemo.guru/wiki/Videogame_addiction)或药物成瘾。类似地，在[压力](https://supermemo.guru/wiki/Stress)或[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)下工作的成年人则更有可能通过食物来弥补奖励缺乏，这可能会导致[肥胖](https://supermemo.guru/wiki/Optimum_diet)。
 
 详情请见：[预防成瘾的奖励多样性](https://supermemo.guru/wiki/Reward_diversity_in_preventing_addictions)
 
@@ -14,9 +14,9 @@
 
 >
 
-> - 基于[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的**自然学习**以红色表示
+> - 基于[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的 **自然学习** 以红色表示
 
-> - 基于学校奖罚制度的**强迫学习**以蓝色表示
+> - 基于学校奖罚制度的 **强迫学习** 以蓝色表示
 
 > - [外在动机](https://supermemo.guru/wiki/Extrinsic_motivation)的影响以橙色表示（奖励和惩罚为相同的影响向量）
 

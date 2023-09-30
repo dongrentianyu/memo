@@ -10,7 +10,7 @@
 
 ## 学校教育的问题
 
-Papert 对教育问题的诊断，就像四分之一个世纪后我对[学校教育问题](https://supermemo.guru/wiki/Problem_of_schooling)的总结。Papert 的补救措施与十年后的[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)有许多相似之处。Papert 的推理与[我](https://supermemo.guru/wiki/Piotr_Wozniak)的推理很相似：首先需要看到[高效学习](https://supermemo.guru/wiki/Free_learning)的样子，然后再与[学校教育的现实](https://supermemo.guru/wiki/Prussian_Education_System)进行比较。结论是不可避免的：**学校的效率低得可怕，而且往往是有害的**！
+Papert 对教育问题的诊断，就像四分之一个世纪后我对[学校教育问题](https://supermemo.guru/wiki/Problem_of_schooling)的总结。Papert 的补救措施与十年后的[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)有许多相似之处。Papert 的推理与[我](https://supermemo.guru/wiki/Piotr_Wozniak)的推理很相似：首先需要看到[高效学习](https://supermemo.guru/wiki/Free_learning)的样子，然后再与[学校教育的现实](https://supermemo.guru/wiki/Prussian_Education_System)进行比较。结论是不可避免的： **学校的效率低得可怕，而且往往是有害的** ！
 
 ## 自由学习的力量
 
@@ -70,7 +70,7 @@ Papert 只需要一个例子。我每天都会看到几十次类似的例子。�
 
 引用的摘录来自以下[参考资料](https://supermemo.guru/wiki/References)：
 
-标题：**过时的技能组合：3Rs —— 媒体时代的知识与字识**
+标题： **过时的技能组合：3Rs —— 媒体时代的知识与字识** 
 
 作者：[Seymour Papert](https://supermemo.guru/wiki/Seymour_Papert)
 

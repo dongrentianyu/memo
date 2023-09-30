@@ -30,7 +30,7 @@
 
 ### 新的学习可能会破坏先前的学习
 
-瑞士奶酪现象也可能通过[干扰](https://supermemo.guru/wiki/Interference)使先前为学习付出的努力失效。如果大脑被迫在[瑞士奶酪状态](https://supermemo.guru/wiki/Swiss_cheese_model)下进行[主动回忆](https://supermemo.guru/wiki/Active_recall)，它可能会在不经意间产生错误的联想。如果回忆提供了一个错误的结果（例如[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中的错误答案），这个结果可能与问题有关。新的错误关联可能在[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)方面获得优先级。因此，它将得到延续。换句话说，通过形成错误的记忆，学生会**前功尽弃（良好的学习被破坏）**。[干扰](https://supermemo.guru/wiki/Interference)是健康大脑中无处不在的现象，是自然[遗忘](https://supermemo.guru/wiki/Forgetting)塑造问题解决能力的认知能力的基础（参见：[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)）。然而，在瑞士奶酪状态下，神经计算的错误率呈指数级增长，导致遗忘加速。学习的效果总是会平衡好的学习进展（新的记忆）和坏的干扰倒退（错误的记忆取代好的记忆）。随着[自稳态](https://supermemo.guru/wiki/Homeostatic)疲劳的进展，这种平衡逐渐转向糟糕的学习。在一定程度的疲劳下，学习反倒适得其反，弊大于利。大脑自然地使学习变得不快，来阻止糟糕的学习。
+瑞士奶酪现象也可能通过[干扰](https://supermemo.guru/wiki/Interference)使先前为学习付出的努力失效。如果大脑被迫在[瑞士奶酪状态](https://supermemo.guru/wiki/Swiss_cheese_model)下进行[主动回忆](https://supermemo.guru/wiki/Active_recall)，它可能会在不经意间产生错误的联想。如果回忆提供了一个错误的结果（例如[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)中的错误答案），这个结果可能与问题有关。新的错误关联可能在[记忆稳定性](https://supermemo.guru/wiki/Memory_stability)方面获得优先级。因此，它将得到延续。换句话说，通过形成错误的记忆，学生会 **前功尽弃（良好的学习被破坏）** 。[干扰](https://supermemo.guru/wiki/Interference)是健康大脑中无处不在的现象，是自然[遗忘](https://supermemo.guru/wiki/Forgetting)塑造问题解决能力的认知能力的基础（参见：[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)）。然而，在瑞士奶酪状态下，神经计算的错误率呈指数级增长，导致遗忘加速。学习的效果总是会平衡好的学习进展（新的记忆）和坏的干扰倒退（错误的记忆取代好的记忆）。随着[自稳态](https://supermemo.guru/wiki/Homeostatic)疲劳的进展，这种平衡逐渐转向糟糕的学习。在一定程度的疲劳下，学习反倒适得其反，弊大于利。大脑自然地使学习变得不快，来阻止糟糕的学习。
 
 在[睡眠不足](https://supermemo.guru/wiki/Sleep_deprivation)的时候，学习会通过放大[干扰](https://supermemo.guru/wiki/Interference)来使之前的学习失效。
 

@@ -4,7 +4,7 @@
 
 ## 定义
 
-**自律**，**自控**或**毅力**是面对逆境时理性地控制自己行动的能力。理解**自律**对高生产力和健康至关重要。自律不足是生产力低下的主要原因之一。同时，对自律认识不足可能导致不健康的生活方式。在思想和身体的纪律方面，最好的结果可以在宜居带\*找到。在理想的情况下，最佳的宜居带精力所需是最小的，而自律应该逐渐成为生产力的乐趣。（\*译注：原文为 goldilocks zone，源自《金发姑娘与三只熊》，金发姑娘发现了三只熊的房子，每只熊都有自己喜欢的食物和床。在挨个尝试过三只熊的食物和床后，金发姑娘发现有一个要么太大/太热，一个要么太小/太凉，只有一个是「刚刚好」。所以 goldilocks zone 意指「恰到好处」。）
+ **自律** ， **自控** 或 **毅力** 是面对逆境时理性地控制自己行动的能力。理解 **自律** 对高生产力和健康至关重要。自律不足是生产力低下的主要原因之一。同时，对自律认识不足可能导致不健康的生活方式。在思想和身体的纪律方面，最好的结果可以在宜居带\*找到。在理想的情况下，最佳的宜居带精力所需是最小的，而自律应该逐渐成为生产力的乐趣。（\*译注：原文为 goldilocks zone，源自《金发姑娘与三只熊》，金发姑娘发现了三只熊的房子，每只熊都有自己喜欢的食物和床。在挨个尝试过三只熊的食物和床后，金发姑娘发现有一个要么太大/太热，一个要么太小/太凉，只有一个是「刚刚好」。所以 goldilocks zone 意指「恰到好处」。）
 
 最佳的自律应该是相对轻松健康，且令人愉快的。
 
@@ -12,31 +12,31 @@
 
 自律是人类独有的属性。人类具备理性思维，因而可能驾驭感性思维。从解剖学角度来看，有意识控制的执行者有能力推翻源自爬行动物大脑的控制信号。因此，如神风特攻队一般的极端自我控制或自我牺牲行为便成为可能。
 
-对最大化人类生产力来说，自律非常有用。然而，当代盛行的自我控制过度，可能比自我控制不足更成问题。爬行脑在平衡和控制生存所需的行为方面发挥着重要作用。当自律给这种中央生理调控带来不利影响时，我使用**[徒劳的毅力](https://supermemo.guru/wiki/Futile_grit)**这一术语，来将其与健康思维的自律方式区分开来。
+对最大化人类生产力来说，自律非常有用。然而，当代盛行的自我控制过度，可能比自我控制不足更成问题。爬行脑在平衡和控制生存所需的行为方面发挥着重要作用。当自律给这种中央生理调控带来不利影响时，我使用 **[徒劳的毅力](https://supermemo.guru/wiki/Futile_grit)** 这一术语，来将其与健康思维的自律方式区分开来。
 
-自从[棉花糖实验](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)以来，我们一直推崇延迟满足和自律，认为这是成功的关键。在这个过程中，我们把意志力的价值推向了[荒诞且有害的地步](https://supermemo.guru/wiki/Harms_of_self-discipline)。诚然，表现出良好自制力的孩子有可能在生活中取得成功（见：[棉花糖实验的错误](https://supermemo.guru/wiki/The_error_of_the_marshmallow_test)）。然而，如果我们试图训练某种本身应该是自然习得的东西，我们可能会误入**徒劳的毅力**，这会导致人们仅仅具有坚持的能力，却不具备察觉坚持带来的危害的能力。
+自从[棉花糖实验](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)以来，我们一直推崇延迟满足和自律，认为这是成功的关键。在这个过程中，我们把意志力的价值推向了[荒诞且有害的地步](https://supermemo.guru/wiki/Harms_of_self-discipline)。诚然，表现出良好自制力的孩子有可能在生活中取得成功（见：[棉花糖实验的错误](https://supermemo.guru/wiki/The_error_of_the_marshmallow_test)）。然而，如果我们试图训练某种本身应该是自然习得的东西，我们可能会误入 **徒劳的毅力** ，这会导致人们仅仅具有坚持的能力，却不具备察觉坚持带来的危害的能力。
 
-对于一个现代人来说，自我毁灭可能从摇篮里就开始了。孩子被强迫睡在自己的床上，不能接触到母亲的乳房。当她试图提出抗议时，就被逼着「哭出来」（犯罪的[费伯方法](https://www.psychologytoday.com/us/blog/moral-landscapes/201112/dangers-crying-it-out)）。由于[母体分离](https://supermemo.guru/wiki/Maternal_separation)，[托儿所](https://supermemo.guru/wiki/Daycare)的第一天对小孩子来说通常是相当痛苦的。现代社会，例如[瑞典](https://supermemo.guru/wiki/European_Outcasts)，把这种残酷的行为变成了一种文化需要，为了拙劣的「男女平等」或「女性解放」而牺牲孩子的健康。[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)是实用狡猾的最终训练场。为了让孩子们死记硬背而[死记硬背](https://supermemo.guru/wiki/Cramming)而强迫其接受纪律和自我牺牲的训练。**徒劳的毅力**剥夺了学校教育尊为**「学习」**的权利。
+对于一个现代人来说，自我毁灭可能从摇篮里就开始了。孩子被强迫睡在自己的床上，不能接触到母亲的乳房。当她试图提出抗议时，就被逼着「哭出来」（犯罪的[费伯方法](https://www.psychologytoday.com/us/blog/moral-landscapes/201112/dangers-crying-it-out)）。由于[母体分离](https://supermemo.guru/wiki/Maternal_separation)，[托儿所](https://supermemo.guru/wiki/Daycare)的第一天对小孩子来说通常是相当痛苦的。现代社会，例如[瑞典](https://supermemo.guru/wiki/European_Outcasts)，把这种残酷的行为变成了一种文化需要，为了拙劣的「男女平等」或「女性解放」而牺牲孩子的健康。[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)是实用狡猾的最终训练场。为了让孩子们死记硬背而[死记硬背](https://supermemo.guru/wiki/Cramming)而强迫其接受纪律和自我牺牲的训练。 **徒劳的毅力** 剥夺了学校教育尊为 **「学习」** 的权利。
 
-**在强制条件下磨练出来的**自律可能会导致**[徒劳的毅力](https://supermemo.guru/wiki/Futile_grit)**无益和不健康的结果。
+ **在强制条件下磨练出来的** 自律可能会导致 **[徒劳的毅力](https://supermemo.guru/wiki/Futile_grit)** 无益和不健康的结果。
 
-要了解真正的[自由学习](https://supermemo.guru/wiki/Free_learning)，请阅读：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)。要了解好的学习和**徒劳的毅力**之间的区别，请阅读[在学校学到的 50 个坏习惯](https://supermemo.guru/wiki/50_bad_habits_learned_at_school)。关于**徒劳的毅力**的一些例子，请看：[自律的危害](https://supermemo.guru/wiki/Harms_of_self-discipline)。
+要了解真正的[自由学习](https://supermemo.guru/wiki/Free_learning)，请阅读：[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)。要了解好的学习和 **徒劳的毅力** 之间的区别，请阅读[在学校学到的 50 个坏习惯](https://supermemo.guru/wiki/50_bad_habits_learned_at_school)。关于 **徒劳的毅力** 的一些例子，请看：[自律的危害](https://supermemo.guru/wiki/Harms_of_self-discipline)。
 
 ## 网络战争
 
 当我们面对一系列的行为选择时，我们会经历一定程度的纠结。当我们在商店里挑选产品时，需要在不同的品牌之间进行选择，大脑会权衡利弊。我们通常会在这个自然过程中得出一个迅速的解决方案。
 
-当理性脑和感性脑之间发生冲突时，网络之间的冲突程度可能要深得多。一些冲突将导致压力。如果压力是[慢性](https://supermemo.guru/wiki/Chronic_stress)的，它可能会加速神经元的死亡。以神经死亡为代价来解决神经冲突，难说是一个理想的结果。在早期发展中，在竞争性学习中，在大脑结构的布线中，神经突触和神经元之间的残酷战斗是不可避免的，也是必要的。然而，[慢性压力](https://supermemo.guru/wiki/Chronic_stress)是现代社会的一个祸害。富裕的西方社会中的大多数人都经常经历[慢性压力](https://supermemo.guru/wiki/Chronic_stress)。这完全是不必要的，可以避免的。然而，为了避免慢性压力，我们将需要看到一种文化范式的转变，在这种转变中，**自律**和**徒劳的毅力**之间的区别对每个人来说都是清晰而明显的。我们将需要尽量减少日托，最大限度地提高[开放的行为空间](https://supermemo.guru/wiki/Optimization_of_behavioral_spaces_in_development)，尽量减少[封闭系统的社会化](https://supermemo.guru/wiki/Closed_system_socialization)，[结束强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling_must_end)，并且从长远来看，建立诸如[基本收入](https://supermemo.guru/wiki/Basic_income)等工具，以释放人类的生产潜力。
+当理性脑和感性脑之间发生冲突时，网络之间的冲突程度可能要深得多。一些冲突将导致压力。如果压力是[慢性](https://supermemo.guru/wiki/Chronic_stress)的，它可能会加速神经元的死亡。以神经死亡为代价来解决神经冲突，难说是一个理想的结果。在早期发展中，在竞争性学习中，在大脑结构的布线中，神经突触和神经元之间的残酷战斗是不可避免的，也是必要的。然而，[慢性压力](https://supermemo.guru/wiki/Chronic_stress)是现代社会的一个祸害。富裕的西方社会中的大多数人都经常经历[慢性压力](https://supermemo.guru/wiki/Chronic_stress)。这完全是不必要的，可以避免的。然而，为了避免慢性压力，我们将需要看到一种文化范式的转变，在这种转变中， **自律** 和 **徒劳的毅力** 之间的区别对每个人来说都是清晰而明显的。我们将需要尽量减少日托，最大限度地提高[开放的行为空间](https://supermemo.guru/wiki/Optimization_of_behavioral_spaces_in_development)，尽量减少[封闭系统的社会化](https://supermemo.guru/wiki/Closed_system_socialization)，[结束强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling_must_end)，并且从长远来看，建立诸如[基本收入](https://supermemo.guru/wiki/Basic_income)等工具，以释放人类的生产潜力。
 
-当我们用一个微观决定来约束自己的思想：「我现在要学英语」，我们为自我发展做出了贡献。如果我们用一个宏观的错误来运用**徒劳的毅力**，如「我将学习法律，因为我的父亲会感到骄傲」，我们就会磨练**徒劳的毅力**，并经常使自己走上不快乐的人生道路，在这种情况下，毅力使人宣布「我很快乐」，而不了解其他选择。对于有疑问的人，我推荐[创意假期](https://supermemo.guru/wiki/Creative_vacation)或[农民生活方式](https://supermemo.guru/wiki/Farmer's_lifestyle)的概念，作为自我发现的绝佳工具。
+当我们用一个微观决定来约束自己的思想：「我现在要学英语」，我们为自我发展做出了贡献。如果我们用一个宏观的错误来运用 **徒劳的毅力** ，如「我将学习法律，因为我的父亲会感到骄傲」，我们就会磨练 **徒劳的毅力** ，并经常使自己走上不快乐的人生道路，在这种情况下，毅力使人宣布「我很快乐」，而不了解其他选择。对于有疑问的人，我推荐[创意假期](https://supermemo.guru/wiki/Creative_vacation)或[农民生活方式](https://supermemo.guru/wiki/Farmer's_lifestyle)的概念，作为自我发现的绝佳工具。
 
 糟糕的自律可能导致神经控制系统的损害
 
-[网络战争](https://supermemo.guru/wiki/War_of_the_networks)在[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)系统下广泛展开。十多年来，孩子们训练着**徒劳的毅力**，遗祸终身。
+[网络战争](https://supermemo.guru/wiki/War_of_the_networks)在[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)系统下广泛展开。十多年来，孩子们训练着 **徒劳的毅力** ，遗祸终身。
 
 [[img [War of the networks at school may lead to learned helplessness and depression|https://supermemo.guru/images/thumb/2/27/Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png/450px-Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png]]](https://supermemo.guru/wiki/File:Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png)
 
-> 图 ：学校就是这样摧毁了学生对学习的热爱。**[学习内驱力](https://supermemo.guru/wiki/Learn_drive)**是孩子愿意去追求的一系列激情和兴趣。**[学校外驱力](https://supermemo.guru/wiki/School_drive)**是学校系统设置的一套奖励和惩罚措施。**学习内驱力**帮助形成了具有简单的、记忆性的、[连贯性](https://supermemo.guru/wiki/Coherent)、[稳定的](https://supermemo.guru/wiki/Stable)和[适用的](https://supermemo.guru/wiki/Applicable)记忆，这是因为知识的质量决定了[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统中的奖励程度。由于学校通过[课程](https://supermemo.guru/wiki/Curriculum)（而不是通过[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的神经机制）将知识序列化，**学校外驱力**导致复杂的短期记忆容易受到[干扰](https://supermemo.guru/wiki/Interference)。在**学习内驱力**和**学校外驱力**通路之间的[竞争抑制](https://supermemo.guru/wiki/War_of_the_networks)将导致神经连接的减弱。强大的**学校外驱力**会削弱[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，破坏学习的热情，并导致[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)。强大的**学习内驱力**会导致[反抗](https://supermemo.guru/wiki/Resistance)，会保护内在的激情，但也可能会让你在学校闯祸。在**学习内驱力**的影响下，储存新的知识是非常有意义的，而且没有任何惩罚（根据[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的定义）。这将使学习内驱力茁壮成长，导致学习上的成功（和在学校）。相反，由**学校外驱力**的压力引起的知识质量低下将产生较弱的奖励信号，并可能产生强烈的[不连贯性惩罚](https://supermemo.guru/wiki/Incoherence_penalty)。这种惩罚将反馈产生对[学校外驱力](https://supermemo.guru/wiki/School_drive)的[反抗](https://supermemo.guru/wiki/Resistance)，这反过来又需要学校系统的进一步强制纠正，这又会进一步降低知识的质量。这些反馈循环可能会导致学习内驱力和学校外驱力的竞争，并最终压制一方而助长另一方。蓬勃发展的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)会增加[反抗](https://supermemo.guru/wiki/Resistance)，从而增加对学校外驱力的防卫。同样，在学校增加惩罚会增加[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)，削弱[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，导致对系统的服从。可悲的是，在大多数情况下，控制系统定格在这两个极端的中间位置（见：[老汤问题](https://supermemo.guru/wiki/Old_soup_problem)）。大多数孩子[讨厌学校](https://supermemo.guru/wiki/Why_kids_hate_school%3F)，失去对学习的热爱，仍然服从于奴役。他们恢复的最好机会是大学的自由，或者更好的是成年后的自由。见：[在神经元水平上二元决策的竞争性反馈回路](https://supermemo.guru/wiki/Competitive_feedback_loops_in_binary_decision_making_at_neuronal_level)
+> 图 ：学校就是这样摧毁了学生对学习的热爱。 **[学习内驱力](https://supermemo.guru/wiki/Learn_drive)** 是孩子愿意去追求的一系列激情和兴趣。 **[学校外驱力](https://supermemo.guru/wiki/School_drive)** 是学校系统设置的一套奖励和惩罚措施。 **学习内驱力** 帮助形成了具有简单的、记忆性的、[连贯性](https://supermemo.guru/wiki/Coherent)、[稳定的](https://supermemo.guru/wiki/Stable)和[适用的](https://supermemo.guru/wiki/Applicable)记忆，这是因为知识的质量决定了[学习内驱力](https://supermemo.guru/wiki/Learn_drive)系统中的奖励程度。由于学校通过[课程](https://supermemo.guru/wiki/Curriculum)（而不是通过[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的神经机制）将知识序列化， **学校外驱力** 导致复杂的短期记忆容易受到[干扰](https://supermemo.guru/wiki/Interference)。在 **学习内驱力** 和 **学校外驱力** 通路之间的[竞争抑制](https://supermemo.guru/wiki/War_of_the_networks)将导致神经连接的减弱。强大的 **学校外驱力** 会削弱[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，破坏学习的热情，并导致[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)。强大的 **学习内驱力** 会导致[反抗](https://supermemo.guru/wiki/Resistance)，会保护内在的激情，但也可能会让你在学校闯祸。在 **学习内驱力** 的影响下，储存新的知识是非常有意义的，而且没有任何惩罚（根据[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的定义）。这将使学习内驱力茁壮成长，导致学习上的成功（和在学校）。相反，由 **学校外驱力** 的压力引起的知识质量低下将产生较弱的奖励信号，并可能产生强烈的[不连贯性惩罚](https://supermemo.guru/wiki/Incoherence_penalty)。这种惩罚将反馈产生对[学校外驱力](https://supermemo.guru/wiki/School_drive)的[反抗](https://supermemo.guru/wiki/Resistance)，这反过来又需要学校系统的进一步强制纠正，这又会进一步降低知识的质量。这些反馈循环可能会导致学习内驱力和学校外驱力的竞争，并最终压制一方而助长另一方。蓬勃发展的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)会增加[反抗](https://supermemo.guru/wiki/Resistance)，从而增加对学校外驱力的防卫。同样，在学校增加惩罚会增加[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)，削弱[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，导致对系统的服从。可悲的是，在大多数情况下，控制系统定格在这两个极端的中间位置（见：[老汤问题](https://supermemo.guru/wiki/Old_soup_problem)）。大多数孩子[讨厌学校](https://supermemo.guru/wiki/Why_kids_hate_school%3F)，失去对学习的热爱，仍然服从于奴役。他们恢复的最好机会是大学的自由，或者更好的是成年后的自由。见：[在神经元水平上二元决策的竞争性反馈回路](https://supermemo.guru/wiki/Competitive_feedback_loops_in_binary_decision_making_at_neuronal_level)
 
 > 版权说明：你可以在知识共享许可下重新发布这张图片，并注明 [SuperMemo World](https://supermemo.guru/wiki/SuperMemo_World)，以及更新版本的链接[这里](https://supermemo.guru/wiki/File:Neural_competition_between_the_learn_drive_and_the_system_of_rewards_at_school.png)
 
@@ -54,15 +54,15 @@
 
 [[img [Optimal push zone in education|https://supermemo.guru/images/thumb/f/f6/Optimal_push_zone.png/550px-Optimal_push_zone.png]]](https://supermemo.guru/wiki/File:Optimal_push_zone.png)
 
-> 图：[最佳推动区](https://supermemo.guru/wiki/Push_zone)（蓝色）是可能提高学习成果的外部压力范围。如果压力的增加超过了推动区，学习效果就会下降。在某些时候，压力非但不会带来更多的学习，反而会导致更少的学习（黑色的**倒退区**）。[学校教育](https://supermemo.guru/wiki/Schooling)通过[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)导致对[胁迫](https://supermemo.guru/wiki/Coercion_in_learning)的容忍度增加（绿色）。它也降低了学习成果，增加了所需的[胁迫](https://supermemo.guru/wiki/Coercion_in_learning)水平。注意胁迫功能与[毒物兴奋效应功能](https://en.wikipedia.org/wiki/Hormesis)的相似性。
+> 图：[最佳推动区](https://supermemo.guru/wiki/Push_zone)（蓝色）是可能提高学习成果的外部压力范围。如果压力的增加超过了推动区，学习效果就会下降。在某些时候，压力非但不会带来更多的学习，反而会导致更少的学习（黑色的 **倒退区** ）。[学校教育](https://supermemo.guru/wiki/Schooling)通过[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)导致对[胁迫](https://supermemo.guru/wiki/Coercion_in_learning)的容忍度增加（绿色）。它也降低了学习成果，增加了所需的[胁迫](https://supermemo.guru/wiki/Coercion_in_learning)水平。注意胁迫功能与[毒物兴奋效应功能](https://en.wikipedia.org/wiki/Hormesis)的相似性。
 
 ## 生产力的微规则
 
-我认识许多年轻人，他们带着严重受损的**自律**离开学校，并痛苦地意识到他们的生产力和成长潜力因此受到破坏。我也是他们中的一员。好消息是，至少好过觉得自己懒惰或能力不足。学校同样可能导致[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)，在这种情况下，成年人屈从于生活的潮流，被社会力量所打击，经常处于抑郁状态。较少的情况是，学校可能会培养出一个具有强烈**徒劳的毅力**的个体。这种类型的人将咬紧牙关在生活的逆境中苦苦挣扎，准备自我毁灭的劲头，影响自己和家人。很难看见学校教育带来一个快乐的、全面的和富有成效的人，充满激情。这种美好的情景在[非学校教育者](https://supermemo.guru/wiki/Unschooling)或[辍学者](https://supermemo.guru/wiki/Drop_out)中更为常见。长年的学校教育通常的乐观结果是，学生痛苦地意识到自己的弱点和不足之处。这个学生会在大学的各种选择中犹豫不决。他可能会怀疑大学是否有意义。他可能会感到非常渴望成为自己的人，但学校几乎没有为经营自己的企业提供任何准备。对于这群具有巨大潜力的年轻聪明的大脑来说，**生产力的微规则**是走向力量和永久自我发展的最佳测试方式。
+我认识许多年轻人，他们带着严重受损的 **自律** 离开学校，并痛苦地意识到他们的生产力和成长潜力因此受到破坏。我也是他们中的一员。好消息是，至少好过觉得自己懒惰或能力不足。学校同样可能导致[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)，在这种情况下，成年人屈从于生活的潮流，被社会力量所打击，经常处于抑郁状态。较少的情况是，学校可能会培养出一个具有强烈 **徒劳的毅力** 的个体。这种类型的人将咬紧牙关在生活的逆境中苦苦挣扎，准备自我毁灭的劲头，影响自己和家人。很难看见学校教育带来一个快乐的、全面的和富有成效的人，充满激情。这种美好的情景在[非学校教育者](https://supermemo.guru/wiki/Unschooling)或[辍学者](https://supermemo.guru/wiki/Drop_out)中更为常见。长年的学校教育通常的乐观结果是，学生痛苦地意识到自己的弱点和不足之处。这个学生会在大学的各种选择中犹豫不决。他可能会怀疑大学是否有意义。他可能会感到非常渴望成为自己的人，但学校几乎没有为经营自己的企业提供任何准备。对于这群具有巨大潜力的年轻聪明的大脑来说， **生产力的微规则** 是走向力量和永久自我发展的最佳测试方式。
 
-**微规则**是一些容易做出、容易执行的小决定，从长远来看，这些决定会给生产力带来复利。一个微观的规则可以说：「从今天起，我将至少读一页超级聪明的书，直到我的生命结束」。**微规则**符合[最佳推动区](https://supermemo.guru/wiki/Optimum_push_zone)。它们容易到无害的程度。它们足够简单，可以定期执行。它们提供了一个积极的反馈，强化了规则的力量。例如，要「强迫」一个人的思想去读一页书，可能需要一些努力。然而，如果选择的书是好的，很有可能在 30-100 天后，阅读将成为一种乐趣（学习的乐趣是[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的表现，它本身可以通过学习得到加强）。微观规则的正反馈循环使我们有可能无痛地引入自我强迫，并逐渐将其转化为生产力的乐趣。
+ **微规则** 是一些容易做出、容易执行的小决定，从长远来看，这些决定会给生产力带来复利。一个微观的规则可以说：「从今天起，我将至少读一页超级聪明的书，直到我的生命结束」。 **微规则** 符合[最佳推动区](https://supermemo.guru/wiki/Optimum_push_zone)。它们容易到无害的程度。它们足够简单，可以定期执行。它们提供了一个积极的反馈，强化了规则的力量。例如，要「强迫」一个人的思想去读一页书，可能需要一些努力。然而，如果选择的书是好的，很有可能在 30-100 天后，阅读将成为一种乐趣（学习的乐趣是[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的表现，它本身可以通过学习得到加强）。微观规则的正反馈循环使我们有可能无痛地引入自我强迫，并逐渐将其转化为生产力的乐趣。
 
-**毅力是可以训练的**，并且可以通过调节心智来爱护所带来的生产力，使之永久化。
+ **毅力是可以训练的** ，并且可以通过调节心智来爱护所带来的生产力，使之永久化。
 
 更多细节和我自己的故事见：[生产力的微规则](https://supermemo.guru/wiki/Micro-rules_of_productivity)
 
@@ -72,15 +72,15 @@
 
 [强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)是通往理想之路的主要障碍，在这一过程中，学习被不悦所侵吞。仅仅经过 1-2 年的学校教育，儿童就失去了他们自然的[学习内驱力](https://supermemo.guru/wiki/Learn_drive)。在10-11岁的时候，一个典型的学生不再能够自己取得进步。她需要老师或家长的推动，她需要[家庭作业](https://supermemo.guru/wiki/Homework)和成绩的鞭策。几乎不可能不受[学习中的胁迫](https://supermemo.guru/wiki/Coercion_in_learning)的影响。这种丧失学习热情的情况对于[非学校教育者](https://supermemo.guru/wiki/Unschooling)和[民主学校](https://supermemo.guru/wiki/Democratic_school)的学生来说是陌生的，但那些因与胁迫性学校系统发生冲突而进入[自由学习](https://supermemo.guru/wiki/Free_learning)世界的学生除外。
 
-即使是最好的学生也会因为学校教育而在一定程度上失去对学习的热爱。我自己对生物或化学的热情在学校受到了系统性破坏。因此，我需要**自律**来使自己回到正轨。值得庆幸的是，我从未失去对学习的热爱。如果没有这种热爱和欣赏，我甚至不会在 1983 年 8 月（21 岁）坐下来写下我的[生产力的微规则](https://supermemo.guru/wiki/Micro-rules_of_productivity)。1984 年，我对物理学、数学和计算机产生了热爱。当我开始学习计算机科学时，这些短暂的激情再次受到打击。只有在[我「发明」了完美的学校教育](https://supermemo.guru/wiki/I_invented_perfect_schooling)时，我才成功地重新焕发了活力。大学毕业后，由于 [SuperMemo](https://supermemo.guru/wiki/SuperMemo)，然后又由于[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)，我才真正理解高效学习的含义。这就是为什么我宣扬自由和[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)。[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)。必须结束[学习中的胁迫](https://supermemo.guru/wiki/Coercion_in_learning)。强迫和学校教育破坏了对学习的热爱和[自主学习](https://supermemo.guru/wiki/Self-directed_learning)的能力。人类的大脑有足够的好奇心来学习生活中所需要的一切，甚至更多。把学校强加于儿童是一个巨大的历史错误。出于类似的原因，我们应该抛弃那种认为学习基于勇气或自律的谬误。对一颗健康的心灵来说，学习是对它最好的礼物。
+即使是最好的学生也会因为学校教育而在一定程度上失去对学习的热爱。我自己对生物或化学的热情在学校受到了系统性破坏。因此，我需要 **自律** 来使自己回到正轨。值得庆幸的是，我从未失去对学习的热爱。如果没有这种热爱和欣赏，我甚至不会在 1983 年 8 月（21 岁）坐下来写下我的[生产力的微规则](https://supermemo.guru/wiki/Micro-rules_of_productivity)。1984 年，我对物理学、数学和计算机产生了热爱。当我开始学习计算机科学时，这些短暂的激情再次受到打击。只有在[我「发明」了完美的学校教育](https://supermemo.guru/wiki/I_invented_perfect_schooling)时，我才成功地重新焕发了活力。大学毕业后，由于 [SuperMemo](https://supermemo.guru/wiki/SuperMemo)，然后又由于[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)，我才真正理解高效学习的含义。这就是为什么我宣扬自由和[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)。[强制学校教育必须结束](https://supermemo.guru/wiki/Compulsory_schooling_must_end)。必须结束[学习中的胁迫](https://supermemo.guru/wiki/Coercion_in_learning)。强迫和学校教育破坏了对学习的热爱和[自主学习](https://supermemo.guru/wiki/Self-directed_learning)的能力。人类的大脑有足够的好奇心来学习生活中所需要的一切，甚至更多。把学校强加于儿童是一个巨大的历史错误。出于类似的原因，我们应该抛弃那种认为学习基于勇气或自律的谬误。对一颗健康的心灵来说，学习是对它最好的礼物。
 
 高质量的学习不需要自律
 
 ## 没有自律的生活
 
-一位著名的物理学家检查了我的[天才清单](https://supermemo.guru/wiki/Genius_Checklist)，不同意我关于自律的观点。他热爱物理学，在发现的激情驱使下可以做诺贝尔奖级别的研究。他声称自己在生活中从来不需要强迫自己做什么。我为之鼓掌。然而，仔细观察，我认为如果没有**[计划](https://supermemo.guru/wiki/Plan)**，被自发的即兴创作所驱动，我肯定会忽视生活中许多我不想忽视的领域。我甚至会在不损害健康的情况下及时停止工作去睡觉。我的大学时代就是一个证明，我喜欢在充满激情的研究，或编程之后通宵达旦地工作。时至今日，我需要有意识地及时离开电脑，并将灯光调暗，以确保日出时分能推进我的[昼夜节律相位](https://supermemo.guru/wiki/Circadian_phase)，而不是推迟它。如果我不约束自己的饮食习惯，我的体重会不会膨胀到 100 公斤以上？如果没有合适的活动规律，我怎么会坚持[自然创造周期](https://supermemo.guru/wiki/Natural_creativity_cycle)？
+一位著名的物理学家检查了我的[天才清单](https://supermemo.guru/wiki/Genius_Checklist)，不同意我关于自律的观点。他热爱物理学，在发现的激情驱使下可以做诺贝尔奖级别的研究。他声称自己在生活中从来不需要强迫自己做什么。我为之鼓掌。然而，仔细观察，我认为如果没有 **[计划](https://supermemo.guru/wiki/Plan)** ，被自发的即兴创作所驱动，我肯定会忽视生活中许多我不想忽视的领域。我甚至会在不损害健康的情况下及时停止工作去睡觉。我的大学时代就是一个证明，我喜欢在充满激情的研究，或编程之后通宵达旦地工作。时至今日，我需要有意识地及时离开电脑，并将灯光调暗，以确保日出时分能推进我的[昼夜节律相位](https://supermemo.guru/wiki/Circadian_phase)，而不是推迟它。如果我不约束自己的饮食习惯，我的体重会不会膨胀到 100 公斤以上？如果没有合适的活动规律，我怎么会坚持[自然创造周期](https://supermemo.guru/wiki/Natural_creativity_cycle)？
 
-为了证明我的观点，我观察到这位著名的物理学家并不运动。他看起来很健康，但这是最优的健康吗？我绝不会用我对运动的热爱来换取每天锻炼消耗的时间。锻炼为我的创造力提供了动力。物理学家是否已经被现代生活的舒适性所破坏？同样有趣的是，这位物理学家没有孩子。对我来说，他对[蠢蛋进化论](https://supermemo.guru/wiki/Idiocracy)的贡献表明他脱离了自然的力量。我们都必须集体回答这个问题，为什么这么多年轻的超级聪明人决定永远不结婚，永远不生孩子，或者只是在寻找伴侣的过程中失败。这是一种流行的现象，需要改变。自然地，自律不应该涉及到繁殖（我认为）。我们需要恢复那些帮助**智人**在几千年中生存的自然本能和行为。
+为了证明我的观点，我观察到这位著名的物理学家并不运动。他看起来很健康，但这是最优的健康吗？我绝不会用我对运动的热爱来换取每天锻炼消耗的时间。锻炼为我的创造力提供了动力。物理学家是否已经被现代生活的舒适性所破坏？同样有趣的是，这位物理学家没有孩子。对我来说，他对[蠢蛋进化论](https://supermemo.guru/wiki/Idiocracy)的贡献表明他脱离了自然的力量。我们都必须集体回答这个问题，为什么这么多年轻的超级聪明人决定永远不结婚，永远不生孩子，或者只是在寻找伴侣的过程中失败。这是一种流行的现象，需要改变。自然地，自律不应该涉及到繁殖（我认为）。我们需要恢复那些帮助 **智人** 在几千年中生存的自然本能和行为。
 
 我不知道没有自律的生活是否可能。它确实会促进最佳学习和最佳态度。就我自己而言，如果没有[生产力的微规则](https://supermemo.guru/wiki/Micro-rules_of_productivity)，学校教育的胁迫所造成的损害将永远不会被扭转。我需要严肃的自律，让自己从学校系统的强制推动所灌输的糟糕的生产力中清醒过来。对我来说，没有自律的生活是一个有趣的思想实验。我不确定这是否可能，是否最优。我对来自现代生活方式的干扰保持怀疑，需要对自然控制系统进行一定程度的理性控制（例如，在睡眠、营养、运动等方面）。
 
@@ -88,9 +88,9 @@
 
 ## 去抑制
 
-[Alfie Kohn](https://supermemo.guru/wiki/Alfie_Kohn) 对学校的自律性不感兴趣。他指出，徒劳的毅力可能会导致**去抑制**。在[神经网络战争](https://supermemo.guru/wiki/War_of_the_networks)中，总是有赢家的。然而，长期的战斗并不总是以对手的死亡而告终。战争可能通过抑制突触的方式导致暂时的解决。在外表上，学生可能会抑制自己的真实感受。他可能苦笑着忍受。然而，在内心，他可能包藏人最坏的祸心（见：[心怀杀机的学生](https://supermemo.guru/wiki/Students_with_murder_in_mind)）。在某些情况下，我们可能会观察到**去抑制**，在这个过程中，**徒劳的毅力**就像紧张的弹簧上的棘轮一样发挥作用，积累了反击的爆炸潜力（[来源](https://www.alfiekohn.org/article/self-discipline-overrated/)）：
+[Alfie Kohn](https://supermemo.guru/wiki/Alfie_Kohn) 对学校的自律性不感兴趣。他指出，徒劳的毅力可能会导致 **去抑制** 。在[神经网络战争](https://supermemo.guru/wiki/War_of_the_networks)中，总是有赢家的。然而，长期的战斗并不总是以对手的死亡而告终。战争可能通过抑制突触的方式导致暂时的解决。在外表上，学生可能会抑制自己的真实感受。他可能苦笑着忍受。然而，在内心，他可能包藏人最坏的祸心（见：[心怀杀机的学生](https://supermemo.guru/wiki/Students_with_murder_in_mind)）。在某些情况下，我们可能会观察到 **去抑制** ，在这个过程中， **徒劳的毅力** 就像紧张的弹簧上的棘轮一样发挥作用，积累了反击的爆炸潜力（[来源](https://www.alfiekohn.org/article/self-discipline-overrated/)）：
 
-> 令人印象深刻的自律可能包含其自身毁灭的种子：爆炸性的控制失败，心理学家称之为 「**去抑制**」。从一个不健康的极端，人们可能突然发现自己处于另一个极端。顺从的学生突然以令人震惊的方式行事：虔诚的戒酒者开始危险的狂饮，或从绝对的禁欲转向鲁莽的无保护性行为。此外，努力抑制潜在的不良行为可能会产生其他负面影响。对各种试图抑制情感和行为的研究进行了详细的回顾，结论是结果往往包括 「负面情绪（不适或痛苦）[和]认知干扰（包括分心和对被禁止行为的侵入性、强迫性想法）」。
+> 令人印象深刻的自律可能包含其自身毁灭的种子：爆炸性的控制失败，心理学家称之为 「 **去抑制** 」。从一个不健康的极端，人们可能突然发现自己处于另一个极端。顺从的学生突然以令人震惊的方式行事：虔诚的戒酒者开始危险的狂饮，或从绝对的禁欲转向鲁莽的无保护性行为。此外，努力抑制潜在的不良行为可能会产生其他负面影响。对各种试图抑制情感和行为的研究进行了详细的回顾，结论是结果往往包括 「负面情绪（不适或痛苦）[和]认知干扰（包括分心和对被禁止行为的侵入性、强迫性想法）」。
 
 这种现象是所有节食者都知道的，他们以自律的方式控制食欲，却经历了复发的灾难性失败，在这种情况下他们以双倍的速度恢复体重。许多教师也会回忆起这样的故事：成绩与多年后学生在街上对教师的反应之间存在着反比关系。往往是那些 「坏」学生最开朗和热情。
 
@@ -114,7 +114,7 @@
 
 我最好的猜测是，我对自律的兴趣可能始于 1974 年左右（12 岁）。我得到了一本关于健美的书，对在身体雕塑领域可能实现的目标感到敬畏。在那些日子里，我开始了一些锻炼，并痴迷于打破引体向上、俯卧撑或......憋气的记录。我每天不断增加俯卧撑，直到我达到 90 个（可能是糟糕的青春期前的质量）。我为自己能长时间憋气而感到自豪（1982 年 12 月 3 日在生理学课上记录了 3 分 15 秒）。我为我的心脏在早上能有多慢而感到自豪。
 
-在高中的某个时候，我提出了一个想法：每次我想**「我不愿意做 」**的时候，我就必须做。仿佛是在证明理性思维才是老大。每次我想**「我不愿意跑上 12 段楼梯」**，我就必须去做。每次我懒得起身去关我们公寓区深夜的走廊上的灯，我都必须这么做（我是唯一关心此事的好人）。
+在高中的某个时候，我提出了一个想法：每次我想 **「我不愿意做 」** 的时候，我就必须做。仿佛是在证明理性思维才是老大。每次我想 **「我不愿意跑上 12 段楼梯」** ，我就必须去做。每次我懒得起身去关我们公寓区深夜的走廊上的灯，我都必须这么做（我是唯一关心此事的好人）。
 
 很快我就发现，这种想法会造成伤害。1978 年，我有资格参加波兰的拳击锦标赛。我决定降低一个体重级别。我在不太了解其灾难性后果的情况下努力进行脱水训练。在清晨的火车旅行之后，我昏昏欲睡地迎接我的第一场比赛。结果，我在第一轮就输了，因为我几乎无法站直：又困又脱水（1978 年 5 月 12 日，星期五）。接下来的一周，我在床上度过了心律不齐的日子。我吸取了教训，更加关注人类生理学，在接下来的四十年里，这成为我最喜欢的研究课题之一。
 
@@ -122,9 +122,9 @@
 
 在 20 世纪 90 年代，我试图过一种健康的生活方式，但仍然无法摆脱那种工作狂的个性。只有在《多语言 SuperMemo》光盘发行期间，在不眠之夜引入了「最后几分钟写错出的 bug」，我决定绝不再在不完美的精神状态下做任何脑力劳动。糟糕的大脑会造成更多的伤害而不是好处！我还决定不再通宵达旦地工作，这是我在大学里经常有的习惯。1994 年，我在[创意假期](https://supermemo.guru/wiki/Creative_vacation)的帮助下开始了自我发现的过程。1999 年（37 岁）我才开始[自由运行睡眠](https://supermemo.guru/wiki/Free_running_sleep)。这让我立即警觉到 [DSPS](https://supermemo.guru/wiki/DSPS) 的问题，以及现代生活方式对睡眠质量的负面影响。
 
-2000 年 5 月 4 日，我第一次使用了 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中的 **[Plan](https://supermemo.guru/wiki/Plan)**。从那天起，我就能看到一天中日程安排的微小变化对我生活的影响。我可以在早上的咖啡时段增加 5 分钟，看看收益是否超过了成本。放慢速度能不能够提高生产力？我可以将我的电子邮件时间段减少 2 分钟，看看由此产生的积压对沟通质量的影响。在使用 **Plan** 的 20 年中，我主要发现自律是很容易的，生产力是很有趣的。这都是在理性思维的胃口、爬虫类大脑（译注：边缘系统）及人类生理的需求之间找到正确的平衡。最重要的是，坚持[自然创造周期](https://supermemo.guru/wiki/Natural_creativity_cycle)将艰苦的工作变成了生产的乐趣。我仍然是一个工作狂，但我现在不配这个标签了：我再也不把工作推到健康的界限之外。
+2000 年 5 月 4 日，我第一次使用了 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中的 **[Plan](https://supermemo.guru/wiki/Plan)** 。从那天起，我就能看到一天中日程安排的微小变化对我生活的影响。我可以在早上的咖啡时段增加 5 分钟，看看收益是否超过了成本。放慢速度能不能够提高生产力？我可以将我的电子邮件时间段减少 2 分钟，看看由此产生的积压对沟通质量的影响。在使用 **Plan** 的 20 年中，我主要发现自律是很容易的，生产力是很有趣的。这都是在理性思维的胃口、爬虫类大脑（译注：边缘系统）及人类生理的需求之间找到正确的平衡。最重要的是，坚持[自然创造周期](https://supermemo.guru/wiki/Natural_creativity_cycle)将艰苦的工作变成了生产的乐趣。我仍然是一个工作狂，但我现在不配这个标签了：我再也不把工作推到健康的界限之外。
 
-我对自己在本世纪初关于**自律**的文章的措辞仍有异议（例如[天才清单](https://supermemo.guru/wiki/Genius_checklist)）。只有当我完全理解了胁迫的危害，以及[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)的力量，我才能看到自律必须在[最佳推动区](https://supermemo.guru/wiki/Optimum_push_zone)内运作，以确保它不会造成伤害。很明显，这个故事还没有结束：我仍然在为尽早入睡而挣扎，而且我仍然不完全了解[昼夜节律周期](https://supermemo.guru/wiki/Circadian_cycle)在控制食欲和进食方面的力量。这些天来，关于大脑和生理学的新数据集使我感到非常乐观，我了解到这些过程是可以被利用的。如果是这样，我应该高兴地大叫：「好日子还在六十岁呢 」。对于新的几代人来说，在科学和良好的育儿方式的支持下，好日子应该从受孕开始！
+我对自己在本世纪初关于 **自律** 的文章的措辞仍有异议（例如[天才清单](https://supermemo.guru/wiki/Genius_checklist)）。只有当我完全理解了胁迫的危害，以及[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)的力量，我才能看到自律必须在[最佳推动区](https://supermemo.guru/wiki/Optimum_push_zone)内运作，以确保它不会造成伤害。很明显，这个故事还没有结束：我仍然在为尽早入睡而挣扎，而且我仍然不完全了解[昼夜节律周期](https://supermemo.guru/wiki/Circadian_cycle)在控制食欲和进食方面的力量。这些天来，关于大脑和生理学的新数据集使我感到非常乐观，我了解到这些过程是可以被利用的。如果是这样，我应该高兴地大叫：「好日子还在六十岁呢 」。对于新的几代人来说，在科学和良好的育儿方式的支持下，好日子应该从受孕开始！
 
 ## 示例规则集
 
@@ -132,7 +132,7 @@
 
 下面我列出了一些我的示例规则。许多规则只对我有用。许多是难以复制的。每个人都应该有自己的一套规则，以适合自己的生活方式、环境、目标、个性等。我的一些规则：
 
-- 用在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中的**工具：[Plan](https://supermemo.guru/wiki/Plan)** 掌控生活。
+- 用在 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 中的 **工具：[Plan](https://supermemo.guru/wiki/Plan)** 掌控生活。
 
 - 工作不要超过最佳睡眠时间
 
@@ -168,11 +168,11 @@
 
 - 没有婚礼，没有葬礼，没有聚会，没有 「特殊场合」
 
-我有几百条受健康启发的奇特规则，很难复制（例如赤脚跑步）。它们都是在别人的启发下诞生的，或者只是关于健康的推理。我是自己发现赤脚跑步的（2004 年偶然发现的）。直到那时，我才从 Christopher McDougall （**「天生就会跑 」**）的话中找到了完全的证实。
+我有几百条受健康启发的奇特规则，很难复制（例如赤脚跑步）。它们都是在别人的启发下诞生的，或者只是关于健康的推理。我是自己发现赤脚跑步的（2004 年偶然发现的）。直到那时，我才从 Christopher McDougall （ **「天生就会跑 」** ）的话中找到了完全的证实。
 
 关于婚礼和葬礼的规定可能是最难的。我因为违反社会规范而被纠缠了几十年。年长的好处来了。在我还是学生时，我受到了全家人的严厉批评。而如今，这种麻烦基本上消失了。那些认识我的人都习惯了我的怪癖。那些不熟悉我的人，由于我的年龄，不太可能攻击我。可悲的是，大部分的攻击来自于正在消亡的一代。
 
-沿着 **[Plan](https://supermemo.guru/wiki/Plan)** 的规则运行生活，是纷争的根源。我经常重申**「Plan 是上帝 」**这一规则。同时，我也有一条不成文的规定，那就是绝不浪费好的创意。如果我处于心流状态，我常常忽略了创作活动结束的警报。我打开一个**「近似的精神警报」**，有意增加压力和匆忙的程度，这有助于收尾工作，并防止对锻炼和睡眠时间的重大侵扰。可以看到这将带来一些受害者：这就是为什么我（偶尔）不善于好好回复电子邮件的原因，我向你们道歉。
+沿着 **[Plan](https://supermemo.guru/wiki/Plan)** 的规则运行生活，是纷争的根源。我经常重申 **「Plan 是上帝 」** 这一规则。同时，我也有一条不成文的规定，那就是绝不浪费好的创意。如果我处于心流状态，我常常忽略了创作活动结束的警报。我打开一个 **「近似的精神警报」** ，有意增加压力和匆忙的程度，这有助于收尾工作，并防止对锻炼和睡眠时间的重大侵扰。可以看到这将带来一些受害者：这就是为什么我（偶尔）不善于好好回复电子邮件的原因，我向你们道歉。
 
 ## 完美的自控公式
 
@@ -186,7 +186,7 @@
 
 - 在[推动区](https://supermemo.guru/wiki/Push_zone)内逐步采用自律，以尽量减少消极的副作用
 
-- 只对那些在理想情况下长期自然愉快的活动（如学习、锻炼等）逐步采用自律。对于本质上不愉快的活动（如看牙医），你需要纯粹的勇气（要**「吃掉那只青蛙」**）
+- 只对那些在理想情况下长期自然愉快的活动（如学习、锻炼等）逐步采用自律。对于本质上不愉快的活动（如看牙医），你需要纯粹的勇气（要 **「吃掉那只青蛙」** ）
 
 - 在学习和长期目标的衔接上下功夫，使专业知识有助于将工作转化为乐趣
 

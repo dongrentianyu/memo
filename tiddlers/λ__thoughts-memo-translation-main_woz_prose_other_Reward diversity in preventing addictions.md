@@ -12,7 +12,7 @@
 
 Bruce Alexander 的「老鼠乐园」实验提供了第一条线索，即笼子里的老鼠和（相对）自由的老鼠，个性截然不同。奖励越稀缺，越容易成瘾。压力之下增强奖励更加有威力。抗抑郁药可以减少赌博。有许多迹象表明，奖励系统的损伤可能会减少奖励途径的数量，而现有的途径很容易被耗尽。这可能是抑郁症的机制。
 
-缺乏奖励的弱势个体更容易对**可变奖励**做出反应。在健康的大脑中，当奖励和惩罚信号的幅度较低时，网络会寻找平均值或尾随平均值（对于高度波动的信号）。在一个健康的大脑中，在赌场里花一些时间就足以发现预期报酬为负；在一个健康的大脑中，花一些时间玩电脑游戏就足以开启执行自控，做出更高层次的评估，并寻找针对净损失的补救措施。此外，多个奖励来源会产生更一致的结果奖励信号：简单的生活乐趣。这种一致性有助于淹没由偶尔的惩罚引起的波动。
+缺乏奖励的弱势个体更容易对 **可变奖励** 做出反应。在健康的大脑中，当奖励和惩罚信号的幅度较低时，网络会寻找平均值或尾随平均值（对于高度波动的信号）。在一个健康的大脑中，在赌场里花一些时间就足以发现预期报酬为负；在一个健康的大脑中，花一些时间玩电脑游戏就足以开启执行自控，做出更高层次的评估，并寻找针对净损失的补救措施。此外，多个奖励来源会产生更一致的结果奖励信号：简单的生活乐趣。这种一致性有助于淹没由偶尔的惩罚引起的波动。
 
 当对奖励的反应被放大时，尤其是当它来源单一时，情况就不一样了。这可能始于在赌场中押注过多。然而，主要的社会问题来自于这样一个事实：到了 15 岁，很大一部分受教育的人都受到了心理上的伤害。随着[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)的猖獗和[学习内驱力](https://supermemo.guru/wiki/Learn_drive)的丧失，可变奖励的影响被放大了。从神经生理学上讲，在学校里失去自由的情况平均来说没有那么严重，但这与笼中的老鼠失去自由没有多大区别。对于一个[被霸凌孩子](https://supermemo.guru/wiki/Bullying)来说，老鼠笼实际上可能更像是是一个安全的港湾。
 
@@ -22,9 +22,9 @@ Bruce Alexander 的「老鼠乐园」实验提供了第一条线索，即笼子�
 
 对于一个现代的孩子来说，抛开儿童虐待因素不谈，[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)主要是在学校诞生的。当一个孩子在学习和行为上总是违背本能在行动时，大脑就会将决定与奖励脱钩。换句话说，通过条件反射，孩子不再对自然的奖励刺激做出反应，正如那些由[学习驱动力](https://supermemo.guru/wiki/Learn_drive)产生的刺激（即在学校受到最高程度抑制的本能力量）。如果抑制具有[网络战争](https://supermemo.guru/wiki/War_of_the_networks)的形式，我们就会得到一个冷漠的、没有更高目标的孩子。如果奖励的主要来源在神经层面被切断，所有可用的形式或奖励都会随着剥夺的比例而变得更具吸引力。这就是为什么受虐待的孩子更有可能对毒品或酒精上瘾，也是为什么学校对成瘾有重大的贡献的原因。如果有人上 Facebook 是为了让自己感觉更好，我们可以知道这是潜在成瘾的危险指标。
 
-如果[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)导致抑郁症，我们可以使用抗抑郁药来支撑耗尽的奖励途径。然而，这只是辅助的第一步。从长远来看，[学习内驱力](https://supermemo.guru/wiki/Learn_drive)和其他自然奖励途径的恢复是一个漫长的过程，需要在大脑中建立新的连接。这种恢复也将改善对**可变奖励**的神经有效反应。
+如果[习得性无助](https://supermemo.guru/wiki/Learned_helplessness)导致抑郁症，我们可以使用抗抑郁药来支撑耗尽的奖励途径。然而，这只是辅助的第一步。从长远来看，[学习内驱力](https://supermemo.guru/wiki/Learn_drive)和其他自然奖励途径的恢复是一个漫长的过程，需要在大脑中建立新的连接。这种恢复也将改善对 **可变奖励** 的神经有效反应。
 
-奖励的[多样性](https://supermemo.guru/wiki/Diversity)是一道抵御**[可变奖励](https://supermemo.guru/wiki/Variable_reward)**危险的重要防御。奖励的多样性对抑郁症有预防作用
+奖励的[多样性](https://supermemo.guru/wiki/Diversity)是一道抵御 **[可变奖励](https://supermemo.guru/wiki/Variable_reward)** 危险的重要防御。奖励的多样性对抑郁症有预防作用
 
 ## 父母比电子游戏的危害更大
 
@@ -42,9 +42,9 @@ Bruce Alexander 的「老鼠乐园」实验提供了第一条线索，即笼子�
 
 个人轶事。[为什么使用轶事？](https://supermemo.guru/wiki/Why_use_anecdotes%3F)
 
-在我年轻时，我妈妈试图控制我的就寝时间。我记得我在被窝里打着手电看书。那是我对书籍的吸引力达到顶峰的时候。我是一个贪婪的读者。当阅读书籍成为高中的必修课，当书籍的选择被控制在部级，我对波兰文学产生了仇恨（见：[我不看书](https://supermemo.guru/wiki/I_do_not_read_books)）。**健康的孩子是[程序化的抵制控制](https://supermemo.guru/wiki/Education_counteracts_evolution)**。如果家长让孩子仍保有合理的自主权利，而家长对孩子稍加留意的话，这点便很寻常。可悲的是，这种观察对世界各地的教育系统的设计没有什么影响
+在我年轻时，我妈妈试图控制我的就寝时间。我记得我在被窝里打着手电看书。那是我对书籍的吸引力达到顶峰的时候。我是一个贪婪的读者。当阅读书籍成为高中的必修课，当书籍的选择被控制在部级，我对波兰文学产生了仇恨（见：[我不看书](https://supermemo.guru/wiki/I_do_not_read_books)）。 **健康的孩子是[程序化的抵制控制](https://supermemo.guru/wiki/Education_counteracts_evolution)** 。如果家长让孩子仍保有合理的自主权利，而家长对孩子稍加留意的话，这点便很寻常。可悲的是，这种观察对世界各地的教育系统的设计没有什么影响
 
-父母的管教始终自洽的话，自由缺失带来的伤害能得到部分弥补。但如果父母优柔寡断，摇摆不定，无法做到自洽，也有一个简单的解决方法，那就是给予**无条件的爱**。给予无条件的爱是很难的，尤其是当大脑受到来自四面八方的现代社会压力源的轰炸。父母天生具备无条件爱的所有必要本能。有时，养父母在这方面做的比亲生父母更好。最有力的预测因素之一是孩子首先在家庭中的受欢迎程度。在痴迷于新家庭成员到来的家庭中，无条件的爱很容易产生，这就开始了一个循环，这个循环包含了爱的积极反馈和阐述爱的成长。如果孩子是不想要的或是意外产生的，结果可能会是一系列需要自我维持的情绪动荡。理性的补救措施可能是把负面情绪放在心里吧？当爱很难得的时候，给孩子成长的空间可能会成为重启积极反馈的引擎。通常，这些都是短期的收益。家庭似乎有自己的[行为系统](https://supermemo.guru/wiki/Behavioral_system)并且具备相当好的设定，这些行为系统会决定结果。
+父母的管教始终自洽的话，自由缺失带来的伤害能得到部分弥补。但如果父母优柔寡断，摇摆不定，无法做到自洽，也有一个简单的解决方法，那就是给予 **无条件的爱** 。给予无条件的爱是很难的，尤其是当大脑受到来自四面八方的现代社会压力源的轰炸。父母天生具备无条件爱的所有必要本能。有时，养父母在这方面做的比亲生父母更好。最有力的预测因素之一是孩子首先在家庭中的受欢迎程度。在痴迷于新家庭成员到来的家庭中，无条件的爱很容易产生，这就开始了一个循环，这个循环包含了爱的积极反馈和阐述爱的成长。如果孩子是不想要的或是意外产生的，结果可能会是一系列需要自我维持的情绪动荡。理性的补救措施可能是把负面情绪放在心里吧？当爱很难得的时候，给孩子成长的空间可能会成为重启积极反馈的引擎。通常，这些都是短期的收益。家庭似乎有自己的[行为系统](https://supermemo.guru/wiki/Behavioral_system)并且具备相当好的设定，这些行为系统会决定结果。
 
 无条件的爱是防止导致成瘾的可变奖励的最佳补救措施之一
 
@@ -58,7 +58,7 @@ Bruce Alexander 的「老鼠乐园」实验提供了第一条线索，即笼子�
 
 SuperMemo 插入。[什么是 SuperMemo？](https://supermemo.guru/wiki/What_is_SuperMemo%3F)
 
-一个有趣的问题出现了：[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)是否有奖励？随着一连串不可预知的成功和失败，在重复中存在着一些可变奖励。要做到这一点，知识必须是[表述良好的](https://supermemo.guru/wiki/20_rules)。否则，我们可能会以[厌恶 SuperMemo](https://supermemo.guru/wiki/Hating_SuperMemo) 而告终。然而，如果表述良好，[知识的乐趣](https://supermemo.guru/wiki/Pleasure_of_knowing)是否战胜了缺乏新意的重复中的[无聊](https://supermemo.guru/wiki/Boredom)？好的成绩是否有奖励？在使用[渐进阅读](https://supermemo.guru/wiki/Incremental_reading) 20 年后，我发现更难作证了。在[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)中，[重复](https://supermemo.guru/wiki/Repetition)与对新事物的学习交织在一起，这是很有成就感的（见：[学习的快乐](https://supermemo.guru/wiki/Pleasure_of_learning)）。渐进阅读的乐趣是持续且可持续的。纯粹的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)更像是可变奖励，而且只有在以正确的方式进行时才会有。失败通常是一种惩罚，但由于干扰造成的失败会特别痛苦（例如回答「鱼钩」而不是「鱼叉」）。在很晚的时候或在错误的[昼夜节律框架](https://supermemo.guru/wiki/Circadian_frame)中进行重复可能相当不愉快，并可能使大脑不喜欢 SuperMemo（我知道一个用户喜欢用啤酒「加糖」的夜间重复，我不确定这是不是一个好主意）。发现无用的知识可能令人不愉快，但它会立即被一个愉快的**删除**所补救。快乐的来源有很多。[知道的快乐](https://supermemo.guru/wiki/Pleasure_of_knowing)（特别是在高[适用性](https://supermemo.guru/wiki/Applicability)的情况下），对使[项目](https://supermemo.guru/wiki/Item)从视野中「消失」的超长间隔的满意，重新发现被遗忘的知识（在这里失败也可以是愉快的），甚至是「责任完成」的感觉（这对学习本身可能没有太大好处）。糟糕的项目表述可能是一种不愉快的遭遇，在重新表述后变成了快乐。在最后这种情况下，我们有一个成功的公式。警惕地重新表述的用户往往能持续下去。那些懒得改进的人，往往会感到他们的知识变得陈旧。当水蛭开始堆积，快乐消失，效率下降，用户可能会长期放弃 SuperMemo，或者完全放弃。
+一个有趣的问题出现了：[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)是否有奖励？随着一连串不可预知的成功和失败，在重复中存在着一些可变奖励。要做到这一点，知识必须是[表述良好的](https://supermemo.guru/wiki/20_rules)。否则，我们可能会以[厌恶 SuperMemo](https://supermemo.guru/wiki/Hating_SuperMemo) 而告终。然而，如果表述良好，[知识的乐趣](https://supermemo.guru/wiki/Pleasure_of_knowing)是否战胜了缺乏新意的重复中的[无聊](https://supermemo.guru/wiki/Boredom)？好的成绩是否有奖励？在使用[渐进阅读](https://supermemo.guru/wiki/Incremental_reading) 20 年后，我发现更难作证了。在[渐进阅读](https://supermemo.guru/wiki/Incremental_reading)中，[重复](https://supermemo.guru/wiki/Repetition)与对新事物的学习交织在一起，这是很有成就感的（见：[学习的快乐](https://supermemo.guru/wiki/Pleasure_of_learning)）。渐进阅读的乐趣是持续且可持续的。纯粹的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)更像是可变奖励，而且只有在以正确的方式进行时才会有。失败通常是一种惩罚，但由于干扰造成的失败会特别痛苦（例如回答「鱼钩」而不是「鱼叉」）。在很晚的时候或在错误的[昼夜节律框架](https://supermemo.guru/wiki/Circadian_frame)中进行重复可能相当不愉快，并可能使大脑不喜欢 SuperMemo（我知道一个用户喜欢用啤酒「加糖」的夜间重复，我不确定这是不是一个好主意）。发现无用的知识可能令人不愉快，但它会立即被一个愉快的 **删除** 所补救。快乐的来源有很多。[知道的快乐](https://supermemo.guru/wiki/Pleasure_of_knowing)（特别是在高[适用性](https://supermemo.guru/wiki/Applicability)的情况下），对使[项目](https://supermemo.guru/wiki/Item)从视野中「消失」的超长间隔的满意，重新发现被遗忘的知识（在这里失败也可以是愉快的），甚至是「责任完成」的感觉（这对学习本身可能没有太大好处）。糟糕的项目表述可能是一种不愉快的遭遇，在重新表述后变成了快乐。在最后这种情况下，我们有一个成功的公式。警惕地重新表述的用户往往能持续下去。那些懒得改进的人，往往会感到他们的知识变得陈旧。当水蛭开始堆积，快乐消失，效率下降，用户可能会长期放弃 SuperMemo，或者完全放弃。
 
 管理良好的[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)是一种令人愉快的[可变奖励](https://supermemo.guru/wiki/Variable_reward)。
 

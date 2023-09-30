@@ -26,7 +26,7 @@
 
 以下是对午睡利弊的简短总结：
 
-**优点：**
+ **优点：** 
 
 - [午睡](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life:_Glossary#siesta)，富含 [NREM](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life:_Glossary#NREM) 睡眠，会使人的警觉性大幅提高，创意人士会非常受用。根据不同的测量口径，这种提高可能高达 50%！
 
@@ -36,7 +36,7 @@
 
 - 午睡可以降低血压，改善心血管健康，因此有可能延长你的寿命！
 
-**缺点：**
+ **缺点：** 
 
 - 午睡时机没选好（太晚）可能会加剧[失眠](https://supermemo.guru/wiki/Insomnia)。这就是为什么许多睡眠专家反对午睡。然而，[选取合适时机即可减轻这个问题](https://supermemo.guru/wiki/Best_time_for_napping#Best_nap_timing)
 
@@ -50,15 +50,15 @@
 
 在美国，越来越多的公司已经决定将咖啡休息时间改为午睡休息时间，并为午睡者设计了专门的隔间。在未来，这种趋势可能会变得[更加突出](http://www.businessweek.com/magazine/content/10_36/b4193084949626.htm)，因为[咖啡因](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life:_Glossary#caffeine)在消除疲劳方面的效果还不及午睡的一小部分。由于神经方面的原因，咖啡、甜甜圈、俯卧撑和其他方法加在一起，在精神恢复方面永不会被证明像午睡一样有效。同时，我们的社会强烈地倾向于信息处理，在此警觉性是生产力的核心。当生产力趋向平均时，企业肯定会利用关于午睡的最新研究。
 
-**重要！**不要把[午睡](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life:_Glossary#siesta)的健康概念与某个[多相睡眠](https://supermemo.guru/wiki/Science_of_polyphasic_sleep)的非常不健康的想法混淆起来。
+ **重要！** 不要把[午睡](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life:_Glossary#siesta)的健康概念与某个[多相睡眠](https://supermemo.guru/wiki/Science_of_polyphasic_sleep)的非常不健康的想法混淆起来。
 
 ## 11.6 午睡规则手册
 
-- **不要使用闹钟！**与流行的看法相反，安排好的午睡不会导致[睡眠惯性](https://supermemo.guru/wiki/Sleep_inertia)（除非你严重缺乏睡眠）。闹钟会严重破坏午睡的价值！
+- **不要使用闹钟！** 与流行的看法相反，安排好的午睡不会导致[睡眠惯性](https://supermemo.guru/wiki/Sleep_inertia)（除非你严重缺乏睡眠）。闹钟会严重破坏午睡的价值！
 
 - 准确测量自然醒和午睡之间的最佳时间长度，使午睡的效果最大化。午睡应该在警觉性的低谷时进行，这通常是在自然醒后的 7-8 小时。午睡的初学者往往错过了正确的时间！选择 7 小时作为你的起点，可以留出 60 分钟的余地，以防你因某种原因错失良机。见：[午睡的最佳时间](https://supermemo.guru/wiki/Best_time_for_napping)
 
-- 只在午睡**之后**喝咖啡或其他含[咖啡因](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life:_Glossary#caffeine)的饮料。即使摄入非常少量的咖啡因，睡眠质量也会受到干扰。
+- 只在午睡 **之后** 喝咖啡或其他含[咖啡因](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life:_Glossary#caffeine)的饮料。即使摄入非常少量的咖啡因，睡眠质量也会受到干扰。
 
 - 如果你在午睡前饮酒，那么确保在你入睡时，酒精应基本被代谢掉（即离开你的身体）
 

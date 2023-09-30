@@ -8,4 +8,4 @@
 
 一种相关的潜在机制：[嵌入卡片模板可以主动辅助助记媒介读者编写卡片](https://notes.andymatuschak.org/z2GSNFzS3TRYHW1UGQhay6Y4J16BVRSwsjWZ)
 
-**将想法送入你的轨道（Orbit）**
+ **将想法送入你的轨道（Orbit）** 

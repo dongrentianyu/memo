@@ -16,9 +16,9 @@
 
 - [赋能环境的重点是做被赋能的事](https://notes.andymatuschak.org/z6tuZZKaNeLM7c9jPZwNVGURGTuXLy8jesv5i)
 
-是否有可能反其道而行之？启动一个以追求内在意义为目的的项目，**是为了**收获在这种情况下出现的赋能环境？这并不清楚。最有可能的失败模式是，所产生的项目不会**真正**创造所需的强烈的个人联系。但这正是我们在 [Ladder](https://notes.andymatuschak.org/z62KCVNbi7fBXMNzcDBUeEu2ePfc3EwUws9oa) 中所尝试的。
+是否有可能反其道而行之？启动一个以追求内在意义为目的的项目， **是为了** 收获在这种情况下出现的赋能环境？这并不清楚。最有可能的失败模式是，所产生的项目不会 **真正** 创造所需的强烈的个人联系。但这正是我们在 [Ladder](https://notes.andymatuschak.org/z62KCVNbi7fBXMNzcDBUeEu2ePfc3EwUws9oa) 中所尝试的。
 
-根据 [Seymour Papert. (2005). You Can’t Think About Thinking Without Thinking About Thinking About Something. Contemporary Issues in Technology and Teacher Education, 5(3), 366–367.](https://notes.andymatuschak.org/z246TsTf2Swmj6B1j93Q9FLd9L3VskhpMoUs)：你不能在真空中、在抽象的意义上教儿童「逻辑思维」（译者按：无语义学习）；同样，你也不能凭空在抽象的意义上制造「思想工具」，你只能为了思考特定事物去制造一个工具；同样地，你必须理解**有关**特定事物的逻辑思维。
+根据 [Seymour Papert. (2005). You Can’t Think About Thinking Without Thinking About Thinking About Something. Contemporary Issues in Technology and Teacher Education, 5(3), 366–367.](https://notes.andymatuschak.org/z246TsTf2Swmj6B1j93Q9FLd9L3VskhpMoUs)：你不能在真空中、在抽象的意义上教儿童「逻辑思维」（译者按：无语义学习）；同样，你也不能凭空在抽象的意义上制造「思想工具」，你只能为了思考特定事物去制造一个工具；同样地，你必须理解 **有关** 特定事物的逻辑思维。
 
 ------
 
@@ -26,7 +26,7 @@
 
 https://github.com/mnielsen/tpft/blob/master/big_picture.md
 
-> 最强大的工具不是被单独开发出来的。相反，它们是作为项目的一部分出现的，是为了其自身的内在原因而完成的。想想彩色玻璃窗的艺术，它是为大教堂的上帝服务而开发的。或者想想皮克斯为故事服务的电脑动画的发展。这些更大的目标引导着工具的发展，确保它们**能**被认真使用。这听起来像是一句陈词滥调，但却经常被违反。数学或艺术或**等**的 「工具」往往是由那些本身并不深入该领域的人开发的。除非他们做了极其深入的用户研究，有效地与严肃的用户合作，否则他们很难建立任何其他「看似合理」的玩具。
+> 最强大的工具不是被单独开发出来的。相反，它们是作为项目的一部分出现的，是为了其自身的内在原因而完成的。想想彩色玻璃窗的艺术，它是为大教堂的上帝服务而开发的。或者想想皮克斯为故事服务的电脑动画的发展。这些更大的目标引导着工具的发展，确保它们 **能** 被认真使用。这听起来像是一句陈词滥调，但却经常被违反。数学或艺术或 **等** 的 「工具」往往是由那些本身并不深入该领域的人开发的。除非他们做了极其深入的用户研究，有效地与严肃的用户合作，否则他们很难建立任何其他「看似合理」的玩具。
 
 >
 

@@ -2,7 +2,7 @@
 
 原文：[Alfie Kohn - supermemo.guru](https://supermemo.guru/wiki/Alfie_Kohn)
 
-**Alfie Kohn**（生于 1957 年）是美国教育专家。他结合优秀的行为科学知识与朴素的常识，准确地诊断了美国教育的糟糕状况。值得注意的是，他是最突出的、对学习中的表扬和虚假奖励的反对者（见：[表扬在学习中的破坏性影响](https://supermemo.guru/wiki/Destructive_impact_of_praise_in_learning)）。很少有作者能令人信服地表明奖励制度与人生成功之间的联系。它可能是「传统的成功」，也可能是真正的成就。基于[学校教育](https://supermemo.guru/wiki/Schooling)的 「常规」道路充满了危险，包括自杀。Kohn 不仅令人信服，而且他热衷于防止[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)所引起的误导。
+ **Alfie Kohn** （生于 1957 年）是美国教育专家。他结合优秀的行为科学知识与朴素的常识，准确地诊断了美国教育的糟糕状况。值得注意的是，他是最突出的、对学习中的表扬和虚假奖励的反对者（见：[表扬在学习中的破坏性影响](https://supermemo.guru/wiki/Destructive_impact_of_praise_in_learning)）。很少有作者能令人信服地表明奖励制度与人生成功之间的联系。它可能是「传统的成功」，也可能是真正的成就。基于[学校教育](https://supermemo.guru/wiki/Schooling)的 「常规」道路充满了危险，包括自杀。Kohn 不仅令人信服，而且他热衷于防止[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)所引起的误导。
 
 尽管我认为我确实了解大脑，但我经常不了解学校系统。当有疑问时，我就会查阅 Alfie Kohn 丰富的图书馆，可在[他的主页](https://www.alfiekohn.org/)上找到。
 

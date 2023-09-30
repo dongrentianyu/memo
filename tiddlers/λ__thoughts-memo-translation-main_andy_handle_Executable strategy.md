@@ -4,7 +4,7 @@
 
 在创造性的工作以及生活中，许多目标似乎不可预测又难以实现，非常依赖希望和运气：养成习惯，健身塑形，著书立说，做研究项目等等（见[知识工作的核心实践往往是临时性的](https://notes.andymatuschak.org/z7z6uFero1JXyANDsq7P4RzeUemPWrHD7Ejmn)）
 
-打扫厨房则并非如此。清理收件箱甚至也非如此（[收件箱维护的分流策略（如「收件箱归零」）往往不够稳健](https://notes.andymatuschak.org/z8aZybuJJopS5fL7TnPou2JcmCsBUJeqirbBh)）。对于许多普普通通的目标，你有**可执行的策略**来实现它们，这些策略以可预测、可管理的方式来可靠地实现目标。它们是元认知支持（[元认知支持充当认知脚手架](https://notes.andymatuschak.org/z4qFtxPZi21DKoLruHcmsocee1YnZy9JMArb6)）。
+打扫厨房则并非如此。清理收件箱甚至也非如此（[收件箱维护的分流策略（如「收件箱归零」）往往不够稳健](https://notes.andymatuschak.org/z8aZybuJJopS5fL7TnPou2JcmCsBUJeqirbBh)）。对于许多普普通通的目标，你有 **可执行的策略** 来实现它们，这些策略以可预测、可管理的方式来可靠地实现目标。它们是元认知支持（[元认知支持充当认知脚手架](https://notes.andymatuschak.org/z4qFtxPZi21DKoLruHcmsocee1YnZy9JMArb6)）。
 
 为了构建可执行的策略，我们必须将任务分解成一项项活动，保证：
 

@@ -4,23 +4,23 @@
 
 ## 智力是什么
 
-对人类而言，**[智力](https://supermemo.guru/wiki/Intelligence)**衡量了[解决问题](https://supermemo.guru/wiki/How_to_solve_any_problem%3F)的能力。
+对人类而言， **[智力](https://supermemo.guru/wiki/Intelligence)** 衡量了[解决问题](https://supermemo.guru/wiki/How_to_solve_any_problem%3F)的能力。
 
 ## 什么决定了智力？
 
 决定人智力的因素通常有三个：（1）天赋，（2）养育与（3）知识。
 
-（1）智力的**基因成分**在人类和猿猴之间差异最为明显（见：[表达的乐趣](https://supermemo.guru/wiki/Pleasure_of_communication)）。相比之下，对大部分健康的人类而言，基因差异并没有那么显著。相较于天赋，对智力影响更大的因素可能是人格特质。
+（1）智力的 **基因成分** 在人类和猿猴之间差异最为明显（见：[表达的乐趣](https://supermemo.guru/wiki/Pleasure_of_communication)）。相比之下，对大部分健康的人类而言，基因差异并没有那么显著。相较于天赋，对智力影响更大的因素可能是人格特质。
 
-（2）**养育**对人类智力的发展起到至关重要的作用。在这一阶段，智力发展可能因疾病、虐待、忽视或自由受限等因素而被损害。对于儿童而言，爱和[对丰富世界的探索自由](https://supermemo.guru/wiki/Optimization_of_behavioral_spaces_in_development)是智力发展的充分条件。
+（2） **养育** 对人类智力的发展起到至关重要的作用。在这一阶段，智力发展可能因疾病、虐待、忽视或自由受限等因素而被损害。对于儿童而言，爱和[对丰富世界的探索自由](https://supermemo.guru/wiki/Optimization_of_behavioral_spaces_in_development)是智力发展的充分条件。
 
-（3）**知识**：在基本的遗传天赋与健康的现代养育基础上，人们智力的大部分差异都源于学习与学习习惯，还有大脑、个性和环境之间的相互影响。即使某人很有潜力，他也有可能因固有的[行为系统](https://supermemo.guru/wiki/Behavioral_system)而停滞不前，无法解放自我。
+（3） **知识** ：在基本的遗传天赋与健康的现代养育基础上，人们智力的大部分差异都源于学习与学习习惯，还有大脑、个性和环境之间的相互影响。即使某人很有潜力，他也有可能因固有的[行为系统](https://supermemo.guru/wiki/Behavioral_system)而停滞不前，无法解放自我。
 
 人的智力拥有自我放大的能力，但这种能力可能会被（1）内在的疾病（或衰老）和（2）外在的自由限制所削弱，特别是[学习的自由](https://supermemo.guru/wiki/Free_learning)（例如[学校教育](https://supermemo.guru/wiki/Schooling)）。
 
 ## 通用智力的概念难以把握
 
-对我们来说，智力是解决特定领域问题的能力。而所谓的通用智力，则更像是神话一般的存在。一个学识渊博的人接触某些领域时，可能会碰撞出天才的火花，这似乎就是通用智力的证据。我们通常会把拥有这些人称为**文艺复兴人士**或**通才**。此外，广泛的学习能营造出通用智力的假象。在生活中我们不难发现，一些貌似是体现了通用智力的轶事经常能在家族中流传。这些所谓的轶事可以用家族文化、人格特性来解释，而由基因决定的大脑实际处理能力只发挥了少许作用。
+对我们来说，智力是解决特定领域问题的能力。而所谓的通用智力，则更像是神话一般的存在。一个学识渊博的人接触某些领域时，可能会碰撞出天才的火花，这似乎就是通用智力的证据。我们通常会把拥有这些人称为 **文艺复兴人士** 或 **通才** 。此外，广泛的学习能营造出通用智力的假象。在生活中我们不难发现，一些貌似是体现了通用智力的轶事经常能在家族中流传。这些所谓的轶事可以用家族文化、人格特性来解释，而由基因决定的大脑实际处理能力只发挥了少许作用。
 
 不存在通用智力，同理，通用的智商（IQ）测试也并不存在。所有的测试都以前置知识、兴趣、见识、文化等为基础。Howard Gardner 曾提出[多元智力](https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences)的概念，即每个人的神经模式都可能会形成独特的认知偏好。这一理论可以适用于所有方面的知识，因为人对特定领域的训练会导致这一领域的智力[涌现](https://supermemo.guru/wiki/Emergence)。由此，我们不难得出：有多少会思考的人，这世界上就会有多少种智力。通常来说，得出[一般智力因素](https://en.wikipedia.org/wiki/G_factor_(psychometrics))这一概念的相关性都源于跨领域的迁移（比如说，在一组正反馈回路中，学习可能会影响睡眠、血液循环、神经发生、情绪等）。
 
@@ -36,9 +36,9 @@
 
 尽可能地获得[高质量的知识](https://supermemo.guru/wiki/Abstract_knowledge)可以让我们的智力得到最大限度的提高
 
-而这里的**高质量**代表着高[连贯性](https://supermemo.guru/wiki/Coherence)与高[适用性](https://supermemo.guru/wiki/Applicability)（见：[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)）
+而这里的 **高质量** 代表着高[连贯性](https://supermemo.guru/wiki/Coherence)与高[适用性](https://supermemo.guru/wiki/Applicability)（见：[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)）
 
-这个公式是通用且封闭的。它可以让我们忽视天赋起点不同的问题，以解决由人个体差异造成的偏差。同时，它也带来了一个好消息：**对发展高智力而言，几乎没有先天障碍**。
+这个公式是通用且封闭的。它可以让我们忽视天赋起点不同的问题，以解决由人个体差异造成的偏差。同时，它也带来了一个好消息： **对发展高智力而言，几乎没有先天障碍** 。
 
 ## 我们该如何让人们更加聪明？
 

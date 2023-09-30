@@ -92,7 +92,7 @@ Roediger, H. L., & Karpicke, J. D. (2018). Reflections on the Resurgence of Inte
 
     - 8:42：写了[间隔重复记忆系统让记忆成为一种选择](https://notes.andymatuschak.org/z4bR1HVvDUhMXDm5SJB4Tiw4xGbrm9AfXWgbc)和[测试效应](https://notes.andymatuschak.org/z45mhbpabsigFceeSiRyDXZdvcRqvE2A1xMsn)
 
-- [[science.1199327|λ:/thoughts-memo-translation-main/Karpicke, J. D., & Blunt, J. R. (2011). 提取练习产生的学习效果比用概念图进行的精细学习要好。Science, 331(6018), 772-775. https://doi.org/10.1126/science.1199327]]\* 实验比较了概念图（调用[精细编码](https://notes.andymatuschak.org/z3ZTBNhJddpewTBgbKAFy2cnSMBiJRpMZWsfB)）与提取练习（调用[测试效应](https://notes.andymatuschak.org/z45mhbpabsigFceeSiRyDXZdvcRqvE2A1xMsn)）对记忆的影响。与 Karpicke 和 Smith(2012) 一样，本文也对提取练习的效果是否似乎是**由于**精细编码，或者是否有其他过程发生感兴趣。
+- [[science.1199327|λ:/thoughts-memo-translation-main/Karpicke, J. D., & Blunt, J. R. (2011). 提取练习产生的学习效果比用概念图进行的精细学习要好。Science, 331(6018), 772-775. https://doi.org/10.1126/science.1199327]]\* 实验比较了概念图（调用[精细编码](https://notes.andymatuschak.org/z3ZTBNhJddpewTBgbKAFy2cnSMBiJRpMZWsfB)）与提取练习（调用[测试效应](https://notes.andymatuschak.org/z45mhbpabsigFceeSiRyDXZdvcRqvE2A1xMsn)）对记忆的影响。与 Karpicke 和 Smith(2012) 一样，本文也对提取练习的效果是否似乎是 **由于** 精细编码，或者是否有其他过程发生感兴趣。
 
 - [[j.jml.2012.02.004|λ:/thoughts-memo-translation-main/Karpicke, J. D., & Smith, M. A. (2012). 提取练习和精细编码的单独记忆效果。Journal of Memory and Language, 67(1), 17-29. https://doi.org/10.1016/j.jml.2012.02.004]]\* [测试效应](https://notes.andymatuschak.org/z45mhbpabsigFceeSiRyDXZdvcRqvE2A1xMsn)是由[精细编码](https://notes.andymatuschak.org/z3ZTBNhJddpewTBgbKAFy2cnSMBiJRpMZWsfB)产生的吗？当你在[间隔重复记忆系统](https://notes.andymatuschak.org/z4eXdSMJFv2qVGXSUEKH4vdcHBrLHcFY1ZGfC)中复习卡片时，你给自己一个机会，根据你当前的背景和复习过程中的不同想法形成新的联系。
 

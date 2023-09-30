@@ -12,7 +12,7 @@
 
 - 按直觉设计的实验不一定好。我自己、艾宾浩斯、斯皮策和其他人的一些设计，在间隔重复研究中增加了更多噪音，把这个问题弄得复杂了
 
-- 人类文化涌流不息。旧成果大批大批陷入遗忘，而后人类又将其重新挖掘出来。个人如此，文化也是如此。科学也也不免俗于流行、时尚和遗忘。只是现在，[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)已经达到了**「影响密度」**，足以成为**「常识」**。参见：[间隔效应研究的不连续性](https://supermemo.guru/wiki/Dempster:_There_are_discontinuities_in_science)
+- 人类文化涌流不息。旧成果大批大批陷入遗忘，而后人类又将其重新挖掘出来。个人如此，文化也是如此。科学也也不免俗于流行、时尚和遗忘。只是现在，[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)已经达到了 **「影响密度」** ，足以成为 **「常识」** 。参见：[间隔效应研究的不连续性](https://supermemo.guru/wiki/Dempster:_There_are_discontinuities_in_science)
 
 - 兴趣是最好的老师。[自学](https://supermemo.guru/wiki/Self-learning)是推广应用的最佳驱动力。科学通过实际应用渗透到生活中。[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 是[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的第一个有实用价值的应用，普惠[成千上万以至于数百万的用户](https://supermemo.guru/wiki/Exponential_growth_of_the_popularity_of_Algorithm_SM-2)
 
@@ -24,15 +24,15 @@
 
 - 用被动复习代替[主动回忆](https://supermemo.guru/wiki/Active_recall)的实验并没有获益于[测试效应](https://supermemo.guru/wiki/Testing_effect)
 
-- 以**干扰项目**来区分间隔的实验是测试的是其他的记忆机制，这些实验甚至不应该称为**间隔重复**。时至今日，研究中的很多混乱，都要归咎于没有明确区分术语，将间隔的测量方法混为一谈
+- 以 **干扰项目** 来区分间隔的实验是测试的是其他的记忆机制，这些实验甚至不应该称为 **间隔重复** 。时至今日，研究中的很多混乱，都要归咎于没有明确区分术语，将间隔的测量方法混为一谈
 
 - 研究项目的时间跨度太短，难以开展[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)研究
 
 - 对课堂应用的关注给结果带来了混乱。[学校不是学习的好地方](https://supermemo.guru/wiki/Problem_of_schooling)。针对学校环境优化的研究在[自由学习](https://supermemo.guru/wiki/Free_learning)中没有什么意义
 
-- 在**学习**和**保留**之间的古老区别给最佳教育的思考带来了混乱。这种区别来自于学校教育，在这种教育中，我们首先学习，然后祈祷自己不要忘太多东西
+- 在 **学习** 和 **保留** 之间的古老区别给最佳教育的思考带来了混乱。这种区别来自于学校教育，在这种教育中，我们首先学习，然后祈祷自己不要忘太多东西
 
-- 术语一直在变化，新一代的研究人员因此很难利用以前的工作。甚至我们自己的 [1994 年的论文](https://supermemo.guru/wiki/Optimization_of_repetition_spacing_in_the_practice_of_learning)使用的是**重复间隔**这个术语。一览[术语变体列表](https://supermemo.guru/wiki/Alternative_terms_for_spaced_repetition)可知，这个问题的严重程度可见一斑。网络、群众智慧和维基（像[本维基](https://supermemo.guru/wiki/SuperMemo_Guru)）可能有助于纠正术语的问题
+- 术语一直在变化，新一代的研究人员因此很难利用以前的工作。甚至我们自己的 [1994 年的论文](https://supermemo.guru/wiki/Optimization_of_repetition_spacing_in_the_practice_of_learning)使用的是 **重复间隔** 这个术语。一览[术语变体列表](https://supermemo.guru/wiki/Alternative_terms_for_spaced_repetition)可知，这个问题的严重程度可见一斑。网络、群众智慧和维基（像[本维基](https://supermemo.guru/wiki/SuperMemo_Guru)）可能有助于纠正术语的问题
 
 2006 年，Will Thalheimer 为[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)研究写了篇出色的研究综述。这篇综述总结了 100 多篇论文的成果。然而，在总结中，[Thalheimer 对递增间隔的价值表示怀疑](https://supermemo.guru/wiki/Will_Thalheimer:_Doubts_about_expanding_rehearsal)。这表明，如果实验设计是基于不正确的模型，即使有几十篇论文也无济于事。
 
@@ -42,11 +42,11 @@
 
 我将列举三个实验案例，都是注定失败或会造成混淆的：
 
-- **赫尔曼-艾宾浩斯**（1885 年）是以记忆科学研究为动机的。他有很好的直觉，然而，为了研究的纯洁性，他专注于无意义的音节。无意中，他为[记忆的复杂性](https://supermemo.guru/wiki/Complexity)和[干扰](https://supermemo.guru/wiki/Interference)作出了贡献，而他的目的就是要避免这些。他的[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)是无情的、令人沮丧的。如果艾宾浩斯是学习感兴趣而有意义的材料，他可能已经扩大了他的实验范围。根据学校的经历，我们都知道死记硬背胡言乱语是精神折磨。如果艾宾浩斯像我一样将间隔重复实际应用起来，可能就在整整 100 年前，就有纸质版[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)诞生了。自然，如果没有计算机，没有网络，他的想法可能仍然会在一个世纪内陷入沉默的深渊，就像[间隔效应](https://supermemo.guru/wiki/Spacing_effect)的实际遭遇一样
+- **赫尔曼-艾宾浩斯** （1885 年）是以记忆科学研究为动机的。他有很好的直觉，然而，为了研究的纯洁性，他专注于无意义的音节。无意中，他为[记忆的复杂性](https://supermemo.guru/wiki/Complexity)和[干扰](https://supermemo.guru/wiki/Interference)作出了贡献，而他的目的就是要避免这些。他的[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)是无情的、令人沮丧的。如果艾宾浩斯是学习感兴趣而有意义的材料，他可能已经扩大了他的实验范围。根据学校的经历，我们都知道死记硬背胡言乱语是精神折磨。如果艾宾浩斯像我一样将间隔重复实际应用起来，可能就在整整 100 年前，就有纸质版[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)诞生了。自然，如果没有计算机，没有网络，他的想法可能仍然会在一个世纪内陷入沉默的深渊，就像[间隔效应](https://supermemo.guru/wiki/Spacing_effect)的实际遭遇一样
 
-- [**赫伯特·斯皮策**（1939 年）](https://supermemo.guru/wiki/History_of_spaced_repetition_(print)#Spitzer_experiment_.281939.29)的动机是提高课堂表现。他选择了最糟糕的异质性的情况。尽管我是用混合难度的材料，而艾宾浩斯在无意义的材料中水深火热时，斯皮策通过思维的异质性使这些影响变得更加复杂。斯皮策让各组学生接触的不是几页的问题，而是几页的阅读材料。在这些嘈杂的条件下，很难看到指数级的[遗忘](https://supermemo.guru/wiki/Forgetting)和[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的规律。即使斯皮策的结果是压倒性的积极，我怀疑教育系统的官僚机构会好好利用这个程序。教育是由标准化测试、成绩和证书驱动的。它几乎没有被科学和学习程序对学习结果的实际影响所驱动。它是一个工厂系统。斯皮策的努力和十年前（1929 年）产生的那些[贝内塞特的开创性想法](https://supermemo.guru/wiki/Early_math_instruction_may_backfire)一样注定要失败
+- [ **赫伯特·斯皮策** （1939 年）](https://supermemo.guru/wiki/History_of_spaced_repetition_(print)#Spitzer_experiment_.281939.29)的动机是提高课堂表现。他选择了最糟糕的异质性的情况。尽管我是用混合难度的材料，而艾宾浩斯在无意义的材料中水深火热时，斯皮策通过思维的异质性使这些影响变得更加复杂。斯皮策让各组学生接触的不是几页的问题，而是几页的阅读材料。在这些嘈杂的条件下，很难看到指数级的[遗忘](https://supermemo.guru/wiki/Forgetting)和[间隔重复](https://supermemo.guru/wiki/Spaced_repetition)的规律。即使斯皮策的结果是压倒性的积极，我怀疑教育系统的官僚机构会好好利用这个程序。教育是由标准化测试、成绩和证书驱动的。它几乎没有被科学和学习程序对学习结果的实际影响所驱动。它是一个工厂系统。斯皮策的努力和十年前（1929 年）产生的那些[贝内塞特的开创性想法](https://supermemo.guru/wiki/Early_math_instruction_may_backfire)一样注定要失败
 
-- **沃兹尼亚克**（1985 年）。我自己关于间隔重复的[误导性实验](https://supermemo.guru/wiki/History_of_spaced_repetition_(print)#Wozniak1985)始于 1985 年 1 月 31 日，它差点就混淆我的思想，毁掉我的努力。幸运的是，在结果出来之前，我设计了一个[更好的实验](https://supermemo.guru/wiki/The_birthday_of_spaced_repetition:_July_31,_1985)，因而并未受到其影响。
+- **沃兹尼亚克** （1985 年）。我自己关于间隔重复的[误导性实验](https://supermemo.guru/wiki/History_of_spaced_repetition_(print)#Wozniak1985)始于 1985 年 1 月 31 日，它差点就混淆我的思想，毁掉我的努力。幸运的是，在结果出来之前，我设计了一个[更好的实验](https://supermemo.guru/wiki/The_birthday_of_spaced_repetition:_July_31,_1985)，因而并未受到其影响。
 
 ## 艾宾浩斯的实验（1885）
 
@@ -72,7 +72,7 @@
 
 这是他关于[间隔效应](https://supermemo.guru/wiki/Spacing_effect)的文字：
 
-> 因此，**在某一特定的时间段**，**在前三天内**对含有 12 个音节的序列**共计进行 38 次重复**与**一天内进行 68 次重复所产生的效果是接近一致的**。基于如此少的研究，哪怕人们认为数字存在很大误差，它们之间的差异也已经足够显著了。这一巨大的差异使人们有理由认为，将大量重复适当的在一定时间内进行分配，其效果显然会比将它们集中在一起更好。
+> 因此， **在某一特定的时间段** ， **在前三天内** 对含有 12 个音节的序列 **共计进行 38 次重复** 与 **一天内进行 68 次重复所产生的效果是接近一致的** 。基于如此少的研究，哪怕人们认为数字存在很大误差，它们之间的差异也已经足够显著了。这一巨大的差异使人们有理由认为，将大量重复适当的在一定时间内进行分配，其效果显然会比将它们集中在一起更好。
 
 接下来怎么做看起来那么显然，为什么[艾宾浩斯](https://supermemo.guru/wiki/Ebbinghaus)没有做，没有看看复习时的遗忘曲线是如何变化呢？首先，他没有测试遗忘，而是测试重新学习的节省时间。他的测试是一种复习。按我的方法做的话就很容易想到，需要达到设定的[保留](https://supermemo.guru/wiki/Retention)水平。从概念上讲，要求降低重新学习的成本其实不那么直观。
 
@@ -100,7 +100,7 @@
 
 > 图：[我](https://supermemo.guru/wiki/Piotr_Wozniak)最早的[遗忘曲线](https://supermemo.guru/wiki/Forgetting_curve)，绘制于 1984 年，即[设计纸上 SuperMemo](https://supermemo.guru/wiki/Birth_of_SuperMemo)的几个月前，是关于英语词汇[保留率](https://supermemo.guru/wiki/Retention)的。这张图并不是实验的一部分，它只是对间歇性学习英语词汇的结果的累积性评估。这张图很快就被遗忘了。34 年后，我重新发现了这张图。英语单词共有 49 页，每页 40 对。我记忆这些单词之后，在不同的时间间隔内进行复习，并记录了回忆错误的数量。排除了异常值，取平均值，该曲线似乎远没有艾宾浩斯（1885）得到的曲线那么陡峭，他画曲线时记忆的是无意义音节，遗忘测量方法也不同：重新学习时节省的时间
 
-我忘记了绘制那条曲线的事。我想，一旦我有了 [SuperMemo](https://supermemo.guru/wiki/SuperMemo)，那条曲线似乎就不再重要或相关了。我当时并不关注「记忆的科学」。我只是想在学习中取得好成绩。显然，我不认为绘制遗忘曲线是一件大事。我在 2018 年也差点错过了那个数字，因为它是用小字标注的：**第一次记忆的平均遗忘速度**。
+我忘记了绘制那条曲线的事。我想，一旦我有了 [SuperMemo](https://supermemo.guru/wiki/SuperMemo)，那条曲线似乎就不再重要或相关了。我当时并不关注「记忆的科学」。我只是想在学习中取得好成绩。显然，我不认为绘制遗忘曲线是一件大事。我在 2018 年也差点错过了那个数字，因为它是用小字标注的： **第一次记忆的平均遗忘速度** 。
 
 结果来自 49 页，每页 40 个词对，即 1960 个词（比较：[用一个月上13年的学](https://supermemo.guru/wiki/13_years_of_school_in_a_month)）。我的学习都是为了学习本身，而不是为了实验。实际上没有什么实验。我所需要的是收集我的实际学习努力中的数字，并绘制出曲线。计算的简单性可能也解释了为什么我那么容易忘记这个练习。
 
@@ -158,7 +158,7 @@
 
 第一个实验可以很好地说明一个错误的想法是如何产生有价值的结论的（第二个实验在[这里](https://supermemo.guru/wiki/Birth_of_SuperMemo)描述）。一个常见的直觉是，随着连续的[重复](https://supermemo.guru/wiki/Repetition)，知识应该逐渐变得更加[持久](https://supermemo.guru/wiki/Stability)，并且不需要频繁地复习。因此，[间隔](https://supermemo.guru/wiki/Interval)越来越长的重复应该比那些间隔始终相同的重复更有效。这一信念被证明是错误的。让我们看看一个证明这一事实的实验。
 
-**各种重复间隔模式对知识保持效果的影响实验（1985 年 1 月 31 日 - 1986 年 8 月 2 日）**
+ **各种重复间隔模式对知识保持效果的影响实验（1985 年 1 月 31 日 - 1986 年 8 月 2 日）** 
 
 1. 记忆的知识由 195 个项目组成，分为三个相等的组：A、B 和 C。
 
@@ -194,7 +194,7 @@
 
 第二个对照组的结果没有出现在图表上，因为在技术大学学习 [1985 年 10 月开始] 需要对不规则动词有完美的认识，因此，另一组测量是毫无意义的。
 
-从上面的图 3.1 可以看出，实验得出了意想不到的结果，证明了递增[重复间隔](https://supermemo.guru/wiki/Interval)并不需要比均匀间隔更好。幸运的是，早在实验结果出来之前，我就怀疑[一定存在最佳重复间隔](https://supermemo.guru/wiki/Birth_of_SuperMemo)。在学习过程中使用这种间隔的原则，以后将被称为**最佳重复间隔原则**
+从上面的图 3.1 可以看出，实验得出了意想不到的结果，证明了递增[重复间隔](https://supermemo.guru/wiki/Interval)并不需要比均匀间隔更好。幸运的是，早在实验结果出来之前，我就怀疑[一定存在最佳重复间隔](https://supermemo.guru/wiki/Birth_of_SuperMemo)。在学习过程中使用这种间隔的原则，以后将被称为 **最佳重复间隔原则** 
 
 在写[间隔重复的历史](https://supermemo.guru/wiki/History_of_spaced_repetition)时，我在我的档案中发现了原始图表。很明显，「集中练习」不是一个好办法：
 
@@ -244,7 +244,7 @@
 
 SuperMemo 在波兰刚起步便面对诸多怀疑者。 1994 年的波兰计算机杂志 *Enter* 中将这些怀疑表达得相当准确（见[全文](http://super-memory.com/articles/kowal.htm)）：
 
-> **SuperMemo 可能有效，但不可能有它宣传的那么好**
+> **SuperMemo 可能有效，但不可能有它宣传的那么好** 
 
 > 如果一个人相信关于 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的说法是正确的，他或她会不会已经相信这个程序是治疗病态记忆的完美疗法？它真的能利用神经系统的特性，让学习的速度比标准情况下快十几倍吗？毕竟世世代代的学生都在试图找出更好的学习方法，即使对相当开明的观察者来说，与 SuperMemo 相媲美的突破似乎也是非常不可能的。[沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak) 认为低概率事件不能作为怀疑的理由，并陈述道他已经不止一次地追踪到证据，证明类似于 SuperMemo 的学习方法在以前已经被尝试过，并取得了或多或少的成功。此外，值得注意的是，如果 SuperMemo 没有以计算机程序的形式实现，并因此很难在个人之间转移，那么它可能就看不到光明了。换句话说，它可能会像以前那些试图在学习过程中建立秩序的尝试一样被人遗忘。我们必须记住，SuperMemo 算法是在 [1985](https://supermemo.guru/wiki/Birth_of_SuperMemo) 中奠基的，但直到 [1987](https://supermemo.guru/wiki/Algorithm_SM-2) 年，SuperMemo 算法才在波兹南的一些科学圈子里非常缓慢地推广开来。另一个需要记住的转折点是，如果不是[沃兹尼亚克](https://supermemo.guru/wiki/Piotr_Wozniak)和他的大学同事 [Krzysztof Biedalak](https://supermemo.guru/wiki/Krzysztof_Biedalak)（目前是 SuperMemo World 的副主席）之间鼓舞人心的思想碰撞，[SuperMemo World](https://supermemo.guru/wiki/SuperMemo_World) 就不会[于 1991 年成立](https://supermemo.guru/wiki/Employing_forgetting_curves_in_spaced_repetition_(1991))。两人都是大学的优秀学生，沃兹尼亚克打算去美国学习神经科学，Biedalak 则想去美国学习人工智能。只是巧合的是，他们一头撞进了创业科学的世界。所有这些事件都表明，尽管 SuperMemo 的原理极其简单，而且可能已经在地球上几十个国家独立发明了几十次，但 SuperMemo 并不只是等闲之物。[SuperMemo World](https://supermemo.guru/wiki/SuperMemo_World) 的独家优势，是将想法付诸实践，投入大量工时开发软件，并专注于向潜在客户推销这一想法。否则，SuperMemo 将永远局限于其早期爱好者的小圈子。
 

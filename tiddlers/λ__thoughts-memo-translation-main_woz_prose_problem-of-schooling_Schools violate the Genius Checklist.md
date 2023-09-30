@@ -8,17 +8,17 @@
 
 在 2001 年，我编制了份[天才清单](https://supermemo.guru/wiki/Genius_Checklist)。这份清单是为那些可以自主管理时间，并追求高成就的青少年和成年人所设的。起初，我主要想帮助那些寻求提升认知能力的年轻人。这些人能够自由的管理他们的[自我导向学习](https://supermemo.guru/wiki/Self-directed_learning)。
 
-我之前几乎不曾考虑过被学校义务严格地束缚的学生们。但在[这本书](https://supermemo.guru/wiki/Problem_of_schooling)的背景下，我决定重新审视这份清单，看看学校在多大程度上有助于培养天才。从这次审视中得出的结论令人震惊！对大多数人来说，**学校环境压制了他们的天才和创造力**！
+我之前几乎不曾考虑过被学校义务严格地束缚的学生们。但在[这本书](https://supermemo.guru/wiki/Problem_of_schooling)的背景下，我决定重新审视这份清单，看看学校在多大程度上有助于培养天才。从这次审视中得出的结论令人震惊！对大多数人来说， **学校环境压制了他们的天才和创造力** ！
 
 这个论点主要基于清单中的前两个要点。要培养出天才的想法，我们需要一个自由、得到充分休息、平静、快乐和充满热情的大脑！在现代社会，有两个主要的相互关联的因素在摧毁良好的大脑潜力：压力和糟糕的睡眠。学校实质上把这两个因素引入了年轻人的生活，而它们应该做的恰恰相反。我敢断定，运转良好的大脑比知识本身更重要。运转良好的大脑[天生就能吸收知识](https://supermemo.guru/wiki/Learn_drive)。而知识丰富的大脑很容易被压力或[睡眠不足](https://supermemo.guru/wiki/Sleep_deprivation)所摧毁。
 
-**健康的大脑保证了丰富的知识！**
+ **健康的大脑保证了丰富的知识！** 
 
 ## 睡眠和学校
 
 大多数学校每天上课太早。这是为了顺应需要上班的那些父母。也是为了顺应那些想要尽早下班的老师。无论如何，早起上学是[为什么孩子们讨厌上学？](https://supermemo.guru/wiki/Why_kids_hate_school%3F)的主要原因。如果孩子需要定闹钟，那么将毁掉[自然创造力周期](https://supermemo.guru/wiki/Natural_creativity_cycle)带来的好处。仅仅是睡眠不足就破坏了学校教育的目的。更多信息见：[睡眠的科学](https://supermemo.guru/wiki/Science_of_sleep) 
 
-**让昏昏欲睡的孩子们去上学，学校真是糟糕透顶。**他们如果[不上学](https://supermemo.guru/wiki/Unschooling)会更好
+ **让昏昏欲睡的孩子们去上学，学校真是糟糕透顶。** 他们如果[不上学](https://supermemo.guru/wiki/Unschooling)会更好
 
 ## 学校压力
 
@@ -42,7 +42,7 @@
 
 我敢说，学校教育过程中也损失了大量的天才。抑制[学习内驱力](https://supermemo.guru/wiki/Learn_drive)，[破坏睡眠](https://supermemo.guru/wiki/Sleep_deprivation)，以及[压力](https://supermemo.guru/wiki/Stress_resilience)，都是有效的反脑武器。每年都有数百万貌似受过小学和初中教育的学生毕业。在此过程中，我们破坏了他们的创造力，他们的大脑，他们[对学习的热爱](https://supermemo.guru/wiki/Pleasure_of_learning)和他们[对生活的热情](https://supermemo.guru/wiki/How_school_can_ruin_a_life)。
 
-**学校对人类天赋和创造力没有一点贡献！**所有从学校出来的天才，在没进学校之前就已经是天才。
+ **学校对人类天赋和创造力没有一点贡献！** 所有从学校出来的天才，在没进学校之前就已经是天才。
 
 ## 总结：学校和天才
 

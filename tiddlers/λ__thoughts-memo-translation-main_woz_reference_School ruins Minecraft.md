@@ -12,7 +12,7 @@
 
 > 让我们想象下「Minecraft 学校」。在这所学校里，你并不能在你想要的时间里玩 Minecraft，而是只能在指定的时间里玩（通常会与你的睡眠时间冲突）。你不能自由探索 Minecraft 世界，而是只能挖「老师」指定要求挖的方块，并且不可以打乱顺序。你不允许为你的建筑选择结构，而是只能使用规定的结构建造。所有人建造的结构都是相同的，并会根据这些结构的好坏程度来对你进行评分。渐渐得这个游戏不再像是一个有趣的游戏，而更像是一个「[监狱矿场](https://en.wikipedia.org/wiki/Prison_farm)」。这和在学校正在上演的事，没什么两样。学生们无法决定何时学习，学什么以及用什么方式学习。他们总是被要求解决他们不关心的小问题。
 
-想象一下在闷热的教室昏昏欲睡，做着乏味无聊的事而不能自由探索。当我向那些小 Minecraft 爱好者读以上的一些摘录时，他们快速得出结论：「**这糟糕透了！**」我想你们应该能想象的到他们的面部表情有多愤怒。所有犯过[美化学校](https://supermemo.guru/wiki/Glorification_of_schooling)罪的成年人都应该记住，这就是孩子们被强迫学习的感觉！
+想象一下在闷热的教室昏昏欲睡，做着乏味无聊的事而不能自由探索。当我向那些小 Minecraft 爱好者读以上的一些摘录时，他们快速得出结论：「 **这糟糕透了！** 」我想你们应该能想象的到他们的面部表情有多愤怒。所有犯过[美化学校](https://supermemo.guru/wiki/Glorification_of_schooling)罪的成年人都应该记住，这就是孩子们被强迫学习的感觉！
 
 如果你喜欢 Minecraft，你就会明白学习。如果你喜欢 Minecraft，你很可能永远厌恶[强制学校教育](https://supermemo.guru/wiki/Compulsory_schooling)。
 
@@ -20,7 +20,7 @@
 
 引用的摘录出自以下[参考资料](https://supermemo.guru/wiki/References)：
 
-标题：**Minecraft 和学习的相似之处**
+标题： **Minecraft 和学习的相似之处** 
 
 作者： [Alex Giorev](https://supermemo.guru/wiki/Alex_Giorev)
 

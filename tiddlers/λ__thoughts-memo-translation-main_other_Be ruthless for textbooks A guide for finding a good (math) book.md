@@ -22,7 +22,7 @@
 
 ## …解释原因并提供背景信息吗？
 
-**为什么**某个领域很重要或者很有趣。**为什么**作出这样的假设？诸如此类。
+ **为什么** 某个领域很重要或者很有趣。 **为什么** 作出这样的假设？诸如此类。
 
 - *Analysis I* 这本书从「为什么要学分析？」开始。[[2]](https://docs.google.com/document/d/e/2PACX-1vTkqKg5IxCmPbw7JqnAWxoypaYNFH3XJd4UgYw4PufP09zzzW6j3v-CYXZkpD83sVrzygvg7gLbjM_Q/pub#ftnt2)同样的，在*[Linear Algebra, Pillar I](https://www.google.com/url?q=https://www.lem.ma/books/AIApowDnjlDDQrp-uOZVow/landing&sa=D&source=editors&ust=1674112489466116&usg=AOvVaw0qa8uC3s98jfY3pYP0xG8v)* 的行列式一章中，开头就讲了「为什么要行列式？」。
 
@@ -90,7 +90,7 @@ Thurston 在他的论文 *On proof and progress in mathematics*[[6]](https://doc
 
 | 粒子的加速度（或更准确地说，动量的变化率）与作用在它身上的力成正比。| 物体的加速度与它所受的合力成正比，与它的质量成反比。|
 
-| 每个作用力都有一个相等且相反的反作用力。            | 如果两个物体相互作用，物体 1 对物体 2 施加的力 **F**12与 物体 2 对物体 1 施加的力 **F**21 的大小相等，方向相反：**F**12=-**F**21 |
+| 每个作用力都有一个相等且相反的反作用力。            | 如果两个物体相互作用，物体 1 对物体 2 施加的力 **F** 12与 物体 2 对物体 1 施加的力 **F** 21 的大小相等，方向相反： **F** 12=- **F** 21 |
 
 ## ...提供了每一章的总结和重点吗？
 
@@ -100,9 +100,9 @@ Thurston 在他的论文 *On proof and progress in mathematics*[[6]](https://doc
 
 # 怎样的教科书是优质的？
 
-定义：当且仅当教材具备以上所有特点（至多不具备两个），它才是**优质**的。
+定义：当且仅当教材具备以上所有特点（至多不具备两个），它才是 **优质** 的。
 
-定义：没达到优质标准的教科书就是**垃圾**。
+定义：没达到优质标准的教科书就是 **垃圾** 。
 
 # 参考书目
 

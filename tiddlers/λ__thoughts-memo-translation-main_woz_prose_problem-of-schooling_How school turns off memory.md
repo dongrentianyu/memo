@@ -8,7 +8,7 @@
 
 这是一个有关英语单词「sausages（香肠）」的故事，通过三个难以置信的巧合，该故事完美的概述了学校的无用，[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 还对此进行了完美的记录。
 
-下文中的图表呈现了为何**「对学校的联想真的能摧毁长期记忆」**
+下文中的图表呈现了为何 **「对学校的联想真的能摧毁长期记忆」** 
 
 我的亲戚 Thomas 八岁了，他是 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的一位小用户。他和他妈妈一起[复习](https://supermemo.guru/wiki/Repetition)。他的复习不是自愿的，但他自己选择了大量的学习材料。有一天，为了参加学校的测验，他要学习一打英文新单词（他的母语是波兰语）。其中有个单词对是「kielbaski（波兰语：香肠）=sausages（英语：香肠）」。Thomas 努力地记忆了这个单词，但在考试时他还是记错了。那是 2019 年的三月，Thomas 的妈妈将这个单词放进了 SuperMemo 的[集合](https://supermemo.guru/wiki/Collection)中，希望他在今后的考试中可以记住它。
 
@@ -52,7 +52,7 @@
 
 发展元认知技能需要多年的实践，使自己能够从无关紧要的背景中抽象出知识的本质，以便使用 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 来学习。在使用该程序三十年后，我对模板的颜色完全不敏感，我把它作为特定领域的情境指示器。这就是为什么我对 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 的热爱一直没有减少的原因。然而，这种抽象出知识本质的能力是一种元认知技能。小孩子无法有效地做到这一点。许多成年人也做不到。[学校教育](https://supermemo.guru/wiki/Passive_schooling)偏重于知识的字面记忆。在[自由学习](https://supermemo.guru/wiki/Free_learning)中努力建立[抽象知识](https://supermemo.guru/wiki/Abstract_knowledge)则恰恰相反。
 
-自主的[自由学习](https://supermemo.guru/wiki/Free_learning)在较小的年龄段表现出**无与伦比的效率**。而对该过程的干预通常是有害的
+自主的[自由学习](https://supermemo.guru/wiki/Free_learning)在较小的年龄段表现出 **无与伦比的效率** 。而对该过程的干预通常是有害的
 
 ## 下一步：假设
 
@@ -66,7 +66,7 @@
 
 - 我从一个关于 sausages（香肠）的词汇问题开始，不出所料，答案是「frankfurters（法兰克福香肠） 」。
 
-- 当那张不喜欢的 sausages（香肠）学习卡片出现时，他的回答是「我不知道 」。这意味着，**不喜欢的模板使孩子放弃了他在 1-2 分钟前能正确回答的问题！**这是一个典型的毒性记忆。学校、胁迫和不快被关联了起来，就好像大脑被麻痹了一样。没有任何明显的迹象表明他正努力从记忆中回想单词！
+- 当那张不喜欢的 sausages（香肠）学习卡片出现时，他的回答是「我不知道 」。这意味着， **不喜欢的模板使孩子放弃了他在 1-2 分钟前能正确回答的问题！** 这是一个典型的毒性记忆。学校、胁迫和不快被关联了起来，就好像大脑被麻痹了一样。没有任何明显的迹象表明他正努力从记忆中回想单词！
 
 - 当那张喜欢的学习卡片出现了，答案令人惊讶！Thomas 的回答不是「sausages（香肠 ）」，也不是「frankfurters（法兰克福香肠）」 ，而是「meat（肉）」。我觉得这该被视作一个正确答案，有很大可能是他在过去一直回答「meat（肉） 」（这可能是因为他妈妈为了缩短卡片学习间隔而做出的一些事情）。我们可能永远不会知道。他妈妈不记得了。
 
@@ -98,9 +98,9 @@
 
 ## 有害的学校教育
 
-总之，这个例子显示了学校教育和强迫的影响。这个孩子不但没有学好英语，反而开始讨厌英语。所谓的「好老师」，「慈爱的母亲」，以及「声誉良好的学校」没有做错任何事情，除了要求学生为了考试而学习。这张[卡片](https://supermemo.guru/wiki/Item)本身的表述没啥问题！只要稍微改变一下情境，它就可以完美地表现出来。**强迫**是形成[毒性联想](https://supermemo.guru/wiki/Toxic_memory)的唯一可识别的罪魁祸首。[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 可以通过操练不喜欢的[卡片](https://supermemo.guru/wiki/Item)来放大[对学习的憎恨](https://supermemo.guru/wiki/Hating_SuperMemo)。然而，它也可以通过复习自己精心选择的卡片而放大[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)。在这个意义上，[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 只是旁观者和放大器。
+总之，这个例子显示了学校教育和强迫的影响。这个孩子不但没有学好英语，反而开始讨厌英语。所谓的「好老师」，「慈爱的母亲」，以及「声誉良好的学校」没有做错任何事情，除了要求学生为了考试而学习。这张[卡片](https://supermemo.guru/wiki/Item)本身的表述没啥问题！只要稍微改变一下情境，它就可以完美地表现出来。 **强迫** 是形成[毒性联想](https://supermemo.guru/wiki/Toxic_memory)的唯一可识别的罪魁祸首。[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 可以通过操练不喜欢的[卡片](https://supermemo.guru/wiki/Item)来放大[对学习的憎恨](https://supermemo.guru/wiki/Hating_SuperMemo)。然而，它也可以通过复习自己精心选择的卡片而放大[学习的乐趣](https://supermemo.guru/wiki/Pleasure_of_learning)。在这个意义上，[SuperMemo](https://supermemo.guru/wiki/SuperMemo) 只是旁观者和放大器。
 
-**在学校，孩子们非但没有学习，反而常常习得了讨厌学习**
+ **在学校，孩子们非但没有学习，反而常常习得了讨厌学习** 
 
 ## 欺骗大脑
 

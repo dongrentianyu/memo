@@ -22,7 +22,7 @@
 
 ## 前进方向
 
-我想更激进地调整 Orbit 的氛围，使其更偏向于以读者为中心。很难在不破坏助记媒介的其他重要特性的条件下实现这一点。专家撰写的卡片确实贡献了大量的价值（[助记媒介提供专家编写的卡片来消除编写卡片的负担](https://notes.andymatuschak.org/z8ASeF682pSQ3feo8LHpLzk3u3SNpVUgNxMAU)）。我们希望在提供流畅性、**延展性**的同时，也能保留这种价值（甚至可能增强这种价值！）。
+我想更激进地调整 Orbit 的氛围，使其更偏向于以读者为中心。很难在不破坏助记媒介的其他重要特性的条件下实现这一点。专家撰写的卡片确实贡献了大量的价值（[助记媒介提供专家编写的卡片来消除编写卡片的负担](https://notes.andymatuschak.org/z8ASeF682pSQ3feo8LHpLzk3u3SNpVUgNxMAU)）。我们希望在提供流畅性、 **延展性** 的同时，也能保留这种价值（甚至可能增强这种价值！）。
 
 我们可以从一些相对简单的方法开始：读者应该能够禁用或跳过那些没有共鸣的卡片；读者应该能够对作者的措辞进行简单的编辑；嵌入式界面不应该阻止人们只复习一个页面的一部分。所有这些都将为作者产生有趣的信号：[助记媒介可以产生有趣的作者分析](https://notes.andymatuschak.org/z7ScFsA78anNe6XCpUj76bzLn1GJk7SqQR1ZH)
 
@@ -40,7 +40,7 @@
 
   - [Ozzie Kirkby](https://notes.andymatuschak.org/zn9igQGgecLncBSpKbgv5123mC5YEAP3hnfP) 建议，这里可能有一些有趣的中间地带，可以鼓励读者自己写卡片，代表他们认为有趣的细节：也许作者（或 ML，或系统）可以为关键文本区域提供不完整/“开头”的模板，用户将根据他们认为合适的方式调整/完成。
 
-- 助记媒介的展示形式和互动模式应该非常清楚地传达出你得来的卡片是**属于你的**，即使你在使用作者制作的卡片。[Taylor Rogalski](https://notes.andymatuschak.org/zrjLsApqpVzqJyxduDndjh5MUFfuGHhpXoF) 指出了一个有用的比喻，即复制一份谷歌文档，在上面肆意涂画。
+- 助记媒介的展示形式和互动模式应该非常清楚地传达出你得来的卡片是 **属于你的** ，即使你在使用作者制作的卡片。[Taylor Rogalski](https://notes.andymatuschak.org/zrjLsApqpVzqJyxduDndjh5MUFfuGHhpXoF) 指出了一个有用的比喻，即复制一份谷歌文档，在上面肆意涂画。
 
 - 我们可以通过充实[我的个人记忆媒介的实现](https://notes.andymatuschak.org/z4mAF1uBV96r72e4NjLcDaujEyTPGiUQJEj8C)，开始尝试媒介与读者的其他知识工作之间的流动互动。这个方向与本说明的其他部分所谈的内容确实不太一样。我不清楚作者提供的卡片与这种笔记的互动情况。因此，也许这仅仅是转移视线......但我的直觉是，这将是有启发性的，所有这些工作都是相互关联的。
 

@@ -8,7 +8,7 @@
 
   - 选择后者，你能获得一个更高效的成长环境，并且这与是否有资金无关
 
-  - 如果靠读书，你便只是无数有创业念头的人中的一个，读的是创始人这个角色的活动，而不是在「实践创业」；当你在 YC 孵化时，你是在一个创业者的社区里**不断创业**的。书是抽象的，但 YC 不是：每节课的针对的情景，都围绕你最关心的想法：
+  - 如果靠读书，你便只是无数有创业念头的人中的一个，读的是创始人这个角色的活动，而不是在「实践创业」；当你在 YC 孵化时，你是在一个创业者的社区里 **不断创业** 的。书是抽象的，但 YC 不是：每节课的针对的情景，都围绕你最关心的想法：
 
     - [赋能环境中的活动直接服务于有内在意义的目的](https://notes.andymatuschak.org/z7wh92mfgXNTLk8AhaaLxsViQuzqGY5cV56Vm)
 
@@ -30,7 +30,7 @@
 
     - 即使作为创始人的你不清楚自己正做的是什么（[赋能环境中的新手往往不能做赋能的事情](https://notes.andymatuschak.org/z3XsSKarN8i3pV4WjPiJ7pVGG6akRVQvU7ngK)），但 YC 系统给了你足够的支持，让你在这个紧张的环境中真实地参与并磨练技能；[情景体验可以引导人们积极参与到赋能环境中](https://notes.andymatuschak.org/z2FDTR2NfpW1AtA4SAETevmKC2uDGEHfKrbhG)
 
-  - 但这些体验并非偶然的意外。YC 的课程经过精心的**创制**，某种程度上就像一本书的创制。[情景体验可以让参与者同课程目标实现强烈的个人联系](https://notes.andymatuschak.org/z6rE2jCvARneUxogtFCTMafzJvYEKWFgb51c2)；[情景体验放大了叙述的力量](https://notes.andymatuschak.org/zhZFC1LFDwAcsgJAdaKEDnSHyrf1bR954Ssb)。
+  - 但这些体验并非偶然的意外。YC 的课程经过精心的 **创制** ，某种程度上就像一本书的创制。[情景体验可以让参与者同课程目标实现强烈的个人联系](https://notes.andymatuschak.org/z6rE2jCvARneUxogtFCTMafzJvYEKWFgb51c2)；[情景体验放大了叙述的力量](https://notes.andymatuschak.org/zhZFC1LFDwAcsgJAdaKEDnSHyrf1bR954Ssb)。
 
 - 遗憾的是，[情景体验很难创作](https://notes.andymatuschak.org/z2Moj6uUj8hJ11dDMbrHsF58BMmxe6p48rsvv)且[情景体验很难满足所有人的胃口](https://notes.andymatuschak.org/z2K87JksHrc9UDQR2PoTxXeRNdJA1Wo9N8Au2)。
 
