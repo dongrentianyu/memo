@@ -1,15 +1,22 @@
 created: 20230930164415100
 creator: 马不前
-modified: 20230930164720469
+modified: 20230930170921766
 modifier: 马不前
 tags: Configuration
 title: 替换
 
-<$button tooltip="替换">
-<$list filter="[has[obvault]] :filter[get[text]prefix[#]]" variable="thisTitle">
+<$button tooltip="original-title">
+<$list filter="[has[obvault]] :filter[get[text]prefix[#]]">
 <$action-setfield original-title={{!!caption}}  />
+</$list>
+替换caption为original-title
+</$button>
+
+
+<$button tooltip="替换">
+<$list filter="[has[original-title]]" variable="thisTitle">
 <$let zh={{{ [<thisTitle>get[text]splitregexp[\n]first[]removeprefix[#]] }}}>
-<$action-setfield caption=<<zh>>  />
+<$action-setfield $tiddler=<<thisTitle>> caption=<<zh>>  />
 </$let>
 </$list>
 替换
